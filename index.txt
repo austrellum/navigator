@@ -1,0 +1,79 @@
+НАВИГАТОР БОРДОСФЕРЫ
+
+Редакция от 12 марта 2023 (v1.0.0-rc1)
+Всего 62, одобрено 15
+
+Общее
+
+— https://wc.12hp.ch/ #x1ch
+— https://1chan.su/ #x1ch
+— https://314n.org/
+— https://410chan.org/ #iich
+— https://allchan.io/
+— https://alterchan.net/ #x0ch
+— https://dobrochan.net/ #iich
+— https://endchan.net/rus/ #block
+— https://nowere.net/ #block #iich
+— https://owlchan.org/ #iich
+— https://rfch.rocks/ #block #x2ch
+— https://доброчан.рф/ #iich
+
+Тематика
+
+— https://chuck.dfwk.ru/ - Dwarf Fortress
+— https://dollchan.net/ - Dollchan Extension
+— http://zadraw.ch/ - Рисование
+
+Помойки
+
+— https://0-chan.ru/ #x0ch #clone #wild
+— https://014chan.org/ #iich #fags
+— http://01chan.ru/ #ghost
+— https://02ch.in/ #clone #fags #wild
+— https://0-chan.ru/ #x0ch #clone #wild
+— https://0chan.life/ #x0ch #clone #wild
+— https://0chan.nl/ #x0ch #clone #wild
+— https://0chan.plus/ #x0ch #clone
+— https://0chna.ru/ #x0ch #clone #wild
+— https://1chan.ca/ #x1ch #clone #wild
+— https://1chan.life/ #x1ch #clone #wild
+— https://1chan.top/ #x1ch #clone #wild
+— https://2ch.hk/ #x2ch #clone
+— https://2channel.moe/ #block #x2ch #clone
+— https://2fan.ru/ch #ghost
+— https://gensokyo.4otaku.org/
+— http://alphachan.pro/ #wild
+— https://bbs.anoma.ch/ #ghost
+— https://apachan.space/
+— https://legacy.arisuchan.jp/ru/ #ghost
+— http://bnw.im/ #wild
+— http://000000.byethost22.com/ #ghost
+— http://libertach.byethost33.com/ #ghost
+— https://dva-ch.net/ #x2ch #clone #fags
+— http://darkness.epizy.com/ #ghost
+— https://board.everypony.ru #ghost
+— https://hamstakilla.com/ru #wild
+— https://horochan.ru/ #fags
+— https://iichan.hk/ #iich
+— https://bbs.iriscot.org/ #ghost
+— http://kislitsa.i2p/ #i2p #wild
+— https://kohlchan.net/ru #block #wild
+— https://kpop.re/ #fags
+— https://mothchan.ru/ #wild
+— https://bchan.myqip.ru/ #ghost
+— https://neochan.ru/ #fags
+— https://nyamo.org/ #ghost
+— https://ochan.ru/ #x0ch #clone #wild
+— http://pfpmd7dd5ijt4add2sfi4djsaij4u3ebvnwvyvuj6aeipe2f5llptkid.onion/ #onion #wild
+— https://ponyach.ru/ #fags
+— http://purplechan.i2p/ #i2p #wild
+— https://spirech.org/ #wild
+— https://swarm.su/ #wild
+— https://syn-ch.org/ #fags #wild
+— https://ylilauta.org/russia #ghost
+— https://zchan.app/ #wild
+— https://zloiodm.in/ #fags
+
+---
+
+Источник: https://github.com/austrellum/navigator

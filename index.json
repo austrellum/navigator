@@ -1,1 +1,529 @@
-{}
+{
+  "meta": {
+    "version": "1.0.0-rc1",
+    "created": 1654473600000,
+    "updated": 1678579200000,
+    "homepage": "https://github.com/austrellum/navigator"
+  },
+  "sites": [
+    {
+      "href": "https://wc.12hp.ch/",
+      "keywords": [
+        "net:clear",
+        "section:general",
+        "group:x1ch"
+      ]
+    },
+    {
+      "href": "https://1chan.su/",
+      "keywords": [
+        "net:clear",
+        "section:general",
+        "group:x1ch"
+      ]
+    },
+    {
+      "href": "https://314n.org/",
+      "keywords": [
+        "net:clear",
+        "section:general"
+      ]
+    },
+    {
+      "href": "https://410chan.org/",
+      "keywords": [
+        "net:clear",
+        "section:general",
+        "group:iich"
+      ]
+    },
+    {
+      "href": "https://allchan.io/",
+      "keywords": [
+        "net:clear",
+        "section:general"
+      ]
+    },
+    {
+      "href": "https://alterchan.net/",
+      "keywords": [
+        "net:clear",
+        "section:general",
+        "group:x0ch"
+      ]
+    },
+    {
+      "href": "https://dobrochan.net/",
+      "keywords": [
+        "net:clear",
+        "section:general",
+        "group:iich"
+      ]
+    },
+    {
+      "href": "https://endchan.net/rus/",
+      "keywords": [
+        "net:block",
+        "section:general"
+      ]
+    },
+    {
+      "href": "https://nowere.net/",
+      "keywords": [
+        "net:block",
+        "section:general",
+        "group:iich"
+      ]
+    },
+    {
+      "href": "https://owlchan.org/",
+      "keywords": [
+        "net:clear",
+        "section:general",
+        "group:iich"
+      ]
+    },
+    {
+      "href": "https://rfch.rocks/",
+      "keywords": [
+        "net:block",
+        "section:general",
+        "group:x2ch"
+      ]
+    },
+    {
+      "href": "https://доброчан.рф/",
+      "keywords": [
+        "net:clear",
+        "section:general",
+        "group:iich"
+      ]
+    },
+    {
+      "href": "https://chuck.dfwk.ru/",
+      "description": "Dwarf Fortress",
+      "keywords": [
+        "net:clear",
+        "section:topic"
+      ]
+    },
+    {
+      "href": "https://dollchan.net/",
+      "description": "Dollchan Extension",
+      "keywords": [
+        "net:clear",
+        "section:topic"
+      ]
+    },
+    {
+      "href": "http://zadraw.ch/",
+      "description": "Рисование",
+      "keywords": [
+        "net:clear",
+        "section:topic"
+      ]
+    },
+    {
+      "href": "https://0-chan.ru/",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "group:x0ch",
+        "lowtier:clone",
+        "lowtier:wild"
+      ]
+    },
+    {
+      "href": "https://014chan.org/",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "group:iich",
+        "lowtier:fags"
+      ]
+    },
+    {
+      "href": "http://01chan.ru/",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "lowtier:ghost"
+      ]
+    },
+    {
+      "href": "https://02ch.in/",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "lowtier:clone",
+        "lowtier:fags",
+        "lowtier:wild"
+      ]
+    },
+    {
+      "href": "https://0-chan.ru/",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "group:x0ch",
+        "lowtier:clone",
+        "lowtier:wild"
+      ]
+    },
+    {
+      "href": "https://0chan.life/",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "group:x0ch",
+        "lowtier:clone",
+        "lowtier:wild"
+      ]
+    },
+    {
+      "href": "https://0chan.nl/",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "group:x0ch",
+        "lowtier:clone",
+        "lowtier:wild"
+      ]
+    },
+    {
+      "href": "https://0chan.plus/",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "group:x0ch",
+        "lowtier:clone"
+      ]
+    },
+    {
+      "href": "https://0chna.ru/",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "group:x0ch",
+        "lowtier:clone",
+        "lowtier:wild"
+      ]
+    },
+    {
+      "href": "https://1chan.ca/",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "group:x1ch",
+        "lowtier:clone",
+        "lowtier:wild"
+      ]
+    },
+    {
+      "href": "https://1chan.life/",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "group:x1ch",
+        "lowtier:clone",
+        "lowtier:wild"
+      ]
+    },
+    {
+      "href": "https://1chan.top/",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "group:x1ch",
+        "lowtier:clone",
+        "lowtier:wild"
+      ]
+    },
+    {
+      "href": "https://2ch.hk/",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "group:x2ch",
+        "lowtier:clone"
+      ]
+    },
+    {
+      "href": "https://2channel.moe/",
+      "keywords": [
+        "net:block",
+        "section:lowtier",
+        "group:x2ch",
+        "lowtier:clone"
+      ]
+    },
+    {
+      "href": "https://2fan.ru/ch",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "lowtier:ghost"
+      ]
+    },
+    {
+      "href": "https://gensokyo.4otaku.org/",
+      "keywords": [
+        "net:clear",
+        "section:lowtier"
+      ]
+    },
+    {
+      "href": "http://alphachan.pro/",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "lowtier:wild"
+      ]
+    },
+    {
+      "href": "https://bbs.anoma.ch/",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "lowtier:ghost"
+      ]
+    },
+    {
+      "href": "https://apachan.space/",
+      "keywords": [
+        "net:clear",
+        "section:lowtier"
+      ]
+    },
+    {
+      "href": "https://legacy.arisuchan.jp/ru/",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "lowtier:ghost"
+      ]
+    },
+    {
+      "href": "http://bnw.im/",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "lowtier:wild"
+      ]
+    },
+    {
+      "href": "http://000000.byethost22.com/",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "lowtier:ghost"
+      ]
+    },
+    {
+      "href": "http://libertach.byethost33.com/",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "lowtier:ghost"
+      ]
+    },
+    {
+      "href": "https://dva-ch.net/",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "group:x2ch",
+        "lowtier:clone",
+        "lowtier:fags"
+      ]
+    },
+    {
+      "href": "http://darkness.epizy.com/",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "lowtier:ghost"
+      ]
+    },
+    {
+      "href": "https://board.everypony.ru",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "lowtier:ghost"
+      ]
+    },
+    {
+      "href": "https://hamstakilla.com/ru",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "lowtier:wild"
+      ]
+    },
+    {
+      "href": "https://horochan.ru/",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "lowtier:fags"
+      ]
+    },
+    {
+      "href": "https://iichan.hk/",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "group:iich"
+      ]
+    },
+    {
+      "href": "https://bbs.iriscot.org/",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "lowtier:ghost"
+      ]
+    },
+    {
+      "href": "http://kislitsa.i2p/",
+      "keywords": [
+        "net:i2p",
+        "section:lowtier",
+        "lowtier:wild"
+      ]
+    },
+    {
+      "href": "https://kohlchan.net/ru",
+      "keywords": [
+        "net:block",
+        "section:lowtier",
+        "lowtier:wild"
+      ]
+    },
+    {
+      "href": "https://kpop.re/",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "lowtier:fags"
+      ]
+    },
+    {
+      "href": "https://mothchan.ru/",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "lowtier:wild"
+      ]
+    },
+    {
+      "href": "https://bchan.myqip.ru/",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "lowtier:ghost"
+      ]
+    },
+    {
+      "href": "https://neochan.ru/",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "lowtier:fags"
+      ]
+    },
+    {
+      "href": "https://nyamo.org/",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "lowtier:ghost"
+      ]
+    },
+    {
+      "href": "https://ochan.ru/",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "group:x0ch",
+        "lowtier:clone",
+        "lowtier:wild"
+      ]
+    },
+    {
+      "href": "http://pfpmd7dd5ijt4add2sfi4djsaij4u3ebvnwvyvuj6aeipe2f5llptkid.onion/",
+      "title": "pfpmd",
+      "keywords": [
+        "net:onion",
+        "section:lowtier",
+        "lowtier:wild"
+      ]
+    },
+    {
+      "href": "https://ponyach.ru/",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "lowtier:fags"
+      ]
+    },
+    {
+      "href": "http://purplechan.i2p/",
+      "keywords": [
+        "net:i2p",
+        "section:lowtier",
+        "lowtier:wild"
+      ]
+    },
+    {
+      "href": "https://spirech.org/",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "lowtier:wild"
+      ]
+    },
+    {
+      "href": "https://swarm.su/",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "lowtier:wild"
+      ]
+    },
+    {
+      "href": "https://syn-ch.org/",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "lowtier:fags",
+        "lowtier:wild"
+      ]
+    },
+    {
+      "href": "https://ylilauta.org/russia",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "lowtier:ghost"
+      ]
+    },
+    {
+      "href": "https://zchan.app/",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "lowtier:wild"
+      ]
+    },
+    {
+      "href": "https://zloiodm.in/",
+      "keywords": [
+        "net:clear",
+        "section:lowtier",
+        "lowtier:fags"
+      ]
+    }
+  ]
+}

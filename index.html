@@ -1,9 +1,448 @@
-<!doctype html>
-<html>
+<!DOCTYPE html>
+<html lang="ru">
   <head>
     <meta content="utf-8" />
-    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚓</text></svg>" />
+    <style>
+      html {
+        --palette-gray-0: #ffffffff;
+        --palette-gray-1: #a2a2a2ff;
+        --palette-gray-2: #444444ff;
+        --palette-gray-3: #1a1a1aff;
+        --palette-green: #1b5e2055;
+        --palette-red: #b71c1c55;
+
+        --color-main: var(--palette-gray-0);
+        --color-misc: var(--palette-gray-1);
+        --color-mute: var(--palette-gray-2);
+        --background-color: var(--palette-gray-3);
+
+        --border-radius: 2px;
+        --font: 1.125rem / 1.6 "Tahoma", sans-serif;
+      }
+
+      body {
+        margin: 0 auto;
+        padding: 0 1rem;
+        max-width: 85rem;
+
+        color: var(--color-misc);
+        background-color: var(--background-color);
+        font: var(--font);
+      }
+
+      @media screen and (min-width: 45rem) {
+        body {
+          padding: 2rem;
+        }
+
+        main {
+          columns: 2;
+        }
+      }
+
+      @media screen and (min-width: 65rem) {
+        main {
+          columns: 3;
+        }
+      }
+
+      a {
+        color: var(--color-main);
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline var(--color-misc);
+      }
+
+      h1,
+      h2,
+      p {
+        margin: 1rem 0;
+        font: var(--font);
+      }
+
+      h1,
+      h2 {
+        color: var(--color-main);
+        font-weight: 600;
+      }
+
+      h1 {
+        font-size: 1.6rem;
+      }
+
+      @media screen and (min-width: 35rem) {
+        h1 {
+          font-size: 2.4rem;
+        }
+      }
+
+      h2 {
+        font-size: 1.2rem;
+      }
+
+      @media screen and (min-width: 35rem) {
+        h2 {
+          font-size: 1.6rem;
+        }
+      }
+
+      ul {
+        padding-left: 4ch;
+      }
+
+      li {
+        list-style-type: "— ";
+      }
+
+      del,
+      ins {
+        text-decoration: none;
+        border-radius: var(--border-radius);
+      }
+
+      del {
+        background-color: var(--color-deleted);
+      }
+
+      ins {
+        background-color: var(--color-inserted);
+      }
+
+      p {
+        hyphens: auto;
+      }
+
+      hr {
+        background-color: var(--color-mute);
+        height: 1px;
+        border: none;
+        margin: 2rem 0;
+      }
+
+      .keyword {
+        margin: 0 0.125rem;
+        font-size: 0.85rem;
+      }
+
+      ::selection {
+        color: var(--background-color);
+        background-color: var(--color-misc);
+      }
+    </style>
+    <title>Навигатор бордосферы</title>
   </head>
   <body>
+    <header>
+      <h1>Навигатор бордосферы</h1>
+      <p>
+        Редакция от <strong><time datetime="2023-03-12T00:00:00.000Z">12 марта 2023</time></strong> (v1.0.0-rc1)<br />
+        Всего <strong>62</strong>, одобрено <strong>15</strong>
+      </p>
+    </header>
+    <main>
+      <article>
+        <h2>Общее</h2>
+        <ul>
+          <li>
+            <a href="https://wc.12hp.ch/" target="_blank">wc.12hp.ch</a>
+            <span class="keyword">#x1ch</span>
+          </li>
+          <li>
+            <a href="https://1chan.su/" target="_blank">1chan.su</a>
+            <span class="keyword">#x1ch</span>
+          </li>
+          <li>
+            <a href="https://314n.org/" target="_blank">314n.org</a>
+          </li>
+          <li>
+            <a href="https://410chan.org/" target="_blank">410chan.org</a>
+            <span class="keyword">#iich</span>
+          </li>
+          <li>
+            <a href="https://allchan.io/" target="_blank">allchan.io</a>
+          </li>
+          <li>
+            <a href="https://alterchan.net/" target="_blank">alterchan.net</a>
+            <span class="keyword">#x0ch</span>
+          </li>
+          <li>
+            <a href="https://dobrochan.net/" target="_blank">dobrochan.net</a>
+            <span class="keyword">#iich</span>
+          </li>
+          <li>
+            <a href="https://endchan.net/rus/" target="_blank">endchan.net/rus</a>
+            <span class="keyword">#block</span>
+          </li>
+          <li>
+            <a href="https://nowere.net/" target="_blank">nowere.net</a>
+            <span class="keyword">#block</span>
+            <span class="keyword">#iich</span>
+          </li>
+          <li>
+            <a href="https://owlchan.org/" target="_blank">owlchan.org</a>
+            <span class="keyword">#iich</span>
+          </li>
+          <li>
+            <a href="https://rfch.rocks/" target="_blank">rfch.rocks</a>
+            <span class="keyword">#block</span>
+            <span class="keyword">#x2ch</span>
+          </li>
+          <li>
+            <a href="https://доброчан.рф/" target="_blank">доброчан.рф</a>
+            <span class="keyword">#iich</span>
+          </li>
+        </ul>
+      </article>
+      <article>
+        <h2>Тематика</h2>
+        <ul>
+          <li>
+            <a href="https://chuck.dfwk.ru/" target="_blank">chuck.dfwk.ru</a>
+            - Dwarf Fortress
+          </li>
+          <li>
+            <a href="https://dollchan.net/" target="_blank">dollchan.net</a>
+            - Dollchan Extension
+          </li>
+          <li>
+            <a href="http://zadraw.ch/" target="_blank">zadraw.ch</a>
+            - Рисование
+          </li>
+        </ul>
+      </article>
+      <article>
+        <h2>Мусор</h2>
+        <ul>
+          <li>
+            <a href="https://0-chan.ru/" target="_blank">0-chan.ru</a>
+            <span class="keyword">#x0ch</span>
+            <span class="keyword">#clone</span>
+            <span class="keyword">#wild</span>
+          </li>
+          <li>
+            <a href="https://014chan.org/" target="_blank">014chan.org</a>
+            <span class="keyword">#iich</span>
+            <span class="keyword">#fags</span>
+          </li>
+          <li>
+            <a href="http://01chan.ru/" target="_blank">01chan.ru</a>
+            <span class="keyword">#ghost</span>
+          </li>
+          <li>
+            <a href="https://02ch.in/" target="_blank">02ch.in</a>
+            <span class="keyword">#clone</span>
+            <span class="keyword">#fags</span>
+            <span class="keyword">#wild</span>
+          </li>
+          <li>
+            <a href="https://0-chan.ru/" target="_blank">0-chan.ru</a>
+            <span class="keyword">#x0ch</span>
+            <span class="keyword">#clone</span>
+            <span class="keyword">#wild</span>
+          </li>
+          <li>
+            <a href="https://0chan.life/" target="_blank">0chan.life</a>
+            <span class="keyword">#x0ch</span>
+            <span class="keyword">#clone</span>
+            <span class="keyword">#wild</span>
+          </li>
+          <li>
+            <a href="https://0chan.nl/" target="_blank">0chan.nl</a>
+            <span class="keyword">#x0ch</span>
+            <span class="keyword">#clone</span>
+            <span class="keyword">#wild</span>
+          </li>
+          <li>
+            <a href="https://0chan.plus/" target="_blank">0chan.plus</a>
+            <span class="keyword">#x0ch</span>
+            <span class="keyword">#clone</span>
+          </li>
+          <li>
+            <a href="https://0chna.ru/" target="_blank">0chna.ru</a>
+            <span class="keyword">#x0ch</span>
+            <span class="keyword">#clone</span>
+            <span class="keyword">#wild</span>
+          </li>
+          <li>
+            <a href="https://1chan.ca/" target="_blank">1chan.ca</a>
+            <span class="keyword">#x1ch</span>
+            <span class="keyword">#clone</span>
+            <span class="keyword">#wild</span>
+          </li>
+          <li>
+            <a href="https://1chan.life/" target="_blank">1chan.life</a>
+            <span class="keyword">#x1ch</span>
+            <span class="keyword">#clone</span>
+            <span class="keyword">#wild</span>
+          </li>
+          <li>
+            <a href="https://1chan.top/" target="_blank">1chan.top</a>
+            <span class="keyword">#x1ch</span>
+            <span class="keyword">#clone</span>
+            <span class="keyword">#wild</span>
+          </li>
+          <li>
+            <a href="https://2ch.hk/" target="_blank">2ch.hk</a>
+            <span class="keyword">#x2ch</span>
+            <span class="keyword">#clone</span>
+          </li>
+          <li>
+            <a href="https://2channel.moe/" target="_blank">2channel.moe</a>
+            <span class="keyword">#block</span>
+            <span class="keyword">#x2ch</span>
+            <span class="keyword">#clone</span>
+          </li>
+          <li>
+            <a href="https://2fan.ru/ch" target="_blank">2fan.ru/ch</a>
+            <span class="keyword">#ghost</span>
+          </li>
+          <li>
+            <a href="https://gensokyo.4otaku.org/" target="_blank">gensokyo.4otaku.org</a>
+          </li>
+          <li>
+            <a href="http://alphachan.pro/" target="_blank">alphachan.pro</a>
+            <span class="keyword">#wild</span>
+          </li>
+          <li>
+            <a href="https://bbs.anoma.ch/" target="_blank">bbs.anoma.ch</a>
+            <span class="keyword">#ghost</span>
+          </li>
+          <li>
+            <a href="https://apachan.space/" target="_blank">apachan.space</a>
+          </li>
+          <li>
+            <a href="https://legacy.arisuchan.jp/ru/" target="_blank">legacy.arisuchan.jp/ru</a>
+            <span class="keyword">#ghost</span>
+          </li>
+          <li>
+            <a href="http://bnw.im/" target="_blank">bnw.im</a>
+            <span class="keyword">#wild</span>
+          </li>
+          <li>
+            <a href="http://000000.byethost22.com/" target="_blank">000000.byethost22.com</a>
+            <span class="keyword">#ghost</span>
+          </li>
+          <li>
+            <a href="http://libertach.byethost33.com/" target="_blank">libertach.byethost33.com</a>
+            <span class="keyword">#ghost</span>
+          </li>
+          <li>
+            <a href="https://dva-ch.net/" target="_blank">dva-ch.net</a>
+            <span class="keyword">#x2ch</span>
+            <span class="keyword">#clone</span>
+            <span class="keyword">#fags</span>
+          </li>
+          <li>
+            <a href="http://darkness.epizy.com/" target="_blank">darkness.epizy.com</a>
+            <span class="keyword">#ghost</span>
+          </li>
+          <li>
+            <a href="https://board.everypony.ru" target="_blank">board.everypony.ru</a>
+            <span class="keyword">#ghost</span>
+          </li>
+          <li>
+            <a href="https://hamstakilla.com/ru" target="_blank">hamstakilla.com/ru</a>
+            <span class="keyword">#wild</span>
+          </li>
+          <li>
+            <a href="https://horochan.ru/" target="_blank">horochan.ru</a>
+            <span class="keyword">#fags</span>
+          </li>
+          <li>
+            <a href="https://iichan.hk/" target="_blank">iichan.hk</a>
+            <span class="keyword">#iich</span>
+          </li>
+          <li>
+            <a href="https://bbs.iriscot.org/" target="_blank">bbs.iriscot.org</a>
+            <span class="keyword">#ghost</span>
+          </li>
+          <li>
+            <a href="http://kislitsa.i2p/" target="_blank">kislitsa.i2p</a>
+            <span class="keyword">#i2p</span>
+            <span class="keyword">#wild</span>
+          </li>
+          <li>
+            <a href="https://kohlchan.net/ru" target="_blank">kohlchan.net/ru</a>
+            <span class="keyword">#block</span>
+            <span class="keyword">#wild</span>
+          </li>
+          <li>
+            <a href="https://kpop.re/" target="_blank">kpop.re</a>
+            <span class="keyword">#fags</span>
+          </li>
+          <li>
+            <a href="https://mothchan.ru/" target="_blank">mothchan.ru</a>
+            <span class="keyword">#wild</span>
+          </li>
+          <li>
+            <a href="https://bchan.myqip.ru/" target="_blank">bchan.myqip.ru</a>
+            <span class="keyword">#ghost</span>
+          </li>
+          <li>
+            <a href="https://neochan.ru/" target="_blank">neochan.ru</a>
+            <span class="keyword">#fags</span>
+          </li>
+          <li>
+            <a href="https://nyamo.org/" target="_blank">nyamo.org</a>
+            <span class="keyword">#ghost</span>
+          </li>
+          <li>
+            <a href="https://ochan.ru/" target="_blank">ochan.ru</a>
+            <span class="keyword">#x0ch</span>
+            <span class="keyword">#clone</span>
+            <span class="keyword">#wild</span>
+          </li>
+          <li>
+            <a href="http://pfpmd7dd5ijt4add2sfi4djsaij4u3ebvnwvyvuj6aeipe2f5llptkid.onion/" target="_blank">pfpmd</a>
+            <span class="keyword">#onion</span>
+            <span class="keyword">#wild</span>
+          </li>
+          <li>
+            <a href="https://ponyach.ru/" target="_blank">ponyach.ru</a>
+            <span class="keyword">#fags</span>
+          </li>
+          <li>
+            <a href="http://purplechan.i2p/" target="_blank">purplechan.i2p</a>
+            <span class="keyword">#i2p</span>
+            <span class="keyword">#wild</span>
+          </li>
+          <li>
+            <a href="https://spirech.org/" target="_blank">spirech.org</a>
+            <span class="keyword">#wild</span>
+          </li>
+          <li>
+            <a href="https://swarm.su/" target="_blank">swarm.su</a>
+            <span class="keyword">#wild</span>
+          </li>
+          <li>
+            <a href="https://syn-ch.org/" target="_blank">syn-ch.org</a>
+            <span class="keyword">#fags</span>
+            <span class="keyword">#wild</span>
+          </li>
+          <li>
+            <a href="https://ylilauta.org/russia" target="_blank">ylilauta.org/russia</a>
+            <span class="keyword">#ghost</span>
+          </li>
+          <li>
+            <a href="https://zchan.app/" target="_blank">zchan.app</a>
+            <span class="keyword">#wild</span>
+          </li>
+          <li>
+            <a href="https://zloiodm.in/" target="_blank">zloiodm.in</a>
+            <span class="keyword">#fags</span>
+          </li>
+        </ul>
+      </article>
+    </main>
+    <hr />
+    <footer>
+      <p>
+        <a href="https://github.com/austrellum/navigator">Источник</a>
+      </p>
+    </footer>
   </body>
 </html>
