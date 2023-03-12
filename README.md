@@ -4,7 +4,7 @@
 
 «Навигатор» — это независимый каталог русскоязычных борд, доступный в нескольких форматах:
 
-**[Markdown](./index.md)** · [Простой текст](./index.txt) · [HTML](./index.html) · [JSON](./index.json)
+**[Веб-страница](https://austrellum.github.io/navigator)** · **[Markdown](./index.md)** · [Простой текст](./index.txt) · [HTML](./index.html) · [JSON](./index.json)
 
 ## Зачем нужен еще один каталог?
 
