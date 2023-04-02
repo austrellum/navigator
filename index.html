@@ -2,6 +2,7 @@
 <html lang="ru">
   <head>
     <meta content="utf-8" />
+    <meta name="description" content="Независимый каталог русскоязычных борд" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚓</text></svg>" />
     <style>
@@ -10,42 +11,34 @@
         --palette-gray-1: #a2a2a2ff;
         --palette-gray-2: #444444ff;
         --palette-gray-3: #1a1a1aff;
-        --palette-green: #1b5e2055;
-        --palette-red: #b71c1c55;
+        --palette-green: #21452155;
+        --palette-red: #45212155;
 
         --color-main: var(--palette-gray-0);
         --color-misc: var(--palette-gray-1);
         --color-mute: var(--palette-gray-2);
+        --color-ins: var(--palette-green);
+        --color-del: var(--palette-red);
         --background-color: var(--palette-gray-3);
 
         --border-radius: 2px;
-        --font: 1.125rem / 1.6 "Tahoma", sans-serif;
+
+        --font-size-xl: 1.6rem;
+        --font-size-l: 1.2rem;
+        --font-size-m: 1.125rem;
+        --font-size-s: 0.85rem;
+
+        --font: var(--font-size-m) / 1.6 "Tahoma", sans-serif;
       }
 
       body {
         margin: 0 auto;
-        padding: 0 1rem;
-        max-width: 85rem;
+        padding: 0.5rem 1rem 1rem;
+        max-width: 87rem;
 
         color: var(--color-misc);
         background-color: var(--background-color);
         font: var(--font);
-      }
-
-      @media screen and (min-width: 45rem) {
-        body {
-          padding: 2rem;
-        }
-
-        main {
-          columns: 2;
-        }
-      }
-
-      @media screen and (min-width: 65rem) {
-        main {
-          columns: 3;
-        }
       }
 
       a {
@@ -71,23 +64,11 @@
       }
 
       h1 {
-        font-size: 1.6rem;
-      }
-
-      @media screen and (min-width: 35rem) {
-        h1 {
-          font-size: 2.4rem;
-        }
+        font-size: var(--font-size-xl);
       }
 
       h2 {
-        font-size: 1.2rem;
-      }
-
-      @media screen and (min-width: 35rem) {
-        h2 {
-          font-size: 1.6rem;
-        }
+        font-size: var(--font-size-l);
       }
 
       ul {
@@ -98,18 +79,13 @@
         list-style-type: "— ";
       }
 
-      del,
-      ins {
-        text-decoration: none;
-        border-radius: var(--border-radius);
+      li.ins,
+      li.del {
+        margin: 1px 0;
       }
 
-      del {
-        background-color: var(--color-deleted);
-      }
-
-      ins {
-        background-color: var(--color-inserted);
+      li.del a {
+        text-decoration: solid line-through 2px;
       }
 
       p {
@@ -123,14 +99,62 @@
         margin: 2rem 0;
       }
 
+      .ins,
+      .del {
+        border-radius: var(--border-radius);
+      }
+
+      .ins {
+        background-color: var(--color-ins);
+      }
+
+      .del {
+        background-color: var(--color-del);
+      }
+
       .keyword {
         margin: 0 0.125rem;
-        font-size: 0.85rem;
+        font-size: var(--font-size-s);
       }
 
       ::selection {
         color: var(--background-color);
         background-color: var(--color-misc);
+      }
+
+      @media screen and (min-width: 45rem) {
+        html {
+          --font-size-xl: 2.4rem;
+          --font-size-l: 1.6rem;
+        }
+
+        body {
+          padding: 2rem;
+        }
+
+        main {
+          columns: 2;
+        }
+
+        ul {
+          padding-left: 0;
+        }
+
+        li {
+          list-style: none;
+        }
+      }
+
+      @media screen and (min-width: 64rem) {
+        main {
+          columns: 3;
+        }
+      }
+
+      @media screen and (min-width: 72rem) {
+        main {
+          columns: 4;
+        }
       }
     </style>
     <title>Навигатор бордосферы</title>
@@ -139,8 +163,8 @@
     <header>
       <h1>Навигатор бордосферы</h1>
       <p>
-        Редакция от <strong><time datetime="2023-03-12T00:00:00.000Z">12 марта 2023</time></strong> (v1.0.0-rc1)<br />
-        Всего <strong>62</strong>, одобрено <strong>15</strong>
+        Редакция от <strong><time datetime="2023-04-02T00:00:00.000Z">2 апреля 2023</time></strong> (v1.1.0-rc2)<br />
+        Всего <strong>75</strong>, одобрено <strong>14</strong> (19%)
       </p>
     </header>
     <main>
@@ -152,29 +176,25 @@
             <span class="keyword">#x1ch</span>
           </li>
           <li>
-            <a href="https://1chan.su/" target="_blank">1chan.su</a>
-            <span class="keyword">#x1ch</span>
-          </li>
-          <li>
             <a href="https://314n.org/" target="_blank">314n.org</a>
           </li>
           <li>
             <a href="https://410chan.org/" target="_blank">410chan.org</a>
             <span class="keyword">#iich</span>
           </li>
-          <li>
-            <a href="https://allchan.io/" target="_blank">allchan.io</a>
+          <li class="ins">
+            <a href="http://7jdf5v63lmgtx2ccnkevo4y63aat6t6aqirxmat7qgcb4bxhhc27epqd.onion/" target="_blank">7jdf5...7epqd.onion</a>
+            <span class="keyword">#onion</span>
           </li>
           <li>
-            <a href="https://alterchan.net/" target="_blank">alterchan.net</a>
-            <span class="keyword">#x0ch</span>
+            <a href="https://allchan.io/" target="_blank">allchan.io</a>
           </li>
           <li>
             <a href="https://dobrochan.net/" target="_blank">dobrochan.net</a>
             <span class="keyword">#iich</span>
           </li>
           <li>
-            <a href="https://endchan.net/rus/" target="_blank">endchan.net/rus</a>
+            <a href="https://endchan.net/rus" target="_blank">endchan.net/rus</a>
             <span class="keyword">#block</span>
           </li>
           <li>
@@ -187,9 +207,7 @@
             <span class="keyword">#iich</span>
           </li>
           <li>
-            <a href="https://rfch.rocks/" target="_blank">rfch.rocks</a>
-            <span class="keyword">#block</span>
-            <span class="keyword">#x2ch</span>
+            <a href="https://swarm.su/" target="_blank">swarm.su</a>
           </li>
           <li>
             <a href="https://доброчан.рф/" target="_blank">доброчан.рф</a>
@@ -202,25 +220,26 @@
         <ul>
           <li>
             <a href="https://chuck.dfwk.ru/" target="_blank">chuck.dfwk.ru</a>
-            - Dwarf Fortress
+            — Dwarf Fortress
           </li>
           <li>
             <a href="https://dollchan.net/" target="_blank">dollchan.net</a>
-            - Dollchan Extension
+            — Dollchan Extension
           </li>
           <li>
             <a href="http://zadraw.ch/" target="_blank">zadraw.ch</a>
-            - Рисование
+            — Рисование
           </li>
         </ul>
       </article>
       <article>
-        <h2>Мусор</h2>
+        <h2>Прочее</h2>
         <ul>
           <li>
             <a href="https://0-chan.ru/" target="_blank">0-chan.ru</a>
             <span class="keyword">#x0ch</span>
             <span class="keyword">#clone</span>
+            <span class="keyword">#mods</span>
             <span class="keyword">#wild</span>
           </li>
           <li>
@@ -239,32 +258,38 @@
             <span class="keyword">#wild</span>
           </li>
           <li>
-            <a href="https://0-chan.ru/" target="_blank">0-chan.ru</a>
-            <span class="keyword">#x0ch</span>
-            <span class="keyword">#clone</span>
-            <span class="keyword">#wild</span>
-          </li>
-          <li>
             <a href="https://0chan.life/" target="_blank">0chan.life</a>
             <span class="keyword">#x0ch</span>
             <span class="keyword">#clone</span>
             <span class="keyword">#wild</span>
           </li>
-          <li>
+          <li class="del">
             <a href="https://0chan.nl/" target="_blank">0chan.nl</a>
             <span class="keyword">#x0ch</span>
             <span class="keyword">#clone</span>
             <span class="keyword">#wild</span>
           </li>
+          <li class="ins">
+            <a href="https://314n.0chan.one/" target="_blank">314n.0chan.one</a>
+            <span class="keyword">#x0ch</span>
+            <span class="keyword">#clone</span>
+            <span class="keyword">#ghost</span>
+          </li>
           <li>
             <a href="https://0chan.plus/" target="_blank">0chan.plus</a>
             <span class="keyword">#x0ch</span>
             <span class="keyword">#clone</span>
+            <span class="keyword">#mods</span>
           </li>
           <li>
             <a href="https://0chna.ru/" target="_blank">0chna.ru</a>
             <span class="keyword">#x0ch</span>
             <span class="keyword">#clone</span>
+            <span class="keyword">#wild</span>
+          </li>
+          <li class="ins">
+            <a href="http://102chan-memorial.i2p/" target="_blank">102chan-memorial.i2p</a>
+            <span class="keyword">#i2p</span>
             <span class="keyword">#wild</span>
           </li>
           <li>
@@ -279,6 +304,17 @@
             <span class="keyword">#clone</span>
             <span class="keyword">#wild</span>
           </li>
+          <li class="ins">
+            <a href="https://1chan.plus/" target="_blank">1chan.plus</a>
+            <span class="keyword">#x1ch</span>
+            <span class="keyword">#clone</span>
+            <span class="keyword">#wild</span>
+          </li>
+          <li>
+            <a href="https://1chan.su/" target="_blank">1chan.su</a>
+            <span class="keyword">#x1ch</span>
+            <span class="keyword">#clone</span>
+          </li>
           <li>
             <a href="https://1chan.top/" target="_blank">1chan.top</a>
             <span class="keyword">#x1ch</span>
@@ -289,12 +325,18 @@
             <a href="https://2ch.hk/" target="_blank">2ch.hk</a>
             <span class="keyword">#x2ch</span>
             <span class="keyword">#clone</span>
+            <span class="keyword">#mods</span>
           </li>
           <li>
             <a href="https://2channel.moe/" target="_blank">2channel.moe</a>
             <span class="keyword">#block</span>
             <span class="keyword">#x2ch</span>
             <span class="keyword">#clone</span>
+            <span class="keyword">#wild</span>
+          </li>
+          <li>
+            <a href="https://2draw.me/d" target="_blank">2draw.me/d</a>
+            <span class="keyword">#ghost</span>
           </li>
           <li>
             <a href="https://2fan.ru/ch" target="_blank">2fan.ru/ch</a>
@@ -302,20 +344,43 @@
           </li>
           <li>
             <a href="https://gensokyo.4otaku.org/" target="_blank">gensokyo.4otaku.org</a>
+            <span class="keyword">#fags</span>
+          </li>
+          <li class="ins">
+            <a href="https://8kun.top/cafechan" target="_blank">8kun.top/cafechan</a>
+            <span class="keyword">#wild</span>
           </li>
           <li>
             <a href="http://alphachan.pro/" target="_blank">alphachan.pro</a>
             <span class="keyword">#wild</span>
           </li>
           <li>
+            <a href="https://alterchan.net/" target="_blank">alterchan.net</a>
+            <span class="keyword">#x0ch</span>
+            <span class="keyword">#mods</span>
+          </li>
+          <li>
             <a href="https://bbs.anoma.ch/" target="_blank">bbs.anoma.ch</a>
             <span class="keyword">#ghost</span>
           </li>
-          <li>
-            <a href="https://apachan.space/" target="_blank">apachan.space</a>
+          <li class="ins">
+            <a href="https://anon.fm/board" target="_blank">anon.fm/board</a>
+            <span class="keyword">#ghost</span>
+          </li>
+          <li class="ins">
+            <a href="http://apachan.ru/" target="_blank">apachan.ru</a>
+            <span class="keyword">#wild</span>
           </li>
           <li>
-            <a href="https://legacy.arisuchan.jp/ru/" target="_blank">legacy.arisuchan.jp/ru</a>
+            <a href="https://apachan.space/" target="_blank">apachan.space</a>
+            <span class="keyword">#wild</span>
+          </li>
+          <li class="ins">
+            <a href="https://merzochan.at.ua/" target="_blank">merzochan.at.ua</a>
+            <span class="keyword">#ghost</span>
+          </li>
+          <li>
+            <a href="https://legacy.arisuchan.jp/ru" target="_blank">legacy.arisuchan.jp/ru</a>
             <span class="keyword">#ghost</span>
           </li>
           <li>
@@ -346,15 +411,17 @@
           </li>
           <li>
             <a href="https://hamstakilla.com/ru" target="_blank">hamstakilla.com/ru</a>
-            <span class="keyword">#wild</span>
+            <span class="keyword">#ghost</span>
           </li>
           <li>
             <a href="https://horochan.ru/" target="_blank">horochan.ru</a>
             <span class="keyword">#fags</span>
+            <span class="keyword">#mods</span>
           </li>
           <li>
             <a href="https://iichan.hk/" target="_blank">iichan.hk</a>
             <span class="keyword">#iich</span>
+            <span class="keyword">#mods</span>
           </li>
           <li>
             <a href="https://bbs.iriscot.org/" target="_blank">bbs.iriscot.org</a>
@@ -368,11 +435,21 @@
           <li>
             <a href="https://kohlchan.net/ru" target="_blank">kohlchan.net/ru</a>
             <span class="keyword">#block</span>
-            <span class="keyword">#wild</span>
+            <span class="keyword">#ghost</span>
           </li>
           <li>
             <a href="https://kpop.re/" target="_blank">kpop.re</a>
             <span class="keyword">#fags</span>
+          </li>
+          <li class="ins">
+            <a href="https://mboard.tk/" target="_blank">mboard.tk</a>
+            <span class="keyword">#wild</span>
+          </li>
+          <li>
+            <a href="http://metatorrkdagnx2njwvnzqeclsk3qbwabr6hori4vmivj25qy6s6gsad.onion/" target="_blank">metat...6gsad.onion</a>
+            <span class="keyword">#onion</span>
+            <span class="keyword">#clone</span>
+            <span class="keyword">#wild</span>
           </li>
           <li>
             <a href="https://mothchan.ru/" target="_blank">mothchan.ru</a>
@@ -396,8 +473,13 @@
             <span class="keyword">#clone</span>
             <span class="keyword">#wild</span>
           </li>
+          <li class="ins">
+            <a href="http://overchan.ru/" target="_blank">overchan.ru</a>
+            <span class="keyword">#iich</span>
+            <span class="keyword">#ghost</span>
+          </li>
           <li>
-            <a href="http://pfpmd7dd5ijt4add2sfi4djsaij4u3ebvnwvyvuj6aeipe2f5llptkid.onion/" target="_blank">pfpmd</a>
+            <a href="http://pfpmd7dd5ijt4add2sfi4djsaij4u3ebvnwvyvuj6aeipe2f5llptkid.onion/" target="_blank">pfpmd...ptkid.onion</a>
             <span class="keyword">#onion</span>
             <span class="keyword">#wild</span>
           </li>
@@ -410,18 +492,30 @@
             <span class="keyword">#i2p</span>
             <span class="keyword">#wild</span>
           </li>
-          <li>
-            <a href="https://spirech.org/" target="_blank">spirech.org</a>
+          <li class="ins">
+            <a href="https://trash.pythonanywhere.com/" target="_blank">trash.pythonanywhere.com</a>
             <span class="keyword">#wild</span>
           </li>
           <li>
-            <a href="https://swarm.su/" target="_blank">swarm.su</a>
+            <a href="https://rfch.rocks/" target="_blank">rfch.rocks</a>
+            <span class="keyword">#block</span>
+            <span class="keyword">#x2ch</span>
+            <span class="keyword">#mods</span>
+          </li>
+          <li class="del">
+            <a href="https://spirech.org/" target="_blank">spirech.org</a>
             <span class="keyword">#wild</span>
+            <span class="keyword">#mods</span>
           </li>
           <li>
             <a href="https://syn-ch.org/" target="_blank">syn-ch.org</a>
             <span class="keyword">#fags</span>
             <span class="keyword">#wild</span>
+          </li>
+          <li class="ins">
+            <a href="https://vkchan.ru/" target="_blank">vkchan.ru</a>
+            <span class="keyword">#clone</span>
+            <span class="keyword">#ghost</span>
           </li>
           <li>
             <a href="https://ylilauta.org/russia" target="_blank">ylilauta.org/russia</a>
