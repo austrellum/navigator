@@ -1,124 +1,146 @@
 {
   "meta": {
-    "version": "1.1.0-rc2",
+    "version": "1.2.0-rc3",
     "created": 1654473600,
-    "updated": 1680393600,
+    "updated": 1681084800,
     "homepage": "https://github.com/austrellum/navigator"
   },
   "data": {
     "sites": [
       {
-        "href": "https://wc.12hp.ch/",
-        "keywords": [
+        "uri": "https://wc.12hp.ch/",
+        "created": 1597017600,
+        "tags": [
           "#clear",
           "#general",
           "#x1ch"
         ]
       },
       {
-        "href": "https://314n.org/",
-        "keywords": [
+        "uri": "https://1chan.su/",
+        "created": 1652659200,
+        "tags": [
+          "#clear",
+          "#general",
+          "#x1ch",
+          "#clone"
+        ]
+      },
+      {
+        "uri": "https://314n.org/",
+        "created": 1341100800,
+        "tags": [
           "#clear",
           "#general"
         ]
       },
       {
-        "href": "https://410chan.org/",
-        "keywords": [
+        "uri": "https://410chan.org/",
+        "created": 1234396800,
+        "tags": [
           "#clear",
           "#general",
           "#iich"
         ]
       },
       {
-        "href": "http://7jdf5v63lmgtx2ccnkevo4y63aat6t6aqirxmat7qgcb4bxhhc27epqd.onion/",
-        "title": "7jdf5...7epqd.onion",
-        "keywords": [
-          "#ins",
+        "uri": "http://7jdf5v63lmgtx2ccnkevo4y63aat6t6aqirxmat7qgcb4bxhhc27epqd.onion/",
+        "tags": [
           "#onion",
           "#general"
         ]
       },
       {
-        "href": "https://allchan.io/",
-        "keywords": [
+        "uri": "https://allchan.io/",
+        "created": 1423785600,
+        "tags": [
           "#clear",
           "#general"
         ]
       },
       {
-        "href": "https://dobrochan.net/",
-        "keywords": [
+        "uri": "https://dobrochan.net/",
+        "created": 1218067200,
+        "tags": [
           "#clear",
           "#general",
           "#iich"
         ]
       },
       {
-        "href": "https://endchan.net/rus",
-        "keywords": [
+        "uri": "https://endchan.net/rus",
+        "tags": [
           "#block",
           "#general"
         ]
       },
       {
-        "href": "https://nowere.net/",
-        "keywords": [
+        "uri": "https://nowere.net/",
+        "created": 1202601600,
+        "tags": [
           "#block",
           "#general",
           "#iich"
         ]
       },
       {
-        "href": "https://owlchan.org/",
-        "keywords": [
+        "uri": "https://owlchan.org/",
+        "created": 1419379200,
+        "tags": [
           "#clear",
           "#general",
           "#iich"
         ]
       },
       {
-        "href": "https://swarm.su/",
-        "keywords": [
-          "#clear",
-          "#general"
-        ]
-      },
-      {
-        "href": "https://доброчан.рф/",
-        "keywords": [
+        "uri": "https://swarm.su/",
+        "created": 1664582400,
+        "tags": [
           "#clear",
           "#general",
-          "#iich"
+          "#clone"
         ]
       },
       {
-        "href": "https://chuck.dfwk.ru/",
+        "uri": "https://доброчан.рф/",
+        "created": 1673568000,
+        "tags": [
+          "#clear",
+          "#general",
+          "#iich",
+          "#clone"
+        ]
+      },
+      {
+        "uri": "https://chuck.dfwk.ru/",
         "description": "Dwarf Fortress",
-        "keywords": [
+        "created": 1250899200,
+        "tags": [
           "#clear",
           "#topic"
         ]
       },
       {
-        "href": "https://dollchan.net/",
+        "uri": "https://dollchan.net/",
         "description": "Dollchan Extension",
-        "keywords": [
+        "tags": [
           "#clear",
           "#topic"
         ]
       },
       {
-        "href": "http://zadraw.ch/",
+        "uri": "http://zadraw.ch/",
         "description": "Рисование",
-        "keywords": [
+        "created": 1275696000,
+        "tags": [
           "#clear",
           "#topic"
         ]
       },
       {
-        "href": "https://0-chan.ru/",
-        "keywords": [
+        "uri": "https://0-chan.ru/",
+        "created": 1335744000,
+        "tags": [
           "#clear",
           "#other",
           "#x0ch",
@@ -128,8 +150,9 @@
         ]
       },
       {
-        "href": "https://014chan.org/",
-        "keywords": [
+        "uri": "https://014chan.org/",
+        "created": 1554422400,
+        "tags": [
           "#clear",
           "#other",
           "#iich",
@@ -137,16 +160,17 @@
         ]
       },
       {
-        "href": "http://01chan.ru/",
-        "keywords": [
+        "uri": "http://01chan.ru/",
+        "tags": [
           "#clear",
           "#other",
           "#ghost"
         ]
       },
       {
-        "href": "https://02ch.in/",
-        "keywords": [
+        "uri": "https://02ch.in/",
+        "created": 1382659200,
+        "tags": [
           "#clear",
           "#other",
           "#clone",
@@ -155,8 +179,9 @@
         ]
       },
       {
-        "href": "https://0chan.life/",
-        "keywords": [
+        "uri": "https://0chan.life/",
+        "created": 1625961600,
+        "tags": [
           "#clear",
           "#other",
           "#x0ch",
@@ -165,20 +190,9 @@
         ]
       },
       {
-        "href": "https://0chan.nl/",
-        "keywords": [
-          "#del",
-          "#clear",
-          "#other",
-          "#x0ch",
-          "#clone",
-          "#wild"
-        ]
-      },
-      {
-        "href": "https://314n.0chan.one/",
-        "keywords": [
-          "#ins",
+        "uri": "https://314n.0chan.one/",
+        "created": 1678060800,
+        "tags": [
           "#clear",
           "#other",
           "#x0ch",
@@ -187,8 +201,9 @@
         ]
       },
       {
-        "href": "https://0chan.plus/",
-        "keywords": [
+        "uri": "https://0chan.plus/",
+        "created": 1672963200,
+        "tags": [
           "#clear",
           "#other",
           "#x0ch",
@@ -197,8 +212,9 @@
         ]
       },
       {
-        "href": "https://0chna.ru/",
-        "keywords": [
+        "uri": "https://0chna.ru/",
+        "created": 1675814400,
+        "tags": [
           "#clear",
           "#other",
           "#x0ch",
@@ -207,17 +223,17 @@
         ]
       },
       {
-        "href": "http://102chan-memorial.i2p/",
-        "keywords": [
-          "#ins",
+        "uri": "http://102chan-memorial.i2p/",
+        "tags": [
           "#i2p",
           "#other",
           "#wild"
         ]
       },
       {
-        "href": "https://1chan.ca/",
-        "keywords": [
+        "uri": "https://1chan.ca/",
+        "created": 1397174400,
+        "tags": [
           "#clear",
           "#other",
           "#x1ch",
@@ -226,8 +242,9 @@
         ]
       },
       {
-        "href": "https://1chan.life/",
-        "keywords": [
+        "uri": "https://1chan.life/",
+        "created": 1644969600,
+        "tags": [
           "#clear",
           "#other",
           "#x1ch",
@@ -236,9 +253,9 @@
         ]
       },
       {
-        "href": "https://1chan.plus/",
-        "keywords": [
-          "#ins",
+        "uri": "https://1chan.plus/",
+        "created": 1679788800,
+        "tags": [
           "#clear",
           "#other",
           "#x1ch",
@@ -247,17 +264,9 @@
         ]
       },
       {
-        "href": "https://1chan.su/",
-        "keywords": [
-          "#clear",
-          "#other",
-          "#x1ch",
-          "#clone"
-        ]
-      },
-      {
-        "href": "https://1chan.top/",
-        "keywords": [
+        "uri": "https://1chan.top/",
+        "created": 1536364800,
+        "tags": [
           "#clear",
           "#other",
           "#x1ch",
@@ -266,8 +275,9 @@
         ]
       },
       {
-        "href": "https://2ch.hk/",
-        "keywords": [
+        "uri": "https://2ch.hk/",
+        "created": 1238544000,
+        "tags": [
           "#clear",
           "#other",
           "#x2ch",
@@ -276,8 +286,9 @@
         ]
       },
       {
-        "href": "https://2channel.moe/",
-        "keywords": [
+        "uri": "https://2channel.moe/",
+        "created": 1535241600,
+        "tags": [
           "#block",
           "#other",
           "#x2ch",
@@ -286,49 +297,54 @@
         ]
       },
       {
-        "href": "https://2draw.me/d",
-        "keywords": [
+        "uri": "https://2draw.me/d",
+        "created": 1364774400,
+        "tags": [
           "#clear",
           "#other",
           "#ghost"
         ]
       },
       {
-        "href": "https://2fan.ru/ch",
-        "keywords": [
+        "uri": "https://2fan.ru/ch",
+        "created": 1530489600,
+        "tags": [
           "#clear",
           "#other",
           "#ghost"
         ]
       },
       {
-        "href": "https://gensokyo.4otaku.org/",
-        "keywords": [
+        "uri": "https://gensokyo.4otaku.org/",
+        "created": 1366588800,
+        "tags": [
           "#clear",
           "#other",
+          "#iich",
           "#fags"
         ]
       },
       {
-        "href": "https://8kun.top/cafechan",
-        "keywords": [
-          "#ins",
+        "uri": "https://8kun.top/cafechan",
+        "tags": [
           "#clear",
           "#other",
           "#wild"
         ]
       },
       {
-        "href": "http://alphachan.pro/",
-        "keywords": [
+        "uri": "http://alphachan.pro/",
+        "created": 1660089600,
+        "tags": [
           "#clear",
           "#other",
           "#wild"
         ]
       },
       {
-        "href": "https://alterchan.net/",
-        "keywords": [
+        "uri": "https://alterchan.net/",
+        "created": 1330473600,
+        "tags": [
           "#clear",
           "#other",
           "#x0ch",
@@ -336,83 +352,99 @@
         ]
       },
       {
-        "href": "https://bbs.anoma.ch/",
-        "keywords": [
+        "uri": "https://bbs.anoma.ch/",
+        "created": 1214956800,
+        "tags": [
           "#clear",
           "#other",
           "#ghost"
         ]
       },
       {
-        "href": "https://anon.fm/board",
-        "keywords": [
-          "#ins",
+        "uri": "https://anon.fm/board",
+        "created": 1469059200,
+        "tags": [
           "#clear",
           "#other",
           "#ghost"
         ]
       },
       {
-        "href": "http://apachan.ru/",
-        "keywords": [
+        "uri": "http://anonchan.i2p/",
+        "created": 1673049600,
+        "tags": [
           "#ins",
+          "#i2p",
+          "#other",
+          "#wild"
+        ]
+      },
+      {
+        "uri": "http://apachan.ru/",
+        "tags": [
           "#clear",
           "#other",
           "#wild"
         ]
       },
       {
-        "href": "https://apachan.space/",
-        "keywords": [
+        "uri": "https://apachan.space/",
+        "created": 1547164800,
+        "tags": [
           "#clear",
           "#other",
           "#wild"
         ]
       },
       {
-        "href": "https://merzochan.at.ua/",
-        "keywords": [
-          "#ins",
+        "uri": "https://merzochan.at.ua/",
+        "created": 1465776000,
+        "tags": [
           "#clear",
           "#other",
           "#ghost"
         ]
       },
       {
-        "href": "https://legacy.arisuchan.jp/ru",
-        "keywords": [
+        "uri": "https://legacy.arisuchan.jp/ru",
+        "created": 1504137600,
+        "tags": [
           "#clear",
           "#other",
           "#ghost"
         ]
       },
       {
-        "href": "http://bnw.im/",
-        "keywords": [
+        "uri": "http://bnw.im/",
+        "created": 1262304000,
+        "tags": [
           "#clear",
           "#other",
           "#wild"
         ]
       },
       {
-        "href": "http://000000.byethost22.com/",
-        "keywords": [
+        "uri": "http://000000.byethost22.com/",
+        "created": 1661904000,
+        "tags": [
           "#clear",
           "#other",
           "#ghost"
         ]
       },
       {
-        "href": "http://libertach.byethost33.com/",
-        "keywords": [
+        "uri": "http://libertach.byethost33.com/",
+        "created": 1589587200,
+        "tags": [
           "#clear",
           "#other",
           "#ghost"
         ]
       },
       {
-        "href": "https://dva-ch.net/",
-        "keywords": [
+        "uri": "https://dva-ch.net/",
+        "created": 1320796800,
+        "tags": [
           "#clear",
           "#other",
           "#x2ch",
@@ -421,32 +453,45 @@
         ]
       },
       {
-        "href": "http://darkness.epizy.com/",
-        "keywords": [
+        "uri": "http://darkness.epizy.com/",
+        "created": 1585094400,
+        "tags": [
           "#clear",
           "#other",
           "#ghost"
         ]
       },
       {
-        "href": "https://board.everypony.ru",
-        "keywords": [
+        "uri": "https://board.everypony.ru",
+        "created": 1305676800,
+        "tags": [
           "#clear",
           "#other",
           "#ghost"
         ]
       },
       {
-        "href": "https://hamstakilla.com/ru",
-        "keywords": [
+        "uri": "http://foxdickchan.i2p/rus",
+        "tags": [
+          "#ins",
+          "#i2p",
+          "#other",
+          "#ghost"
+        ]
+      },
+      {
+        "uri": "https://hamstakilla.com/ru",
+        "created": 1256342400,
+        "tags": [
           "#clear",
           "#other",
           "#ghost"
         ]
       },
       {
-        "href": "https://horochan.ru/",
-        "keywords": [
+        "uri": "https://horochan.ru/",
+        "created": 1278374400,
+        "tags": [
           "#clear",
           "#other",
           "#fags",
@@ -454,8 +499,9 @@
         ]
       },
       {
-        "href": "https://iichan.hk/",
-        "keywords": [
+        "uri": "https://iichan.hk/",
+        "created": 1180656000,
+        "tags": [
           "#clear",
           "#other",
           "#iich",
@@ -463,50 +509,51 @@
         ]
       },
       {
-        "href": "https://bbs.iriscot.org/",
-        "keywords": [
+        "uri": "https://bbs.iriscot.org/",
+        "created": 1485993600,
+        "tags": [
           "#clear",
           "#other",
           "#ghost"
         ]
       },
       {
-        "href": "http://kislitsa.i2p/",
-        "keywords": [
+        "uri": "http://kislitsa.i2p/",
+        "tags": [
           "#i2p",
           "#other",
           "#wild"
         ]
       },
       {
-        "href": "https://kohlchan.net/ru",
-        "keywords": [
+        "uri": "https://kohlchan.net/ru",
+        "tags": [
           "#block",
           "#other",
           "#ghost"
         ]
       },
       {
-        "href": "https://kpop.re/",
-        "keywords": [
+        "uri": "https://kpop.re/",
+        "created": 1483228800,
+        "tags": [
           "#clear",
           "#other",
           "#fags"
         ]
       },
       {
-        "href": "https://mboard.tk/",
-        "keywords": [
-          "#ins",
+        "uri": "https://mboard.tk/",
+        "created": 1660694400,
+        "tags": [
           "#clear",
           "#other",
           "#wild"
         ]
       },
       {
-        "href": "http://metatorrkdagnx2njwvnzqeclsk3qbwabr6hori4vmivj25qy6s6gsad.onion/",
-        "title": "metat...6gsad.onion",
-        "keywords": [
+        "uri": "http://metatorrkdagnx2njwvnzqeclsk3qbwabr6hori4vmivj25qy6s6gsad.onion/",
+        "tags": [
           "#onion",
           "#other",
           "#clone",
@@ -514,40 +561,56 @@
         ]
       },
       {
-        "href": "https://mothchan.ru/",
-        "keywords": [
+        "uri": "https://mothchan.ru/",
+        "created": 1667433600,
+        "tags": [
           "#clear",
           "#other",
           "#wild"
         ]
       },
       {
-        "href": "https://bchan.myqip.ru/",
-        "keywords": [
+        "uri": "http://j33111470.myjino.ru/forestchan",
+        "created": 1680825600,
+        "tags": [
+          "#ins",
+          "#clear",
+          "#other",
+          "#fags",
+          "#wild"
+        ]
+      },
+      {
+        "uri": "https://bchan.myqip.ru/",
+        "created": 1610755200,
+        "tags": [
           "#clear",
           "#other",
           "#ghost"
         ]
       },
       {
-        "href": "https://neochan.ru/",
-        "keywords": [
+        "uri": "https://neochan.ru/",
+        "created": 1521936000,
+        "tags": [
           "#clear",
           "#other",
           "#fags"
         ]
       },
       {
-        "href": "https://nyamo.org/",
-        "keywords": [
+        "uri": "https://nyamo.org/",
+        "created": 1664928000,
+        "tags": [
           "#clear",
           "#other",
           "#ghost"
         ]
       },
       {
-        "href": "https://ochan.ru/",
-        "keywords": [
+        "uri": "https://ochan.ru/",
+        "created": 1545264000,
+        "tags": [
           "#clear",
           "#other",
           "#x0ch",
@@ -556,9 +619,9 @@
         ]
       },
       {
-        "href": "http://overchan.ru/",
-        "keywords": [
-          "#ins",
+        "uri": "http://overchan.ru/",
+        "created": 1204416000,
+        "tags": [
           "#clear",
           "#other",
           "#iich",
@@ -566,42 +629,52 @@
         ]
       },
       {
-        "href": "http://pfpmd7dd5ijt4add2sfi4djsaij4u3ebvnwvyvuj6aeipe2f5llptkid.onion/",
-        "title": "pfpmd...ptkid.onion",
-        "keywords": [
+        "uri": "http://pfpmd7dd5ijt4add2sfi4djsaij4u3ebvnwvyvuj6aeipe2f5llptkid.onion/",
+        "created": 1426204800,
+        "tags": [
           "#onion",
           "#other",
           "#wild"
         ]
       },
       {
-        "href": "https://ponyach.ru/",
-        "keywords": [
+        "uri": "https://ponyach.ru/",
+        "created": 1341014400,
+        "tags": [
           "#clear",
           "#other",
           "#fags"
         ]
       },
       {
-        "href": "http://purplechan.i2p/",
-        "keywords": [
+        "uri": "http://purplechan.i2p/",
+        "tags": [
           "#i2p",
           "#other",
           "#wild"
         ]
       },
       {
-        "href": "https://trash.pythonanywhere.com/",
-        "keywords": [
+        "uri": "https://govnyach.pythonanywhere.com/",
+        "created": 1659484800,
+        "tags": [
           "#ins",
-          "#other",
           "#other",
           "#wild"
         ]
       },
       {
-        "href": "https://rfch.rocks/",
-        "keywords": [
+        "uri": "https://trash.pythonanywhere.com/",
+        "created": 1644969600,
+        "tags": [
+          "#other",
+          "#wild"
+        ]
+      },
+      {
+        "uri": "https://rfch.rocks/",
+        "created": 1381449600,
+        "tags": [
           "#block",
           "#other",
           "#x2ch",
@@ -609,18 +682,9 @@
         ]
       },
       {
-        "href": "https://spirech.org/",
-        "keywords": [
-          "#del",
-          "#clear",
-          "#other",
-          "#wild",
-          "#mods"
-        ]
-      },
-      {
-        "href": "https://syn-ch.org/",
-        "keywords": [
+        "uri": "https://syn-ch.org/",
+        "created": 1364860800,
+        "tags": [
           "#clear",
           "#other",
           "#fags",
@@ -628,9 +692,9 @@
         ]
       },
       {
-        "href": "https://vkchan.ru/",
-        "keywords": [
-          "#ins",
+        "uri": "https://vkchan.ru/",
+        "created": 1405382400,
+        "tags": [
           "#clear",
           "#other",
           "#clone",
@@ -638,28 +702,113 @@
         ]
       },
       {
-        "href": "https://ylilauta.org/russia",
-        "keywords": [
+        "uri": "https://ylilauta.org/russia",
+        "created": 1564876800,
+        "tags": [
           "#clear",
           "#other",
           "#ghost"
         ]
       },
       {
-        "href": "https://zchan.app/",
-        "keywords": [
+        "uri": "https://zchan.app/",
+        "created": 1596585600,
+        "tags": [
           "#clear",
           "#other",
           "#wild"
         ]
       },
       {
-        "href": "https://zloiodm.in/",
-        "keywords": [
+        "uri": "https://zloiodm.in/",
+        "created": 1369958400,
+        "tags": [
           "#clear",
           "#other",
           "#fags"
         ]
+      }
+    ],
+    "tags": [
+      {
+        "uri": "#ins",
+        "description": "Добавлено в текущей редакции",
+        "displayHint": "style"
+      },
+      {
+        "uri": "#del",
+        "description": "Помечено к удалению в следующей редакции",
+        "displayHint": "style"
+      },
+      {
+        "uri": "#clear",
+        "description": "Находится в открытом доступе",
+        "displayHint": "hidden"
+      },
+      {
+        "uri": "#block",
+        "description": "Заблокировано владельцем или третьим лицом"
+      },
+      {
+        "uri": "#onion",
+        "description": "Доступно в сети Tor",
+        "displayHint": "hidden"
+      },
+      {
+        "uri": "#i2p",
+        "description": "Доступно в сети I2P",
+        "displayHint": "hidden"
+      },
+      {
+        "uri": "#general",
+        "description": "Общее",
+        "displayHint": "section"
+      },
+      {
+        "uri": "#topic",
+        "description": "Тематика",
+        "displayHint": "section"
+      },
+      {
+        "uri": "#other",
+        "description": "Прочее",
+        "displayHint": "section"
+      },
+      {
+        "uri": "#x0ch",
+        "description": "Пост-0chan.ru и связанные сайты"
+      },
+      {
+        "uri": "#x1ch",
+        "description": "Пост-1chan.ru и связанные сайты"
+      },
+      {
+        "uri": "#x2ch",
+        "description": "Пост-2ch.ru и связанные сайты"
+      },
+      {
+        "uri": "#iich",
+        "description": "iichan.ru и связанные сайты"
+      },
+      {
+        "uri": "#clone",
+        "description": "Копирование атрибутов других, более успешных проектов"
+      },
+      {
+        "uri": "#ghost",
+        "description": "Отсутствие признаков недавней активности"
+      },
+      {
+        "uri": "#fags",
+        "description": "Присутствие пресонализированных тредов, аватаркофагов, неймфагов и т.п."
+      },
+      {
+        "uri": "#mods",
+        "description": "Злоупотребление модераторскими полномочиями"
+      },
+      {
+        "uri": "#wild",
+        "description": "Присутствие быссмысленного или вредящего содержимого"
       }
     ]
   }
