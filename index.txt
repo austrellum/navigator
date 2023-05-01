@@ -1,91 +1,130 @@
 НАВИГАТОР БОРДОСФЕРЫ
 
-Редакция от 10 апреля 2023 (v1.2.0-rc3)
-Всего 77, одобрено 15 (19%)
+Редакция от 1 мая 2023 (v1.3.0-rc4)
+Всего 76, одобрено 14 (18%)
 
-Общее
+Одобренные
 
-— https://wc.12hp.ch/ #x1ch
-— https://1chan.su/ #x1ch #clone
+— https://wc.12hp.ch/ #x1ch #3ld
+— https://1chan.su/ #x1ch #clone #ux
 — https://314n.org/
+  — https://314n.ru/
 — https://410chan.org/ #iich
 — http://7jdf5v63lmgtx2ccnkevo4y63aat6t6aqirxmat7qgcb4bxhhc27epqd.onion/
-— https://allchan.io/
+  — http://rju7h4gwust4ptaiqhql7m7nvor45ez5675v7r3rza2egskkrmga.b32.i2p/
+— https://chuck.dfwk.ru/
 — https://dobrochan.net/ #iich
-— https://endchan.net/rus #block
+— https://dollchan.net/
+— https://endchan.net/rus #block #entry
+  — https://endchan.gg/rus
+  — https://endchan.org/rus
+  — http://endchancxfbnrfgauuxlztwlckytq7rgeo5v6pc2zd4nyqo3khfam4ad.onion/rus
+  — http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion/rus
+  — http://kqrtg5wz4qbyjprujkz33gza7r73iw3ainqp1mz5zmu16symcdwy.loki/rus
 — https://nowere.net/ #block #iich
 — https://owlchan.org/ #iich
 — https://swarm.su/ #clone
+— http://zadraw.ch/
 — https://доброчан.рф/ #iich #clone
-
-Тематика
-
-— https://chuck.dfwk.ru/ — Dwarf Fortress
-— https://dollchan.net/ — Dollchan Extension
-— http://zadraw.ch/ — Рисование
 
 Прочее
 
 — https://0-chan.ru/ #x0ch #clone #mods #wild
 — https://014chan.org/ #iich #fags
-— http://01chan.ru/ #ghost
+— http://01chan.ru/ #ghost #readonly
 — https://02ch.in/ #clone #fags #wild
-— https://0chan.life/ #x0ch #clone #wild
+— [-] https://0chan.life/ #x0ch #clone #wild
 — https://314n.0chan.one/ #x0ch #clone #ghost
 — https://0chan.plus/ #x0ch #clone #mods
+  — http://32xwwlgnvohjzhlfcgkakdktbscrzsa2fdbrbh43evu4vuxqw3gspoyd.onion/
+— [+] https://mint.0chan.ru/ #x0ch #clone #wild
 — https://0chna.ru/ #x0ch #clone #wild
-— http://102chan-memorial.i2p/ #wild
+— http://102chan-memorial.i2p/ #readonly #wild
+  — http://xxu3lso4h2rh6wmrxiou3ax7r7la7x6dhoepnku3jvrlwp35pefq.b32.i2p/
 — https://1chan.ca/ #x1ch #clone #wild
-— https://1chan.life/ #x1ch #clone #wild
+— [-] https://1chan.life/ #x1ch #clone #wild
 — https://1chan.plus/ #x1ch #clone #wild
 — https://1chan.top/ #x1ch #clone #wild
 — https://2ch.hk/ #x2ch #clone #mods
+  — https://2ch.life/
+— [+] https://2ch.plus/ #x0ch #clone #wild
 — https://2channel.moe/ #block #x2ch #clone #wild
+  — http://2channel5s3pvmo2364gs25e5xrx7nz6kivqhpj6ihh3df4hykvxysqd.onion/
+  — http://2channel.i2p/
+  — http://wirxk4kulmd7v6qmttltnu5nx2vtchzvrg7ewocejrvdjcaiv5sq.b32.i2p/
 — https://2draw.me/d #ghost
 — https://2fan.ru/ch #ghost
 — https://gensokyo.4otaku.org/ #iich #fags
-— https://8kun.top/cafechan #wild
+— https://8kun.top/cafechan #entry #wild
+  — http://w7m432cocr665kf5tlpcxojwldajr3njd2etcxwhpbrt44eemuxhp7ad.onion/cafechan
+— https://allchan.io/ #ux
 — http://alphachan.pro/ #wild
-— https://alterchan.net/ #x0ch #mods
-— https://bbs.anoma.ch/ #ghost
-— https://anon.fm/board #ghost
-— [+] http://anonchan.i2p/ #wild
+— https://alterchan.net/ #block #x0ch #mods
+— https://bbs.anoma.ch/ #readonly
+— https://anon.fm/board #ghost #readonly
+— http://anonchan.i2p/ #wild
+  — http://ztspuueo7wvmnui5fd4jqjy5dzbc2zgu6cbcyopko2hlz4amcgfq.b32.i2p/
 — http://apachan.ru/ #wild
 — https://apachan.space/ #wild
-— https://merzochan.at.ua/ #ghost
-— https://legacy.arisuchan.jp/ru #ghost
+  — https://apachan.icu/
+— https://merzochan.at.ua/ #3ld #ghost
+— https://legacy.arisuchan.jp/ru #entry #readonly #ux
 — http://bnw.im/ #wild
-— http://000000.byethost22.com/ #ghost
-— http://libertach.byethost33.com/ #ghost
-— https://dva-ch.net/ #x2ch #clone #fags
-— http://darkness.epizy.com/ #ghost
-— https://board.everypony.ru #ghost
-— [+] http://foxdickchan.i2p/rus #ghost
-— https://hamstakilla.com/ru #ghost
-— https://horochan.ru/ #fags #mods
+— http://000000.byethost22.com/ #3ld #ghost
+— http://libertach.byethost33.com/ #3ld #ghost
+— https://dva-ch.net/ #block #x2ch #clone #fags
+  — https://2ch.rip/
+— http://darkness.epizy.com/ #3ld #ghost #readonly
+— https://board.everypony.ru #ghost #readonly
+— http://rcuhe6pk7mbmsjk7bwyja5etvjhjvzmc724rnf3piamemvawoi44z7qd.onion/rus #entry #ghost
+  — http://foxdickchan.i2p/rus
+  — http://iqxr4hupmaqdd4wvkwwjjrq6ddocydqqqadtnk6ltdnalvrzanxq.b32.i2p/rus
+— https://hamstakilla.com/ru #entry #ghost
+  — https://bernd.group/ru
+  — https://kctier.club/ru
+  — https://krautchan.rip/ru
+— https://horochan.ru/ #fags #mods #ux
 — https://iichan.hk/ #iich #mods
-— https://bbs.iriscot.org/ #ghost
+— https://bbs.iriscot.org/ #readonly
 — http://kislitsa.i2p/ #wild
-— https://kohlchan.net/ru #block #ghost
+  — http://khceo3smaxtng2tnuicmcbhdnkk2j6myi4nkigcux76qh3aabdhq.b32.i2p/
+— https://kohlchan.net/ru #block #entry #ghost
+  — https://kohlchan.top/ru
+  — https://kohlchan.ws/ru
+  — http://kohlchanvwpfx6hthoti5fvqsjxgcwm3tmddvpduph5fqntv5affzfqd.onion/ru
+  — http://kohlchan.i2p/ru
+  — http://kohlchanvn6vtsujobyw4pt5naaszmxqutd5hsdatmxfe2qaqhya.b32.i2p/ru
 — https://kpop.re/ #fags
 — https://mboard.tk/ #wild
 — http://metatorrkdagnx2njwvnzqeclsk3qbwabr6hori4vmivj25qy6s6gsad.onion/ #clone #wild
+  — http://metator.i2p/
 — https://mothchan.ru/ #wild
-— [+] http://j33111470.myjino.ru/forestchan #fags #wild
-— https://bchan.myqip.ru/ #ghost
+— [-] http://j33111470.myjino.ru/forestchan #3ld #fags #wild
+— https://bchan.myqip.ru/ #3ld #ghost
+— [+] http://nestchan.i2p/ #wild
+  — http://wzwlwxju3orzbuld7cjtia2z4fqp2vt7orjdzmsz3ynlqr3ewokq.b32.i2p/
 — https://neochan.ru/ #fags
-— https://nyamo.org/ #ghost
+  — http://neochan7n7xp2v6yvw2u6zedciwlhot4kwftqpuoxrjwet3iprcms2qd.onion/
+— [-] https://nyamo.org/ #ghost
 — https://ochan.ru/ #x0ch #clone #wild
 — http://overchan.ru/ #iich #ghost
+  — http://12ch.ru/
 — http://pfpmd7dd5ijt4add2sfi4djsaij4u3ebvnwvyvuj6aeipe2f5llptkid.onion/ #wild
 — https://ponyach.ru/ #fags
 — http://purplechan.i2p/ #wild
-— [+] https://govnyach.pythonanywhere.com/ #wild
-— https://trash.pythonanywhere.com/ #wild
+  — http://tyiwxpgs7syjvz3cha3uckaxgondtiktlsvriebyy4qmzgbaj3gq.b32.i2p/
+— [-] https://govnyach.pythonanywhere.com/ #3ld #wild
+— https://trash.pythonanywhere.com/ #3ld #wild
 — https://rfch.rocks/ #block #x2ch #mods
-— https://syn-ch.org/ #fags #wild
+  — https://rfch.xyz/
+— https://syn-ch.ru/ #fags #mods #wild
+  — https://syn-ch.com/
+  — https://syn-ch.org/
+  — https://синч.рф/
+  — https://syn-ch.com.ua/
+— [+] https://tuzach.in/ #wild #ux
 — https://vkchan.ru/ #clone #ghost
-— https://ylilauta.org/russia #ghost
+— https://ylilauta.org/russia #entry #ghost #ux
 — https://zchan.app/ #wild
 — https://zloiodm.in/ #fags
 
@@ -96,11 +135,15 @@
 — #x1ch — Пост-1chan.ru и связанные сайты
 — #x2ch — Пост-2ch.ru и связанные сайты
 — #iich — iichan.ru и связанные сайты
-— #clone — Копирование атрибутов других, более успешных проектов
+— #3ld — Несамостоятельный домен третьего уровня
+— #entry — Русскоязычный раздел, не самостоятельный сайт
+— #clone — Копирование атрибутов более известных проектов
 — #ghost — Отсутствие признаков недавней активности
-— #fags — Присутствие пресонализированных тредов, аватаркофагов, неймфагов и т.п.
+— #fags — Персонализированные треды, аватарки и т.п.
 — #mods — Злоупотребление модераторскими полномочиями
-— #wild — Присутствие быссмысленного или вредящего содержимого
+— #readonly — Поддерживается только чтение
+— #wild — Бессмысленное или вредящее содержимое
+— #ux — Положительный опыт использования
 
 ---
 
