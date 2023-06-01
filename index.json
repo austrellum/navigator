@@ -1,16 +1,19 @@
 {
   "meta": {
-    "version": "1.3.0-rc4",
+    "version": "1.4.0-rc5",
     "created": 1654473600,
-    "updated": 1682899200,
-    "homepage": "https://github.com/austrellum/navigator"
+    "updated": 1685577600,
+    "source": "https://github.com/austrellum/navigator"
   },
   "data": {
     "sites": [
       {
         "id": "site-wc-12hp-ch",
-        "urls": [
-          "https://wc.12hp.ch/"
+        "links": [
+          {
+            "source": "https://wc.12hp.ch/",
+            "type": "clear"
+          }
         ],
         "created": 1597017600,
         "tags": [
@@ -22,8 +25,11 @@
       },
       {
         "id": "site-1chan-su",
-        "urls": [
-          "https://1chan.su/"
+        "links": [
+          {
+            "source": "https://1chan.su/",
+            "type": "clear"
+          }
         ],
         "created": 1652659200,
         "tags": [
@@ -36,9 +42,15 @@
       },
       {
         "id": "site-314n-org",
-        "urls": [
-          "https://314n.org/",
-          "https://314n.ru/"
+        "links": [
+          {
+            "source": "https://314n.org/",
+            "type": "clear"
+          },
+          {
+            "source": "https://314n.ru/",
+            "type": "clear"
+          }
         ],
         "created": 1341100800,
         "tags": [
@@ -48,8 +60,15 @@
       },
       {
         "id": "site-410chan-org",
-        "urls": [
-          "https://410chan.org/"
+        "links": [
+          {
+            "source": "https://410chan.org/",
+            "type": "clear"
+          },
+          {
+            "source": "https://410chan.ru/",
+            "type": "clear"
+          }
         ],
         "created": 1234396800,
         "tags": [
@@ -60,9 +79,19 @@
       },
       {
         "id": "site-7jdf5v63lmgtx2ccnkevo4y63aat6t6aqirxmat7qgcb4bxhhc27epqd-onion",
-        "urls": [
-          "http://7jdf5v63lmgtx2ccnkevo4y63aat6t6aqirxmat7qgcb4bxhhc27epqd.onion/",
-          "http://rju7h4gwust4ptaiqhql7m7nvor45ez5675v7r3rza2egskkrmga.b32.i2p/"
+        "links": [
+          {
+            "source": "http://7jdf5v63lmgtx2ccnkevo4y63aat6t6aqirxmat7qgcb4bxhhc27epqd.onion/",
+            "type": "onion"
+          },
+          {
+            "source": "http://lunach.i2p/",
+            "type": "i2p"
+          },
+          {
+            "source": "http://rju7h4gwust4ptaiqhql7m7nvor45ez5675v7r3rza2egskkrmga.b32.i2p/",
+            "type": "i2p"
+          }
         ],
         "created": 1677801600,
         "tags": [
@@ -73,8 +102,11 @@
       },
       {
         "id": "site-chuck-dfwk-ru",
-        "urls": [
-          "https://chuck.dfwk.ru/"
+        "links": [
+          {
+            "source": "https://chuck.dfwk.ru/",
+            "type": "clear"
+          }
         ],
         "created": 1250899200,
         "tags": [
@@ -84,8 +116,11 @@
       },
       {
         "id": "site-dobrochan-net",
-        "urls": [
-          "https://dobrochan.net/"
+        "links": [
+          {
+            "source": "https://dobrochan.net/",
+            "type": "clear"
+          }
         ],
         "created": 1218067200,
         "tags": [
@@ -96,9 +131,13 @@
       },
       {
         "id": "site-dollchan-net",
-        "urls": [
-          "https://dollchan.net/"
+        "links": [
+          {
+            "source": "https://dollchan.net/",
+            "type": "clear"
+          }
         ],
+        "created": 1242000000,
         "tags": [
           "#clear",
           "#approved"
@@ -106,15 +145,34 @@
       },
       {
         "id": "site-endchan-net",
-        "urls": [
-          "https://endchan.net/rus",
-          "https://endchan.gg/rus",
-          "https://endchan.org/rus",
-          "http://endchancxfbnrfgauuxlztwlckytq7rgeo5v6pc2zd4nyqo3khfam4ad.onion/rus",
-          "http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion/rus",
-          "http://kqrtg5wz4qbyjprujkz33gza7r73iw3ainqp1mz5zmu16symcdwy.loki/rus"
+        "links": [
+          {
+            "source": "https://endchan.net/rus",
+            "type": "blocked"
+          },
+          {
+            "source": "https://endchan.gg/rus",
+            "type": "clear"
+          },
+          {
+            "source": "https://endchan.org/rus",
+            "type": "blocked"
+          },
+          {
+            "source": "http://endchancxfbnrfgauuxlztwlckytq7rgeo5v6pc2zd4nyqo3khfam4ad.onion/rus",
+            "type": "onion"
+          },
+          {
+            "source": "http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion/rus",
+            "type": "onion"
+          },
+          {
+            "source": "http://kqrtg5wz4qbyjprujkz33gza7r73iw3ainqp1mz5zmu16symcdwy.loki/rus",
+            "type": "loki"
+          }
         ],
         "tags": [
+          "#clear",
           "#block",
           "#onion",
           "#loki",
@@ -123,9 +181,30 @@
         ]
       },
       {
+        "id": "site-kislitsa-i2p",
+        "links": [
+          {
+            "source": "http://kislitsa.i2p/",
+            "type": "i2p"
+          },
+          {
+            "source": "http://khceo3smaxtng2tnuicmcbhdnkk2j6myi4nkigcux76qh3aabdhq.b32.i2p/",
+            "type": "i2p"
+          }
+        ],
+        "created": 1592956800,
+        "tags": [
+          "#i2p",
+          "#approved"
+        ]
+      },
+      {
         "id": "site-nowere-net",
-        "urls": [
-          "https://nowere.net/"
+        "links": [
+          {
+            "source": "https://nowere.net/",
+            "type": "blocked"
+          }
         ],
         "created": 1202601600,
         "tags": [
@@ -136,8 +215,11 @@
       },
       {
         "id": "site-owlchan-org",
-        "urls": [
-          "https://owlchan.org/"
+        "links": [
+          {
+            "source": "https://owlchan.org/",
+            "type": "clear"
+          }
         ],
         "created": 1419379200,
         "tags": [
@@ -148,8 +230,11 @@
       },
       {
         "id": "site-swarm-su",
-        "urls": [
-          "https://swarm.su/"
+        "links": [
+          {
+            "source": "https://swarm.su/",
+            "type": "clear"
+          }
         ],
         "created": 1664582400,
         "tags": [
@@ -160,8 +245,11 @@
       },
       {
         "id": "site-zadraw-ch",
-        "urls": [
-          "http://zadraw.ch/"
+        "links": [
+          {
+            "source": "http://zadraw.ch/",
+            "type": "clear"
+          }
         ],
         "created": 1275696000,
         "tags": [
@@ -171,8 +259,11 @@
       },
       {
         "id": "site-доброчан-рф",
-        "urls": [
-          "https://доброчан.рф/"
+        "links": [
+          {
+            "source": "https://доброчан.рф/",
+            "type": "clear"
+          }
         ],
         "created": 1673568000,
         "tags": [
@@ -184,8 +275,11 @@
       },
       {
         "id": "site-0-chan-ru",
-        "urls": [
-          "https://0-chan.ru/"
+        "links": [
+          {
+            "source": "https://0-chan.ru/",
+            "type": "clear"
+          }
         ],
         "created": 1335744000,
         "tags": [
@@ -199,8 +293,11 @@
       },
       {
         "id": "site-014chan-org",
-        "urls": [
-          "https://014chan.org/"
+        "links": [
+          {
+            "source": "https://014chan.org/",
+            "type": "clear"
+          }
         ],
         "created": 1554422400,
         "tags": [
@@ -212,8 +309,11 @@
       },
       {
         "id": "site-01chan-ru",
-        "urls": [
-          "http://01chan.ru/"
+        "links": [
+          {
+            "source": "http://01chan.ru/",
+            "type": "clear"
+          }
         ],
         "created": 1637539200,
         "tags": [
@@ -225,8 +325,11 @@
       },
       {
         "id": "site-02ch-in",
-        "urls": [
-          "https://02ch.in/"
+        "links": [
+          {
+            "source": "https://02ch.in/",
+            "type": "clear"
+          }
         ],
         "created": 1382659200,
         "tags": [
@@ -238,24 +341,12 @@
         ]
       },
       {
-        "id": "site-0chan-life",
-        "urls": [
-          "https://0chan.life/"
-        ],
-        "created": 1625961600,
-        "tags": [
-          "#del",
-          "#clear",
-          "#other",
-          "#x0ch",
-          "#clone",
-          "#wild"
-        ]
-      },
-      {
         "id": "site-314n-0chan-one",
-        "urls": [
-          "https://314n.0chan.one/"
+        "links": [
+          {
+            "source": "https://314n.0chan.one/",
+            "type": "clear"
+          }
         ],
         "created": 1678060800,
         "tags": [
@@ -268,9 +359,15 @@
       },
       {
         "id": "site-0chan-plus",
-        "urls": [
-          "https://0chan.plus/",
-          "http://32xwwlgnvohjzhlfcgkakdktbscrzsa2fdbrbh43evu4vuxqw3gspoyd.onion/"
+        "links": [
+          {
+            "source": "https://0chan.plus/",
+            "type": "clear"
+          },
+          {
+            "source": "http://32xwwlgnvohjzhlfcgkakdktbscrzsa2fdbrbh43evu4vuxqw3gspoyd.onion/",
+            "type": "onion"
+          }
         ],
         "created": 1672963200,
         "tags": [
@@ -284,10 +381,29 @@
       },
       {
         "id": "site-mint-0chan-ru",
-        "urls": [
-          "https://mint.0chan.ru/"
+        "links": [
+          {
+            "source": "https://mint.0chan.ru/",
+            "type": "clear"
+          }
         ],
         "created": 1682208000,
+        "tags": [
+          "#clear",
+          "#other",
+          "#x0ch",
+          "#clone",
+          "#wild"
+        ]
+      },
+      {
+        "id": "site-0chans-ru",
+        "links": [
+          {
+            "source": "https://0chans.ru/",
+            "type": "clear"
+          }
+        ],
         "tags": [
           "#ins",
           "#clear",
@@ -299,8 +415,11 @@
       },
       {
         "id": "site-0chna-ru",
-        "urls": [
-          "https://0chna.ru/"
+        "links": [
+          {
+            "source": "https://0chna.ru/",
+            "type": "clear"
+          }
         ],
         "created": 1675814400,
         "tags": [
@@ -313,9 +432,15 @@
       },
       {
         "id": "site-102chan-memorial-i2p",
-        "urls": [
-          "http://102chan-memorial.i2p/",
-          "http://xxu3lso4h2rh6wmrxiou3ax7r7la7x6dhoepnku3jvrlwp35pefq.b32.i2p/"
+        "links": [
+          {
+            "source": "http://102chan-memorial.i2p/",
+            "type": "i2p"
+          },
+          {
+            "source": "http://xxu3lso4h2rh6wmrxiou3ax7r7la7x6dhoepnku3jvrlwp35pefq.b32.i2p/",
+            "type": "i2p"
+          }
         ],
         "tags": [
           "#i2p",
@@ -326,8 +451,11 @@
       },
       {
         "id": "site-1chan-ca",
-        "urls": [
-          "https://1chan.ca/"
+        "links": [
+          {
+            "source": "https://1chan.ca/",
+            "type": "clear"
+          }
         ],
         "created": 1397174400,
         "tags": [
@@ -340,12 +468,14 @@
       },
       {
         "id": "site-1chan-life",
-        "urls": [
-          "https://1chan.life/"
+        "links": [
+          {
+            "source": "https://1chan.life/",
+            "type": "clear"
+          }
         ],
         "created": 1644969600,
         "tags": [
-          "#del",
           "#clear",
           "#other",
           "#x1ch",
@@ -355,8 +485,11 @@
       },
       {
         "id": "site-1chan-plus",
-        "urls": [
-          "https://1chan.plus/"
+        "links": [
+          {
+            "source": "https://1chan.plus/",
+            "type": "clear"
+          }
         ],
         "created": 1679788800,
         "tags": [
@@ -369,8 +502,11 @@
       },
       {
         "id": "site-1chan-top",
-        "urls": [
-          "https://1chan.top/"
+        "links": [
+          {
+            "source": "https://1chan.top/",
+            "type": "clear"
+          }
         ],
         "created": 1536364800,
         "tags": [
@@ -382,10 +518,32 @@
         ]
       },
       {
+        "id": "site-22channel-org",
+        "links": [
+          {
+            "source": "https://22channel.org/",
+            "type": "clear"
+          }
+        ],
+        "created": 1683849600,
+        "tags": [
+          "#ins",
+          "#clear",
+          "#other",
+          "#wild"
+        ]
+      },
+      {
         "id": "site-2ch-hk",
-        "urls": [
-          "https://2ch.hk/",
-          "https://2ch.life/"
+        "links": [
+          {
+            "source": "https://2ch.hk/",
+            "type": "clear"
+          },
+          {
+            "source": "https://2ch.life/",
+            "type": "clear"
+          }
         ],
         "created": 1238544000,
         "tags": [
@@ -398,12 +556,14 @@
       },
       {
         "id": "site-2ch-plus",
-        "urls": [
-          "https://2ch.plus/"
+        "links": [
+          {
+            "source": "https://2ch.plus/",
+            "type": "clear"
+          }
         ],
         "created": 1682294400,
         "tags": [
-          "#ins",
           "#clear",
           "#other",
           "#x0ch",
@@ -413,11 +573,23 @@
       },
       {
         "id": "site-2channel-moe",
-        "urls": [
-          "https://2channel.moe/",
-          "http://2channel5s3pvmo2364gs25e5xrx7nz6kivqhpj6ihh3df4hykvxysqd.onion/",
-          "http://2channel.i2p/",
-          "http://wirxk4kulmd7v6qmttltnu5nx2vtchzvrg7ewocejrvdjcaiv5sq.b32.i2p/"
+        "links": [
+          {
+            "source": "https://2channel.moe/",
+            "type": "blocked"
+          },
+          {
+            "source": "http://2channel5s3pvmo2364gs25e5xrx7nz6kivqhpj6ihh3df4hykvxysqd.onion/",
+            "type": "onion"
+          },
+          {
+            "source": "http://2channel.i2p/",
+            "type": "i2p"
+          },
+          {
+            "source": "http://wirxk4kulmd7v6qmttltnu5nx2vtchzvrg7ewocejrvdjcaiv5sq.b32.i2p/",
+            "type": "i2p"
+          }
         ],
         "created": 1535241600,
         "tags": [
@@ -432,8 +604,11 @@
       },
       {
         "id": "site-2draw-me",
-        "urls": [
-          "https://2draw.me/d"
+        "links": [
+          {
+            "source": "https://2draw.me/d",
+            "type": "clear"
+          }
         ],
         "created": 1364774400,
         "tags": [
@@ -444,8 +619,11 @@
       },
       {
         "id": "site-2fan-ru",
-        "urls": [
-          "https://2fan.ru/ch"
+        "links": [
+          {
+            "source": "https://2fan.ru/ch",
+            "type": "clear"
+          }
         ],
         "created": 1530489600,
         "tags": [
@@ -456,8 +634,11 @@
       },
       {
         "id": "site-gensokyo-4otaku-org",
-        "urls": [
-          "https://gensokyo.4otaku.org/"
+        "links": [
+          {
+            "source": "https://gensokyo.4otaku.org/",
+            "type": "clear"
+          }
         ],
         "created": 1366588800,
         "tags": [
@@ -469,9 +650,15 @@
       },
       {
         "id": "site-8kun-top",
-        "urls": [
-          "https://8kun.top/cafechan",
-          "http://w7m432cocr665kf5tlpcxojwldajr3njd2etcxwhpbrt44eemuxhp7ad.onion/cafechan"
+        "links": [
+          {
+            "source": "https://8kun.top/cafechan",
+            "type": "clear"
+          },
+          {
+            "source": "http://w7m432cocr665kf5tlpcxojwldajr3njd2etcxwhpbrt44eemuxhp7ad.onion/cafechan",
+            "type": "onion"
+          }
         ],
         "created": 1571097600,
         "tags": [
@@ -484,8 +671,11 @@
       },
       {
         "id": "site-allchan-io",
-        "urls": [
-          "https://allchan.io/"
+        "links": [
+          {
+            "source": "https://allchan.io/",
+            "type": "clear"
+          }
         ],
         "created": 1423785600,
         "tags": [
@@ -496,20 +686,27 @@
       },
       {
         "id": "site-alphachan-pro",
-        "urls": [
-          "http://alphachan.pro/"
+        "links": [
+          {
+            "source": "http://alphachan.pro/",
+            "type": "clear"
+          }
         ],
         "created": 1660089600,
         "tags": [
           "#clear",
           "#other",
+          "#apach",
           "#wild"
         ]
       },
       {
         "id": "site-alterchan-net",
-        "urls": [
-          "https://alterchan.net/"
+        "links": [
+          {
+            "source": "https://alterchan.net/",
+            "type": "blocked"
+          }
         ],
         "created": 1330473600,
         "tags": [
@@ -521,8 +718,11 @@
       },
       {
         "id": "site-bbs-anoma-ch",
-        "urls": [
-          "https://bbs.anoma.ch/"
+        "links": [
+          {
+            "source": "https://bbs.anoma.ch/",
+            "type": "clear"
+          }
         ],
         "created": 1214956800,
         "tags": [
@@ -533,8 +733,11 @@
       },
       {
         "id": "site-anon-fm",
-        "urls": [
-          "https://anon.fm/board"
+        "links": [
+          {
+            "source": "https://anon.fm/board",
+            "type": "clear"
+          }
         ],
         "created": 1469059200,
         "tags": [
@@ -546,9 +749,15 @@
       },
       {
         "id": "site-anonchan-i2p",
-        "urls": [
-          "http://anonchan.i2p/",
-          "http://ztspuueo7wvmnui5fd4jqjy5dzbc2zgu6cbcyopko2hlz4amcgfq.b32.i2p/"
+        "links": [
+          {
+            "source": "http://anonchan.i2p/",
+            "type": "i2p"
+          },
+          {
+            "source": "http://ztspuueo7wvmnui5fd4jqjy5dzbc2zgu6cbcyopko2hlz4amcgfq.b32.i2p/",
+            "type": "i2p"
+          }
         ],
         "created": 1673049600,
         "tags": [
@@ -559,32 +768,47 @@
       },
       {
         "id": "site-apachan-ru",
-        "urls": [
-          "http://apachan.ru/"
+        "links": [
+          {
+            "source": "http://apachan.ru/",
+            "type": "clear"
+          }
         ],
+        "created": 1236211200,
         "tags": [
           "#clear",
           "#other",
+          "#apach",
           "#wild"
         ]
       },
       {
         "id": "site-apachan-space",
-        "urls": [
-          "https://apachan.space/",
-          "https://apachan.icu/"
+        "links": [
+          {
+            "source": "https://apachan.space/",
+            "type": "clear"
+          },
+          {
+            "source": "https://apachan.icu/",
+            "type": "clear"
+          }
         ],
         "created": 1547164800,
         "tags": [
           "#clear",
           "#other",
+          "#apach",
           "#wild"
         ]
       },
       {
         "id": "site-merzochan-at-ua",
-        "urls": [
-          "https://merzochan.at.ua/"
+        "links": [
+          {
+            "source": "https://merzochan.at.ua/",
+            "type": "clear"
+          }
         ],
         "created": 1465776000,
         "tags": [
@@ -596,8 +820,11 @@
       },
       {
         "id": "site-legacy-arisuchan-jp",
-        "urls": [
-          "https://legacy.arisuchan.jp/ru"
+        "links": [
+          {
+            "source": "https://legacy.arisuchan.jp/ru",
+            "type": "clear"
+          }
         ],
         "created": 1504137600,
         "tags": [
@@ -610,10 +837,13 @@
       },
       {
         "id": "site-bnw-im",
-        "urls": [
-          "http://bnw.im/"
+        "links": [
+          {
+            "source": "http://bnw.im/",
+            "type": "clear"
+          }
         ],
-        "created": 1262304000,
+        "created": 1271548800,
         "tags": [
           "#clear",
           "#other",
@@ -621,9 +851,30 @@
         ]
       },
       {
+        "id": "site-apachan-byethost14-com",
+        "links": [
+          {
+            "source": "http://apachan.byethost14.com/",
+            "type": "clear"
+          }
+        ],
+        "created": 1669680000,
+        "tags": [
+          "#ins",
+          "#clear",
+          "#other",
+          "#apach",
+          "#3ld",
+          "#ghost"
+        ]
+      },
+      {
         "id": "site-000000-byethost22-com",
-        "urls": [
-          "http://000000.byethost22.com/"
+        "links": [
+          {
+            "source": "http://000000.byethost22.com/",
+            "type": "clear"
+          }
         ],
         "created": 1661904000,
         "tags": [
@@ -635,8 +886,11 @@
       },
       {
         "id": "site-libertach-byethost33-com",
-        "urls": [
-          "http://libertach.byethost33.com/"
+        "links": [
+          {
+            "source": "http://libertach.byethost33.com/",
+            "type": "clear"
+          }
         ],
         "created": 1589587200,
         "tags": [
@@ -648,9 +902,15 @@
       },
       {
         "id": "site-dva-ch-net",
-        "urls": [
-          "https://dva-ch.net/",
-          "https://2ch.rip/"
+        "links": [
+          {
+            "source": "https://dva-ch.net/",
+            "type": "blocked"
+          },
+          {
+            "source": "https://2ch.rip/",
+            "type": "blocked"
+          }
         ],
         "created": 1320796800,
         "tags": [
@@ -663,8 +923,11 @@
       },
       {
         "id": "site-darkness-epizy-com",
-        "urls": [
-          "http://darkness.epizy.com/"
+        "links": [
+          {
+            "source": "http://darkness.epizy.com/",
+            "type": "clear"
+          }
         ],
         "created": 1585094400,
         "tags": [
@@ -677,8 +940,11 @@
       },
       {
         "id": "site-board-everypony-ru",
-        "urls": [
-          "https://board.everypony.ru"
+        "links": [
+          {
+            "source": "https://board.everypony.ru/",
+            "type": "clear"
+          }
         ],
         "created": 1305676800,
         "tags": [
@@ -690,10 +956,19 @@
       },
       {
         "id": "site-rcuhe6pk7mbmsjk7bwyja5etvjhjvzmc724rnf3piamemvawoi44z7qd-onion",
-        "urls": [
-          "http://rcuhe6pk7mbmsjk7bwyja5etvjhjvzmc724rnf3piamemvawoi44z7qd.onion/rus",
-          "http://foxdickchan.i2p/rus",
-          "http://iqxr4hupmaqdd4wvkwwjjrq6ddocydqqqadtnk6ltdnalvrzanxq.b32.i2p/rus"
+        "links": [
+          {
+            "source": "http://rcuhe6pk7mbmsjk7bwyja5etvjhjvzmc724rnf3piamemvawoi44z7qd.onion/rus",
+            "type": "onion"
+          },
+          {
+            "source": "http://foxdickchan.i2p/rus",
+            "type": "i2p"
+          },
+          {
+            "source": "http://iqxr4hupmaqdd4wvkwwjjrq6ddocydqqqadtnk6ltdnalvrzanxq.b32.i2p/rus",
+            "type": "i2p"
+          }
         ],
         "tags": [
           "#onion",
@@ -705,15 +980,32 @@
       },
       {
         "id": "site-hamstakilla-com",
-        "urls": [
-          "https://hamstakilla.com/ru",
-          "https://bernd.group/ru",
-          "https://kctier.club/ru",
-          "https://krautchan.rip/ru"
+        "links": [
+          {
+            "source": "https://hamstakilla.com/ru",
+            "type": "clear"
+          },
+          {
+            "source": "https://xcomm.id/",
+            "type": "clear"
+          },
+          {
+            "source": "https://bernd.group/ru",
+            "type": "clear"
+          },
+          {
+            "source": "https://krautchan.rip/ru",
+            "type": "clear"
+          },
+          {
+            "source": "https://kctier.club/ru",
+            "type": "blocked"
+          }
         ],
         "created": 1256342400,
         "tags": [
           "#clear",
+          "#block",
           "#other",
           "#entry",
           "#ghost"
@@ -721,8 +1013,11 @@
       },
       {
         "id": "site-horochan-ru",
-        "urls": [
-          "https://horochan.ru/"
+        "links": [
+          {
+            "source": "https://horochan.ru/",
+            "type": "clear"
+          }
         ],
         "created": 1278374400,
         "tags": [
@@ -735,8 +1030,11 @@
       },
       {
         "id": "site-iichan-hk",
-        "urls": [
-          "https://iichan.hk/"
+        "links": [
+          {
+            "source": "https://iichan.hk/",
+            "type": "clear"
+          }
         ],
         "created": 1180656000,
         "tags": [
@@ -748,8 +1046,11 @@
       },
       {
         "id": "site-bbs-iriscot-org",
-        "urls": [
-          "https://bbs.iriscot.org/"
+        "links": [
+          {
+            "source": "https://bbs.iriscot.org/",
+            "type": "clear"
+          }
         ],
         "created": 1485993600,
         "tags": [
@@ -759,28 +1060,35 @@
         ]
       },
       {
-        "id": "site-kislitsa-i2p",
-        "urls": [
-          "http://kislitsa.i2p/",
-          "http://khceo3smaxtng2tnuicmcbhdnkk2j6myi4nkigcux76qh3aabdhq.b32.i2p/"
-        ],
-        "tags": [
-          "#i2p",
-          "#other",
-          "#wild"
-        ]
-      },
-      {
         "id": "site-kohlchan-net",
-        "urls": [
-          "https://kohlchan.net/ru",
-          "https://kohlchan.top/ru",
-          "https://kohlchan.ws/ru",
-          "http://kohlchanvwpfx6hthoti5fvqsjxgcwm3tmddvpduph5fqntv5affzfqd.onion/ru",
-          "http://kohlchan.i2p/ru",
-          "http://kohlchanvn6vtsujobyw4pt5naaszmxqutd5hsdatmxfe2qaqhya.b32.i2p/ru"
+        "links": [
+          {
+            "source": "https://kohlchan.net/ru",
+            "type": "blocked"
+          },
+          {
+            "source": "https://kohlchan.top/ru",
+            "type": "blocked"
+          },
+          {
+            "source": "https://kohlchan.ws/ru",
+            "type": "clear"
+          },
+          {
+            "source": "http://kohlchanvwpfx6hthoti5fvqsjxgcwm3tmddvpduph5fqntv5affzfqd.onion/ru",
+            "type": "onion"
+          },
+          {
+            "source": "http://kohlchan.i2p/ru",
+            "type": "i2p"
+          },
+          {
+            "source": "http://kohlchanvn6vtsujobyw4pt5naaszmxqutd5hsdatmxfe2qaqhya.b32.i2p/ru",
+            "type": "i2p"
+          }
         ],
         "tags": [
+          "#clear",
           "#block",
           "#onion",
           "#i2p",
@@ -791,10 +1099,13 @@
       },
       {
         "id": "site-kpop-re",
-        "urls": [
-          "https://kpop.re/"
+        "links": [
+          {
+            "source": "https://kpop.re/",
+            "type": "clear"
+          }
         ],
-        "created": 1483228800,
+        "created": 1500336000,
         "tags": [
           "#clear",
           "#other",
@@ -802,12 +1113,31 @@
         ]
       },
       {
-        "id": "site-mboard-tk",
-        "urls": [
-          "https://mboard.tk/"
+        "id": "site-lambdachan-net",
+        "links": [
+          {
+            "source": "https://lambdachan.net/",
+            "type": "clear"
+          }
         ],
-        "created": 1660694400,
         "tags": [
+          "#ins",
+          "#clear",
+          "#other",
+          "#wild"
+        ]
+      },
+      {
+        "id": "site-mboard-tk",
+        "links": [
+          {
+            "source": "https://mboard.tk/",
+            "type": "clear"
+          }
+        ],
+        "created": 1683849600,
+        "tags": [
+          "#del",
           "#clear",
           "#other",
           "#wild"
@@ -815,9 +1145,15 @@
       },
       {
         "id": "site-metatorrkdagnx2njwvnzqeclsk3qbwabr6hori4vmivj25qy6s6gsad-onion",
-        "urls": [
-          "http://metatorrkdagnx2njwvnzqeclsk3qbwabr6hori4vmivj25qy6s6gsad.onion/",
-          "http://metator.i2p/"
+        "links": [
+          {
+            "source": "http://metatorrkdagnx2njwvnzqeclsk3qbwabr6hori4vmivj25qy6s6gsad.onion/",
+            "type": "onion"
+          },
+          {
+            "source": "http://metator.i2p/",
+            "type": "i2p"
+          }
         ],
         "tags": [
           "#onion",
@@ -829,8 +1165,11 @@
       },
       {
         "id": "site-mothchan-ru",
-        "urls": [
-          "https://mothchan.ru/"
+        "links": [
+          {
+            "source": "https://mothchan.ru/",
+            "type": "clear"
+          }
         ],
         "created": 1667433600,
         "tags": [
@@ -840,24 +1179,12 @@
         ]
       },
       {
-        "id": "site-j33111470-myjino-ru",
-        "urls": [
-          "http://j33111470.myjino.ru/forestchan"
-        ],
-        "created": 1680825600,
-        "tags": [
-          "#del",
-          "#clear",
-          "#other",
-          "#3ld",
-          "#fags",
-          "#wild"
-        ]
-      },
-      {
         "id": "site-bchan-myqip-ru",
-        "urls": [
-          "https://bchan.myqip.ru/"
+        "links": [
+          {
+            "source": "https://bchan.myqip.ru/",
+            "type": "clear"
+          }
         ],
         "created": 1610755200,
         "tags": [
@@ -869,13 +1196,18 @@
       },
       {
         "id": "site-nestchan-i2p",
-        "urls": [
-          "http://nestchan.i2p/",
-          "http://wzwlwxju3orzbuld7cjtia2z4fqp2vt7orjdzmsz3ynlqr3ewokq.b32.i2p/"
+        "links": [
+          {
+            "source": "http://nestchan.i2p/",
+            "type": "i2p"
+          },
+          {
+            "source": "http://wzwlwxju3orzbuld7cjtia2z4fqp2vt7orjdzmsz3ynlqr3ewokq.b32.i2p/",
+            "type": "i2p"
+          }
         ],
         "created": 1658102400,
         "tags": [
-          "#ins",
           "#i2p",
           "#other",
           "#wild"
@@ -883,9 +1215,15 @@
       },
       {
         "id": "site-neochan-ru",
-        "urls": [
-          "https://neochan.ru/",
-          "http://neochan7n7xp2v6yvw2u6zedciwlhot4kwftqpuoxrjwet3iprcms2qd.onion/"
+        "links": [
+          {
+            "source": "https://neochan.ru/",
+            "type": "clear"
+          },
+          {
+            "source": "http://neochan7n7xp2v6yvw2u6zedciwlhot4kwftqpuoxrjwet3iprcms2qd.onion/",
+            "type": "onion"
+          }
         ],
         "created": 1521936000,
         "tags": [
@@ -896,22 +1234,16 @@
         ]
       },
       {
-        "id": "site-nyamo-org",
-        "urls": [
-          "https://nyamo.org/"
-        ],
-        "created": 1664928000,
-        "tags": [
-          "#del",
-          "#clear",
-          "#other",
-          "#ghost"
-        ]
-      },
-      {
         "id": "site-ochan-ru",
-        "urls": [
-          "https://ochan.ru/"
+        "links": [
+          {
+            "source": "https://ochan.ru/",
+            "type": "clear"
+          },
+          {
+            "source": "https://0chan.me/",
+            "type": "clear"
+          }
         ],
         "created": 1545264000,
         "tags": [
@@ -924,9 +1256,15 @@
       },
       {
         "id": "site-overchan-ru",
-        "urls": [
-          "http://overchan.ru/",
-          "http://12ch.ru/"
+        "links": [
+          {
+            "source": "http://overchan.ru/",
+            "type": "clear"
+          },
+          {
+            "source": "http://12ch.ru/",
+            "type": "clear"
+          }
         ],
         "created": 1204416000,
         "tags": [
@@ -938,8 +1276,11 @@
       },
       {
         "id": "site-pfpmd7dd5ijt4add2sfi4djsaij4u3ebvnwvyvuj6aeipe2f5llptkid-onion",
-        "urls": [
-          "http://pfpmd7dd5ijt4add2sfi4djsaij4u3ebvnwvyvuj6aeipe2f5llptkid.onion/"
+        "links": [
+          {
+            "source": "http://pfpmd7dd5ijt4add2sfi4djsaij4u3ebvnwvyvuj6aeipe2f5llptkid.onion/",
+            "type": "onion"
+          }
         ],
         "created": 1426204800,
         "tags": [
@@ -950,8 +1291,11 @@
       },
       {
         "id": "site-ponyach-ru",
-        "urls": [
-          "https://ponyach.ru/"
+        "links": [
+          {
+            "source": "https://ponyach.ru/",
+            "type": "clear"
+          }
         ],
         "created": 1341014400,
         "tags": [
@@ -962,9 +1306,15 @@
       },
       {
         "id": "site-purplechan-i2p",
-        "urls": [
-          "http://purplechan.i2p/",
-          "http://tyiwxpgs7syjvz3cha3uckaxgondtiktlsvriebyy4qmzgbaj3gq.b32.i2p/"
+        "links": [
+          {
+            "source": "http://purplechan.i2p/",
+            "type": "i2p"
+          },
+          {
+            "source": "http://tyiwxpgs7syjvz3cha3uckaxgondtiktlsvriebyy4qmzgbaj3gq.b32.i2p/",
+            "type": "i2p"
+          }
         ],
         "created": 1633564800,
         "tags": [
@@ -974,25 +1324,16 @@
         ]
       },
       {
-        "id": "site-govnyach-pythonanywhere-com",
-        "urls": [
-          "https://govnyach.pythonanywhere.com/"
-        ],
-        "created": 1659484800,
-        "tags": [
-          "#del",
-          "#other",
-          "#3ld",
-          "#wild"
-        ]
-      },
-      {
         "id": "site-trash-pythonanywhere-com",
-        "urls": [
-          "https://trash.pythonanywhere.com/"
+        "links": [
+          {
+            "source": "https://trash.pythonanywhere.com/",
+            "type": "clear"
+          }
         ],
         "created": 1644969600,
         "tags": [
+          "#clear",
           "#other",
           "#3ld",
           "#wild"
@@ -1000,9 +1341,15 @@
       },
       {
         "id": "site-rfch-rocks",
-        "urls": [
-          "https://rfch.rocks/",
-          "https://rfch.xyz/"
+        "links": [
+          {
+            "source": "https://rfch.rocks/",
+            "type": "blocked"
+          },
+          {
+            "source": "https://rfch.xyz/",
+            "type": "blocked"
+          }
         ],
         "created": 1381449600,
         "tags": [
@@ -1013,13 +1360,48 @@
         ]
       },
       {
+        "id": "site-srachan-i2p",
+        "links": [
+          {
+            "source": "http://srachan.i2p/",
+            "type": "i2p"
+          },
+          {
+            "source": "http://tc6zs7ddxl3vlfvug2ynvrklq2z6eslgwxj3gcksxs3tz7saseja.b32.i2p/",
+            "type": "i2p"
+          }
+        ],
+        "created": 1684972800,
+        "tags": [
+          "#ins",
+          "#i2p",
+          "#other",
+          "#wild"
+        ]
+      },
+      {
         "id": "site-syn-ch-ru",
-        "urls": [
-          "https://syn-ch.ru/",
-          "https://syn-ch.com/",
-          "https://syn-ch.org/",
-          "https://синч.рф/",
-          "https://syn-ch.com.ua/"
+        "links": [
+          {
+            "source": "https://syn-ch.ru/",
+            "type": "clear"
+          },
+          {
+            "source": "https://syn-ch.com/",
+            "type": "clear"
+          },
+          {
+            "source": "https://syn-ch.org/",
+            "type": "clear"
+          },
+          {
+            "source": "https://синч.рф/",
+            "type": "clear"
+          },
+          {
+            "source": "https://syn-ch.com.ua/",
+            "type": "clear"
+          }
         ],
         "created": 1364860800,
         "tags": [
@@ -1032,11 +1414,13 @@
       },
       {
         "id": "site-tuzach-in",
-        "urls": [
-          "https://tuzach.in/"
+        "links": [
+          {
+            "source": "https://tuzach.in/",
+            "type": "clear"
+          }
         ],
         "tags": [
-          "#ins",
           "#clear",
           "#other",
           "#wild",
@@ -1044,9 +1428,33 @@
         ]
       },
       {
+        "id": "site-taozgyb2jfbj567lzvfjse4c2snsb37tq3o2iucflxqoilogwc6bx2qd-onion",
+        "links": [
+          {
+            "source": "http://taozgyb2jfbj567lzvfjse4c2snsb37tq3o2iucflxqoilogwc6bx2qd.onion/ru",
+            "type": "onion"
+          },
+          {
+            "source": "http://y5hr627jx2kzyaxlg3i5ohbmlj37eduamz67qd23kkg3dy4hg5ea.b32.i2p/ru",
+            "type": "i2p"
+          }
+        ],
+        "created": 1654819200,
+        "tags": [
+          "#ins",
+          "#onion",
+          "#i2p",
+          "#other",
+          "#wild"
+        ]
+      },
+      {
         "id": "site-vkchan-ru",
-        "urls": [
-          "https://vkchan.ru/"
+        "links": [
+          {
+            "source": "https://vkchan.ru/",
+            "type": "clear"
+          }
         ],
         "created": 1405382400,
         "tags": [
@@ -1058,8 +1466,11 @@
       },
       {
         "id": "site-ylilauta-org",
-        "urls": [
-          "https://ylilauta.org/russia"
+        "links": [
+          {
+            "source": "https://ylilauta.org/russia",
+            "type": "clear"
+          }
         ],
         "created": 1564876800,
         "tags": [
@@ -1072,8 +1483,11 @@
       },
       {
         "id": "site-zchan-app",
-        "urls": [
-          "https://zchan.app/"
+        "links": [
+          {
+            "source": "https://zchan.app/",
+            "type": "clear"
+          }
         ],
         "created": 1596585600,
         "tags": [
@@ -1084,8 +1498,11 @@
       },
       {
         "id": "site-zloiodm-in",
-        "urls": [
-          "https://zloiodm.in/"
+        "links": [
+          {
+            "source": "https://zloiodm.in/",
+            "type": "clear"
+          }
         ],
         "created": 1369958400,
         "tags": [
@@ -1099,17 +1516,17 @@
       {
         "id": "#ins",
         "description": "Добавлено в текущей редакции",
-        "displayHint": "style"
+        "type": "style"
       },
       {
         "id": "#del",
         "description": "Помечено к удалению в следующей редакции",
-        "displayHint": "style"
+        "type": "style"
       },
       {
         "id": "#clear",
         "description": "Находится в открытом доступе",
-        "displayHint": "hidden"
+        "type": "hidden"
       },
       {
         "id": "#block",
@@ -1118,27 +1535,27 @@
       {
         "id": "#onion",
         "description": "Доступно в сети Tor",
-        "displayHint": "hidden"
+        "type": "hidden"
       },
       {
         "id": "#i2p",
         "description": "Доступно в сети I2P",
-        "displayHint": "hidden"
+        "type": "hidden"
       },
       {
         "id": "#loki",
         "description": "Доступно в сети Lokinet",
-        "displayHint": "hidden"
+        "type": "hidden"
       },
       {
         "id": "#approved",
         "description": "Одобренные",
-        "displayHint": "section"
+        "type": "section"
       },
       {
         "id": "#other",
         "description": "Прочее",
-        "displayHint": "section"
+        "type": "section"
       },
       {
         "id": "#x0ch",
@@ -1151,6 +1568,10 @@
       {
         "id": "#x2ch",
         "description": "Пост-2ch.ru и связанные сайты"
+      },
+      {
+        "id": "#apach",
+        "description": "apachan.ru и связанные сайты"
       },
       {
         "id": "#iich",
