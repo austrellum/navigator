@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.4.0-rc5",
+    "version": "1.5.0-rc6",
     "created": 1654473600,
-    "updated": 1685577600,
+    "updated": 1688169600,
     "source": "https://github.com/austrellum/navigator"
   },
   "data": {
@@ -16,7 +16,7 @@
           }
         ],
         "created": 1597017600,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#approved",
           "#x1ch",
@@ -32,7 +32,7 @@
           }
         ],
         "created": 1652659200,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#approved",
           "#x1ch",
@@ -53,7 +53,8 @@
           }
         ],
         "created": 1341100800,
-        "tags": [
+        "tagsIds": [
+          "#del",
           "#clear",
           "#approved"
         ]
@@ -71,7 +72,7 @@
           }
         ],
         "created": 1234396800,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#approved",
           "#iich"
@@ -94,7 +95,7 @@
           }
         ],
         "created": 1677801600,
-        "tags": [
+        "tagsIds": [
           "#onion",
           "#i2p",
           "#approved"
@@ -109,7 +110,7 @@
           }
         ],
         "created": 1250899200,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#approved"
         ]
@@ -123,7 +124,7 @@
           }
         ],
         "created": 1218067200,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#approved",
           "#iich"
@@ -138,7 +139,7 @@
           }
         ],
         "created": 1242000000,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#approved"
         ]
@@ -171,7 +172,8 @@
             "type": "loki"
           }
         ],
-        "tags": [
+        "created": 1450569600,
+        "tagsIds": [
           "#clear",
           "#block",
           "#onion",
@@ -193,7 +195,7 @@
           }
         ],
         "created": 1592956800,
-        "tags": [
+        "tagsIds": [
           "#i2p",
           "#approved"
         ]
@@ -207,7 +209,7 @@
           }
         ],
         "created": 1202601600,
-        "tags": [
+        "tagsIds": [
           "#block",
           "#approved",
           "#iich"
@@ -222,25 +224,10 @@
           }
         ],
         "created": 1419379200,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#approved",
           "#iich"
-        ]
-      },
-      {
-        "id": "site-swarm-su",
-        "links": [
-          {
-            "source": "https://swarm.su/",
-            "type": "clear"
-          }
-        ],
-        "created": 1664582400,
-        "tags": [
-          "#clear",
-          "#approved",
-          "#clone"
         ]
       },
       {
@@ -252,7 +239,7 @@
           }
         ],
         "created": 1275696000,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#approved"
         ]
@@ -266,7 +253,8 @@
           }
         ],
         "created": 1673568000,
-        "tags": [
+        "tagsIds": [
+          "#del",
           "#clear",
           "#approved",
           "#iich",
@@ -282,7 +270,7 @@
           }
         ],
         "created": 1335744000,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
           "#x0ch",
@@ -300,7 +288,7 @@
           }
         ],
         "created": 1554422400,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
           "#iich",
@@ -316,7 +304,7 @@
           }
         ],
         "created": 1637539200,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
           "#ghost",
@@ -332,7 +320,7 @@
           }
         ],
         "created": 1382659200,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
           "#clone",
@@ -349,7 +337,7 @@
           }
         ],
         "created": 1678060800,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
           "#x0ch",
@@ -370,7 +358,7 @@
           }
         ],
         "created": 1672963200,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#onion",
           "#other",
@@ -388,7 +376,7 @@
           }
         ],
         "created": 1682208000,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
           "#x0ch",
@@ -402,10 +390,18 @@
           {
             "source": "https://0chans.ru/",
             "type": "clear"
+          },
+          {
+            "source": "http://nullchanxrt7ecw7sifwei466qli3sku725tusz22w22opkfcxksinyd.onion/",
+            "type": "onion"
+          },
+          {
+            "source": "http://nullchan.i2p/",
+            "type": "i2p"
           }
         ],
-        "tags": [
-          "#ins",
+        "tagsIds": [
+          "#del",
           "#clear",
           "#other",
           "#x0ch",
@@ -419,10 +415,15 @@
           {
             "source": "https://0chna.ru/",
             "type": "clear"
+          },
+          {
+            "source": "http://ykzvtjpl56wkpapyq4yxp6tnyweu3adreqjuuqon5ncwanla7unnnpqd.onion/",
+            "type": "onion"
           }
         ],
         "created": 1675814400,
-        "tags": [
+        "tagsIds": [
+          "#del",
           "#clear",
           "#other",
           "#x0ch",
@@ -442,7 +443,7 @@
             "type": "i2p"
           }
         ],
-        "tags": [
+        "tagsIds": [
           "#i2p",
           "#other",
           "#readonly",
@@ -458,7 +459,7 @@
           }
         ],
         "created": 1397174400,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
           "#x1ch",
@@ -475,7 +476,8 @@
           }
         ],
         "created": 1644969600,
-        "tags": [
+        "tagsIds": [
+          "#del",
           "#clear",
           "#other",
           "#x1ch",
@@ -492,7 +494,7 @@
           }
         ],
         "created": 1679788800,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
           "#x1ch",
@@ -509,7 +511,7 @@
           }
         ],
         "created": 1536364800,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
           "#x1ch",
@@ -526,8 +528,7 @@
           }
         ],
         "created": 1683849600,
-        "tags": [
-          "#ins",
+        "tagsIds": [
           "#clear",
           "#other",
           "#wild"
@@ -546,7 +547,7 @@
           }
         ],
         "created": 1238544000,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
           "#x2ch",
@@ -563,7 +564,7 @@
           }
         ],
         "created": 1682294400,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
           "#x0ch",
@@ -592,7 +593,7 @@
           }
         ],
         "created": 1535241600,
-        "tags": [
+        "tagsIds": [
           "#block",
           "#onion",
           "#i2p",
@@ -611,9 +612,10 @@
           }
         ],
         "created": 1364774400,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
+          "#iich",
           "#ghost"
         ]
       },
@@ -626,7 +628,7 @@
           }
         ],
         "created": 1530489600,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
           "#ghost"
@@ -641,7 +643,7 @@
           }
         ],
         "created": 1366588800,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
           "#iich",
@@ -661,7 +663,7 @@
           }
         ],
         "created": 1571097600,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#onion",
           "#other",
@@ -678,9 +680,10 @@
           }
         ],
         "created": 1423785600,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
+          "#fags",
           "#ux"
         ]
       },
@@ -693,7 +696,7 @@
           }
         ],
         "created": 1660089600,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
           "#apach",
@@ -709,7 +712,7 @@
           }
         ],
         "created": 1330473600,
-        "tags": [
+        "tagsIds": [
           "#block",
           "#other",
           "#x0ch",
@@ -725,7 +728,7 @@
           }
         ],
         "created": 1214956800,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
           "#readonly"
@@ -740,7 +743,7 @@
           }
         ],
         "created": 1469059200,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
           "#ghost",
@@ -760,7 +763,7 @@
           }
         ],
         "created": 1673049600,
-        "tags": [
+        "tagsIds": [
           "#i2p",
           "#other",
           "#wild"
@@ -775,7 +778,7 @@
           }
         ],
         "created": 1236211200,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
           "#apach",
@@ -795,27 +798,11 @@
           }
         ],
         "created": 1547164800,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
           "#apach",
           "#wild"
-        ]
-      },
-      {
-        "id": "site-merzochan-at-ua",
-        "links": [
-          {
-            "source": "https://merzochan.at.ua/",
-            "type": "clear"
-          }
-        ],
-        "created": 1465776000,
-        "tags": [
-          "#clear",
-          "#other",
-          "#3ld",
-          "#ghost"
         ]
       },
       {
@@ -827,12 +814,28 @@
           }
         ],
         "created": 1504137600,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
           "#entry",
           "#readonly",
           "#ux"
+        ]
+      },
+      {
+        "id": "site-merzochan-at-ua",
+        "links": [
+          {
+            "source": "https://merzochan.at.ua/",
+            "type": "clear"
+          }
+        ],
+        "created": 1465776000,
+        "tagsIds": [
+          "#clear",
+          "#other",
+          "#3ld",
+          "#ghost"
         ]
       },
       {
@@ -844,7 +847,7 @@
           }
         ],
         "created": 1271548800,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
           "#wild"
@@ -859,8 +862,7 @@
           }
         ],
         "created": 1669680000,
-        "tags": [
-          "#ins",
+        "tagsIds": [
           "#clear",
           "#other",
           "#apach",
@@ -877,7 +879,7 @@
           }
         ],
         "created": 1661904000,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
           "#3ld",
@@ -893,7 +895,7 @@
           }
         ],
         "created": 1589587200,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
           "#3ld",
@@ -913,7 +915,7 @@
           }
         ],
         "created": 1320796800,
-        "tags": [
+        "tagsIds": [
           "#block",
           "#other",
           "#x2ch",
@@ -930,7 +932,7 @@
           }
         ],
         "created": 1585094400,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
           "#3ld",
@@ -947,7 +949,7 @@
           }
         ],
         "created": 1305676800,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
           "#ghost",
@@ -955,27 +957,18 @@
         ]
       },
       {
-        "id": "site-rcuhe6pk7mbmsjk7bwyja5etvjhjvzmc724rnf3piamemvawoi44z7qd-onion",
+        "id": "site-gopchnqtt2thncw263t32kg3wav567kf5lhzpzqcbnp5diofnhqq-b32-i2p",
         "links": [
           {
-            "source": "http://rcuhe6pk7mbmsjk7bwyja5etvjhjvzmc724rnf3piamemvawoi44z7qd.onion/rus",
-            "type": "onion"
-          },
-          {
-            "source": "http://foxdickchan.i2p/rus",
-            "type": "i2p"
-          },
-          {
-            "source": "http://iqxr4hupmaqdd4wvkwwjjrq6ddocydqqqadtnk6ltdnalvrzanxq.b32.i2p/rus",
+            "source": "https://gopchnqtt2thncw263t32kg3wav567kf5lhzpzqcbnp5diofnhqq.b32.i2p/",
             "type": "i2p"
           }
         ],
-        "tags": [
-          "#onion",
+        "tagsIds": [
+          "#ins",
           "#i2p",
           "#other",
-          "#entry",
-          "#ghost"
+          "#wild"
         ]
       },
       {
@@ -986,7 +979,11 @@
             "type": "clear"
           },
           {
-            "source": "https://xcomm.id/",
+            "source": "https://kctier.club/ru",
+            "type": "blocked"
+          },
+          {
+            "source": "https://krautchan.rip/ru",
             "type": "clear"
           },
           {
@@ -994,16 +991,12 @@
             "type": "clear"
           },
           {
-            "source": "https://krautchan.rip/ru",
+            "source": "https://xcomm.id/",
             "type": "clear"
-          },
-          {
-            "source": "https://kctier.club/ru",
-            "type": "blocked"
           }
         ],
         "created": 1256342400,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#block",
           "#other",
@@ -1020,7 +1013,7 @@
           }
         ],
         "created": 1278374400,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
           "#fags",
@@ -1037,7 +1030,7 @@
           }
         ],
         "created": 1180656000,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
           "#iich",
@@ -1053,7 +1046,7 @@
           }
         ],
         "created": 1485993600,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
           "#readonly"
@@ -1087,7 +1080,8 @@
             "type": "i2p"
           }
         ],
-        "tags": [
+        "created": 1521936000,
+        "tagsIds": [
           "#clear",
           "#block",
           "#onion",
@@ -1106,7 +1100,7 @@
           }
         ],
         "created": 1500336000,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
           "#fags"
@@ -1120,8 +1114,8 @@
             "type": "clear"
           }
         ],
-        "tags": [
-          "#ins",
+        "created": 1684454400,
+        "tagsIds": [
           "#clear",
           "#other",
           "#wild"
@@ -1136,7 +1130,7 @@
           }
         ],
         "created": 1683849600,
-        "tags": [
+        "tagsIds": [
           "#del",
           "#clear",
           "#other",
@@ -1155,7 +1149,7 @@
             "type": "i2p"
           }
         ],
-        "tags": [
+        "tagsIds": [
           "#onion",
           "#i2p",
           "#other",
@@ -1172,7 +1166,7 @@
           }
         ],
         "created": 1667433600,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
           "#wild"
@@ -1187,30 +1181,11 @@
           }
         ],
         "created": 1610755200,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
           "#3ld",
           "#ghost"
-        ]
-      },
-      {
-        "id": "site-nestchan-i2p",
-        "links": [
-          {
-            "source": "http://nestchan.i2p/",
-            "type": "i2p"
-          },
-          {
-            "source": "http://wzwlwxju3orzbuld7cjtia2z4fqp2vt7orjdzmsz3ynlqr3ewokq.b32.i2p/",
-            "type": "i2p"
-          }
-        ],
-        "created": 1658102400,
-        "tags": [
-          "#i2p",
-          "#other",
-          "#wild"
         ]
       },
       {
@@ -1226,11 +1201,30 @@
           }
         ],
         "created": 1521936000,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#onion",
           "#other",
           "#fags"
+        ]
+      },
+      {
+        "id": "site-nestchan-i2p",
+        "links": [
+          {
+            "source": "http://nestchan.i2p/",
+            "type": "i2p"
+          },
+          {
+            "source": "http://wzwlwxju3orzbuld7cjtia2z4fqp2vt7orjdzmsz3ynlqr3ewokq.b32.i2p/",
+            "type": "i2p"
+          }
+        ],
+        "created": 1658102400,
+        "tagsIds": [
+          "#i2p",
+          "#other",
+          "#wild"
         ]
       },
       {
@@ -1246,7 +1240,7 @@
           }
         ],
         "created": 1545264000,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
           "#x0ch",
@@ -1267,7 +1261,7 @@
           }
         ],
         "created": 1204416000,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
           "#iich",
@@ -1283,7 +1277,7 @@
           }
         ],
         "created": 1426204800,
-        "tags": [
+        "tagsIds": [
           "#onion",
           "#other",
           "#wild"
@@ -1298,7 +1292,7 @@
           }
         ],
         "created": 1341014400,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
           "#fags"
@@ -1317,7 +1311,7 @@
           }
         ],
         "created": 1633564800,
-        "tags": [
+        "tagsIds": [
           "#i2p",
           "#other",
           "#wild"
@@ -1332,10 +1326,51 @@
           }
         ],
         "created": 1644969600,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
           "#3ld",
+          "#wild"
+        ]
+      },
+      {
+        "id": "site-rcuhe6pk7mbmsjk7bwyja5etvjhjvzmc724rnf3piamemvawoi44z7qd-onion",
+        "links": [
+          {
+            "source": "http://rcuhe6pk7mbmsjk7bwyja5etvjhjvzmc724rnf3piamemvawoi44z7qd.onion/rus",
+            "type": "onion"
+          },
+          {
+            "source": "http://foxdickchan.i2p/rus",
+            "type": "i2p"
+          },
+          {
+            "source": "http://iqxr4hupmaqdd4wvkwwjjrq6ddocydqqqadtnk6ltdnalvrzanxq.b32.i2p/rus",
+            "type": "i2p"
+          }
+        ],
+        "tagsIds": [
+          "#del",
+          "#onion",
+          "#i2p",
+          "#other",
+          "#entry",
+          "#ghost"
+        ]
+      },
+      {
+        "id": "site-reee-re",
+        "links": [
+          {
+            "source": "https://reee.re/",
+            "type": "clear"
+          }
+        ],
+        "created": 1685491200,
+        "tagsIds": [
+          "#ins",
+          "#clear",
+          "#other",
           "#wild"
         ]
       },
@@ -1352,7 +1387,7 @@
           }
         ],
         "created": 1381449600,
-        "tags": [
+        "tagsIds": [
           "#block",
           "#other",
           "#x2ch",
@@ -1372,8 +1407,7 @@
           }
         ],
         "created": 1684972800,
-        "tags": [
-          "#ins",
+        "tagsIds": [
           "#i2p",
           "#other",
           "#wild"
@@ -1404,27 +1438,28 @@
           }
         ],
         "created": 1364860800,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
+          "#x2ch",
           "#fags",
           "#mods",
           "#wild"
         ]
       },
       {
-        "id": "site-tuzach-in",
+        "id": "site-swarm-su",
         "links": [
           {
-            "source": "https://tuzach.in/",
+            "source": "https://swarm.su/",
             "type": "clear"
           }
         ],
-        "tags": [
+        "created": 1664582400,
+        "tagsIds": [
           "#clear",
           "#other",
-          "#wild",
-          "#ux"
+          "#clone"
         ]
       },
       {
@@ -1440,12 +1475,27 @@
           }
         ],
         "created": 1654819200,
-        "tags": [
-          "#ins",
+        "tagsIds": [
           "#onion",
           "#i2p",
           "#other",
           "#wild"
+        ]
+      },
+      {
+        "id": "site-tuzach-in",
+        "links": [
+          {
+            "source": "https://tuzach.in/",
+            "type": "clear"
+          }
+        ],
+        "created": 1312416000,
+        "tagsIds": [
+          "#clear",
+          "#other",
+          "#wild",
+          "#ux"
         ]
       },
       {
@@ -1457,10 +1507,9 @@
           }
         ],
         "created": 1405382400,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
-          "#clone",
           "#ghost"
         ]
       },
@@ -1472,8 +1521,8 @@
             "type": "clear"
           }
         ],
-        "created": 1564876800,
-        "tags": [
+        "created": 1298160000,
+        "tagsIds": [
           "#clear",
           "#other",
           "#entry",
@@ -1490,7 +1539,7 @@
           }
         ],
         "created": 1596585600,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
           "#wild"
@@ -1505,7 +1554,7 @@
           }
         ],
         "created": 1369958400,
-        "tags": [
+        "tagsIds": [
           "#clear",
           "#other",
           "#fags"
