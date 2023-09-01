@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.6.0-rc7",
+    "version": "1.7.0-rc8",
     "created": "2022-06-06",
-    "updated": "2023-08-01",
+    "updated": "2023-09-01",
     "source": "https://github.com/austrellum/navigator",
     "discussion": "https://wc.12hp.ch/wc/res/950.html",
     "localesIds": [
@@ -12,12 +12,20 @@
   "data": {
     "locales": [
       {
+        "id": "ar",
+        "description": "Арабский язык"
+      },
+      {
         "id": "de",
         "description": "Немецкий язык"
       },
       {
         "id": "en",
         "description": "Английский язык"
+      },
+      {
+        "id": "eo",
+        "description": "Эсперанто"
       },
       {
         "id": "es",
@@ -32,6 +40,26 @@
         "description": "Венгерский язык"
       },
       {
+        "id": "id",
+        "description": "Индонезийский язык"
+      },
+      {
+        "id": "it",
+        "description": "Итальянский язык"
+      },
+      {
+        "id": "ja",
+        "description": "Японский язык"
+      },
+      {
+        "id": "ko",
+        "description": "Корейский язык"
+      },
+      {
+        "id": "lt",
+        "description": "Литовский язык"
+      },
+      {
         "id": "pl",
         "description": "Польский язык"
       },
@@ -42,6 +70,10 @@
       {
         "id": "ru",
         "description": "Русский язык"
+      },
+      {
+        "id": "tr",
+        "description": "Турецкий язык"
       },
       {
         "id": "uk",
@@ -63,8 +95,8 @@
         ],
         "created": "2012-04-30",
         "tagsIds": [
-          "#clear",
           "#approved",
+          "#www",
           "#x0ch",
           "#clone",
           "#mods",
@@ -85,8 +117,8 @@
         ],
         "created": "2019-04-05",
         "tagsIds": [
-          "#clear",
           "#approved",
+          "#www",
           "#iich",
           "#fags"
         ]
@@ -101,10 +133,31 @@
         ],
         "created": "2013-10-25",
         "tagsIds": [
-          "#clear",
           "#approved",
+          "#www",
           "#clone",
           "#fags",
+          "#wild"
+        ]
+      },
+      {
+        "id": "0chan-me",
+        "links": [
+          {
+            "source": "https://0chan.me/",
+            "type": "clear"
+          },
+          {
+            "source": "https://ochan.ru/",
+            "type": "clear"
+          }
+        ],
+        "created": "2018-12-20",
+        "tagsIds": [
+          "#approved",
+          "#www",
+          "#x0ch",
+          "#clone",
           "#wild"
         ]
       },
@@ -122,9 +175,9 @@
         ],
         "created": "2023-01-06",
         "tagsIds": [
-          "#clear",
-          "#onion",
           "#approved",
+          "#www",
+          "#tor",
           "#x0ch",
           "#clone",
           "#mods"
@@ -140,10 +193,10 @@
         ],
         "created": "2020-08-10",
         "tagsIds": [
-          "#clear",
           "#approved",
+          "#www",
           "#x1ch",
-          "#3ld"
+          "#cheap"
         ]
       },
       {
@@ -156,11 +209,11 @@
         ],
         "created": "2022-05-16",
         "tagsIds": [
-          "#clear",
           "#approved",
+          "#www",
           "#x1ch",
           "#clone",
-          "#ux"
+          "#comfy"
         ]
       },
       {
@@ -173,12 +226,16 @@
           {
             "source": "https://2ch.life/",
             "type": "clear"
+          },
+          {
+            "source": "https://2-ch.ru/",
+            "type": "clear"
           }
         ],
         "created": "2009-04-01",
         "tagsIds": [
-          "#clear",
           "#approved",
+          "#www",
           "#x2ch",
           "#clone",
           "#mods"
@@ -206,10 +263,11 @@
         ],
         "created": "2018-08-26",
         "tagsIds": [
-          "#blocked",
-          "#onion",
-          "#i2p",
           "#approved",
+          "#www",
+          "#blocked",
+          "#tor",
+          "#i2p",
           "#x2ch",
           "#clone",
           "#wild"
@@ -229,8 +287,9 @@
         ],
         "created": "2012-07",
         "tagsIds": [
-          "#clear",
-          "#approved"
+          "#approved",
+          "#www",
+          "#obscure"
         ]
       },
       {
@@ -247,8 +306,8 @@
         ],
         "created": "2009-02-12",
         "tagsIds": [
-          "#clear",
           "#approved",
+          "#www",
           "#iich",
           "#fags"
         ]
@@ -271,26 +330,9 @@
         ],
         "created": "2023-03-03",
         "tagsIds": [
-          "#onion",
+          "#approved",
+          "#tor",
           "#i2p",
-          "#approved",
-          "#wild"
-        ]
-      },
-      {
-        "id": "alphachan-pro",
-        "links": [
-          {
-            "source": "http://alphachan.pro/",
-            "type": "clear"
-          }
-        ],
-        "created": "2022-08-10",
-        "tagsIds": [
-          "#del",
-          "#clear",
-          "#approved",
-          "#xapach",
           "#wild"
         ]
       },
@@ -304,8 +346,9 @@
         ],
         "created": "2012-02-29",
         "tagsIds": [
-          "#blocked",
           "#approved",
+          "#www",
+          "#blocked",
           "#x0ch",
           "#mods"
         ]
@@ -324,9 +367,9 @@
         ],
         "created": "2023-01-07",
         "tagsIds": [
+          "#approved",
           "#del",
           "#i2p",
-          "#approved",
           "#wild"
         ]
       },
@@ -339,8 +382,8 @@
           }
         ],
         "tagsIds": [
-          "#clear",
           "#approved",
+          "#www",
           "#xapach",
           "#clone",
           "#wild"
@@ -360,8 +403,8 @@
         ],
         "created": "2019-01-11",
         "tagsIds": [
-          "#clear",
           "#approved",
+          "#www",
           "#xapach",
           "#clone",
           "#wild"
@@ -377,8 +420,8 @@
         ],
         "created": "2009-08-22",
         "tagsIds": [
-          "#clear",
-          "#approved"
+          "#approved",
+          "#www"
         ]
       },
       {
@@ -389,11 +432,12 @@
             "type": "clear"
           }
         ],
-        "created": "2008-08-07",
+        "created": "2023-01-13",
         "tagsIds": [
-          "#clear",
           "#approved",
-          "#iich"
+          "#www",
+          "#iich",
+          "#clone"
         ]
       },
       {
@@ -409,8 +453,9 @@
           "uk"
         ],
         "tagsIds": [
-          "#clear",
-          "#approved"
+          "#approved",
+          "#www",
+          "#foreign"
         ]
       },
       {
@@ -427,8 +472,9 @@
         ],
         "created": "2011-11-09",
         "tagsIds": [
-          "#blocked",
           "#approved",
+          "#www",
+          "#blocked",
           "#x2ch",
           "#clone",
           "#fags"
@@ -465,26 +511,37 @@
         "created": "2015-12-20",
         "entries": [
           "bb",
+          "ca",
+          "dobrochan",
           "dota",
           "genshin",
+          "obr",
           "polru",
           "rus"
         ],
         "localesIds": [
+          "ar",
           "en",
+          "eo",
           "es",
           "hu",
+          "id",
+          "it",
+          "ja",
+          "ko",
+          "lt",
           "pl",
           "pt",
+          "tr",
           "zh-HK"
         ],
         "tagsIds": [
-          "#clear",
-          "#blocked",
-          "#onion",
-          "#loki",
           "#approved",
-          "#entry"
+          "#blocked",
+          "#www",
+          "#tor",
+          "#loki",
+          "#foreign"
         ]
       },
       {
@@ -497,11 +554,11 @@
         ],
         "created": "2010-07-06",
         "tagsIds": [
-          "#clear",
           "#approved",
+          "#www",
           "#fags",
           "#mods",
-          "#ux"
+          "#comfy"
         ]
       },
       {
@@ -514,8 +571,8 @@
         ],
         "created": "2007-06-01",
         "tagsIds": [
-          "#clear",
           "#approved",
+          "#www",
           "#iich",
           "#mods"
         ]
@@ -534,8 +591,8 @@
         ],
         "created": "2020-06-24",
         "tagsIds": [
-          "#i2p",
-          "#approved"
+          "#approved",
+          "#i2p"
         ]
       },
       {
@@ -548,8 +605,8 @@
         ],
         "created": "2017-07-18",
         "tagsIds": [
-          "#clear",
           "#approved",
+          "#www",
           "#fags"
         ]
       },
@@ -566,9 +623,9 @@
           }
         ],
         "tagsIds": [
-          "#onion",
-          "#i2p",
           "#approved",
+          "#tor",
+          "#i2p",
           "#clone",
           "#wild"
         ]
@@ -587,9 +644,9 @@
         ],
         "created": "2018-03-25",
         "tagsIds": [
-          "#clear",
-          "#onion",
           "#approved",
+          "#www",
+          "#tor",
           "#fags"
         ]
       },
@@ -603,29 +660,9 @@
         ],
         "created": "2008-02-10",
         "tagsIds": [
-          "#blocked",
-          "#approved"
-        ]
-      },
-      {
-        "id": "ochan-ru",
-        "links": [
-          {
-            "source": "https://ochan.ru/",
-            "type": "clear"
-          },
-          {
-            "source": "https://0chan.me/",
-            "type": "clear"
-          }
-        ],
-        "created": "2018-12-20",
-        "tagsIds": [
-          "#clear",
           "#approved",
-          "#x0ch",
-          "#clone",
-          "#wild"
+          "#www",
+          "#blocked"
         ]
       },
       {
@@ -642,8 +679,8 @@
         ],
         "created": "2008-03-02",
         "tagsIds": [
-          "#clear",
           "#approved",
+          "#www",
           "#iich",
           "#ghost"
         ]
@@ -658,8 +695,8 @@
         ],
         "created": "2014-12-24",
         "tagsIds": [
-          "#clear",
           "#approved",
+          "#www",
           "#iich"
         ]
       },
@@ -673,8 +710,9 @@
         ],
         "created": "2015-03-13",
         "tagsIds": [
-          "#onion",
           "#approved",
+          "#tor",
+          "#obscure",
           "#wild"
         ]
       },
@@ -688,8 +726,9 @@
         ],
         "created": "2012-06-30",
         "tagsIds": [
-          "#clear",
+          "#del",
           "#approved",
+          "#www",
           "#fags"
         ]
       },
@@ -708,8 +747,8 @@
         "created": "2021-10-07",
         "tagsIds": [
           "#del",
-          "#i2p",
           "#approved",
+          "#i2p",
           "#wild"
         ]
       },
@@ -727,10 +766,29 @@
         ],
         "created": "2013-10-11",
         "tagsIds": [
-          "#blocked",
           "#approved",
+          "#www",
+          "#blocked",
           "#x2ch",
           "#mods"
+        ]
+      },
+      {
+        "id": "paranormach-ru-swtest-ru",
+        "links": [
+          {
+            "source": "http://paranormach.ru.swtest.ru/",
+            "type": "clear"
+          }
+        ],
+        "created": "2023-08-22",
+        "tagsIds": [
+          "#ins",
+          "#approved",
+          "#www",
+          "#cheap",
+          "#iich",
+          "#wild"
         ]
       },
       {
@@ -759,8 +817,8 @@
         ],
         "created": "2013-04-02",
         "tagsIds": [
-          "#clear",
           "#approved",
+          "#www",
           "#x2ch",
           "#fags",
           "#mods",
@@ -777,10 +835,11 @@
         ],
         "created": "2011-08-04",
         "tagsIds": [
-          "#clear",
           "#approved",
+          "#www",
+          "#obscure",
           "#wild",
-          "#ux"
+          "#comfy"
         ]
       },
       {
@@ -792,10 +851,13 @@
           }
         ],
         "created": "2015-10-11",
+        "entries": [
+          "abe",
+          "dev"
+        ],
         "tagsIds": [
-          "#ins",
-          "#clear",
           "#approved",
+          "#www",
           "#iich"
         ]
       },
@@ -809,8 +871,8 @@
         ],
         "created": "2010-06-05",
         "tagsIds": [
-          "#clear",
-          "#approved"
+          "#approved",
+          "#www"
         ]
       },
       {
@@ -823,8 +885,9 @@
         ],
         "created": "2020-08-05",
         "tagsIds": [
-          "#clear",
+          "#del",
           "#approved",
+          "#www",
           "#wild"
         ]
       },
@@ -838,8 +901,8 @@
         ],
         "created": "2013-05-31",
         "tagsIds": [
-          "#clear",
           "#approved",
+          "#www",
           "#fags"
         ]
       },
@@ -853,9 +916,10 @@
         ],
         "created": "2021-11-22",
         "tagsIds": [
-          "#clear",
           "#other",
+          "#www",
           "#ghost",
+          "#obscure",
           "#readonly"
         ]
       },
@@ -869,11 +933,12 @@
         ],
         "created": "2023-03-06",
         "tagsIds": [
-          "#clear",
           "#other",
+          "#www",
           "#x0ch",
           "#clone",
-          "#ghost"
+          "#ghost",
+          "#obscure"
         ]
       },
       {
@@ -886,8 +951,8 @@
         ],
         "created": "2023-04-23",
         "tagsIds": [
-          "#clear",
           "#other",
+          "#www",
           "#x0ch",
           "#clone",
           "#wild"
@@ -903,9 +968,8 @@
         ],
         "created": "2016-02-23",
         "tagsIds": [
-          "#ins",
-          "#clear",
           "#other",
+          "#www",
           "#x0ch",
           "#stub"
         ]
@@ -923,8 +987,8 @@
           }
         ],
         "tagsIds": [
-          "#i2p",
           "#other",
+          "#i2p",
           "#readonly",
           "#wild"
         ]
@@ -943,8 +1007,8 @@
         ],
         "created": "2014-04-11",
         "tagsIds": [
-          "#clear",
           "#other",
+          "#www",
           "#x1ch",
           "#clone",
           "#wild"
@@ -960,8 +1024,8 @@
         ],
         "created": "2023-03-26",
         "tagsIds": [
-          "#clear",
           "#other",
+          "#www",
           "#x1ch",
           "#clone",
           "#wild"
@@ -977,27 +1041,10 @@
         ],
         "created": "2018-09-08",
         "tagsIds": [
-          "#del",
-          "#clear",
           "#other",
+          "#www",
           "#x1ch",
           "#clone",
-          "#wild"
-        ]
-      },
-      {
-        "id": "22channel-org",
-        "links": [
-          {
-            "source": "https://22channel.org/",
-            "type": "clear"
-          }
-        ],
-        "created": "2023-05-12",
-        "tagsIds": [
-          "#del",
-          "#clear",
-          "#other",
           "#wild"
         ]
       },
@@ -1011,11 +1058,27 @@
         ],
         "created": "2023-04-24",
         "tagsIds": [
-          "#clear",
           "#other",
+          "#www",
           "#x0ch",
           "#clone",
           "#wild"
+        ]
+      },
+      {
+        "id": "2ch-kz",
+        "links": [
+          {
+            "source": "http://2ch.kz/",
+            "type": "clear"
+          }
+        ],
+        "tagsIds": [
+          "#ins",
+          "#other",
+          "#www",
+          "#x2ch",
+          "#stub"
         ]
       },
       {
@@ -1028,9 +1091,9 @@
         ],
         "created": "2006-02-21",
         "tagsIds": [
-          "#ins",
-          "#clear",
           "#other",
+          "#www",
+          "#x2ch",
           "#stub"
         ]
       },
@@ -1044,8 +1107,8 @@
         ],
         "created": "2013-04-01",
         "tagsIds": [
-          "#clear",
           "#other",
+          "#www",
           "#iich",
           "#ghost"
         ]
@@ -1060,8 +1123,8 @@
         ],
         "created": "2018-07-02",
         "tagsIds": [
-          "#clear",
           "#other",
+          "#www",
           "#ghost"
         ]
       },
@@ -1075,8 +1138,8 @@
         ],
         "created": "2013-04-22",
         "tagsIds": [
-          "#clear",
           "#other",
+          "#www",
           "#iich",
           "#fags"
         ]
@@ -1090,10 +1153,9 @@
           }
         ],
         "tagsIds": [
-          "#ins",
-          "#clear",
           "#other",
-          "#3ld",
+          "#www",
+          "#cheap",
           "#stub"
         ]
       },
@@ -1118,10 +1180,10 @@
           "zh-HK"
         ],
         "tagsIds": [
-          "#clear",
-          "#onion",
           "#other",
-          "#entry",
+          "#www",
+          "#tor",
+          "#foreign",
           "#wild"
         ]
       },
@@ -1139,11 +1201,11 @@
         ],
         "created": "2015-02-13",
         "tagsIds": [
-          "#clear",
-          "#onion",
           "#other",
+          "#www",
+          "#tor",
           "#fags",
-          "#ux"
+          "#comfy"
         ]
       },
       {
@@ -1156,8 +1218,9 @@
         ],
         "created": "2008-07-02",
         "tagsIds": [
-          "#blocked",
           "#other",
+          "#www",
+          "#blocked",
           "#wild"
         ]
       },
@@ -1171,8 +1234,8 @@
         ],
         "created": "2016-07-21",
         "tagsIds": [
-          "#clear",
           "#other",
+          "#www",
           "#ghost",
           "#readonly"
         ]
@@ -1193,11 +1256,11 @@
           "en"
         ],
         "tagsIds": [
-          "#clear",
           "#other",
-          "#entry",
+          "#www",
+          "#foreign",
           "#readonly",
-          "#ux"
+          "#comfy"
         ]
       },
       {
@@ -1210,10 +1273,11 @@
         ],
         "created": "2016-06-13",
         "tagsIds": [
-          "#clear",
           "#other",
-          "#3ld",
-          "#ghost"
+          "#www",
+          "#cheap",
+          "#ghost",
+          "#obscure"
         ]
       },
       {
@@ -1226,8 +1290,9 @@
         ],
         "created": "2010-04-18",
         "tagsIds": [
-          "#clear",
           "#other",
+          "#www",
+          "#obscure",
           "#wild"
         ]
       },
@@ -1240,9 +1305,8 @@
           }
         ],
         "tagsIds": [
-          "#ins",
-          "#clear",
           "#other",
+          "#www",
           "#stub"
         ]
       },
@@ -1256,11 +1320,11 @@
         ],
         "created": "2022-11-29",
         "tagsIds": [
-          "#clear",
+          "#www",
           "#other",
           "#xapach",
           "#clone",
-          "#3ld",
+          "#cheap",
           "#ghost"
         ]
       },
@@ -1274,9 +1338,10 @@
         ],
         "created": "2022-08-31",
         "tagsIds": [
-          "#clear",
+          "#del",
           "#other",
-          "#3ld",
+          "#www",
+          "#cheap",
           "#ghost"
         ]
       },
@@ -1290,9 +1355,9 @@
         ],
         "created": "2020-05-16",
         "tagsIds": [
-          "#clear",
           "#other",
-          "#3ld",
+          "#www",
+          "#cheap",
           "#ghost"
         ]
       },
@@ -1306,9 +1371,9 @@
         ],
         "created": "2020-03-25",
         "tagsIds": [
-          "#clear",
           "#other",
-          "#3ld",
+          "#www",
+          "#cheap",
           "#ghost",
           "#readonly"
         ]
@@ -1323,15 +1388,19 @@
         ],
         "created": "2011-05-18",
         "tagsIds": [
-          "#clear",
           "#other",
+          "#www",
           "#ghost",
           "#readonly"
         ]
       },
       {
-        "id": "gopchnqtt2thncw263t32kg3wav567kf5lhzpzqcbnp5diofnhqq-b32-i2p",
+        "id": "gopchan-i2p",
         "links": [
+          {
+            "source": "http://gopchan.i2p/",
+            "type": "i2p"
+          },
           {
             "source": "https://gopchnqtt2thncw263t32kg3wav567kf5lhzpzqcbnp5diofnhqq.b32.i2p/",
             "type": "i2p"
@@ -1339,8 +1408,9 @@
         ],
         "tagsIds": [
           "#del",
-          "#i2p",
           "#other",
+          "#i2p",
+          "#obscure",
           "#wild"
         ]
       },
@@ -1377,11 +1447,28 @@
           "en"
         ],
         "tagsIds": [
-          "#clear",
-          "#blocked",
           "#other",
-          "#entry",
+          "#www",
+          "#blocked",
+          "#foreign",
           "#ghost"
+        ]
+      },
+      {
+        "id": "iichan-ru",
+        "links": [
+          {
+            "source": "http://iichan.ru/",
+            "type": "clear"
+          }
+        ],
+        "created": "2007-06-01",
+        "tagsIds": [
+          "#ins",
+          "#other",
+          "#www",
+          "#iich",
+          "#stub"
         ]
       },
       {
@@ -1394,8 +1481,8 @@
         ],
         "created": "2017-02-02",
         "tagsIds": [
-          "#clear",
           "#other",
+          "#www",
           "#readonly"
         ]
       },
@@ -1435,29 +1522,13 @@
           "de"
         ],
         "tagsIds": [
-          "#clear",
+          "#other",
+          "#www",
           "#blocked",
-          "#onion",
+          "#tor",
           "#i2p",
-          "#other",
-          "#entry",
+          "#foreign",
           "#ghost"
-        ]
-      },
-      {
-        "id": "lambdachan-net",
-        "links": [
-          {
-            "source": "https://lambdachan.net/",
-            "type": "clear"
-          }
-        ],
-        "created": "2023-05-19",
-        "tagsIds": [
-          "#del",
-          "#clear",
-          "#other",
-          "#wild"
         ]
       },
       {
@@ -1470,8 +1541,8 @@
         ],
         "created": "2022-11-03",
         "tagsIds": [
-          "#clear",
           "#other",
+          "#www",
           "#wild"
         ]
       },
@@ -1485,10 +1556,11 @@
         ],
         "created": "2021-01-16",
         "tagsIds": [
-          "#clear",
           "#other",
-          "#3ld",
-          "#ghost"
+          "#www",
+          "#cheap",
+          "#ghost",
+          "#obscure"
         ]
       },
       {
@@ -1505,8 +1577,8 @@
         ],
         "created": "2022-07-18",
         "tagsIds": [
-          "#i2p",
           "#other",
+          "#i2p",
           "#wild"
         ]
       },
@@ -1520,11 +1592,29 @@
         ],
         "created": "2016-09-29",
         "tagsIds": [
-          "#ins",
-          "#clear",
           "#other",
+          "#www",
           "#x0ch",
           "#stub"
+        ]
+      },
+      {
+        "id": "papachan-rf-gd",
+        "links": [
+          {
+            "source": "https://papachan.rf.gd/",
+            "type": "clear"
+          }
+        ],
+        "created": "2023-08-18",
+        "tagsIds": [
+          "#ins",
+          "#other",
+          "#www",
+          "#cheap",
+          "#clone",
+          "#xapach",
+          "#wild"
         ]
       },
       {
@@ -1537,9 +1627,9 @@
         ],
         "created": "2022-02-16",
         "tagsIds": [
-          "#clear",
           "#other",
-          "#3ld",
+          "#www",
+          "#cheap",
           "#wild"
         ]
       },
@@ -1553,8 +1643,8 @@
         ],
         "created": "2023-05-31",
         "tagsIds": [
-          "#clear",
           "#other",
+          "#www",
           "#wild"
         ]
       },
@@ -1572,8 +1662,9 @@
         ],
         "created": "2023-05-25",
         "tagsIds": [
-          "#i2p",
           "#other",
+          "#i2p",
+          "#obscure",
           "#wild"
         ]
       },
@@ -1587,8 +1678,8 @@
         ],
         "created": "2022-10-01",
         "tagsIds": [
-          "#clear",
-          "#other"
+          "#other",
+          "#www"
         ]
       },
       {
@@ -1608,9 +1699,9 @@
           "ru"
         ],
         "tagsIds": [
-          "#onion",
-          "#i2p",
           "#other",
+          "#tor",
+          "#i2p",
           "#wild"
         ]
       },
@@ -1624,9 +1715,8 @@
         ],
         "created": "2010-08-12",
         "tagsIds": [
-          "#ins",
-          "#clear",
           "#other",
+          "#www",
           "#stub"
         ]
       },
@@ -1640,25 +1730,42 @@
         ],
         "created": "2016-01-01",
         "tagsIds": [
-          "#ins",
-          "#clear",
           "#other",
+          "#www",
           "#stub"
         ]
       },
       {
-        "id": "utochan-ru",
+        "id": "uchan-i2p",
         "links": [
           {
-            "source": "https://utochan.ru/",
-            "type": "clear"
+            "source": "https://uchan.i2p/",
+            "type": "i2p"
+          }
+        ],
+        "created": "2023-07-24",
+        "localesIds": [
+          "en"
+        ],
+        "tagsIds": [
+          "#ins",
+          "#other",
+          "#i2p",
+          "#wild"
+        ]
+      },
+      {
+        "id": "uchan-i2p",
+        "links": [
+          {
+            "source": "https://uchan.i2p/",
+            "type": "i2p"
           }
         ],
         "created": "2017-07-07",
         "tagsIds": [
-          "#ins",
-          "#clear",
           "#other",
+          "#www",
           "#stub"
         ]
       },
@@ -1672,9 +1779,10 @@
         ],
         "created": "2014-07-15",
         "tagsIds": [
-          "#clear",
           "#other",
-          "#ghost"
+          "#www",
+          "#ghost",
+          "#obscure"
         ]
       },
       {
@@ -1693,11 +1801,27 @@
           "fi"
         ],
         "tagsIds": [
-          "#clear",
           "#other",
-          "#entry",
+          "#www",
+          "#foreign",
           "#ghost",
-          "#ux"
+          "#comfy"
+        ]
+      },
+      {
+        "id": "zenchan-cc",
+        "links": [
+          {
+            "source": "https://zenchan.cc/",
+            "type": "clear"
+          }
+        ],
+        "tagsIds": [
+          "#ins",
+          "#other",
+          "#www",
+          "#obscure",
+          "#wild"
         ]
       }
     ],
@@ -1713,16 +1837,16 @@
         "type": "style"
       },
       {
-        "id": "#clear",
-        "description": "Находится в открытом доступе",
-        "type": "hidden"
-      },
-      {
         "id": "#blocked",
         "description": "Заблокировано владельцем или третьим лицом"
       },
       {
-        "id": "#onion",
+        "id": "#www",
+        "description": "Доступно в клирнете",
+        "type": "hidden"
+      },
+      {
+        "id": "#tor",
         "description": "Доступно в сети Tor",
         "type": "hidden"
       },
@@ -1747,6 +1871,18 @@
         "type": "section"
       },
       {
+        "id": "#ghost",
+        "description": "Отсутствие признаков недавней активности"
+      },
+      {
+        "id": "#readonly",
+        "description": "Доступно только чтение"
+      },
+      {
+        "id": "#stub",
+        "description": "Доступна только главная страница-заглушка"
+      },
+      {
         "id": "#iich",
         "description": "iichan.ru и связанные сайты"
       },
@@ -1767,21 +1903,24 @@
         "description": "Пост-apachan.net и связанные сайты"
       },
       {
-        "id": "#3ld",
-        "description": "Несамостоятельный домен третьего уровня"
+        "id": "#foreign",
+        "description": "Зарубежный сайт с русскоязычными разделами"
       },
       {
-        "id": "#entry",
-        "description": "Несамостоятельные русскоязычные разделы",
-        "type": "hidden"
+        "id": "#cheap",
+        "description": "Бесплатная или базовая инфраструктура для сайта"
       },
       {
         "id": "#clone",
         "description": "Копирование атрибутов более известных проектов"
       },
       {
-        "id": "#ghost",
-        "description": "Отсутствие признаков недавней активности"
+        "id": "#comfy",
+        "description": "Положительный опыт использования"
+      },
+      {
+        "id": "#obscure",
+        "description": "Нестандартная концепция использования"
       },
       {
         "id": "#fags",
@@ -1792,20 +1931,8 @@
         "description": "Злоупотребление модераторскими полномочиями"
       },
       {
-        "id": "#readonly",
-        "description": "Доступно только чтение"
-      },
-      {
-        "id": "#stub",
-        "description": "Доступна только главная страница-заглушка"
-      },
-      {
         "id": "#wild",
         "description": "Бессмысленное или вредящее содержимое"
-      },
-      {
-        "id": "#ux",
-        "description": "Положительный опыт использования"
       }
     ]
   }
