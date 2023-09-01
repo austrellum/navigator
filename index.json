@@ -1,6 +1,6 @@
 {
   "meta": {
-    "version": "1.7.0-rc8",
+    "version": "1.7.1-rc8",
     "created": "2022-06-06",
     "updated": "2023-09-01",
     "source": "https://github.com/austrellum/navigator",
@@ -787,7 +787,6 @@
           "#approved",
           "#www",
           "#cheap",
-          "#iich",
           "#wild"
         ]
       },
@@ -1752,21 +1751,6 @@
           "#other",
           "#i2p",
           "#wild"
-        ]
-      },
-      {
-        "id": "uchan-i2p",
-        "links": [
-          {
-            "source": "https://uchan.i2p/",
-            "type": "i2p"
-          }
-        ],
-        "created": "2017-07-07",
-        "tagsIds": [
-          "#other",
-          "#www",
-          "#stub"
         ]
       },
       {

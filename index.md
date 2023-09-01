@@ -1,8 +1,8 @@
 # Навигатор бордосферы
 
-> Редакция от **1 сентября 2023** (v1.7.0-rc8)
+> Редакция от **1 сентября 2023** (v1.7.1-rc8)
 >
-> Всего **85**, одобрено **37** (44%)
+> Всего **84**, одобрено **37** (44%)
 
 ## Одобренные
 
@@ -66,7 +66,7 @@
     - [tyiwxp...gq.b32.i2p](http://tyiwxpgs7syjvz3cha3uckaxgondtiktlsvriebyy4qmzgbaj3gq.b32.i2p/)
   - [rfch.rocks](https://rfch.rocks/) @2013 #blocked #x2ch #mods
     - [rfch.xyz](https://rfch.xyz/)
-  - 🆕 [paranormach.ru.swtest.ru](http://paranormach.ru.swtest.ru/) @2023 #iich #cheap #wild
+  - 🆕 [paranormach.ru.swtest.ru](http://paranormach.ru.swtest.ru/) @2023 #cheap #wild
   - [syn-ch.ru](https://syn-ch.ru/) @2013 #x2ch #fags #mods #wild
     - [syn-ch.com](https://syn-ch.com/)
     - [syn-ch.org](https://syn-ch.org/)
@@ -143,7 +143,6 @@
   - [topsape.ru/chan](http://topsape.ru/chan) @2010 #stub
   - [tumba.ch](https://tumba.ch/) @2016 #stub
   - 🆕 [uchan.i2p](https://uchan.i2p/) @2023 #wild
-  - [uchan.i2p](https://uchan.i2p/) @2017 #stub
   - [vkchan.ru](https://vkchan.ru/) @2014 #ghost #obscure
   - [ylilauta.org](https://ylilauta.org/) [/russia](https://ylilauta.org/russia) @2011 #ghost #foreign #comfy
   - 🆕 [zenchan.cc](https://zenchan.cc/) #obscure #wild

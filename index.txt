@@ -1,7 +1,7 @@
 НАВИГАТОР БОРДОСФЕРЫ
 
-Редакция от 1 сентября 2023 (v1.7.0-rc8)
-Всего 85, одобрено 37 (44%)
+Редакция от 1 сентября 2023 (v1.7.1-rc8)
+Всего 84, одобрено 37 (44%)
 
 Одобренные
 
@@ -65,7 +65,7 @@
   — http://tyiwxpgs7syjvz3cha3uckaxgondtiktlsvriebyy4qmzgbaj3gq.b32.i2p/
 — https://rfch.rocks/ @2013 #blocked #x2ch #mods
   — https://rfch.xyz/
-— [+++] http://paranormach.ru.swtest.ru/ @2023 #iich #cheap #wild
+— [+++] http://paranormach.ru.swtest.ru/ @2023 #cheap #wild
 — https://syn-ch.ru/ @2013 #x2ch #fags #mods #wild
   — https://syn-ch.com/
   — https://syn-ch.org/
@@ -142,7 +142,6 @@
 — http://topsape.ru/chan @2010 #stub
 — https://tumba.ch/ @2016 #stub
 — [+++] https://uchan.i2p/ @2023 #wild
-— https://uchan.i2p/ @2017 #stub
 — https://vkchan.ru/ @2014 #ghost #obscure
 — https://ylilauta.org/ /russia @2011 #ghost #foreign #comfy
 — [+++] https://zenchan.cc/ #obscure #wild

@@ -136,7 +136,7 @@
         <outline text="rfch.rocks" type="link" url="https://rfch.rocks/" />
         <outline text="rfch.xyz" type="link" url="https://rfch.xyz/" />
       </outline>
-      <outline text="paranormach-ru-swtest-ru" category="#ins,#approved,#www,#cheap,#iich,#wild">
+      <outline text="paranormach-ru-swtest-ru" category="#ins,#approved,#www,#cheap,#wild">
         <outline text="paranormach.ru.swtest.ru" type="link" url="http://paranormach.ru.swtest.ru/" />
       </outline>
       <outline text="syn-ch-ru" category="#approved,#www,#x2ch,#fags,#mods,#wild">
@@ -316,9 +316,6 @@
         <outline text="tumba.ch" type="link" url="https://tumba.ch/" />
       </outline>
       <outline text="uchan-i2p" category="#ins,#other,#i2p,#wild">
-        <outline text="uchan.i2p" type="link" url="https://uchan.i2p/" />
-      </outline>
-      <outline text="uchan-i2p" category="#other,#www,#stub">
         <outline text="uchan.i2p" type="link" url="https://uchan.i2p/" />
       </outline>
       <outline text="vkchan-ru" category="#other,#www,#ghost,#obscure">
