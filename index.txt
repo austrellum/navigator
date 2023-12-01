@@ -1,111 +1,117 @@
 НАВИГАТОР БОРДОСФЕРЫ
 
-Редакция от 6 ноября 2023 (v1.9.1-fix)
-Всего 427, живых 64
+Редакция от 1 декабря 2023 (v1.10.0-rc11)
+Всего 435, живых 67
 
 Живые
 
-— [+++] https://mochan.rf.gd/ @2023 #cheap #wild
-— [+++] http://omegachan.hk.swtest.ru/ @2023 #cheap #wild
-— http://pinachjukrv62ntdxw5qwhpp3vmzupi6kwp5dekcisyb6vztrpb7vzad.onion/ @2023 #clone #obscure
+— [+++] https://lostchat.rf.gd/ 2023 #cheap #obscure #wild #chat
+— http://omegachan.hk.swtest.ru/ 2023 #cheap #wild
+— http://pinachjukrv62ntdxw5qwhpp3vmzupi6kwp5dekcisyb6vztrpb7vzad.onion/ 2023 #clone #obscure
   — http://pinach.i2p/
   — http://pinachiojrocyrpw7l2e2hwrgyiwe6wqks47do4f3p3sldqg6lta.b32.i2p/
-— https://lentachan.ru/ @2023 #ex0ch #clone #comfy #wild
+— https://lentachan.ru/ 2023 #limited #ex0ch #clone #comfy #wild #index #news
   — https://lenta.0chan.one/
-— [+++] http://paranormach.ru.swtest.ru/ @2023 #cheap #wild
-  — https://parachan.rf.gd/
-— http://uchan.i2p/ @2023 #wild
+— http://paranormach.ru.swtest.ru/ 2023 #cheap #wild
+— http://uchan.i2p/ 2023
   — http://uchanooau3lfmqav57q4743szpcex6jdsyae64veb6th45n2yfaq.b32.i2p/
-— https://reee.re/ @2023 #wild
-— https://2ch.plus/ @2023 #ex0ch #clone #wild
-— https://mint.0chan.ru/ @2023 #ex0ch #clone #wild
-— http://metatorrkdagnx2njwvnzqeclsk3qbwabr6hori4vmivj25qy6s6gsad.onion/ @2023 #ex0ch #wild
+— https://reee.re/ 2023 #wild
+— https://2ch.plus/ 2023 #ex0ch #ex2ch #clone #wild
+— https://mint.0chan.ru/ 2023 #ex0ch #clone #wild
+— http://metatorrkdagnx2njwvnzqeclsk3qbwabr6hori4vmivj25qy6s6gsad.onion/ 2023 #ex0ch #wild
   — http://metator.i2p/
-— https://1chan.plus/ @2023 #ex1ch #clone #wild
-— http://7jdf5v63lmgtx2ccnkevo4y63aat6t6aqirxmat7qgcb4bxhhc27epqd.onion/ @2023 #wild
+— https://1chan.plus/ 2023 #ex1ch #clone #wild #index #news
+— http://7jdf5v63lmgtx2ccnkevo4y63aat6t6aqirxmat7qgcb4bxhhc27epqd.onion/ 2023 #wild
   — http://lunach.i2p/
   — http://rju7h4gwust4ptaiqhql7m7nvor45ez5675v7r3rza2egskkrmga.b32.i2p/
-— https://dobrochan.net/ @2023 #iich #clone
-— https://0chan.plus/ @2023 #ex0ch #clone #mods
+— https://dobrochan.net/ 2023 #iich #clone
+— https://0chan.plus/ 2023 #ex0ch #clone #mods #wild
   — https://0chan.us/
   — http://32xwwlgnvohjzhlfcgkakdktbscrzsa2fdbrbh43evu4vuxqw3gspoyd.onion/
-— http://apachan.byethost14.com/ @2022 #exapach #cheap #clone
-— https://mothchan.ru/ @2022 #wild
-— https://swarm.su/ @2022
-— http://альфачан.рф/ @2022 #exapach #wild
-— http://nestchan.i2p/ @2022 #wild
+— https://apachan.x10.mx/ 2022 #exapach #cheap #clone #wild
+— https://mothchan.ru/ 2022 #wild
+— https://chaoschan.org/ 2022
+— http://альфачан.рф/ 2022 #exapach #wild
+— http://nestchan.i2p/ 2022 #wild
   — http://wzwlwxju3orzbuld7cjtia2z4fqp2vt7orjdzmsz3ynlqr3ewokq.b32.i2p/
-— https://1chan.su/ @2022 #ex1ch #clone #comfy
-— https://trash.pythonanywhere.com/ @2022 #cheap #wild
-— [+++] http://bitchanr4b64govofzjthtu6qc4ytrbuwbgynapkjileajpycioikxad.onion/ /boa…b/1 @2020 #foreign #wild
+— https://1chan.su/ 2022 #ex1ch #clone #comfy #index #news
+  — https://1chan.online/
+— https://trash.pythonanywhere.com/ 2022 #cheap #wild
+— [+++] https://shitshare.xyz/ 2022 #obscure #wild #chat
+  — http://jn2nxlwe5cxifl7p7dixow2kcyow5wdm6f6h6p4q5u356gyeu3tk5bqd.onion/
+— http://bitchanr4b64govofzjthtu6qc4ytrbuwbgynapkjileajpycioikxad.onion/ /boa…b/1 2020 #foreign #wild
   — http://bitchan.i2p/
   — http://waycuw2c27ruakfblkf5tcegwmt3ot445dlfoypil6bzmm4yxg7a.b32.i2p/
-— http://apachan.ru/ @2020 #exapach #clone #wild
-— https://wc.12hp.ch/ @2020 #ex1ch #cheap
-— http://kislitsa.i2p/ @2020
+— http://apachan.ru/ 2020 #exapach #clone #wild
+— https://wc.12hp.ch/ 2020 #ex1ch #cheap #wild
+— http://kislitsa.i2p/ 2020 #wild
   — http://khceo3smaxtng2tnuicmcbhdnkk2j6myi4nkigcux76qh3aabdhq.b32.i2p/
-— https://014chan.org/ @2019 #iich #fags
+— https://014chan.org/ 2019 #iich #fags #wild
   — http://bulochka.org/
-— https://apachan.space/ @2019 #exapach #clone #wild
+— https://apachan.space/ 2019 #exapach #clone #wild
   — https://apachan.icu/
-— https://0chan.me/ @2018 #ex0ch #clone #wild
+— https://0chan.me/ 2018 #ex0ch #clone #wild
   — https://ochan.ru/
-— https://1chan.top/ @2018 #ex1ch #clone #wild
-— https://2channel.moe/ @2018 #blocked #ex2ch #clone #wild
+— https://2channel.moe/ 2018 #blocked #ex2ch #clone #mods #wild
   — http://2channel5s3pvmo2364gs25e5xrx7nz6kivqhpj6ihh3df4hykvxysqd.onion/
   — http://2channel.i2p/
   — http://wirxk4kulmd7v6qmttltnu5nx2vtchzvrg7ewocejrvdjcaiv5sq.b32.i2p/
-— [+++] https://bona.cafe/ @2018 #fags
-— https://neochan.ru/ @2018 #fags
+— https://bona.cafe/ 2018 #fags
+— https://neochan.ru/ 2018 #fags
   — http://neochan7n7xp2v6yvw2u6zedciwlhot4kwftqpuoxrjwet3iprcms2qd.onion/
-— https://kpop.re/ @2017 #fags
-— https://endchan.net/ /bb /ca /dob…han /dota /genshin /obr /polru /rus @2015 #blocked #foreign
+— https://kpop.re/ 2017 #fags
+— https://endchan.net/ /bb /ca /dob…han /dota /genshin /obr /polru /rus 2015 #blocked #foreign #wild
   — https://endchan.gg/
   — https://endchan.org/
   — http://endchancxfbnrfgauuxlztwlckytq7rgeo5v6pc2zd4nyqo3khfam4ad.onion/
   — http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion/
   — http://kqrtg5wz4qbyjprujkz33gza7r73iw3ainqp1mz5zmu16symcdwy.loki/
-— https://ii.yakuji.moe/ /abe /dev @2015 #iich
-— http://pfpmd7dd5ijt4add2sfi4djsaij4u3ebvnwvyvuj6aeipe2f5llptkid.onion/ @2015 #obscure #wild
-— https://owlchan.org/ @2014 #iich
-— https://1chan.ca/ @2014 #ex1ch #clone #wild
-  — https://1chan.online/
-— https://02ch.in/ @2013 #clone #fags #wild
-— https://rfch.rocks/ @2013 #blocked #ex2ch #mods
+— https://ii.yakuji.moe/ /abe /dev 2015 #iich #archive
+— http://pfpmd7dd5ijt4add2sfi4djsaij4u3ebvnwvyvuj6aeipe2f5llptkid.onion/ 2015 #obscure #wild
+— https://allchan.io/ 2015 #limited #comfy #fags
+  — http://v5ocmeo5igswk45cq3vpo5iomjxy6spzugaqwfx3ublqbxdffbb4pgid.onion/
+— https://owlchan.org/ 2014 #iich
+— https://1chan.ca/ 2014 #limited #ex1ch #clone #wild #index #news
+— https://02ch.in/ 2013 #clone #fags #wild
+— https://rfch.rocks/ 2013 #blocked #ex2ch #mods
   — https://rfch.xyz/
-— https://zloiodm.in/ @2013 #fags
-— https://gensokyo.4otaku.org/ @2013 #iich #fags
-— https://syn-ch.ru/ @2013 #ex2ch #fags #mods #wild
+— https://zloiodm.in/ 2013 #fags
+— https://gensokyo.4otaku.org/ 2013 #limited #iich #fags
+— https://syn-ch.ru/ 2013 #ex2ch #fags #mods #wild
   — https://syn-ch.com/
   — https://syn-ch.org/
   — https://синч.рф/
   — https://syn-ch.com.ua/
-— https://314n.org/ @2012 #obscure
+— https://314n.org/ 2012 #obscure
   — https://314n.ru/
-— https://ponyach.com/ @2012 #fags
-— https://0-chan.ru/ @2012 #ex0ch #clone #mods #wild
-— https://alterchan.net/ @2012 #blocked #ex0ch #mods
-— [+++] https://hackwren.ch/ @2011 #fags
-— https://dva-ch.net/ @2011 #blocked #ex2ch #clone #fags #mods
+— https://ponyach.com/ 2012 #fags
+— https://0-chan.ru/ 2012 #ex0ch #clone #mods #wild
+— https://alterchan.net/ 2012 #blocked #ex0ch #mods
+  — https://alterchan.in/
+— https://hackwren.ch/ 2011 #fags
+— https://dva-ch.net/ 2011 #blocked #ex2ch #clone #fags #mods #wild
   — https://2ch.rip/
-— https://tuzach.in/ @2011 #comfy #obscure #wild
-— https://horochan.ru/ @2010 #comfy #fags #mods
-— http://zadraw.ch/ @2010
-— http://bnw.im/ @2010 #obscure #wild
-— https://chuck.dfwk.ru/ @2009
-— https://dollchan.net/ @2009 #foreign
-— https://2ch.hk/ @2009 #ex2ch #clone #mods
+— https://tuzach.in/ 2011 #comfy #obscure #wild #chat
+— https://horochan.ru/ 2010 #comfy #fags #mods #wild
+— http://zadraw.ch/ 2010
+— http://bnw.im/ 2010 #obscure #wild #chat
+— [+++] https://370ch.lt/ 2010 #foreign #wild
+— https://chuck.dfwk.ru/ 2009
+— https://dollchan.net/ 2009 #foreign #index
+— https://2ch.hk/ 2009 #ex2ch #clone #mods
   — https://2ch.life/
   — https://2-ch.ru/
-— https://410chan.org/ @2009 #iich #fags
+— https://410chan.org/ 2009 #iich #fags #wild
   — https://410chan.ru/
-— https://nowere.net/ @2008 #blocked #iich
-— https://iichan.hk/ @2007 #iich #mods
+— https://bbs.anoma.ch/ 2008 #limited #blocked #stream
+  — http://bbs.anoma.li/
+— https://nowere.net/ 2008 #blocked #iich
+— https://iichan.hk/ 2007 #iich #mods #wild
 — http://gopchan.i2p/ #obscure #wild
   — https://gopchnqtt2thncw263t32kg3wav567kf5lhzpzqcbnp5diofnhqq.b32.i2p/
-— [+++] http://pidorchan.i2p/ #obscure #wild
+— http://pidorchan.i2p/ #obscure #wild
   — http://pidorgmob3uchxfepm7ywvfbjwo5f232us3lkegvbolwv2qybesa.b32.i2p/
-— http://rcuhe6pk7mbmsjk7bwyja5etvjhjvzmc724rnf3piamemvawoi44z7qd.onion/ /rus #foreign
+— http://rcuhe6pk7mbmsjk7bwyja5etvjhjvzmc724rnf3piamemvawoi44z7qd.onion/ /rus #foreign #wild
   — http://foxdickchan.i2p/
   — http://iqxr4hupmaqdd4wvkwwjjrq6ddocydqqqadtnk6ltdnalvrzanxq.b32.i2p/
 — http://tdsrvhos656xypxsqtkqmiwefuvlyqmnvk5faoo23oh2m4xqg4gr47ad.onion/ /polru #foreign
@@ -113,409 +119,419 @@
 
 Отмирающие
 
-— https://314n.0chan.one/ @2023 #ex0ch #clone #obscure
-— http://anonchan.i2p/ @2023 #wild
-  — http://ztspuueo7wvmnui5fd4jqjy5dzbc2zgu6cbcyopko2hlz4amcgfq.b32.i2p/
-— http://taozgyb2jfbj567lzvfjse4c2snsb37tq3o2iucflxqoilogwc6bx2qd.onion/ /ru @2022 #foreign #wild
+— http://j33111470.myjino.ru/forestchan 2023 #limited #cheap #fags
+— https://314n.0chan.one/ 2023 #ex0ch #clone #obscure
+— http://taozgyb2jfbj567lzvfjse4c2snsb37tq3o2iucflxqoilogwc6bx2qd.onion/ /ru 2022 #foreign #wild
   — http://y5hr627jx2kzyaxlg3i5ohbmlj37eduamz67qd23kkg3dy4hg5ea.b32.i2p/
-— http://purplechan.i2p/ @2021 #wild
+— http://purplechan.i2p/ 2021 #wild
   — http://tyiwxpgs7syjvz3cha3uckaxgondtiktlsvriebyy4qmzgbaj3gq.b32.i2p/
-— https://bchan.myqip.ru/ @2021 #cheap #obscure
-— http://libertach.byethost33.com/ @2020 #cheap
-— https://8kun.top/ /caf…han @2019 #foreign #wild
+— https://bchan.myqip.ru/ 2021 #cheap #obscure
+— https://8kun.top/ /caf…han 2019 #foreign #wild
   — http://w7m432cocr665kf5tlpcxojwldajr3njd2etcxwhpbrt44eemuxhp7ad.onion/
-— https://2fan.ru/ch @2018
-— https://kohlchan.net/ /ru @2018 #blocked #foreign
+— https://2fan.ru/ch 2018
+— https://kohlchan.net/ /ru 2018 #blocked #foreign
   — https://kohlchan.top/
   — https://kohlchan.ws/
   — http://kohlchanvwpfx6hthoti5fvqsjxgcwm3tmddvpduph5fqntv5affzfqd.onion/
   — http://kohlchan.i2p/
   — http://kohlchanvn6vtsujobyw4pt5naaszmxqutd5hsdatmxfe2qaqhya.b32.i2p/
-— https://merzochan.at.ua/ @2016 #cheap #obscure
-— https://allchan.io/ @2015 #comfy #fags
-  — http://v5ocmeo5igswk45cq3vpo5iomjxy6spzugaqwfx3ublqbxdffbb4pgid.onion/
-— https://vkchan.ru/ @2014 #obscure
-— https://2draw.me/d @2013 #iich
-— https://ylilauta.org/ /russia @2011 #foreign #comfy
-— https://hamstakilla.com/ /ru @2009 #blocked #foreign
+— https://merzochan.at.ua/ 2016 #cheap #obscure
+— https://vkchan.ru/ 2014 #obscure
+— https://2draw.me/d 2013 #iich
+— https://black-area.ru/ 2012 #exapach #fags
+  — http://tsun-tsun.ru/
+  — http://radiogin.ru/
+— https://ylilauta.org/ /russia 2011 #foreign #comfy
+— https://hamstakilla.com/ /ru 2009 #blocked #foreign
   — https://kctier.club/
   — https://krautchan.rip/
   — https://bernd.group/
   — https://xcomm.id/
-— https://bbs.anoma.ch/ @2008 #blocked #wild
-— http://overchan.ru/ @2008 #iich
+— http://overchan.ru/ 2008 #iich #index
   — http://12ch.ru/
 
 Только чтение
 
-— http://01chan.ru/ @2021 #obscure
-— http://darkness.epizy.com/ @2020 #cheap
-— https://legacy.arisuchan.jp/ /ru @2017 #foreign #comfy
-— https://bbs.iriscot.org/ @2017
-— https://anon.fm/board @2016
-— https://board.everypony.ru/ @2011 #fags
+— http://01chan.ru/ 2021 #limited #obscure
+— http://darkness.epizy.com/ 2020 #cheap
+— https://legacy.arisuchan.jp/ /ru 2017 #foreign #comfy
+— https://bbs.iriscot.org/ 2017
+— https://anon.fm/board 2016 #limited
+— https://board.everypony.ru/ 2011 #fags
 — http://102chan-memorial.i2p/ #wild
   — http://xxu3lso4h2rh6wmrxiou3ax7r7la7x6dhoepnku3jvrlwp35pefq.b32.i2p/
 
 Заглушки
 
-— https://papachan.rf.gd/ @2023 #exapach #cheap #clone #wild
-— https://nullnyan.net/ @2016 #ex0ch
-— https://0chanrunet.cf/ @2016 #ex0ch
-— https://tumba.ch/ @2016
-— http://topsape.ru/chan @2010
-— http://iichan.ru/ @2007 #iich
-— http://2ch.ru/ @2006 #ex2ch
-— http://2ch.kz/ #ex2ch
-— http://bulbach.500mb.net/ #cheap
+— https://papachan.rf.gd/ 2023 #exapach #cheap #clone #wild
+— https://0chan.pl/ 2018 #ex0ch #clone
+— https://utochan.ru/ 2017
+— https://nullnyan.net/ 2016 #ex0ch
+— https://0chanrunet.cf/ 2016 #ex0ch
+— https://tumba.ch/ 2016
+— http://2ch.kz/ 2012 #ex2ch
+— http://topsape.ru/chan 2010
+— http://iichan.ru/ 2007 #iich
+— http://2ch.ru/ 2006 #ex2ch
 — https://brchan.org/ #foreign
   — http://brchanansdnhvvnm.onion/
 
 Мертвые
 
-— http://srachan.i2p/ @2023 #obscure #wild
+— [+++] https://jojoch.rf.gd/ 2023 #cheap #wild
+— https://mochan.rf.gd/ 2023 #cheap #obscure #wild #chat
+— http://srachan.i2p/ 2023 #obscure #wild
   — http://tc6zs7ddxl3vlfvug2ynvrklq2z6eslgwxj3gcksxs3tz7saseja.b32.i2p/
-— https://lambdachan.net/ @2023 #wild
-— https://22channel.org/ @2023 #wild
-— https://mboard.tk/ @2023 #wild
-— http://j33111470.myjino.ru/forestchan @2023 #cheap #fags #wild
-— https://0chna.ru/ @2023 #ex0ch #clone #wild
+— https://lambdachan.net/ 2023 #wild
+— https://22channel.org/ 2023 #wild
+— https://mboard.tk/ 2023 #wild
+— https://0chna.ru/ 2023 #ex0ch #clone #wild
   — http://ykzvtjpl56wkpapyq4yxp6tnyweu3adreqjuuqon5ncwanla7unnnpqd.onion/
-— http://0chan.nl/ @2023 #ex0ch #clone
-— https://beta-2ch.tk/ @2023 #ex2ch #clone
-— https://доброчан.рф/ @2023 #iich #clone
-— https://cyber2ch.com/ @2022 #ex2ch #clone
-— https://nyamo.org/ @2022 #wild
-— http://000000.byethost22.com/ @2022 #cheap
-— https://govnyach.pythonanywhere.com/ @2022 #cheap #wild
-— http://lenchan.ru/ @2022 #fags
-— https://motherfox.ru/ @2022 #ex2ch
-— https://1chan.life/ @2022 #ex1ch #clone #wild
-— http://1chan.cf/ @2022 #ex1ch #clone
-— https://0ch.kz/ @2021 #ex0ch #clone
-— http://spirech.org/ @2021
-— https://0chans.ru/ @2021 #ex0ch #clone #wild
+— http://0chan.nl/ 2023 #ex0ch #clone
+— https://beta-2ch.tk/ 2023 #ex2ch #clone
+— https://доброчан.рф/ 2023 #iich #clone
+— https://cyber2ch.com/ 2022 #ex2ch #clone
+— https://nyamo.org/ 2022 #wild
+— http://000000.byethost22.com/ 2022 #cheap
+— https://govnyach.pythonanywhere.com/ 2022 #cheap #wild
+— http://lenchan.ru/ 2022 #fags
+— https://motherfox.ru/ 2022 #ex2ch
+— https://1chan.life/ 2022 #ex1ch #clone #wild #index #news
+— http://1chan.cf/ 2022 #ex1ch #clone #index #news
+— https://0ch.kz/ 2021 #ex0ch #clone
+— http://spirech.org/ 2021
+— https://0chans.ru/ 2021 #ex0ch #clone #wild
   — https://0chan.life/
   — http://nullchanxrt7ecw7sifwei466qli3sku725tusz22w22opkfcxksinyd.onion/
   — http://nullchan.i2p/
-— https://foxhound.cc/ @2021 #ex0ch #clone
-— http://menherachan.cf/ @2021 #fags
-— http://ru2ch.com/ @2020 #ex2ch #clone
-— https://uberchan.ru/ @2020 #ex2ch
-— https://zchan.app/ @2020 #wild
-— https://desuka.ch/ @2020 #fags
-— http://board.animedebil.ru/a @2020 #fags
-— http://sedativchan.byethost32.com/ @2020 #cheap
-— http://ronery.xyz/ @2020
-— https://chan32f103c8t6.online/ @2020
-— https://10chan.top/ /z @2020 #foreign
-— https://lolifox.moe/ @2019 #ex2ch
-— https://lolifox.cc/ @2019 #ex2ch
-— http://1chan.io/ @2019 #ex1ch #clone
-— https://animach.pw/ @2019
-— http://2ch.ge/ @2019 #ex2ch #clone
-— http://chanpangur.ru/ @2019
-— http://naryachan.net/ @2018
-— https://www.22ch.ru/ @2018 #ex2ch #clone
-— https://sepulcharium.tk/ @2018
-— https://0chan.pl/ @2018 #ex0ch #clone
-— http://0chan.xyz/ @2018 #ex0ch #clone
-— http://zerochannel.cf/ @2018 #ex0ch #clone
-— http://inch.esy.es/ @2018 #cheap
-— https://discou.rs/ @2017
-— https://m-ch.ml/ @2017
-— https://falconboard.net.ru/ @2017 #cheap
-— https://lolifox.org/ /rus /rus2 @2017 #foreign
+— https://foxhound.cc/ 2021 #ex0ch #clone
+— http://menherachan.cf/ 2021 #fags
+— http://ru2ch.com/ 2020 #ex2ch #clone
+— https://uberchan.ru/ 2020 #ex2ch
+— https://zchan.app/ 2020 #wild
+— https://desuka.ch/ 2020 #fags
+— http://board.animedebil.ru/a 2020 #fags
+— http://sedativchan.byethost32.com/ 2020 #cheap
+— http://libertach.byethost33.com/ 2020 #cheap
+— http://ronery.xyz/ 2020
+— https://chan32f103c8t6.online/ 2020
+— https://10chan.top/ /z 2020 #foreign
+— https://lolifox.moe/ 2019 #ex2ch
+— https://lolifox.cc/ 2019 #ex2ch
+— http://1chan.io/ 2019 #ex1ch #clone #index #news
+— https://animach.pw/ 2019 #fags
+— http://2ch.ge/ 2019 #ex2ch #clone
+— http://chanpangur.ru/ 2019
+— http://naryachan.net/ 2018
+— https://1chan.top/ 2018 #ex1ch #clone #wild #index #news
+— https://www.22ch.ru/ 2018 #ex2ch #clone
+— https://sepulcharium.tk/ 2018
+— http://0chan.xyz/ 2018 #ex0ch #clone
+— http://zerochannel.cf/ 2018 #ex0ch #clone
+— http://inch.esy.es/ 2018 #cheap
+— https://discou.rs/ 2017
+— https://m-ch.ml/ 2017
+— https://falconboard.net.ru/ 2017 #cheap
+— https://lolifox.org/ /rus /rus2 2017 #foreign
   — http://wn3ghyuon5eaqyxi7yauald3d53gsxrkanzpu2qdyc54vobif2qutsid.onion/
-— http://brochan.esy.es/ @2017 #ex2ch #cheap
-— https://outchan.userecho.com/ @2017 #cheap
-— https://vaporchan.com/ @2017
-— https://azuchan.pp.ua/ @2017 #cheap
-— https://1chan.pl/ @2017 #ex1ch #clone
-— https://anonum.org/ @2017
-— http://2chn.ru/ @2016 #ex2ch #clone
-— http://777chan.ml/ @2016
-— http://unchan.ru/ @2016
-— http://hohoemy.exach.com/ @2016 #exapach
-— https://0chan.club/ @2016 #ex0ch #clone
-— http://shelter.gq/ @2016
-— http://parasha.ovh/ @2016
-— http://hubchan.ru/ @2016
-— https://imageboard0.blogspot.ru/ @2016 #cheap #obscure
-— http://0-chanru.net/ @2016 #ex0ch
-— https://2channel.hk/ @2016 #ex2ch
-— http://www.zerochan.ru/ @2016 #ex0ch #clone
-— https://crychan.com/ @2016
-— http://depreschan.ovh/ @2016
-— http://exach.com/ @2016
-— http://cn.urbanculture.in/ @2016
-— http://bwchan.tk/ @2015
-— http://ozuchan.ru/ @2015
-— http://xachan.ga/ @2015
-— https://midorichan.ru/ @2015 #fags
-— http://0chan.ru.net/ @2015 #ex0ch #cheap #clone
-— http://2watch.in/ @2015
-— http://archan.pe.hu/ @2015 #cheap
-— http://post0chan.ru/ @2015 #ex0ch #clone
+— http://brochan.esy.es/ 2017 #ex2ch #cheap
+— https://outchan.userecho.com/ 2017 #cheap #obscure
+— https://vaporchan.com/ 2017
+— https://azuchan.pp.ua/ 2017 #cheap
+— https://1chan.pl/ 2017 #ex1ch #clone #index #news
+— https://anonum.org/ 2017
+— http://2chn.ru/ 2016 #ex2ch #clone
+— http://777chan.ml/ 2016
+— http://unchan.ru/ 2016
+— http://hohoemy.exach.com/ 2016 #exapach
+— https://0chan.club/ 2016 #ex0ch #clone
+— http://shelter.gq/ 2016
+— http://parasha.ovh/ 2016
+— http://hubchan.ru/ 2016
+— https://imageboard0.blogspot.ru/ 2016 #cheap #obscure
+— http://0-chanru.net/ 2016 #ex0ch
+— https://2channel.hk/ 2016 #ex2ch
+— http://www.zerochan.ru/ 2016 #ex0ch #clone
+— https://crychan.com/ 2016
+— http://depreschan.ovh/ 2016
+— http://exach.com/ 2016
+— http://cn.urbanculture.in/ 2016
+— http://bwchan.tk/ 2015
+— http://ozuchan.ru/ 2015
+— http://xachan.ga/ 2015 #cheap
+— https://midorichan.ru/ 2015 #fags
+— http://0chan.ru.net/ 2015 #ex0ch #cheap #clone
+— http://2watch.in/ 2015
+— http://archan.pe.hu/ 2015 #cheap
+— http://post0chan.ru/ 2015 #ex0ch #clone
   — http://0ch.su/
-— http://kurisa.ch/ @2015 #fags
-— http://1337chan.tk/ @2015
-— http://new0chan.tk/ @2015 #ex0ch #clone
-— http://0chan.cc/ @2015 #ex0ch #clone
-— http://8su.ru/ @2015
-— http://zenchan.hk/ @2015
-— https://erlach.co/ @2015
-— https://chaos.cyberpunk.us/ @2015
-— http://technoboard.fatbb.ru/ @2014 #cheap #obscure
-— http://korean-lvl.ru/ @2014
-— http://lampach.net/ @2014
-— http://alikchan.tk/ @2014 #fags
-— http://haruhichan.ovh/ @2014 #fags
-— http://30ch.ru/ @2014 #fags
-— http://0chru.net/ @2014 #ex0ch #clone
-— http://sichan.in/ @2014
-— http://a-chan.org/ @2014 #ex2ch
-— http://stephanielove.96.lt/ @2014 #cheap #fags
-— http://nullchan.net/ @2014 #ex0ch #clone
-— http://www.zerochan.be/ @2014 #ex0ch #clone
-— http://форчан.рф/ @2014 #4ch #clone
-— http://spurdo.esy.es/ @2014 #cheap
-— http://cataem.ru/ @2014
-— https://bbs.2chan.su/ @2014 #ex2ch #clone
-— http://y0chan.e3w.ru/ @2014 #ex0ch #cheap #clone
-— http://cchan.tk/ @2014
-— http://rollach.ru/ @2014 #fags
-— https://board.d3w.org/ @2014 #cheap
-— http://www.shepel.site90.com/forum @2014 #cheap
-— http://0chan.esy.es/ @2014 #ex0ch #cheap #clone
-— http://scochan.com/ @2014
-— http://4-chan.ru/ @2014 #clone
-— http://reptila.ch/ @2014 #fags
-— http://dvach.org/ @2013 #ex2ch #clone
-— http://apachan.in/ @2013 #exapach #clone
-— http://netchan.ru/ @2013
-— https://1chan.inach.org/ @2013 #ex1ch
-— http://0ch2ch.org/ @2013 #ex2ch #clone
-— http://2сн.рф/ @2013 #ex2ch #clone
-— http://poltorach.besaba.com/ @2013
-— http://dixchan.id1945.com/ @2013 #exapach #cheap
-— http://obu4an.com/ @2013
-— https://ronery.me/ @2013
-— http://ch.96.lt/ @2013 #cheap
-— http://2ch.yzi.me/ @2013 #ex2ch #cheap #clone
-— http://nowai.p.ht/ @2013 #cheap
-— http://bitardengine.p.ht/ @2013 #cheap
-— https://haibane.ru/ @2013 #fags
-— http://solver.xe0.ru/ @2013
-— http://baka-ch.ru/ @2013
-— http://alfachan.hol.es/ @2013 #exapach #cheap #clone
-— http://tchan.org/ @2013
-— http://hatechannel.org/ @2013
-— http://imageboard.holmesduck.com/ @2013
-— http://2so.ch/ @2013 #ex2ch #clone
-— http://зайчан.рф/ @2013 #ex0ch #fags
-— http://yochan.org/ @2013 #fags
-— http://2x2ch.ru/ @2013
-— http://ponyasha.ru/ @2013 #fags
-— http://kurilovo.tk/ @2013
-— http://w-board.su/ @2013
-— http://mlp.su/ @2013 #fags
-— https://neboard.me/ @2013 #foreign
-— http://krichan.net/ @2013 #exapach
-— http://abuchan.alwaysdata.net/ @2013 #ex2ch #cheap #clone
-— https://0chanru.net/ @2013 #ex0ch #clone
-— http://kolch.org/ @2013 #ex1ch #clone
-— http://parasha-chan.tk/ @2013
-— http://35chan.ru/ @2013
-— http://pekach.pusku.com/ @2013 #ex2ch #cheap #clone
-— https://vorovchan.ru/ @2013
-— http://kraschan.net/ @2013
-— http://mediaboard.su/ @2013
-— http://fraud4.ru/ @2013
-— http://textach.ru/ @2013
-— https://2chru.cafe/ @2013 #ex2ch #clone
-— http://10ch.ru/ @2013
-— http://13chan.p.ht/ @2013 #cheap
-— http://chan.twomini.com/ @2013
-— http://maruchan.re/ @2013
-— http://the-deep.hol.es/ @2013 #cheap
-— http://vlore.ru/ @2013
-— http://boards.osach.ru/ @2012
-— http://dijkstra.ru/chan @2012
-— http://tickle.me.ht/ @2012 #cheap #fags
-— http://aib.katab.asia/ @2012
-— http://jchan.ru/ @2012
-— http://2ch.p.ht/ @2012 #ex2ch #cheap #clone
-— http://www.pucan.ru/ @2012
-— http://anothercity.comuv.com/ @2012 #cheap
-— http://chan.pp.ua/ @2012 #cheap
-— http://23ch.ru/ @2012
-— http://ponychan.ru/ @2012 #fags
-— http://friendfeedchan.ru/ @2012
-— https://freeport7.org/ @2012
-— http://noch.us/ @2012
-— http://chan.type2.ru/ @2012
-— http://amychan.ru/ @2012
-— http://cirno.ru/9/wakaba.html @2012
-— http://tsun-tsun.ru/ @2012 #exapach
-— http://7n8.ru/ @2012
-— http://sevenchan.tmweb.ru/ @2012 #cheap
-— http://inach.org/ @2012 #ex2ch #fags
-— http://помогач.рф/ @2012 #obscure
-— http://www.zerochan.in/ @2012 #ex0ch #clone #fags
-— http://epicfailchan.ru/ @2012
-— http://kokoko.ch/ @2012 #fags
-— http://betachan.16mb.com/ @2012 #exapach #cheap
-— http://atochan.org/ @2012 #exapach
-— http://www.ivchan.org/ @2012
-— http://lichan.ru/ @2012
-— http://kommunyach.tk/ @2012
-— http://2ch-it.ru/ @2012 #ex2ch #clone
-— http://reserve.dollship.ru/ @2012 #iich #fags
-— http://2ch.hopto.org/ @2012 #ex2ch #cheap #clone
-— http://chan.twitterach.ru/chan @2012
-— http://2ch.nu/ @2012 #ex2ch #clone
-— http://boxxybabee.ru/ @2011 #fags
-— http://ukrachan.org/ @2011
-— http://ii-chan.ru/ @2011 #iich #clone
-— http://zchan.host56.com/ @2011 #cheap
-— http://ech.su/ @2011
-— http://op-4.ru/ @2011
-— http://desuchan.ru/ @2011
-— http://21chan.net/ @2011
-— http://noch.22web.net/ @2011 #cheap
-— http://5channel.net/ @2011
-— http://vkonta.ch/ @2011 #obscure
-— https://devchach.ru/ @2011
-— http://5ch.su/ @2011
-— http://exachan.com/ @2011 #exapach
-— http://anysay.ru/ @2011
-— http://linachan.net/ @2011
-— https://urupchan.org/ @2011
-— http://enma-ai.ru/ @2011
-— http://nenavid.org/board @2011 #obscure
-— http://chan.tomzone.ru/ @2011
-— https://02ch.net/ @2011 #ex2ch #clone
+— [+++] https://outchan.cf/ 2015 #index
+  — http://outchan.ga/
+— http://kurisa.ch/ 2015 #fags
+— http://1337chan.tk/ 2015
+— http://new0chan.tk/ 2015 #ex0ch #clone
+— http://0chan.cc/ 2015 #ex0ch #clone
+— http://8su.ru/ 2015
+— http://zenchan.hk/ 2015
+— https://erlach.co/ 2015
+— https://chaos.cyberpunk.us/ 2015
+— http://technoboard.fatbb.ru/ 2014 #cheap #obscure
+— http://korean-lvl.ru/ 2014
+— http://lampach.net/ 2014
+— http://alikchan.tk/ 2014 #fags
+— http://haruhichan.ovh/ 2014 #fags
+— http://30ch.ru/ 2014 #fags
+— http://0chru.net/ 2014 #ex0ch #clone
+— http://sichan.in/ 2014
+— http://a-chan.org/ 2014 #ex2ch
+— http://stephanielove.96.lt/ 2014 #cheap #fags
+— http://nullchan.net/ 2014 #ex0ch #clone
+— http://www.zerochan.be/ 2014 #ex0ch #clone
+— http://форчан.рф/ 2014 #4ch #clone
+— http://spurdo.esy.es/ 2014 #cheap
+— http://cataem.ru/ 2014
+— https://bbs.2chan.su/ 2014 #ex2ch #clone
+— http://y0chan.e3w.ru/ 2014 #ex0ch #cheap #clone
+— http://cchan.tk/ 2014
+— http://rollach.ru/ 2014 #fags
+— https://board.d3w.org/ 2014 #cheap
+— http://www.shepel.site90.com/forum 2014 #cheap
+— http://0chan.esy.es/ 2014 #ex0ch #cheap #clone
+— http://scochan.com/ 2014
+— http://4-chan.ru/ 2014 #clone
+— http://reptila.ch/ 2014 #fags
+— http://dvach.org/ 2013 #ex2ch #clone
+— http://apachan.in/ 2013 #exapach #clone
+— http://netchan.ru/ 2013
+— https://1chan.inach.org/ 2013 #ex1ch
+— http://0ch2ch.org/ 2013 #ex2ch #clone
+— http://2сн.рф/ 2013 #ex2ch #clone
+— http://poltorach.besaba.com/ 2013
+— http://dixchan.id1945.com/ 2013 #exapach #cheap
+— http://obu4an.com/ 2013
+— https://ronery.me/ 2013 #fags
+— http://ch.96.lt/ 2013 #cheap
+— http://2ch.yzi.me/ 2013 #ex2ch #cheap #clone
+— http://nowai.p.ht/ 2013 #cheap #fags
+— http://bitardengine.p.ht/ 2013 #cheap
+— https://haibane.ru/ 2013 #fags
+— http://solver.xe0.ru/ 2013
+— http://baka-ch.ru/ 2013 #fags
+— http://alfachan.hol.es/ 2013 #exapach #cheap #clone
+— http://tchan.org/ 2013
+— http://hatechannel.org/ 2013 #index
+— http://imageboard.holmesduck.com/ 2013 #fags
+— http://2so.ch/ 2013 #ex2ch #clone
+— http://зайчан.рф/ 2013 #ex0ch #fags
+— http://yochan.org/ 2013 #fags
+— http://2x2ch.ru/ 2013
+— http://ponyasha.ru/ 2013 #fags
+— http://kurilovo.tk/ 2013
+— http://w-board.su/ 2013
+— http://mlp.su/ 2013 #fags
+— https://neboard.me/ 2013 #foreign
+— http://krichan.net/ 2013 #exapach
+— http://abuchan.alwaysdata.net/ 2013 #ex2ch #cheap #clone
+— https://0chanru.net/ 2013 #ex0ch #clone
+— http://kolch.org/ 2013 #ex1ch #clone #index #news
+— http://parasha-chan.tk/ 2013
+— http://35chan.ru/ 2013
+— http://pekach.pusku.com/ 2013 #ex2ch #cheap #clone
+— https://vorovchan.ru/ 2013
+— http://kraschan.net/ 2013 #index
+— http://mediaboard.su/ 2013
+— http://fraud4.ru/ 2013
+— http://textach.ru/ 2013
+— https://2chru.cafe/ 2013 #ex2ch #clone
+— http://10ch.ru/ 2013 #index
+— http://13chan.p.ht/ 2013 #cheap
+— http://chan.twomini.com/ 2013
+— http://maruchan.re/ 2013
+— http://the-deep.hol.es/ 2013 #cheap
+— http://vlore.ru/ 2013
+— http://boards.osach.ru/ 2012
+— http://dijkstra.ru/chan 2012
+— http://tickle.me.ht/ 2012 #cheap #fags
+— http://aib.katab.asia/ 2012
+— http://jchan.ru/ 2012
+— http://2ch.p.ht/ 2012 #ex2ch #cheap #clone
+— http://www.pucan.ru/ 2012
+— http://anothercity.comuv.com/ 2012 #cheap
+— http://chan.pp.ua/ 2012 #cheap
+— http://23ch.ru/ 2012 #index
+— http://ponychan.ru/ 2012 #fags
+— http://friendfeedchan.ru/ 2012
+— https://freeport7.org/ 2012
+— http://noch.us/ 2012
+— http://chan.type2.ru/ 2012
+— http://amychan.ru/ 2012
+— http://cirno.ru/9/wakaba.html 2012
+— http://7n8.ru/ 2012
+— http://sevenchan.tmweb.ru/ 2012 #cheap
+— http://inach.org/ 2012 #ex2ch #fags
+— http://помогач.рф/ 2012 #obscure
+— [+++] http://asylum.kodingen.com/ 2012
+— http://www.zerochan.in/ 2012 #ex0ch #clone #fags
+— http://epicfailchan.ru/ 2012
+— http://kokoko.ch/ 2012 #fags
+— http://betachan.16mb.com/ 2012 #exapach #cheap
+— http://atochan.org/ 2012 #exapach
+— http://www.ivchan.org/ 2012
+— http://lichan.ru/ 2012
+— http://2ch.nu/ 2012 #ex2ch #clone
+— http://kommunyach.tk/ 2012
+— http://2ch-it.ru/ 2012 #ex2ch #clone
+— http://reserve.dollship.ru/ 2012 #iich #fags
+— http://2ch.hopto.org/ 2012 #ex2ch #cheap #clone
+— http://chan.twitterach.ru/chan 2012
+— http://boxxybabee.ru/ 2011 #fags
+— http://ukrachan.org/ 2011 #foreign
+— http://ii-chan.ru/ 2011 #iich #clone
+— http://zchan.host56.com/ 2011 #cheap
+— http://ech.su/ 2011
+— http://op-4.ru/ 2011 #stream
+— http://desuchan.ru/ 2011 #fags
+— http://21chan.net/ 2011
+— http://noch.22web.net/ 2011 #cheap
+— http://5channel.net/ 2011 #mods
+— http://vkonta.ch/ 2011 #obscure
+— https://devchach.ru/ 2011
+— http://5ch.su/ 2011
+— http://exachan.com/ 2011 #exapach #fags
+— http://anysay.ru/ 2011
+— http://linachan.net/ 2011
+— https://urupchan.org/ 2011
+  — https://urupchan.ru/
+— http://enma-ai.ru/ 2011 #fags
+— http://nenavid.org/board 2011 #obscure
+— http://chan.tomzone.ru/ 2011
+— https://02ch.net/ 2011 #ex2ch #clone
   — http://lambdadelta.net/
-— http://klinchan.net/ @2011
-— https://100ch.ru/ @2011
-— http://isotske.sociofob.com/ @2011
-— http://mechachan.com/ /hie @2011 #foreign
-— http://школочан.рф/ @2011
-— http://ktosverhu.ru/ @2011
-— http://lamp.fm/b @2010
-— http://firstchan.ru/ @2010
-— http://midchan.com/ @2010
-— http://pichan.pokecenter.ru/ @2010
-— https://2--ch.ru/ @2010 #ex2ch #clone
-— http://board.hmarka.net/ @2010 #cheap
-— https://chan.ru/ @2010
-— http://biri-biri.ru/ @2010
-— http://freech.ru/ @2010 #obscure
-— http://volgach.ru/ @2010
-— http://www.nyach.ru/ @2010 #fags
-— http://drulia.ru/ @2010
-— http://boards.haruhiism.net/ @2010 #iich #fags
-— http://02ch.org/ @2010 #ex2ch #clone #fags
-— http://xchan.in/ @2010
+— http://klinchan.net/ 2011
+— https://100ch.ru/ 2011
+— http://isotske.sociofob.com/ 2011
+— http://mechachan.com/ /hie 2011 #foreign
+— http://школочан.рф/ 2011
+— http://ktosverhu.ru/ 2011 #obscure
+— http://lamp.fm/ 2010 #stream
+— http://firstchan.ru/ 2010
+— http://midchan.com/ 2010
+— http://pichan.pokecenter.ru/ 2010
+— https://2--ch.ru/ 2010 #ex2ch #clone #fags
+— http://board.hmarka.net/ 2010 #foreign #cheap
+— https://chan.ru/ 2010
+— http://biri-biri.ru/ 2010
+— http://freech.ru/ 2010 #obscure #chat
+— http://volgach.ru/ 2010
+— http://www.nyach.ru/ 2010 #fags
+— http://drulia.ru/ 2010 #fags
+— http://boards.haruhiism.net/ 2010 #iich #fags
+— http://02ch.org/ 2010 #ex2ch #clone #fags
+— http://xchan.in/ 2010
   — http://xchan.ru/
-— http://dvach.hut2.ru/ @2010 #ex2ch #cheap #clone
-— http://funchan.org.ru/ @2010 #cheap
-— http://chaos.fm/ @2010
-— http://www.42ch.org/ @2010
-— http://atasi.net/ @2010
-— https://vk.com/app1877234 @2010 #cheap #obscure
-— http://rakochan.ru/ @2010
-— https://touhouchan.org/ @2010 #fags
-— http://devio.us/~anton @2010 #cheap
-— http://trollchan.ru/ @2010
-— http://www.samechan.org/ @2010
-— http://rchan.ru/ @2010
-— http://4chan.kz/ @2010 #4ch #clone
-— http://omichan.com/ @2010
-— http://animuchan.net/ @2010 #fags
-— http://ono.moe.hm/ @2010 #cheap
-— http://2chan.net.ru/ @2010 #ex2ch #cheap #clone
-— http://board.perfectdark.ru/ @2010
-— http://board.sw-club.ru/ @2010 #fags
-— http://realchan.ru/ @2009
-— http://nogaems.ru/ @2009
-— http://img-board.com/ @2009
-— http://up4k.org.ru/ @2009 #cheap
-— http://tenhou.ru/m @2009 #fags
-— https://vip-tusa.ru/ @2009
-— http://olanet.ru/ @2009
-— http://www.apachan.net/ @2009 #exapach
-— http://ascii.geekly.info/ @2009 #iich
-— http://bydlo-kun.org.ru/ @2009 #cheap
-— http://leopard-raws.ru/ @2009
-— http://gothchan.ru/ @2009
-— http://www.be3hornm.ru/ @2009
-— http://vombatov.net/ @2009
-— https://www.e-chan.ru/ @2009
-— http://sibirchan.ru/ @2009
-— http://bchan.ru/ @2009
-— http://двач.net/ @2009 #ex2ch #clone
-— http://metroblog.ru/gesta3 @2009 #obscure
-— https://xynta.ch/ @2009
-— http://evachan.ru/ @2009 #fags
-— http://www.2ch.su/ @2009 #ex2ch #clone
-— http://4otaku.ru/board @2009 #fags
-— http://02-ch.ru/ @2009 #ex2ch #clone
-— http://1chan.ru/ @2009 #ex1ch
-— http://i-safe.ru/ @2009
-— https://itchan.ath.cx/ @2009 #cheap
-— https://v2ch.ru/ @2009
-— http://hatsune.ru/ @2009
-— https://hooyach.no-ip.biz/b @2009 #cheap
-— http://2ch-ng.ru/ @2009 #ex2ch #clone
-— http://slowpo4.ru/ @2009
-— https://aoizora.org/ @2009
-— http://13ch.nl/ @2009
-— http://holychan.net/ @2009
-— http://anoma.li/ @2009
-— https://2channel.ru/ @2009 #ex2ch
-— http://ne2.ch/ @2009 #ex2ch #clone
-— http://furrychan.ru/ @2009 #fags
-— http://gaychan.ru/ @2009 #fags
+— http://dvach.hut2.ru/ 2010 #ex2ch #cheap #clone
+— http://funchan.org.ru/ 2010 #cheap
+— http://chaos.fm/ 2010
+— http://www.42ch.org/ 2010 #fags
+— http://atasi.net/ 2010
+— https://vk.com/app1877234 2010 #cheap #obscure
+— http://rakochan.ru/ 2010
+— https://touhouchan.org/ 2010 #fags
+— http://devio.us/~anton 2010 #cheap
+— http://trollchan.ru/ 2010
+— http://www.samechan.org/ 2010
+— http://rchan.ru/ 2010
+— http://4chan.kz/ 2010 #4ch #clone
+— http://omichan.com/ 2010
+— http://animuchan.net/ 2010 #fags
+— http://ono.moe.hm/ 2010 #cheap
+— http://2chan.net.ru/ 2010 #ex2ch #cheap #clone
+— http://board.perfectdark.ru/ 2010
+— http://board.sw-club.ru/ 2010 #fags
+— http://realchan.ru/ 2009
+— http://nogaems.ru/ 2009
+— http://img-board.com/ 2009
+— http://up4k.org.ru/ 2009 #cheap
+— http://tenhou.ru/m 2009 #iich #fags
+— https://vip-tusa.ru/ 2009
+— http://olanet.ru/ 2009 #limited
+— http://www.apachan.net/ 2009 #exapach
+— http://ascii.geekly.info/ 2009 #iich
+— http://bydlo-kun.org.ru/ 2009 #cheap
+— http://leopard-raws.ru/ 2009
+— http://hivemind.me/ 2009 #limited
+— http://gothchan.ru/ 2009
+— http://www.be3hornm.ru/ 2009
+— http://vombatov.net/ 2009
+— https://www.e-chan.ru/ 2009
+— http://sibirchan.ru/ 2009
+— http://bchan.ru/ 2009
+— http://двач.net/ 2009 #ex2ch #clone
+— http://evachan.ru/ 2009 #fags
+— http://metroblog.ru/gesta3 2009 #obscure #chat
+— https://xynta.ch/ 2009
+— http://www.2ch.su/ 2009 #ex2ch #clone
+— http://4otaku.ru/board 2009 #fags
+— http://02-ch.ru/ 2009 #ex2ch #clone
+— http://1chan.ru/ 2009 #ex1ch #news
+— http://i-safe.ru/ 2009
+— https://itchan.ath.cx/ 2009 #cheap
+— https://v2ch.ru/ 2009
+— http://hatsune.ru/ 2009 #fags
+— https://hooyach.no-ip.biz/b 2009 #cheap
+— http://2ch-ng.ru/ 2009 #ex2ch #clone
+— http://slowpo4.ru/ 2009
+— https://aoizora.org/ 2009
+— http://13ch.nl/ 2009
+  — http://13ch.ru/
+— http://holychan.net/ 2009
+— https://2channel.ru/ 2009 #ex2ch
+— http://ne2.ch/ 2009 #ex2ch #clone
+— http://furrychan.ru/ 2009 #fags
+— http://gaychan.ru/ 2009 #fags
   — http://gchan.ru/
-— http://02ch.su/ @2009 #ex2ch #clone
-— https://lapti.org.ru/ @2009 #cheap
-— http://7dch.net/ @2009
-— http://hivemind.me/ @2009
-— https://2-ch.su/ @2009 #ex2ch #clone
-— http://fapchan.ru/ @2008 #fags
-— http://zlofenix.net.ru/zloch @2008 #cheap
-— http://dobrosan.ru/ @2008
-— http://lenta-chan.ru/ @2008
-— http://mireach.ru/ @2008
-— https://www.img.otaku.nn.ru/ @2008 #cheap
-— http://lolks.ru/ @2008 #obscure
-— http://apple.su/ @2008
-— http://nowai.ru/ @2008
-— http://vlchan.ru/ @2008
-— http://ruchan.net/ @2008
-— https://nahuya.ch/ @2008
-— https://3ch.ru/ @2008
-— https://0chan.hk/ @2008 #ex0ch
-— http://shitstream.ru/ @2008 #obscure
-— http://chan.sengie.ru/ @2007 #fags
-— http://uachan.com/ @2007
-— http://jach.ru/ @2007
-— http://b.duckroll.ru/ @2007
-— http://lulz.ru/ @2007
-— http://p2.nge.net.ru/ @2007 #cheap
-— https://8chan.ru/ @2007
-— http://ptaag.ru/ @2007
-— http://mithgol.drdaeman.pp.ru/imgboard @2006 #cheap
-— http://www.polynomial.ru/wakaba @2006
-— http://i-bbs.org/ @2005
+— http://02ch.su/ 2009 #ex2ch #clone
+— https://lapti.org.ru/ 2009 #cheap
+— http://7dch.net/ 2009
+— https://2-ch.su/ 2009 #ex2ch #clone
+— [+++] http://uchan.org.ua/ 2009 #foreign #cheap
+— http://fapchan.ru/ 2008 #fags
+— http://zlofenix.net.ru/zloch 2008 #cheap
+— http://dobrosan.ru/ 2008
+— http://lenta-chan.ru/ 2008 #news
+— http://mireach.ru/ 2008 #fags
+— http://dobrochan.ru/ 2008 #iich #fags
+  — http://dobrochan.com/
+  — http://dobrochan.org/
+— https://www.img.otaku.nn.ru/ 2008 #cheap
+— http://lolks.ru/ 2008 #obscure #chat
+— http://apple.su/ 2008
+— http://nowai.ru/ 2008
+— http://vlchan.ru/ 2008
+— http://ruchan.net/ 2008
+— https://nahuya.ch/ 2008 #iich
+— https://3ch.ru/ 2008 #mods
+— https://0chan.hk/ 2008 #ex0ch
+— http://shitstream.ru/ 2008 #obscure
+— http://chan.sengie.ru/ 2007 #fags
+— http://uachan.com/ 2007 #mods
+— http://jach.ru/ 2007
+— http://b.duckroll.ru/ 2007
+— http://lulz.ru/ 2007
+— http://p2.nge.net.ru/ 2007 #cheap #fags
+— https://8chan.ru/ 2007
+— http://ptaag.ru/ 2007
+— http://mithgol.drdaeman.pp.ru/imgboard 2006 #cheap
+— http://www.polynomial.ru/wakaba 2006
+— http://i-bbs.org/ 2005
+— http://bulbach.500mb.net/ #cheap
 — https://obr.li/
 — http://wakachan.org/ /unyl #iich #foreign
 
 Условные обозначения
 
-— #blocked — Заблокировано владельцем или третьим лицом
+— #limited — Доступ ограничен владельцем
+— #blocked — Заблокировано третьим лицом
 — #4ch — 4chan.org и связанные сайты
 — #iich — iichan.ru и связанные сайты
 — #ex0ch — Пост-0chan.ru и связанные сайты
@@ -527,9 +543,14 @@
 — #clone — Копирование атрибутов более известных проектов
 — #comfy — Положительный опыт использования
 — #obscure — Нестандартная концепция использования
-— #fags — Персонализированные треды, аватарки и т.п.
+— #fags — Персонифицированные треды, аватарки и т.п.
 — #mods — Злоупотребление модераторскими полномочиями
 — #wild — Бессмысленное или вредящее содержимое
+— #archive — Статичное содержимое, архивы устаревших ресурсов
+— #chat — Чат или чатоподобная площадка для общения
+— #index — Список ссылок, имеющих отношение к бордосфере
+— #news — Новости, обзоры и обсуждения последних событий
+— #stream — Интернет-радио, стримы и другое потоковое содержимое
 
 ---
 
