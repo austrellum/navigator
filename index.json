@@ -1,13 +1,61 @@
 {
   "meta": {
-    "version": "1.10.0-rc11",
+    "version": "1.11.0-rc12",
     "created": "2022-06-06",
-    "updated": "2023-12-01",
+    "updated": "2024-01-01",
     "source": "https://github.com/austrellum/navigator",
-    "discussion": "https://wc.12hp.ch/wc/res/950.html"
+    "discussion": "https://wc.12hp.ch/wc/res/2577.html"
   },
   "data": {
     "sites": [
+      {
+        "id": "bitardchan-rf-gd",
+        "urls": [
+          "https://bitardchan.rf.gd/"
+        ],
+        "created": "2023-12-22",
+        "tagsIds": [
+          "#ins",
+          "#live",
+          "#www",
+          "#cheap",
+          "#wild",
+          "#board",
+          "#ru"
+        ]
+      },
+      {
+        "id": "makachan-wuaze-com",
+        "urls": [
+          "https://makachan.wuaze.com/"
+        ],
+        "created": "2023-12-22",
+        "tagsIds": [
+          "#ins",
+          "#live",
+          "#www",
+          "#cheap",
+          "#wild",
+          "#board",
+          "#ru"
+        ]
+      },
+      {
+        "id": "trapach-kesug-com",
+        "urls": [
+          "https://trapach.kesug.com/"
+        ],
+        "created": "2023-12-21",
+        "tagsIds": [
+          "#ins",
+          "#live",
+          "#www",
+          "#cheap",
+          "#wild",
+          "#board",
+          "#ru"
+        ]
+      },
       {
         "id": "lostchat-rf-gd",
         "urls": [
@@ -15,7 +63,6 @@
         ],
         "created": "2023-11-15",
         "tagsIds": [
-          "#ins",
           "#live",
           "#www",
           "#cheap",
@@ -32,7 +79,6 @@
         ],
         "created": "2023-11-09",
         "tagsIds": [
-          "#ins",
           "#dead",
           "#www",
           "#cheap",
@@ -81,6 +127,7 @@
         ],
         "created": "2023-09-10",
         "tagsIds": [
+          "#del",
           "#live",
           "#tor",
           "#i2p",
@@ -184,7 +231,7 @@
           "#i2p",
           "#obscure",
           "#wild",
-          "#board",
+          "#chat",
           "#ru"
         ]
       },
@@ -258,6 +305,25 @@
           "#www",
           "#ex0ch",
           "#clone",
+          "#wild",
+          "#board",
+          "#ru"
+        ]
+      },
+      {
+        "id": "varyachan-life",
+        "urls": [
+          "https://varyachan.life/",
+          "http://varya2mudm4b73s2ec2nuurnmk6lju76vnwnjsev6zyhfq4to67kc5yd.onion/"
+        ],
+        "created": "2023-04-12",
+        "tagsIds": [
+          "#ins",
+          "#live",
+          "#www",
+          "#tor",
+          "#ex2ch",
+          "#fags",
           "#wild",
           "#board",
           "#ru"
@@ -348,6 +414,20 @@
         ]
       },
       {
+        "id": "0chan-wiki",
+        "urls": [
+          "https://0chan.wiki/"
+        ],
+        "created": "2023-02-17",
+        "tagsIds": [
+          "#live",
+          "#www",
+          "#limited",
+          "#wiki",
+          "#ru"
+        ]
+      },
+      {
         "id": "0chna-ru",
         "urls": [
           "https://0chna.ru/",
@@ -396,9 +476,9 @@
         ]
       },
       {
-        "id": "dobrochan-net",
+        "id": "rf-dobrochan-net",
         "urls": [
-          "https://dobrochan.net/"
+          "https://rf.dobrochan.net/"
         ],
         "created": "2023-01-13",
         "tagsIds": [
@@ -406,6 +486,8 @@
           "#www",
           "#iich",
           "#clone",
+          "#mods",
+          "#archive",
           "#board",
           "#ru"
         ]
@@ -433,7 +515,7 @@
         ],
         "created": "2023-01-07",
         "tagsIds": [
-          "#del",
+          "#dead",
           "#i2p",
           "#wild",
           "#board",
@@ -570,6 +652,7 @@
         "created": "2022-08-03",
         "tagsIds": [
           "#dead",
+          "#www",
           "#cheap",
           "#wild",
           "#board",
@@ -584,8 +667,7 @@
         ],
         "created": "2022-07-18",
         "tagsIds": [
-          "#del",
-          "#live",
+          "#ghost",
           "#i2p",
           "#wild",
           "#board",
@@ -699,7 +781,7 @@
         ],
         "created": "2022-02-01",
         "tagsIds": [
-          "#dead",
+          "#stub",
           "#www",
           "#ex1ch",
           "#clone",
@@ -717,7 +799,6 @@
         ],
         "created": "2022-01-30",
         "tagsIds": [
-          "#ins",
           "#live",
           "#www",
           "#tor",
@@ -765,8 +846,7 @@
         ],
         "created": "2021-10-07",
         "tagsIds": [
-          "#del",
-          "#ghost",
+          "#dead",
           "#i2p",
           "#wild",
           "#board",
@@ -799,6 +879,7 @@
           "#dead",
           "#www",
           "#tor",
+          "#i2p",
           "#ex0ch",
           "#clone",
           "#wild",
@@ -940,7 +1021,7 @@
         ],
         "created": "2020-08-05",
         "tagsIds": [
-          "#dead",
+          "#stub",
           "#www",
           "#wild",
           "#board",
@@ -1247,6 +1328,23 @@
           "#dead",
           "#www",
           "#board",
+          "#ru"
+        ]
+      },
+      {
+        "id": "neolurk-org",
+        "urls": [
+          "https://neolurk.org/"
+        ],
+        "created": "2018-10-19",
+        "tagsIds": [
+          "#ins",
+          "#live",
+          "#www",
+          "#limited",
+          "#clone",
+          "#index",
+          "#wiki",
           "#ru"
         ]
       },
@@ -1794,20 +1892,6 @@
         ]
       },
       {
-        "id": "anon-fm",
-        "urls": [
-          "https://anon.fm/board"
-        ],
-        "created": "2016-07-21",
-        "tagsIds": [
-          "#readonly",
-          "#www",
-          "#limited",
-          "#board",
-          "#ru"
-        ]
-      },
-      {
         "id": "merzochan-at-ua",
         "urls": [
           "https://merzochan.at.ua/"
@@ -2059,8 +2143,25 @@
           "#live",
           "#www",
           "#iich",
-          "#board",
           "#archive",
+          "#board",
+          "#ru"
+        ]
+      },
+      {
+        "id": "wiki-1chan-ca",
+        "urls": [
+          "https://wiki.1chan.ca/",
+          "https://kolchepedia.ru/"
+        ],
+        "created": "2015-10-07",
+        "tagsIds": [
+          "#ins",
+          "#live",
+          "#www",
+          "#wild",
+          "#index",
+          "#wiki",
           "#ru"
         ]
       },
@@ -2131,7 +2232,6 @@
         ],
         "created": "2015-04-25",
         "tagsIds": [
-          "#ins",
           "#dead",
           "#www",
           "#board",
@@ -2160,6 +2260,7 @@
         ],
         "created": "2015-03-13",
         "tagsIds": [
+          "#del",
           "#live",
           "#tor",
           "#obscure",
@@ -3725,7 +3826,7 @@
         ],
         "created": "2012-08-09",
         "tagsIds": [
-          "#ghost",
+          "#readonly",
           "#www",
           "#exapach",
           "#fags",
@@ -3825,7 +3926,6 @@
         ],
         "created": "2012-05-27",
         "tagsIds": [
-          "#ins",
           "#dead",
           "#www",
           "#board",
@@ -4511,6 +4611,25 @@
         ]
       },
       {
+        "id": "arhivach-top",
+        "urls": [
+          "http://arhivach.top/",
+          "http://arhivach.ng/",
+          "http://arhivachqqqvwqcotafhk4ks2he56seuwcshpayrm5myeq45vlff44yd.onion/"
+        ],
+        "created": "2011",
+        "tagsIds": [
+          "#ins",
+          "#live",
+          "#www",
+          "#tor",
+          "#ex2ch",
+          "#iich",
+          "#archive",
+          "#ru"
+        ]
+      },
+      {
         "id": "lamp-fm",
         "urls": [
           "http://lamp.fm/"
@@ -5050,6 +5169,9 @@
           "https://370ch.lt/"
         ],
         "created": "2010",
+        "entries": [
+          "int"
+        ],
         "tagsIds": [
           "#ins",
           "#live",
@@ -5058,6 +5180,27 @@
           "#board",
           "#wild",
           "#lt",
+          "#ru"
+        ]
+      },
+      {
+        "id": "m2ch-hk",
+        "urls": [
+          "https://m2ch.hk/",
+          "https://m2ch.gq/",
+          "https://m2ch.cf/",
+          "https://m2ch.fapp.in/",
+          "https://m2ch.lib/",
+          "http://m2chfapiswfw2wcakptqp4o6ltgchvjuxfab7urxlduraomtlnhw5xad.onion/"
+        ],
+        "created": "2010",
+        "tagsIds": [
+          "#ins",
+          "#live",
+          "#www",
+          "#tor",
+          "#ex2ch",
+          "#archive",
           "#ru"
         ]
       },
@@ -5743,6 +5886,27 @@
         ]
       },
       {
+        "id": "anon-fm",
+        "urls": [
+          "https://anon.fm/",
+          "http://radioanon.ru/"
+        ],
+        "created": "2009-01",
+        "entries": [
+          "board"
+        ],
+        "tagsIds": [
+          "#ins",
+          "#live",
+          "#www",
+          "#limited",
+          "#board",
+          "#stream",
+          "#wiki",
+          "#ru"
+        ]
+      },
+      {
         "id": "2-ch-su",
         "urls": [
           "https://2-ch.su/"
@@ -5764,7 +5928,6 @@
         ],
         "created": "2009",
         "tagsIds": [
-          "#ins",
           "#dead",
           "#www",
           "#foreign",
@@ -5884,7 +6047,6 @@
           "#dead",
           "#www",
           "#obscure",
-          "#board",
           "#chat",
           "#ru"
         ]
@@ -5916,6 +6078,23 @@
           "#dead",
           "#www",
           "#board",
+          "#ru"
+        ]
+      },
+      {
+        "id": "noobtype-ru",
+        "urls": [
+          "https://noobtype.ru/"
+        ],
+        "created": "2008-05-28",
+        "tagsIds": [
+          "#ins",
+          "#ghost",
+          "#www",
+          "#limited",
+          "#iich",
+          "#index",
+          "#wiki",
           "#ru"
         ]
       },
@@ -6113,6 +6292,26 @@
         ]
       },
       {
+        "id": "lurkmore-ru",
+        "urls": [
+          "http://lurkmore.ru/",
+          "https://lurkmore.co/",
+          "https://lurkmo.re/",
+          "https://lurkmore.net/",
+          "https://lurkmore.to/"
+        ],
+        "created": "2007-07-30",
+        "tagsIds": [
+          "#ins",
+          "#dead",
+          "#www",
+          "#blocked",
+          "#index",
+          "#wiki",
+          "#ru"
+        ]
+      },
+      {
         "id": "p2-nge-net-ru",
         "urls": [
           "http://p2.nge.net.ru/"
@@ -6288,11 +6487,12 @@
           "https://gopchnqtt2thncw263t32kg3wav567kf5lhzpzqcbnp5diofnhqq.b32.i2p/"
         ],
         "tagsIds": [
+          "#del",
           "#live",
           "#i2p",
           "#obscure",
           "#wild",
-          "#board",
+          "#chat",
           "#ru"
         ]
       },
@@ -6315,11 +6515,12 @@
           "http://pidorgmob3uchxfepm7ywvfbjwo5f232us3lkegvbolwv2qybesa.b32.i2p/"
         ],
         "tagsIds": [
+          "#del",
           "#live",
           "#i2p",
           "#obscure",
           "#wild",
-          "#board",
+          "#chat",
           "#ru"
         ]
       },
@@ -6334,6 +6535,7 @@
           "rus"
         ],
         "tagsIds": [
+          "#del",
           "#live",
           "#tor",
           "#i2p",
@@ -6353,6 +6555,7 @@
           "polru"
         ],
         "tagsIds": [
+          "#del",
           "#live",
           "#tor",
           "#foreign",
@@ -6376,6 +6579,34 @@
           "#foreign",
           "#board",
           "#en",
+          "#ru"
+        ]
+      },
+      {
+        "id": "014-yakuji-moe",
+        "urls": [
+          "https://014.yakuji.moe/"
+        ],
+        "tagsIds": [
+          "#ins",
+          "#live",
+          "#www",
+          "#iich",
+          "#archive",
+          "#ru"
+        ]
+      },
+      {
+        "id": "410-yakuji-moe",
+        "urls": [
+          "https://410.yakuji.moe/"
+        ],
+        "tagsIds": [
+          "#ins",
+          "#live",
+          "#www",
+          "#iich",
+          "#archive",
           "#ru"
         ]
       },
@@ -6559,6 +6790,11 @@
         "id": "#stream",
         "type": "service",
         "description": "Интернет-радио, стримы и другое потоковое содержимое"
+      },
+      {
+        "id": "#wiki",
+        "type": "service",
+        "description": "База знаний, вики-система"
       },
       {
         "id": "#ar",

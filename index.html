@@ -122,6 +122,22 @@
         transition: opacity 0.2s;
       }
 
+      .sites-cell.is-ins-tag::before,
+      .sites-cell.is-del-tag::before {
+        position: relative;
+        float: right;
+
+        font-size: var(--font-size-s);
+      }
+
+      .sites-cell.is-ins-tag::before {
+        content: "new";
+      }
+
+      .sites-cell.is-del-tag::before {
+        content: "lower";
+      }
+
       .sites-cell-key,
       .sites-cell-value {
         display: block;
@@ -229,12 +245,12 @@
     </style>
     <title>Навигатор бордосферы</title>
   </head>
-  <body data-created="2022-06-06" data-updated="2023-12-01" data-version="1.10.0-rc11">
+  <body data-created="2022-06-06" data-updated="2024-01-01" data-version="1.11.0-rc12">
     <header>
       <h1>Навигатор бордосферы</h1>
       <p>
-        Редакция от <strong><time datetime="2023-12-01">1 декабря 2023</time></strong> (<data value="1.10.0-rc11">v1.10.0-rc11)</data><br />
-        Всего <strong>435</strong>, живых <strong>67</strong>
+        Редакция от <strong><time datetime="2024-01-01">1 января 2024</time></strong> (<data value="1.11.0-rc12">v1.11.0-rc12)</data><br />
+        Всего <strong>448</strong>, живых <strong>78</strong>
       </p>
     </header>
     <main>
@@ -242,7 +258,37 @@
         <section class="is-live-tag">
           <h2>Живые</h2>
           <ul class="sites-grid">
-            <li class="sites-cell is-ins-tag is-www-tag is-live-tag is-cheap-tag is-obscure-tag is-wild-tag is-chat-tag is-ru-tag" id="lostchat-rf-gd">
+            <li class="sites-cell is-ins-tag is-www-tag is-live-tag is-cheap-tag is-wild-tag is-board-tag is-ru-tag" id="bitardchan-rf-gd">
+              <span class="sites-cell-key">
+                <a href="https://bitardchan.rf.gd/" target="_blank">bitardchan.rf.gd</a>
+              </span>
+              <span class="sites-cell-value">
+                <time datetime="2023-12-22" title="2023-12-22">2023</time>
+                <a class="color-misc" href="#cheap" title="Бесплатная или базовая инфраструктура для сайта">#cheap</a>
+                <a class="color-misc" href="#wild" title="Бессмысленное или вредящее содержимое">#wild</a>
+              </span>
+            </li>
+            <li class="sites-cell is-ins-tag is-www-tag is-live-tag is-cheap-tag is-wild-tag is-board-tag is-ru-tag" id="makachan-wuaze-com">
+              <span class="sites-cell-key">
+                <a href="https://makachan.wuaze.com/" target="_blank">makachan.wuaze.com</a>
+              </span>
+              <span class="sites-cell-value">
+                <time datetime="2023-12-22" title="2023-12-22">2023</time>
+                <a class="color-misc" href="#cheap" title="Бесплатная или базовая инфраструктура для сайта">#cheap</a>
+                <a class="color-misc" href="#wild" title="Бессмысленное или вредящее содержимое">#wild</a>
+              </span>
+            </li>
+            <li class="sites-cell is-ins-tag is-www-tag is-live-tag is-cheap-tag is-wild-tag is-board-tag is-ru-tag" id="trapach-kesug-com">
+              <span class="sites-cell-key">
+                <a href="https://trapach.kesug.com/" target="_blank">trapach.kesug.com</a>
+              </span>
+              <span class="sites-cell-value">
+                <time datetime="2023-12-21" title="2023-12-21">2023</time>
+                <a class="color-misc" href="#cheap" title="Бесплатная или базовая инфраструктура для сайта">#cheap</a>
+                <a class="color-misc" href="#wild" title="Бессмысленное или вредящее содержимое">#wild</a>
+              </span>
+            </li>
+            <li class="sites-cell is-www-tag is-live-tag is-cheap-tag is-obscure-tag is-wild-tag is-chat-tag is-ru-tag" id="lostchat-rf-gd">
               <span class="sites-cell-key">
                 <a href="https://lostchat.rf.gd/" target="_blank">lostchat.rf.gd</a>
               </span>
@@ -264,7 +310,7 @@
                 <a class="color-misc" href="#wild" title="Бессмысленное или вредящее содержимое">#wild</a>
               </span>
             </li>
-            <li class="sites-cell is-tor-tag is-i2p-tag is-live-tag is-clone-tag is-obscure-tag is-board-tag is-ru-tag" id="pinachjukrv62ntdxw5qwhpp3vmzupi6kwp5dekcisyb6vztrpb7vzad-onion">
+            <li class="sites-cell is-del-tag is-tor-tag is-i2p-tag is-live-tag is-clone-tag is-obscure-tag is-board-tag is-ru-tag" id="pinachjukrv62ntdxw5qwhpp3vmzupi6kwp5dekcisyb6vztrpb7vzad-onion">
               <span class="sites-cell-key">
                 <a href="http://pinachjukrv62ntdxw5qwhpp3vmzupi6kwp5dekcisyb6vztrpb7vzad.onion/" target="_blank">pinachjukrv6…7vzad.onion</a>
               </span>
@@ -343,6 +389,18 @@
                 <a class="color-misc" href="#wild" title="Бессмысленное или вредящее содержимое">#wild</a>
               </span>
             </li>
+            <li class="sites-cell is-ins-tag is-www-tag is-tor-tag is-live-tag is-ex2ch-tag is-fags-tag is-wild-tag is-board-tag is-ru-tag" id="varyachan-life">
+              <span class="sites-cell-key">
+                <a href="https://varyachan.life/" target="_blank">varyachan.life</a>
+              </span>
+              <span class="sites-cell-value">
+                <time datetime="2023-04-12" title="2023-04-12">2023</time>
+                <a class="color-misc" href="#ex2ch" title="Пост-2ch.ru и связанные сайты">#ex2ch</a>
+                <a class="color-misc" href="#fags" title="Персонифицированные треды, аватарки и т.п.">#fags</a>
+                <a class="color-misc" href="#wild" title="Бессмысленное или вредящее содержимое">#wild</a>
+                <a href="http://varya2mudm4b73s2ec2nuurnmk6lju76vnwnjsev6zyhfq4to67kc5yd.onion/" target="_blank">.onion</a>
+              </span>
+            </li>
             <li class="sites-cell is-tor-tag is-i2p-tag is-live-tag is-ex0ch-tag is-wild-tag is-board-tag is-ru-tag" id="metatorrkdagnx2njwvnzqeclsk3qbwabr6hori4vmivj25qy6s6gsad-onion">
               <span class="sites-cell-key">
                 <a href="http://metatorrkdagnx2njwvnzqeclsk3qbwabr6hori4vmivj25qy6s6gsad.onion/" target="_blank">metatorrkdag…6gsad.onion</a>
@@ -378,14 +436,26 @@
                 <a href="http://rju7h4gwust4ptaiqhql7m7nvor45ez5675v7r3rza2egskkrmga.b32.i2p/" target="_blank">.b32.i2p</a>
               </span>
             </li>
-            <li class="sites-cell is-www-tag is-live-tag is-iich-tag is-clone-tag is-board-tag is-ru-tag" id="dobrochan-net">
+            <li class="sites-cell is-www-tag is-limited-tag is-live-tag is-wiki-tag is-ru-tag" id="0chan-wiki">
               <span class="sites-cell-key">
-                <a href="https://dobrochan.net/" target="_blank">dobrochan.net</a>
+                <a href="https://0chan.wiki/" target="_blank">0chan.wiki</a>
+              </span>
+              <span class="sites-cell-value">
+                <time datetime="2023-02-17" title="2023-02-17">2023</time>
+                <a class="color-misc" href="#limited" title="Доступ ограничен владельцем">#limited</a>
+                <a class="color-misc" href="#wiki" title="База знаний, вики-система">#wiki</a>
+              </span>
+            </li>
+            <li class="sites-cell is-www-tag is-live-tag is-iich-tag is-clone-tag is-mods-tag is-archive-tag is-board-tag is-ru-tag" id="rf-dobrochan-net">
+              <span class="sites-cell-key">
+                <a href="https://rf.dobrochan.net/" target="_blank">rf.dobrochan.net</a>
               </span>
               <span class="sites-cell-value">
                 <time datetime="2023-01-13" title="2023-01-13">2023</time>
                 <a class="color-misc" href="#iich" title="iichan.ru и связанные сайты">#iich</a>
                 <a class="color-misc" href="#clone" title="Копирование атрибутов более известных проектов">#clone</a>
+                <a class="color-misc" href="#mods" title="Злоупотребление модераторскими полномочиями">#mods</a>
+                <a class="color-misc" href="#archive" title="Статичное содержимое, архивы устаревших ресурсов">#archive</a>
               </span>
             </li>
             <li class="sites-cell is-www-tag is-tor-tag is-live-tag is-ex0ch-tag is-clone-tag is-mods-tag is-wild-tag is-board-tag is-ru-tag" id="0chan-plus">
@@ -441,16 +511,6 @@
                 <a class="color-misc" href="#wild" title="Бессмысленное или вредящее содержимое">#wild</a>
               </span>
             </li>
-            <li class="sites-cell is-del-tag is-i2p-tag is-live-tag is-wild-tag is-board-tag is-ru-tag" id="nestchan-i2p">
-              <span class="sites-cell-key">
-                <a href="http://nestchan.i2p/" target="_blank">nestchan.i2p</a>
-              </span>
-              <span class="sites-cell-value">
-                <time datetime="2022-07-18" title="2022-07-18">2022</time>
-                <a class="color-misc" href="#wild" title="Бессмысленное или вредящее содержимое">#wild</a>
-                <a href="http://wzwlwxju3orzbuld7cjtia2z4fqp2vt7orjdzmsz3ynlqr3ewokq.b32.i2p/" target="_blank">.b32.i2p</a>
-              </span>
-            </li>
             <li class="sites-cell is-www-tag is-live-tag is-ex1ch-tag is-clone-tag is-comfy-tag is-board-tag is-index-tag is-news-tag is-ru-tag" id="1chan-su">
               <span class="sites-cell-key">
                 <a href="https://1chan.su/" target="_blank">1chan.su</a>
@@ -475,7 +535,7 @@
                 <a class="color-misc" href="#wild" title="Бессмысленное или вредящее содержимое">#wild</a>
               </span>
             </li>
-            <li class="sites-cell is-ins-tag is-www-tag is-tor-tag is-live-tag is-obscure-tag is-wild-tag is-chat-tag is-ru-tag" id="shitshare-xyz">
+            <li class="sites-cell is-www-tag is-tor-tag is-live-tag is-obscure-tag is-wild-tag is-chat-tag is-ru-tag" id="shitshare-xyz">
               <span class="sites-cell-key">
                 <a href="https://shitshare.xyz/" target="_blank">shitshare.xyz</a>
               </span>
@@ -568,6 +628,18 @@
                 <a href="https://ochan.ru/" target="_blank">.ru</a>
               </span>
             </li>
+            <li class="sites-cell is-ins-tag is-www-tag is-limited-tag is-live-tag is-clone-tag is-index-tag is-wiki-tag is-ru-tag" id="neolurk-org">
+              <span class="sites-cell-key">
+                <a href="https://neolurk.org/" target="_blank">neolurk.org</a>
+              </span>
+              <span class="sites-cell-value">
+                <time datetime="2018-10-19" title="2018-10-19">2018</time>
+                <a class="color-misc" href="#limited" title="Доступ ограничен владельцем">#limited</a>
+                <a class="color-misc" href="#clone" title="Копирование атрибутов более известных проектов">#clone</a>
+                <a class="color-misc" href="#index" title="Список ссылок, имеющих отношение к бордосфере">#index</a>
+                <a class="color-misc" href="#wiki" title="База знаний, вики-система">#wiki</a>
+              </span>
+            </li>
             <li class="sites-cell is-www-tag is-tor-tag is-i2p-tag is-blocked-tag is-live-tag is-ex2ch-tag is-clone-tag is-mods-tag is-wild-tag is-board-tag is-ru-tag" id="2channel-moe">
               <span class="sites-cell-key">
                 <a href="https://2channel.moe/" target="_blank">2channel.moe</a>
@@ -648,7 +720,19 @@
                 <a class="color-misc" href="#archive" title="Статичное содержимое, архивы устаревших ресурсов">#archive</a>
               </span>
             </li>
-            <li class="sites-cell is-tor-tag is-live-tag is-obscure-tag is-wild-tag is-board-tag is-ru-tag" id="pfpmd7dd5ijt4add2sfi4djsaij4u3ebvnwvyvuj6aeipe2f5llptkid-onion">
+            <li class="sites-cell is-ins-tag is-www-tag is-live-tag is-wild-tag is-index-tag is-wiki-tag is-ru-tag" id="wiki-1chan-ca">
+              <span class="sites-cell-key">
+                <a href="https://wiki.1chan.ca/" target="_blank">wiki.1chan.ca</a>
+              </span>
+              <span class="sites-cell-value">
+                <time datetime="2015-10-07" title="2015-10-07">2015</time>
+                <a class="color-misc" href="#wild" title="Бессмысленное или вредящее содержимое">#wild</a>
+                <a class="color-misc" href="#index" title="Список ссылок, имеющих отношение к бордосфере">#index</a>
+                <a class="color-misc" href="#wiki" title="База знаний, вики-система">#wiki</a>
+                <a href="https://kolchepedia.ru/" target="_blank">.ru</a>
+              </span>
+            </li>
+            <li class="sites-cell is-del-tag is-tor-tag is-live-tag is-obscure-tag is-wild-tag is-board-tag is-ru-tag" id="pfpmd7dd5ijt4add2sfi4djsaij4u3ebvnwvyvuj6aeipe2f5llptkid-onion">
               <span class="sites-cell-key">
                 <a href="http://pfpmd7dd5ijt4add2sfi4djsaij4u3ebvnwvyvuj6aeipe2f5llptkid.onion/" target="_blank">pfpmd7dd5ijt…ptkid.onion</a>
               </span>
@@ -831,6 +915,19 @@
                 <a class="color-misc" href="#chat" title="Чат или чатоподобная площадка для общения">#chat</a>
               </span>
             </li>
+            <li class="sites-cell is-ins-tag is-www-tag is-tor-tag is-live-tag is-iich-tag is-ex2ch-tag is-archive-tag is-ru-tag" id="arhivach-top">
+              <span class="sites-cell-key">
+                <a href="http://arhivach.top/" target="_blank">arhivach.top</a>
+              </span>
+              <span class="sites-cell-value">
+                <time datetime="2011" title="2011">2011</time>
+                <a class="color-misc" href="#iich" title="iichan.ru и связанные сайты">#iich</a>
+                <a class="color-misc" href="#ex2ch" title="Пост-2ch.ru и связанные сайты">#ex2ch</a>
+                <a class="color-misc" href="#archive" title="Статичное содержимое, архивы устаревших ресурсов">#archive</a>
+                <a href="http://arhivach.ng/" target="_blank">.ng</a>
+                <a href="http://arhivachqqqvwqcotafhk4ks2he56seuwcshpayrm5myeq45vlff44yd.onion/" target="_blank">.onion</a>
+              </span>
+            </li>
             <li class="sites-cell is-www-tag is-live-tag is-comfy-tag is-fags-tag is-mods-tag is-wild-tag is-board-tag is-ru-tag" id="horochan-ru">
               <span class="sites-cell-key">
                 <a href="https://horochan.ru/" target="_blank">horochan.ru</a>
@@ -865,11 +962,27 @@
             <li class="sites-cell is-ins-tag is-www-tag is-live-tag is-foreign-tag is-wild-tag is-board-tag is-lt-tag is-ru-tag" id="370ch-lt">
               <span class="sites-cell-key">
                 <a href="https://370ch.lt/" target="_blank">370ch.lt</a>
+                <a href="https://370ch.lt/int" target="_blank">/int</a>
               </span>
               <span class="sites-cell-value">
                 <time datetime="2010" title="2010">2010</time>
                 <a class="color-misc" href="#foreign" title="Зарубежный сайт с русскоязычными разделами">#foreign</a>
                 <a class="color-misc" href="#wild" title="Бессмысленное или вредящее содержимое">#wild</a>
+              </span>
+            </li>
+            <li class="sites-cell is-ins-tag is-www-tag is-tor-tag is-live-tag is-ex2ch-tag is-archive-tag is-ru-tag" id="m2ch-hk">
+              <span class="sites-cell-key">
+                <a href="https://m2ch.hk/" target="_blank">m2ch.hk</a>
+              </span>
+              <span class="sites-cell-value">
+                <time datetime="2010" title="2010">2010</time>
+                <a class="color-misc" href="#ex2ch" title="Пост-2ch.ru и связанные сайты">#ex2ch</a>
+                <a class="color-misc" href="#archive" title="Статичное содержимое, архивы устаревших ресурсов">#archive</a>
+                <a href="https://m2ch.gq/" target="_blank">.gq</a>
+                <a href="https://m2ch.cf/" target="_blank">.cf</a>
+                <a href="https://m2ch.fapp.in/" target="_blank">.in</a>
+                <a href="https://m2ch.lib/" target="_blank">.lib</a>
+                <a href="http://m2chfapiswfw2wcakptqp4o6ltgchvjuxfab7urxlduraomtlnhw5xad.onion/" target="_blank">.onion</a>
               </span>
             </li>
             <li class="sites-cell is-www-tag is-live-tag is-board-tag is-ru-tag" id="chuck-dfwk-ru">
@@ -915,6 +1028,19 @@
                 <a href="https://410chan.ru/" target="_blank">.ru</a>
               </span>
             </li>
+            <li class="sites-cell is-ins-tag is-www-tag is-limited-tag is-live-tag is-board-tag is-stream-tag is-wiki-tag is-ru-tag" id="anon-fm">
+              <span class="sites-cell-key">
+                <a href="https://anon.fm/" target="_blank">anon.fm</a>
+                <a href="https://anon.fm/board" target="_blank">/board</a>
+              </span>
+              <span class="sites-cell-value">
+                <time datetime="2009-01" title="2009-01">2009</time>
+                <a class="color-misc" href="#limited" title="Доступ ограничен владельцем">#limited</a>
+                <a class="color-misc" href="#stream" title="Интернет-радио, стримы и другое потоковое содержимое">#stream</a>
+                <a class="color-misc" href="#wiki" title="База знаний, вики-система">#wiki</a>
+                <a href="http://radioanon.ru/" target="_blank">.ru</a>
+              </span>
+            </li>
             <li class="sites-cell is-www-tag is-limited-tag is-blocked-tag is-live-tag is-board-tag is-stream-tag is-ru-tag" id="bbs-anoma-ch">
               <span class="sites-cell-key">
                 <a href="https://bbs.anoma.ch/" target="_blank">bbs.anoma.ch</a>
@@ -948,27 +1074,29 @@
                 <a class="color-misc" href="#wild" title="Бессмысленное или вредящее содержимое">#wild</a>
               </span>
             </li>
-            <li class="sites-cell is-i2p-tag is-live-tag is-obscure-tag is-wild-tag is-board-tag is-ru-tag" id="gopchan-i2p">
+            <li class="sites-cell is-del-tag is-i2p-tag is-live-tag is-obscure-tag is-wild-tag is-chat-tag is-ru-tag" id="gopchan-i2p">
               <span class="sites-cell-key">
                 <a href="http://gopchan.i2p/" target="_blank">gopchan.i2p</a>
               </span>
               <span class="sites-cell-value">
                 <a class="color-misc" href="#obscure" title="Нестандартная концепция использования">#obscure</a>
                 <a class="color-misc" href="#wild" title="Бессмысленное или вредящее содержимое">#wild</a>
+                <a class="color-misc" href="#chat" title="Чат или чатоподобная площадка для общения">#chat</a>
                 <a href="https://gopchnqtt2thncw263t32kg3wav567kf5lhzpzqcbnp5diofnhqq.b32.i2p/" target="_blank">.b32.i2p</a>
               </span>
             </li>
-            <li class="sites-cell is-i2p-tag is-live-tag is-obscure-tag is-wild-tag is-board-tag is-ru-tag" id="pidorchan-i2p">
+            <li class="sites-cell is-del-tag is-i2p-tag is-live-tag is-obscure-tag is-wild-tag is-chat-tag is-ru-tag" id="pidorchan-i2p">
               <span class="sites-cell-key">
                 <a href="http://pidorchan.i2p/" target="_blank">pidorchan.i2p</a>
               </span>
               <span class="sites-cell-value">
                 <a class="color-misc" href="#obscure" title="Нестандартная концепция использования">#obscure</a>
                 <a class="color-misc" href="#wild" title="Бессмысленное или вредящее содержимое">#wild</a>
+                <a class="color-misc" href="#chat" title="Чат или чатоподобная площадка для общения">#chat</a>
                 <a href="http://pidorgmob3uchxfepm7ywvfbjwo5f232us3lkegvbolwv2qybesa.b32.i2p/" target="_blank">.b32.i2p</a>
               </span>
             </li>
-            <li class="sites-cell is-tor-tag is-i2p-tag is-live-tag is-foreign-tag is-wild-tag is-board-tag is-en-tag is-ru-tag" id="rcuhe6pk7mbmsjk7bwyja5etvjhjvzmc724rnf3piamemvawoi44z7qd-onion">
+            <li class="sites-cell is-del-tag is-tor-tag is-i2p-tag is-live-tag is-foreign-tag is-wild-tag is-board-tag is-en-tag is-ru-tag" id="rcuhe6pk7mbmsjk7bwyja5etvjhjvzmc724rnf3piamemvawoi44z7qd-onion">
               <span class="sites-cell-key">
                 <a href="http://rcuhe6pk7mbmsjk7bwyja5etvjhjvzmc724rnf3piamemvawoi44z7qd.onion/" target="_blank">rcuhe6pk7mbm…4z7qd.onion</a>
                 <a href="http://rcuhe6pk7mbmsjk7bwyja5etvjhjvzmc724rnf3piamemvawoi44z7qd.onion/rus" target="_blank">/rus</a>
@@ -980,13 +1108,31 @@
                 <a href="http://iqxr4hupmaqdd4wvkwwjjrq6ddocydqqqadtnk6ltdnalvrzanxq.b32.i2p/" target="_blank">.b32.i2p</a>
               </span>
             </li>
-            <li class="sites-cell is-tor-tag is-live-tag is-foreign-tag is-board-tag is-en-tag is-ru-tag" id="tdsrvhos656xypxsqtkqmiwefuvlyqmnvk5faoo23oh2m4xqg4gr47ad-onion">
+            <li class="sites-cell is-del-tag is-tor-tag is-live-tag is-foreign-tag is-board-tag is-en-tag is-ru-tag" id="tdsrvhos656xypxsqtkqmiwefuvlyqmnvk5faoo23oh2m4xqg4gr47ad-onion">
               <span class="sites-cell-key">
                 <a href="http://tdsrvhos656xypxsqtkqmiwefuvlyqmnvk5faoo23oh2m4xqg4gr47ad.onion/" target="_blank">tdsrvhos656x…r47ad.onion</a>
                 <a href="http://tdsrvhos656xypxsqtkqmiwefuvlyqmnvk5faoo23oh2m4xqg4gr47ad.onion/polru" target="_blank">/polru</a>
               </span>
               <span class="sites-cell-value">
                 <a class="color-misc" href="#foreign" title="Зарубежный сайт с русскоязычными разделами">#foreign</a>
+              </span>
+            </li>
+            <li class="sites-cell is-ins-tag is-www-tag is-live-tag is-iich-tag is-archive-tag is-ru-tag" id="014-yakuji-moe">
+              <span class="sites-cell-key">
+                <a href="https://014.yakuji.moe/" target="_blank">014.yakuji.moe</a>
+              </span>
+              <span class="sites-cell-value">
+                <a class="color-misc" href="#iich" title="iichan.ru и связанные сайты">#iich</a>
+                <a class="color-misc" href="#archive" title="Статичное содержимое, архивы устаревших ресурсов">#archive</a>
+              </span>
+            </li>
+            <li class="sites-cell is-ins-tag is-www-tag is-live-tag is-iich-tag is-archive-tag is-ru-tag" id="410-yakuji-moe">
+              <span class="sites-cell-key">
+                <a href="https://410.yakuji.moe/" target="_blank">410.yakuji.moe</a>
+              </span>
+              <span class="sites-cell-value">
+                <a class="color-misc" href="#iich" title="iichan.ru и связанные сайты">#iich</a>
+                <a class="color-misc" href="#archive" title="Статичное содержимое, архивы устаревших ресурсов">#archive</a>
               </span>
             </li>
             <li class="sites-cell is-www-tag is-live-tag is-obscure-tag is-wild-tag is-board-tag is-ru-tag" id="zenchan-cc">
@@ -1025,6 +1171,16 @@
                 <a class="color-misc" href="#obscure" title="Нестандартная концепция использования">#obscure</a>
               </span>
             </li>
+            <li class="sites-cell is-i2p-tag is-ghost-tag is-wild-tag is-board-tag is-ru-tag" id="nestchan-i2p">
+              <span class="sites-cell-key">
+                <a href="http://nestchan.i2p/" target="_blank">nestchan.i2p</a>
+              </span>
+              <span class="sites-cell-value">
+                <time datetime="2022-07-18" title="2022-07-18">2022</time>
+                <a class="color-misc" href="#wild" title="Бессмысленное или вредящее содержимое">#wild</a>
+                <a href="http://wzwlwxju3orzbuld7cjtia2z4fqp2vt7orjdzmsz3ynlqr3ewokq.b32.i2p/" target="_blank">.b32.i2p</a>
+              </span>
+            </li>
             <li class="sites-cell is-tor-tag is-i2p-tag is-ghost-tag is-foreign-tag is-wild-tag is-board-tag is-ru-tag" id="taozgyb2jfbj567lzvfjse4c2snsb37tq3o2iucflxqoilogwc6bx2qd-onion">
               <span class="sites-cell-key">
                 <a href="http://taozgyb2jfbj567lzvfjse4c2snsb37tq3o2iucflxqoilogwc6bx2qd.onion/" target="_blank">taozgyb2jfbj…bx2qd.onion</a>
@@ -1035,16 +1191,6 @@
                 <a class="color-misc" href="#foreign" title="Зарубежный сайт с русскоязычными разделами">#foreign</a>
                 <a class="color-misc" href="#wild" title="Бессмысленное или вредящее содержимое">#wild</a>
                 <a href="http://y5hr627jx2kzyaxlg3i5ohbmlj37eduamz67qd23kkg3dy4hg5ea.b32.i2p/" target="_blank">.b32.i2p</a>
-              </span>
-            </li>
-            <li class="sites-cell is-del-tag is-i2p-tag is-ghost-tag is-wild-tag is-board-tag is-ru-tag" id="purplechan-i2p">
-              <span class="sites-cell-key">
-                <a href="http://purplechan.i2p/" target="_blank">purplechan.i2p</a>
-              </span>
-              <span class="sites-cell-value">
-                <time datetime="2021-10-07" title="2021-10-07">2021</time>
-                <a class="color-misc" href="#wild" title="Бессмысленное или вредящее содержимое">#wild</a>
-                <a href="http://tyiwxpgs7syjvz3cha3uckaxgondtiktlsvriebyy4qmzgbaj3gq.b32.i2p/" target="_blank">.b32.i2p</a>
               </span>
             </li>
             <li class="sites-cell is-www-tag is-ghost-tag is-cheap-tag is-obscure-tag is-board-tag is-ru-tag" id="bchan-myqip-ru">
@@ -1121,18 +1267,6 @@
                 <a class="color-misc" href="#iich" title="iichan.ru и связанные сайты">#iich</a>
               </span>
             </li>
-            <li class="sites-cell is-www-tag is-ghost-tag is-exapach-tag is-fags-tag is-board-tag is-ru-tag" id="black-area-ru">
-              <span class="sites-cell-key">
-                <a href="https://black-area.ru/" target="_blank">black-area.ru</a>
-              </span>
-              <span class="sites-cell-value">
-                <time datetime="2012-08-09" title="2012-08-09">2012</time>
-                <a class="color-misc" href="#exapach" title="Пост-apachan.net и связанные сайты">#exapach</a>
-                <a class="color-misc" href="#fags" title="Персонифицированные треды, аватарки и т.п.">#fags</a>
-                <a href="http://tsun-tsun.ru/" target="_blank">.ru</a>
-                <a href="http://radiogin.ru/" target="_blank">.ru</a>
-              </span>
-            </li>
             <li class="sites-cell is-www-tag is-ghost-tag is-foreign-tag is-comfy-tag is-board-tag is-fi-tag is-ru-tag" id="ylilauta-org">
               <span class="sites-cell-key">
                 <a href="https://ylilauta.org/" target="_blank">ylilauta.org</a>
@@ -1157,6 +1291,18 @@
                 <a href="https://krautchan.rip/" target="_blank">.rip</a>
                 <a href="https://bernd.group/" target="_blank">.group</a>
                 <a href="https://xcomm.id/" target="_blank">.id</a>
+              </span>
+            </li>
+            <li class="sites-cell is-ins-tag is-www-tag is-limited-tag is-ghost-tag is-iich-tag is-index-tag is-wiki-tag is-ru-tag" id="noobtype-ru">
+              <span class="sites-cell-key">
+                <a href="https://noobtype.ru/" target="_blank">noobtype.ru</a>
+              </span>
+              <span class="sites-cell-value">
+                <time datetime="2008-05-28" title="2008-05-28">2008</time>
+                <a class="color-misc" href="#limited" title="Доступ ограничен владельцем">#limited</a>
+                <a class="color-misc" href="#iich" title="iichan.ru и связанные сайты">#iich</a>
+                <a class="color-misc" href="#index" title="Список ссылок, имеющих отношение к бордосфере">#index</a>
+                <a class="color-misc" href="#wiki" title="База знаний, вики-система">#wiki</a>
               </span>
             </li>
             <li class="sites-cell is-www-tag is-ghost-tag is-iich-tag is-board-tag is-index-tag is-ru-tag" id="overchan-ru">
@@ -1213,13 +1359,16 @@
                 <time datetime="2017-02-02" title="2017-02-02">2017</time>
               </span>
             </li>
-            <li class="sites-cell is-www-tag is-limited-tag is-readonly-tag is-board-tag is-ru-tag" id="anon-fm">
+            <li class="sites-cell is-www-tag is-readonly-tag is-exapach-tag is-fags-tag is-board-tag is-ru-tag" id="black-area-ru">
               <span class="sites-cell-key">
-                <a href="https://anon.fm/board" target="_blank">anon.fm/board</a>
+                <a href="https://black-area.ru/" target="_blank">black-area.ru</a>
               </span>
               <span class="sites-cell-value">
-                <time datetime="2016-07-21" title="2016-07-21">2016</time>
-                <a class="color-misc" href="#limited" title="Доступ ограничен владельцем">#limited</a>
+                <time datetime="2012-08-09" title="2012-08-09">2012</time>
+                <a class="color-misc" href="#exapach" title="Пост-apachan.net и связанные сайты">#exapach</a>
+                <a class="color-misc" href="#fags" title="Персонифицированные треды, аватарки и т.п.">#fags</a>
+                <a href="http://tsun-tsun.ru/" target="_blank">.ru</a>
+                <a href="http://radiogin.ru/" target="_blank">.ru</a>
               </span>
             </li>
             <li class="sites-cell is-www-tag is-readonly-tag is-fags-tag is-board-tag is-ru-tag" id="board-everypony-ru">
@@ -1254,6 +1403,27 @@
                 <a class="color-misc" href="#exapach" title="Пост-apachan.net и связанные сайты">#exapach</a>
                 <a class="color-misc" href="#cheap" title="Бесплатная или базовая инфраструктура для сайта">#cheap</a>
                 <a class="color-misc" href="#clone" title="Копирование атрибутов более известных проектов">#clone</a>
+                <a class="color-misc" href="#wild" title="Бессмысленное или вредящее содержимое">#wild</a>
+              </span>
+            </li>
+            <li class="sites-cell is-www-tag is-stub-tag is-ex1ch-tag is-clone-tag is-board-tag is-index-tag is-news-tag is-ru-tag" id="1chan-cf">
+              <span class="sites-cell-key">
+                <a href="http://1chan.cf/" target="_blank">1chan.cf</a>
+              </span>
+              <span class="sites-cell-value">
+                <time datetime="2022-02-01" title="2022-02-01">2022</time>
+                <a class="color-misc" href="#ex1ch" title="Пост-1chan.ru и связанные сайты">#ex1ch</a>
+                <a class="color-misc" href="#clone" title="Копирование атрибутов более известных проектов">#clone</a>
+                <a class="color-misc" href="#index" title="Список ссылок, имеющих отношение к бордосфере">#index</a>
+                <a class="color-misc" href="#news" title="Новости, обзоры и обсуждения последних событий">#news</a>
+              </span>
+            </li>
+            <li class="sites-cell is-www-tag is-stub-tag is-wild-tag is-board-tag is-ru-tag" id="zchan-app">
+              <span class="sites-cell-key">
+                <a href="https://zchan.app/" target="_blank">zchan.app</a>
+              </span>
+              <span class="sites-cell-value">
+                <time datetime="2020-08-05" title="2020-08-05">2020</time>
                 <a class="color-misc" href="#wild" title="Бессмысленное или вредящее содержимое">#wild</a>
               </span>
             </li>
@@ -1350,7 +1520,7 @@
         <section class="is-dead-tag">
           <h2>Мертвые</h2>
           <ul class="sites-grid">
-            <li class="sites-cell is-ins-tag is-www-tag is-dead-tag is-cheap-tag is-wild-tag is-board-tag is-ru-tag" id="jojoch-rf-gd">
+            <li class="sites-cell is-www-tag is-dead-tag is-cheap-tag is-wild-tag is-board-tag is-ru-tag" id="jojoch-rf-gd">
               <span class="sites-cell-key">
                 <a href="https://jojoch.rf.gd/" target="_blank">jojoch.rf.gd</a>
               </span>
@@ -1372,7 +1542,7 @@
                 <a class="color-misc" href="#chat" title="Чат или чатоподобная площадка для общения">#chat</a>
               </span>
             </li>
-            <li class="sites-cell is-i2p-tag is-dead-tag is-obscure-tag is-wild-tag is-board-tag is-ru-tag" id="srachan-i2p">
+            <li class="sites-cell is-i2p-tag is-dead-tag is-obscure-tag is-wild-tag is-chat-tag is-ru-tag" id="srachan-i2p">
               <span class="sites-cell-key">
                 <a href="http://srachan.i2p/" target="_blank">srachan.i2p</a>
               </span>
@@ -1380,6 +1550,7 @@
                 <time datetime="2023-05-25" title="2023-05-25">2023</time>
                 <a class="color-misc" href="#obscure" title="Нестандартная концепция использования">#obscure</a>
                 <a class="color-misc" href="#wild" title="Бессмысленное или вредящее содержимое">#wild</a>
+                <a class="color-misc" href="#chat" title="Чат или чатоподобная площадка для общения">#chat</a>
                 <a href="http://tc6zs7ddxl3vlfvug2ynvrklq2z6eslgwxj3gcksxs3tz7saseja.b32.i2p/" target="_blank">.b32.i2p</a>
               </span>
             </li>
@@ -1452,6 +1623,16 @@
                 <a class="color-misc" href="#clone" title="Копирование атрибутов более известных проектов">#clone</a>
               </span>
             </li>
+            <li class="sites-cell is-i2p-tag is-dead-tag is-wild-tag is-board-tag is-ru-tag" id="anonchan-i2p">
+              <span class="sites-cell-key">
+                <a href="http://anonchan.i2p/" target="_blank">anonchan.i2p</a>
+              </span>
+              <span class="sites-cell-value">
+                <time datetime="2023-01-07" title="2023-01-07">2023</time>
+                <a class="color-misc" href="#wild" title="Бессмысленное или вредящее содержимое">#wild</a>
+                <a href="http://ztspuueo7wvmnui5fd4jqjy5dzbc2zgu6cbcyopko2hlz4amcgfq.b32.i2p/" target="_blank">.b32.i2p</a>
+              </span>
+            </li>
             <li class="sites-cell is-www-tag is-dead-tag is-ex2ch-tag is-clone-tag is-board-tag is-ru-tag" id="cyber2ch-com">
               <span class="sites-cell-key">
                 <a href="https://cyber2ch.com/" target="_blank">cyber2ch.com</a>
@@ -1480,7 +1661,7 @@
                 <a class="color-misc" href="#cheap" title="Бесплатная или базовая инфраструктура для сайта">#cheap</a>
               </span>
             </li>
-            <li class="sites-cell is-dead-tag is-cheap-tag is-wild-tag is-board-tag is-ru-tag" id="govnyach-pythonanywhere-com">
+            <li class="sites-cell is-www-tag is-dead-tag is-cheap-tag is-wild-tag is-board-tag is-ru-tag" id="govnyach-pythonanywhere-com">
               <span class="sites-cell-key">
                 <a href="https://govnyach.pythonanywhere.com/" target="_blank">govnyach.pyt…nywhere.com</a>
               </span>
@@ -1521,18 +1702,6 @@
                 <a class="color-misc" href="#news" title="Новости, обзоры и обсуждения последних событий">#news</a>
               </span>
             </li>
-            <li class="sites-cell is-www-tag is-dead-tag is-ex1ch-tag is-clone-tag is-board-tag is-index-tag is-news-tag is-ru-tag" id="1chan-cf">
-              <span class="sites-cell-key">
-                <a href="http://1chan.cf/" target="_blank">1chan.cf</a>
-              </span>
-              <span class="sites-cell-value">
-                <time datetime="2022-02-01" title="2022-02-01">2022</time>
-                <a class="color-misc" href="#ex1ch" title="Пост-1chan.ru и связанные сайты">#ex1ch</a>
-                <a class="color-misc" href="#clone" title="Копирование атрибутов более известных проектов">#clone</a>
-                <a class="color-misc" href="#index" title="Список ссылок, имеющих отношение к бордосфере">#index</a>
-                <a class="color-misc" href="#news" title="Новости, обзоры и обсуждения последних событий">#news</a>
-              </span>
-            </li>
             <li class="sites-cell is-www-tag is-dead-tag is-ex0ch-tag is-clone-tag is-board-tag is-ru-tag" id="0ch-kz">
               <span class="sites-cell-key">
                 <a href="https://0ch.kz/" target="_blank">0ch.kz</a>
@@ -1543,6 +1712,16 @@
                 <a class="color-misc" href="#clone" title="Копирование атрибутов более известных проектов">#clone</a>
               </span>
             </li>
+            <li class="sites-cell is-i2p-tag is-dead-tag is-wild-tag is-board-tag is-ru-tag" id="purplechan-i2p">
+              <span class="sites-cell-key">
+                <a href="http://purplechan.i2p/" target="_blank">purplechan.i2p</a>
+              </span>
+              <span class="sites-cell-value">
+                <time datetime="2021-10-07" title="2021-10-07">2021</time>
+                <a class="color-misc" href="#wild" title="Бессмысленное или вредящее содержимое">#wild</a>
+                <a href="http://tyiwxpgs7syjvz3cha3uckaxgondtiktlsvriebyy4qmzgbaj3gq.b32.i2p/" target="_blank">.b32.i2p</a>
+              </span>
+            </li>
             <li class="sites-cell is-www-tag is-dead-tag is-board-tag is-ru-tag" id="spirech-org">
               <span class="sites-cell-key">
                 <a href="http://spirech.org/" target="_blank">spirech.org</a>
@@ -1551,7 +1730,7 @@
                 <time datetime="2021-09-14" title="2021-09-14">2021</time>
               </span>
             </li>
-            <li class="sites-cell is-www-tag is-tor-tag is-dead-tag is-ex0ch-tag is-clone-tag is-wild-tag is-board-tag is-ru-tag" id="0chans-ru">
+            <li class="sites-cell is-www-tag is-tor-tag is-i2p-tag is-dead-tag is-ex0ch-tag is-clone-tag is-wild-tag is-board-tag is-ru-tag" id="0chans-ru">
               <span class="sites-cell-key">
                 <a href="https://0chans.ru/" target="_blank">0chans.ru</a>
               </span>
@@ -1601,15 +1780,6 @@
               <span class="sites-cell-value">
                 <time datetime="2020-09-12" title="2020-09-12">2020</time>
                 <a class="color-misc" href="#ex2ch" title="Пост-2ch.ru и связанные сайты">#ex2ch</a>
-              </span>
-            </li>
-            <li class="sites-cell is-www-tag is-dead-tag is-wild-tag is-board-tag is-ru-tag" id="zchan-app">
-              <span class="sites-cell-key">
-                <a href="https://zchan.app/" target="_blank">zchan.app</a>
-              </span>
-              <span class="sites-cell-value">
-                <time datetime="2020-08-05" title="2020-08-05">2020</time>
-                <a class="color-misc" href="#wild" title="Бессмысленное или вредящее содержимое">#wild</a>
               </span>
             </li>
             <li class="sites-cell is-www-tag is-dead-tag is-fags-tag is-board-tag is-ru-tag" id="desuka-ch">
@@ -2105,7 +2275,7 @@
                 <a href="http://0ch.su/" target="_blank">.su</a>
               </span>
             </li>
-            <li class="sites-cell is-ins-tag is-www-tag is-dead-tag is-board-tag is-index-tag is-ru-tag" id="outchan-cf">
+            <li class="sites-cell is-www-tag is-dead-tag is-board-tag is-index-tag is-ru-tag" id="outchan-cf">
               <span class="sites-cell-key">
                 <a href="https://outchan.cf/" target="_blank">outchan.cf</a>
               </span>
@@ -3040,7 +3210,7 @@
                 <a class="color-misc" href="#obscure" title="Нестандартная концепция использования">#obscure</a>
               </span>
             </li>
-            <li class="sites-cell is-ins-tag is-www-tag is-dead-tag is-board-tag is-ru-tag" id="asylum-kodingen-com">
+            <li class="sites-cell is-www-tag is-dead-tag is-board-tag is-ru-tag" id="asylum-kodingen-com">
               <span class="sites-cell-key">
                 <a href="http://asylum.kodingen.com/" target="_blank">asylum.kodingen.com</a>
               </span>
@@ -4099,7 +4269,7 @@
                 <a class="color-misc" href="#clone" title="Копирование атрибутов более известных проектов">#clone</a>
               </span>
             </li>
-            <li class="sites-cell is-ins-tag is-www-tag is-dead-tag is-foreign-tag is-cheap-tag is-board-tag is-ru-tag is-uk-tag" id="uchan-org-ua">
+            <li class="sites-cell is-www-tag is-dead-tag is-foreign-tag is-cheap-tag is-board-tag is-ru-tag is-uk-tag" id="uchan-org-ua">
               <span class="sites-cell-key">
                 <a href="http://uchan.org.ua/" target="_blank">uchan.org.ua</a>
               </span>
@@ -4174,7 +4344,7 @@
                 <a class="color-misc" href="#cheap" title="Бесплатная или базовая инфраструктура для сайта">#cheap</a>
               </span>
             </li>
-            <li class="sites-cell is-www-tag is-dead-tag is-obscure-tag is-board-tag is-chat-tag is-ru-tag" id="lolks-ru">
+            <li class="sites-cell is-www-tag is-dead-tag is-obscure-tag is-chat-tag is-ru-tag" id="lolks-ru">
               <span class="sites-cell-key">
                 <a href="http://lolks.ru/" target="_blank">lolks.ru</a>
               </span>
@@ -4292,6 +4462,21 @@
               </span>
               <span class="sites-cell-value">
                 <time datetime="2007-09-01" title="2007-09-01">2007</time>
+              </span>
+            </li>
+            <li class="sites-cell is-ins-tag is-www-tag is-blocked-tag is-dead-tag is-index-tag is-wiki-tag is-ru-tag" id="lurkmore-ru">
+              <span class="sites-cell-key">
+                <a href="http://lurkmore.ru/" target="_blank">lurkmore.ru</a>
+              </span>
+              <span class="sites-cell-value">
+                <time datetime="2007-07-30" title="2007-07-30">2007</time>
+                <a class="color-misc" href="#blocked" title="Заблокировано третьим лицом">#blocked</a>
+                <a class="color-misc" href="#index" title="Список ссылок, имеющих отношение к бордосфере">#index</a>
+                <a class="color-misc" href="#wiki" title="База знаний, вики-система">#wiki</a>
+                <a href="https://lurkmore.co/" target="_blank">.co</a>
+                <a href="https://lurkmo.re/" target="_blank">.re</a>
+                <a href="https://lurkmore.net/" target="_blank">.net</a>
+                <a href="https://lurkmore.to/" target="_blank">.to</a>
               </span>
             </li>
             <li class="sites-cell is-www-tag is-dead-tag is-cheap-tag is-fags-tag is-board-tag is-ru-tag" id="p2-nge-net-ru">
@@ -4418,6 +4603,8 @@
             <dd class="tags-cell-value">Новости, обзоры и обсуждения последних событий</dd>
             <dt class="tags-cell-key" id="stream">#stream</dt>
             <dd class="tags-cell-value">Интернет-радио, стримы и другое потоковое содержимое</dd>
+            <dt class="tags-cell-key" id="wiki">#wiki</dt>
+            <dd class="tags-cell-value">База знаний, вики-система</dd>
           </dl>
         </section>
       </article>
@@ -4427,7 +4614,7 @@
       <p>
         <a href="https://github.com/austrellum/navigator">Источник</a>
         <span class="vr">|</span>
-        <a href="https://wc.12hp.ch/wc/res/950.html">Обсуждение</a>
+        <a href="https://wc.12hp.ch/wc/res/2577.html">Обсуждение</a>
       </p>
     </footer>
   </body>
