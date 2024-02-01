@@ -1,10 +1,11 @@
 {
   "meta": {
-    "version": "1.11.0-rc12",
+    "version": "1.12.0",
     "created": "2022-06-06",
-    "updated": "2024-01-01",
+    "updated": "2024-02-01",
     "source": "https://github.com/austrellum/navigator",
-    "discussion": "https://wc.12hp.ch/wc/res/2577.html"
+    "discussion": "https://wc.12hp.ch/wc/res/2577.html",
+    "survey": "https://tally.so/r/3jPop4"
   },
   "data": {
     "sites": [
@@ -15,13 +16,12 @@
         ],
         "created": "2023-12-22",
         "tagsIds": [
-          "#ins",
-          "#live",
-          "#www",
-          "#cheap",
-          "#wild",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "cheap",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -31,13 +31,12 @@
         ],
         "created": "2023-12-22",
         "tagsIds": [
-          "#ins",
-          "#live",
-          "#www",
-          "#cheap",
-          "#wild",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "cheap",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -47,13 +46,12 @@
         ],
         "created": "2023-12-21",
         "tagsIds": [
-          "#ins",
-          "#live",
-          "#www",
-          "#cheap",
-          "#wild",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "cheap",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -63,13 +61,13 @@
         ],
         "created": "2023-11-15",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#cheap",
-          "#obscure",
-          "#wild",
-          "#chat",
-          "#ru"
+          "live",
+          "www",
+          "cheap",
+          "obscure",
+          "wild",
+          "chat",
+          "ru"
         ]
       },
       {
@@ -79,12 +77,12 @@
         ],
         "created": "2023-11-09",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#wild",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -94,13 +92,13 @@
         ],
         "created": "2023-11-04",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#obscure",
-          "#wild",
-          "#chat",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "obscure",
+          "wild",
+          "chat",
+          "ru"
         ]
       },
       {
@@ -110,12 +108,12 @@
         ],
         "created": "2023-10-17",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#cheap",
-          "#wild",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "cheap",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -127,14 +125,13 @@
         ],
         "created": "2023-09-10",
         "tagsIds": [
-          "#del",
-          "#live",
-          "#tor",
-          "#i2p",
-          "#clone",
-          "#obscure",
-          "#board",
-          "#ru"
+          "live",
+          "tor",
+          "i2p",
+          "clone",
+          "obscure",
+          "board",
+          "ru"
         ]
       },
       {
@@ -145,17 +142,17 @@
         ],
         "created": "2023-09-02",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#limited",
-          "#ex0ch",
-          "#clone",
-          "#comfy",
-          "#wild",
-          "#board",
-          "#index",
-          "#news",
-          "#ru"
+          "live",
+          "www",
+          "limited",
+          "ex0ch",
+          "clone",
+          "comfy",
+          "wild",
+          "board",
+          "index",
+          "news",
+          "ru"
         ]
       },
       {
@@ -165,12 +162,12 @@
         ],
         "created": "2023-08-22",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#cheap",
-          "#wild",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "cheap",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -180,14 +177,14 @@
         ],
         "created": "2023-08-18",
         "tagsIds": [
-          "#stub",
-          "#www",
-          "#cheap",
-          "#clone",
-          "#exapach",
-          "#wild",
-          "#board",
-          "#ru"
+          "stub",
+          "www",
+          "exapach",
+          "cheap",
+          "clone",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -198,11 +195,11 @@
         ],
         "created": "2023-07-24",
         "tagsIds": [
-          "#live",
-          "#i2p",
-          "#en",
-          "#board",
-          "#ru"
+          "live",
+          "i2p",
+          "board",
+          "en",
+          "ru"
         ]
       },
       {
@@ -212,11 +209,12 @@
         ],
         "created": "2023-05-31",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#wild",
-          "#board",
-          "#ru"
+          "lower",
+          "live",
+          "www",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -227,12 +225,12 @@
         ],
         "created": "2023-05-25",
         "tagsIds": [
-          "#dead",
-          "#i2p",
-          "#obscure",
-          "#wild",
-          "#chat",
-          "#ru"
+          "dead",
+          "i2p",
+          "obscure",
+          "wild",
+          "chat",
+          "ru"
         ]
       },
       {
@@ -242,11 +240,11 @@
         ],
         "created": "2023-05-19",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#wild",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -256,11 +254,11 @@
         ],
         "created": "2023-05-12",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#wild",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -270,11 +268,11 @@
         ],
         "created": "2023-05-12",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#wild",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -284,14 +282,14 @@
         ],
         "created": "2023-04-24",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#ex0ch",
-          "#ex2ch",
-          "#clone",
-          "#wild",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "ex0ch",
+          "ex2ch",
+          "clone",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -301,13 +299,13 @@
         ],
         "created": "2023-04-23",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#ex0ch",
-          "#clone",
-          "#wild",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex0ch",
+          "clone",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -318,15 +316,14 @@
         ],
         "created": "2023-04-12",
         "tagsIds": [
-          "#ins",
-          "#live",
-          "#www",
-          "#tor",
-          "#ex2ch",
-          "#fags",
-          "#wild",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "tor",
+          "ex2ch",
+          "fags",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -336,30 +333,31 @@
         ],
         "created": "2023-04-07",
         "tagsIds": [
-          "#ghost",
-          "#www",
-          "#limited",
-          "#cheap",
-          "#fags",
-          "#board",
-          "#ru"
+          "ghost",
+          "www",
+          "limited",
+          "cheap",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
         "id": "metatorrkdagnx2njwvnzqeclsk3qbwabr6hori4vmivj25qy6s6gsad-onion",
         "urls": [
           "http://metatorrkdagnx2njwvnzqeclsk3qbwabr6hori4vmivj25qy6s6gsad.onion/",
-          "http://metator.i2p/"
+          "http://metator.i2p/",
+          "http://meta2ztenfbd4meh6bqvysngyyc343h4rzh3qenwk4po5jzfhy6q.b32.i2p/"
         ],
         "created": "2023-03-31",
         "tagsIds": [
-          "#live",
-          "#tor",
-          "#i2p",
-          "#ex0ch",
-          "#wild",
-          "#board",
-          "#ru"
+          "live",
+          "tor",
+          "i2p",
+          "ex0ch",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -369,15 +367,16 @@
         ],
         "created": "2023-03-26",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#ex1ch",
-          "#clone",
-          "#wild",
-          "#board",
-          "#index",
-          "#news",
-          "#ru"
+          "live",
+          "www",
+          "ex1ch",
+          "clone",
+          "comfy",
+          "wild",
+          "board",
+          "index",
+          "news",
+          "ru"
         ]
       },
       {
@@ -387,13 +386,13 @@
         ],
         "created": "2023-03-06",
         "tagsIds": [
-          "#ghost",
-          "#www",
-          "#ex0ch",
-          "#clone",
-          "#obscure",
-          "#board",
-          "#ru"
+          "ghost",
+          "www",
+          "ex0ch",
+          "clone",
+          "obscure",
+          "board",
+          "ru"
         ]
       },
       {
@@ -405,12 +404,12 @@
         ],
         "created": "2023-03-03",
         "tagsIds": [
-          "#live",
-          "#tor",
-          "#i2p",
-          "#wild",
-          "#board",
-          "#ru"
+          "live",
+          "tor",
+          "i2p",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -420,11 +419,27 @@
         ],
         "created": "2023-02-17",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#limited",
-          "#wiki",
-          "#ru"
+          "live",
+          "www",
+          "limited",
+          "wiki",
+          "ru"
+        ]
+      },
+      {
+        "id": "booru-0chan-plus",
+        "urls": [
+          "https://booru.0chan.plus/"
+        ],
+        "created": "2023-02-12",
+        "tagsIds": [
+          "new",
+          "ghost",
+          "www",
+          "limited",
+          "ex0ch",
+          "gallery",
+          "ru"
         ]
       },
       {
@@ -435,14 +450,14 @@
         ],
         "created": "2023-02-08",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#tor",
-          "#ex0ch",
-          "#clone",
-          "#wild",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "tor",
+          "ex0ch",
+          "clone",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -452,12 +467,12 @@
         ],
         "created": "2023-02-04",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex0ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex0ch",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -467,12 +482,12 @@
         ],
         "created": "2023-02-01",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -482,14 +497,14 @@
         ],
         "created": "2023-01-13",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#iich",
-          "#clone",
-          "#mods",
-          "#archive",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "iich",
+          "clone",
+          "mods",
+          "archive",
+          "board",
+          "ru"
         ]
       },
       {
@@ -499,12 +514,12 @@
         ],
         "created": "2023-01-13",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#iich",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "iich",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -515,11 +530,11 @@
         ],
         "created": "2023-01-07",
         "tagsIds": [
-          "#dead",
-          "#i2p",
-          "#wild",
-          "#board",
-          "#ru"
+          "dead",
+          "i2p",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -527,19 +542,54 @@
         "urls": [
           "https://0chan.plus/",
           "https://0chan.us/",
+          "https://0chanru.net/",
           "http://32xwwlgnvohjzhlfcgkakdktbscrzsa2fdbrbh43evu4vuxqw3gspoyd.onion/"
         ],
         "created": "2023-01-06",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#tor",
-          "#ex0ch",
-          "#clone",
-          "#mods",
-          "#wild",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "tor",
+          "ex0ch",
+          "clone",
+          "mods",
+          "wild",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "2ch-so",
+        "urls": [
+          "https://2ch.so/"
+        ],
+        "created": "2023-01-06",
+        "tagsIds": [
+          "new",
+          "live",
+          "www",
+          "ex0ch",
+          "ex2ch",
+          "clone",
+          "mods",
+          "wild",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "zenchan-cc",
+        "urls": [
+          "https://zenchan.cc/"
+        ],
+        "created": "2023",
+        "tagsIds": [
+          "live",
+          "www",
+          "obscure",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -549,14 +599,30 @@
         ],
         "created": "2022-11-29",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#exapach",
-          "#clone",
-          "#cheap",
-          "#wild",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "exapach",
+          "cheap",
+          "clone",
+          "wild",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "slonik-0chan-ru",
+        "urls": [
+          "https://slonik.0chan.ru/"
+        ],
+        "created": "2022-11-20",
+        "tagsIds": [
+          "new",
+          "ghost",
+          "www",
+          "limited",
+          "ex0ch",
+          "blog",
+          "ru"
         ]
       },
       {
@@ -566,11 +632,12 @@
         ],
         "created": "2022-11-03",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#wild",
-          "#board",
-          "#ru"
+          "lower",
+          "live",
+          "www",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -580,12 +647,12 @@
         ],
         "created": "2022-10-17",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -595,11 +662,11 @@
         ],
         "created": "2022-10-05",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#wild",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -609,10 +676,10 @@
         ],
         "created": "2022-10-01",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -622,11 +689,11 @@
         ],
         "created": "2022-08-31",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "board",
+          "ru"
         ]
       },
       {
@@ -636,12 +703,12 @@
         ],
         "created": "2022-08-10",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#exapach",
-          "#wild",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "exapach",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -651,12 +718,12 @@
         ],
         "created": "2022-08-03",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#wild",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -667,11 +734,11 @@
         ],
         "created": "2022-07-18",
         "tagsIds": [
-          "#ghost",
-          "#i2p",
-          "#wild",
-          "#board",
-          "#ru"
+          "dead",
+          "i2p",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -681,36 +748,57 @@
           "http://y5hr627jx2kzyaxlg3i5ohbmlj37eduamz67qd23kkg3dy4hg5ea.b32.i2p/"
         ],
         "created": "2022-06-10",
-        "entries": [
+        "paths": [
           "ru"
         ],
         "tagsIds": [
-          "#ghost",
-          "#tor",
-          "#i2p",
-          "#foreign",
-          "#wild",
-          "#board",
-          "#ru"
+          "ghost",
+          "tor",
+          "i2p",
+          "foreign",
+          "wild",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "austrellum-github-io",
+        "urls": [
+          "https://austrellum.github.io/navigator"
+        ],
+        "created": "2022-06-06",
+        "tagsIds": [
+          "new",
+          "live",
+          "www",
+          "limited",
+          "cheap",
+          "comfy",
+          "index",
+          "ru"
         ]
       },
       {
         "id": "1chan-su",
         "urls": [
           "https://1chan.su/",
-          "https://1chan.online/"
+          "https://1chan.lol/",
+          "https://1chan.online/",
+          "http://kolchh5ok22n7kmycnghqtie574gzkiz3ojebm574isvlfbkqtjqvdyd.onion/"
         ],
         "created": "2022-05-16",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#ex1ch",
-          "#clone",
-          "#comfy",
-          "#board",
-          "#index",
-          "#news",
-          "#ru"
+          "lower",
+          "live",
+          "www",
+          "tor",
+          "ex1ch",
+          "clone",
+          "comfy",
+          "board",
+          "index",
+          "news",
+          "ru"
         ]
       },
       {
@@ -720,11 +808,11 @@
         ],
         "created": "2022-04-06",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -734,11 +822,11 @@
         ],
         "created": "2022-03-26",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "board",
+          "ru"
         ]
       },
       {
@@ -748,15 +836,15 @@
         ],
         "created": "2022-02-16",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex1ch",
-          "#clone",
-          "#wild",
-          "#board",
-          "#index",
-          "#news",
-          "#ru"
+          "dead",
+          "www",
+          "ex1ch",
+          "clone",
+          "wild",
+          "board",
+          "index",
+          "news",
+          "ru"
         ]
       },
       {
@@ -766,12 +854,12 @@
         ],
         "created": "2022-02-16",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#cheap",
-          "#wild",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "cheap",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -781,14 +869,14 @@
         ],
         "created": "2022-02-01",
         "tagsIds": [
-          "#stub",
-          "#www",
-          "#ex1ch",
-          "#clone",
-          "#board",
-          "#index",
-          "#news",
-          "#ru"
+          "stub",
+          "www",
+          "ex1ch",
+          "clone",
+          "board",
+          "index",
+          "news",
+          "ru"
         ]
       },
       {
@@ -799,13 +887,36 @@
         ],
         "created": "2022-01-30",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#tor",
-          "#wild",
-          "#obscure",
-          "#chat",
-          "#ru"
+          "live",
+          "www",
+          "tor",
+          "obscure",
+          "wild",
+          "chat",
+          "ru"
+        ]
+      },
+      {
+        "id": "9ch-site",
+        "urls": [
+          "https://9ch.site/",
+          "https://9ch.moe/",
+          "https://9ch.fun/",
+          "http://ninechtv5neapzmvmivoqel6kstawcfwo4kavwweahu2wi6jxpde74ad.onion/",
+          "http://9ch.i2p/",
+          "http://ninechjiwpw5cs4t25sa4pvtacgwhrsptgmopidfulbt5nnxxryq.b32.i2p/"
+        ],
+        "created": "2022-01-26",
+        "tagsIds": [
+          "new",
+          "live",
+          "www",
+          "tor",
+          "i2p",
+          "foreign",
+          "board",
+          "ru",
+          "uk"
         ]
       },
       {
@@ -815,12 +926,12 @@
         ],
         "created": "2021-12-02",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex0ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex0ch",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -830,12 +941,12 @@
         ],
         "created": "2021-11-22",
         "tagsIds": [
-          "#readonly",
-          "#www",
-          "#limited",
-          "#obscure",
-          "#board",
-          "#ru"
+          "readonly",
+          "www",
+          "limited",
+          "obscure",
+          "board",
+          "ru"
         ]
       },
       {
@@ -846,11 +957,11 @@
         ],
         "created": "2021-10-07",
         "tagsIds": [
-          "#dead",
-          "#i2p",
-          "#wild",
-          "#board",
-          "#ru"
+          "dead",
+          "i2p",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -860,10 +971,10 @@
         ],
         "created": "2021-09-14",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -876,15 +987,15 @@
         ],
         "created": "2021-07-11",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#tor",
-          "#i2p",
-          "#ex0ch",
-          "#clone",
-          "#wild",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "tor",
+          "i2p",
+          "ex0ch",
+          "clone",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -894,12 +1005,12 @@
         ],
         "created": "2021-06-11",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex0ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex0ch",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -909,11 +1020,11 @@
         ],
         "created": "2021-03-01",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -923,12 +1034,12 @@
         ],
         "created": "2021-01-16",
         "tagsIds": [
-          "#ghost",
-          "#www",
-          "#cheap",
-          "#obscure",
-          "#board",
-          "#ru"
+          "ghost",
+          "www",
+          "cheap",
+          "obscure",
+          "board",
+          "ru"
         ]
       },
       {
@@ -938,12 +1049,12 @@
         ],
         "created": "2020-12-03",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -954,18 +1065,18 @@
           "http://waycuw2c27ruakfblkf5tcegwmt3ot445dlfoypil6bzmm4yxg7a.b32.i2p/"
         ],
         "created": "2020-11-15",
-        "entries": [
+        "paths": [
           "board/BM-2cUWkjyYgc9nRZNoYDhexATpZgiTGxGXcb/1"
         ],
         "tagsIds": [
-          "#live",
-          "#tor",
-          "#i2p",
-          "#foreign",
-          "#wild",
-          "#board",
-          "#en",
-          "#ru"
+          "live",
+          "tor",
+          "i2p",
+          "foreign",
+          "wild",
+          "board",
+          "en",
+          "ru"
         ]
       },
       {
@@ -975,13 +1086,13 @@
         ],
         "created": "2020-10-02",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#exapach",
-          "#clone",
-          "#wild",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "exapach",
+          "clone",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -991,11 +1102,11 @@
         ],
         "created": "2020-09-12",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1005,13 +1116,35 @@
         ],
         "created": "2020-08-10",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#ex1ch",
-          "#cheap",
-          "#wild",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "ex1ch",
+          "cheap",
+          "wild",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "chan-city",
+        "urls": [
+          "https://chan.city/",
+          "http://chanes.uwu.mx/"
+        ],
+        "created": "2020-08-09",
+        "tagsIds": [
+          "new",
+          "live",
+          "www",
+          "foreign",
+          "board",
+          "index",
+          "de",
+          "en",
+          "es",
+          "ja",
+          "pt",
+          "ru"
         ]
       },
       {
@@ -1021,11 +1154,11 @@
         ],
         "created": "2020-08-05",
         "tagsIds": [
-          "#stub",
-          "#www",
-          "#wild",
-          "#board",
-          "#ru"
+          "stub",
+          "www",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1035,11 +1168,11 @@
         ],
         "created": "2020-08-03",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1049,11 +1182,11 @@
         ],
         "created": "2020-08-01",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1064,11 +1197,12 @@
         ],
         "created": "2020-06-24",
         "tagsIds": [
-          "#live",
-          "#i2p",
-          "#wild",
-          "#board",
-          "#ru"
+          "live",
+          "i2p",
+          "wild",
+          "board",
+          "index",
+          "ru"
         ]
       },
       {
@@ -1078,11 +1212,11 @@
         ],
         "created": "2020-06-05",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1092,11 +1226,11 @@
         ],
         "created": "2020-05-16",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1106,10 +1240,10 @@
         ],
         "created": "2020-05-05",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1119,10 +1253,10 @@
         ],
         "created": "2020-04-19",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1131,16 +1265,16 @@
           "https://10chan.top/"
         ],
         "created": "2020-04-11",
-        "entries": [
+        "paths": [
           "z"
         ],
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#foreign",
-          "#board",
-          "#en",
-          "#ru"
+          "dead",
+          "www",
+          "foreign",
+          "board",
+          "en",
+          "ru"
         ]
       },
       {
@@ -1150,11 +1284,11 @@
         ],
         "created": "2020-03-25",
         "tagsIds": [
-          "#readonly",
-          "#www",
-          "#cheap",
-          "#board",
-          "#ru"
+          "readonly",
+          "www",
+          "cheap",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1164,20 +1298,20 @@
           "http://w7m432cocr665kf5tlpcxojwldajr3njd2etcxwhpbrt44eemuxhp7ad.onion/"
         ],
         "created": "2019-10-15",
-        "entries": [
+        "paths": [
           "cafechan"
         ],
         "tagsIds": [
-          "#ghost",
-          "#www",
-          "#tor",
-          "#foreign",
-          "#wild",
-          "#board",
-          "#en",
-          "#es",
-          "#ru",
-          "#zh-hk"
+          "ghost",
+          "www",
+          "tor",
+          "foreign",
+          "wild",
+          "board",
+          "en",
+          "es",
+          "ru",
+          "zh-hk"
         ]
       },
       {
@@ -1187,11 +1321,11 @@
         ],
         "created": "2019-10-15",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1201,11 +1335,11 @@
         ],
         "created": "2019-08-17",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1215,14 +1349,14 @@
         ],
         "created": "2019-07-11",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex1ch",
-          "#clone",
-          "#board",
-          "#index",
-          "#news",
-          "#ru"
+          "dead",
+          "www",
+          "ex1ch",
+          "clone",
+          "board",
+          "index",
+          "news",
+          "ru"
         ]
       },
       {
@@ -1232,11 +1366,27 @@
         ],
         "created": "2019-07-05",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "iibooru-org",
+        "urls": [
+          "https://iibooru.org/"
+        ],
+        "created": "2019-05-12",
+        "tagsIds": [
+          "new",
+          "live",
+          "www",
+          "limited",
+          "iich",
+          "gallery",
+          "ru"
         ]
       },
       {
@@ -1247,13 +1397,29 @@
         ],
         "created": "2019-04-05",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#iich",
-          "#fags",
-          "#wild",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "iich",
+          "fags",
+          "wild",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "booru-yakuji-moe",
+        "urls": [
+          "http://booru.yakuji.moe/"
+        ],
+        "created": "2019-04-01",
+        "tagsIds": [
+          "new",
+          "ghost",
+          "www",
+          "limited",
+          "iich",
+          "gallery",
+          "ru"
         ]
       },
       {
@@ -1263,12 +1429,12 @@
         ],
         "created": "2019-03-25",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1278,10 +1444,10 @@
         ],
         "created": "2019-01-29",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1292,13 +1458,13 @@
         ],
         "created": "2019-01-11",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#exapach",
-          "#clone",
-          "#wild",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "exapach",
+          "clone",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1309,13 +1475,13 @@
         ],
         "created": "2018-12-20",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#ex0ch",
-          "#clone",
-          "#wild",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "ex0ch",
+          "clone",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1325,10 +1491,10 @@
         ],
         "created": "2018-12-19",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1338,14 +1504,13 @@
         ],
         "created": "2018-10-19",
         "tagsIds": [
-          "#ins",
-          "#live",
-          "#www",
-          "#limited",
-          "#clone",
-          "#index",
-          "#wiki",
-          "#ru"
+          "live",
+          "www",
+          "limited",
+          "clone",
+          "index",
+          "wiki",
+          "ru"
         ]
       },
       {
@@ -1355,15 +1520,15 @@
         ],
         "created": "2018-09-08",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex1ch",
-          "#clone",
-          "#wild",
-          "#board",
-          "#index",
-          "#news",
-          "#ru"
+          "dead",
+          "www",
+          "ex1ch",
+          "clone",
+          "wild",
+          "board",
+          "index",
+          "news",
+          "ru"
         ]
       },
       {
@@ -1376,17 +1541,17 @@
         ],
         "created": "2018-08-26",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#blocked",
-          "#tor",
-          "#i2p",
-          "#ex2ch",
-          "#clone",
-          "#mods",
-          "#wild",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "tor",
+          "i2p",
+          "blocked",
+          "ex2ch",
+          "clone",
+          "mods",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1396,11 +1561,11 @@
         ],
         "created": "2018-08-15",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1410,12 +1575,12 @@
         ],
         "created": "2018-08-10",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1425,10 +1590,10 @@
         ],
         "created": "2018-07-31",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1438,10 +1603,10 @@
         ],
         "created": "2018-07-02",
         "tagsIds": [
-          "#ghost",
-          "#www",
-          "#board",
-          "#ru"
+          "ghost",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1451,12 +1616,12 @@
         ],
         "created": "2018-05-26",
         "tagsIds": [
-          "#stub",
-          "#www",
-          "#ex0ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "stub",
+          "www",
+          "ex0ch",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1466,12 +1631,12 @@
         ],
         "created": "2018-04-27",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex0ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex0ch",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1485,20 +1650,20 @@
           "http://kohlchanvn6vtsujobyw4pt5naaszmxqutd5hsdatmxfe2qaqhya.b32.i2p/"
         ],
         "created": "2018-03-25",
-        "entries": [
+        "paths": [
           "ru"
         ],
         "tagsIds": [
-          "#ghost",
-          "#www",
-          "#blocked",
-          "#tor",
-          "#i2p",
-          "#foreign",
-          "#board",
-          "#en",
-          "#de",
-          "#ru"
+          "ghost",
+          "www",
+          "tor",
+          "i2p",
+          "blocked",
+          "foreign",
+          "board",
+          "de",
+          "en",
+          "ru"
         ]
       },
       {
@@ -1509,12 +1674,32 @@
         ],
         "created": "2018-03-25",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#tor",
-          "#fags",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "tor",
+          "fags",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "p508505e-beget-tech",
+        "urls": [
+          "http://p508505e.beget.tech/"
+        ],
+        "created": "2018-02-25",
+        "paths": [
+          "b",
+          "test"
+        ],
+        "tagsIds": [
+          "new",
+          "dead",
+          "www",
+          "cheap",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1524,12 +1709,12 @@
         ],
         "created": "2018-01-16",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex0ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex0ch",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1539,11 +1724,11 @@
         ],
         "created": "2018-01-11",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1553,10 +1738,10 @@
         ],
         "created": "2017-09-04",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1565,17 +1750,17 @@
           "https://legacy.arisuchan.jp/"
         ],
         "created": "2017-08-31",
-        "entries": [
+        "paths": [
           "ru"
         ],
         "tagsIds": [
-          "#readonly",
-          "#www",
-          "#foreign",
-          "#comfy",
-          "#board",
-          "#en",
-          "#ru"
+          "readonly",
+          "www",
+          "foreign",
+          "comfy",
+          "board",
+          "en",
+          "ru"
         ]
       },
       {
@@ -1585,10 +1770,10 @@
         ],
         "created": "2017-08-12",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1598,11 +1783,11 @@
         ],
         "created": "2017-08-01",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1612,18 +1797,18 @@
           "http://wn3ghyuon5eaqyxi7yauald3d53gsxrkanzpu2qdyc54vobif2qutsid.onion/"
         ],
         "created": "2017-07-22",
-        "entries": [
+        "paths": [
           "rus",
           "rus2"
         ],
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#tor",
-          "#foreign",
-          "#board",
-          "#en",
-          "#ru"
+          "dead",
+          "www",
+          "tor",
+          "foreign",
+          "board",
+          "en",
+          "ru"
         ]
       },
       {
@@ -1633,12 +1818,12 @@
         ],
         "created": "2017-07-19",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#cheap",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "cheap",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1648,11 +1833,27 @@
         ],
         "created": "2017-07-18",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "fags",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "0chantech-userecho-com",
+        "urls": [
+          "https://0chantech.userecho.com/"
+        ],
+        "created": "2017-04-18",
+        "tagsIds": [
+          "new",
+          "ghost",
+          "www",
+          "limited",
+          "ex0ch",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1662,12 +1863,12 @@
         ],
         "created": "2017-07-07",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#obscure",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "obscure",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1677,10 +1878,10 @@
         ],
         "created": "2017-07-07",
         "tagsIds": [
-          "#stub",
-          "#www",
-          "#board",
-          "#ru"
+          "stub",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1690,10 +1891,10 @@
         ],
         "created": "2017-05-03",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1703,11 +1904,11 @@
         ],
         "created": "2017-04-26",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1717,14 +1918,14 @@
         ],
         "created": "2017-04-24",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex1ch",
-          "#clone",
-          "#board",
-          "#index",
-          "#news",
-          "#ru"
+          "dead",
+          "www",
+          "ex1ch",
+          "clone",
+          "board",
+          "index",
+          "news",
+          "ru"
         ]
       },
       {
@@ -1734,10 +1935,10 @@
         ],
         "created": "2017-03-04",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1747,10 +1948,10 @@
         ],
         "created": "2017-02-02",
         "tagsIds": [
-          "#readonly",
-          "#www",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1760,12 +1961,12 @@
         ],
         "created": "2016-12-23",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1775,10 +1976,10 @@
         ],
         "created": "2016-12-04",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1788,10 +1989,10 @@
         ],
         "created": "2016-11-24",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1801,11 +2002,11 @@
         ],
         "created": "2016-11-05",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#exapach",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "exapach",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1815,12 +2016,12 @@
         ],
         "created": "2016-10-07",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex0ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex0ch",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1830,24 +2031,32 @@
         ],
         "created": "2016-09-30",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
-        "id": "nullnyan-net",
+        "id": "nullnyanvapwq3ou4gbc62y26uiggj5ztbur7mzxrnjhfwxu43jbxtqd-onion",
         "urls": [
-          "https://nullnyan.net/"
+          "http://nullnyanvapwq3ou4gbc62y26uiggj5ztbur7mzxrnjhfwxu43jbxtqd.onion/",
+          "http://nullnyan.i2p/",
+          "http://xkih5s3yp75pqdvwdqo3dq2vtkxg2ddnfawtdfchk6wmcthvdaoa.b32.i2p/",
+          "https://nullnyan.net/",
+          "https://0nyan.ml/"
         ],
         "created": "2016-09-29",
         "tagsIds": [
-          "#stub",
-          "#www",
-          "#ex0ch",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "tor",
+          "i2p",
+          "ex0ch",
+          "clone",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1857,10 +2066,10 @@
         ],
         "created": "2016-08-31",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1870,10 +2079,10 @@
         ],
         "created": "2016-08-21",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1883,12 +2092,12 @@
         ],
         "created": "2016-08-05",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#obscure",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "obscure",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1898,12 +2107,13 @@
         ],
         "created": "2016-06-13",
         "tagsIds": [
-          "#ghost",
-          "#www",
-          "#cheap",
-          "#obscure",
-          "#board",
-          "#ru"
+          "ghost",
+          "www",
+          "blocked",
+          "cheap",
+          "obscure",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1913,11 +2123,11 @@
         ],
         "created": "2016-05-31",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex0ch",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex0ch",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1927,11 +2137,27 @@
         ],
         "created": "2016-04-26",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "hramopedia-org",
+        "urls": [
+          "https://hramopedia.org/"
+        ],
+        "created": "2016-04-22",
+        "tagsIds": [
+          "new",
+          "ghost",
+          "www",
+          "limited",
+          "iich",
+          "wiki",
+          "ru"
         ]
       },
       {
@@ -1941,12 +2167,12 @@
         ],
         "created": "2016-03-15",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex0ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex0ch",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1956,11 +2182,11 @@
         ],
         "created": "2016-02-23",
         "tagsIds": [
-          "#stub",
-          "#www",
-          "#ex0ch",
-          "#board",
-          "#ru"
+          "stub",
+          "www",
+          "ex0ch",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1970,10 +2196,10 @@
         ],
         "created": "2016-02-11",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1983,10 +2209,10 @@
         ],
         "created": "2016-01-19",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -1996,10 +2222,10 @@
         ],
         "created": "2016-01-17",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2009,10 +2235,10 @@
         ],
         "created": "2016-01-13",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2022,10 +2248,11 @@
         ],
         "created": "2016-01-01",
         "tagsIds": [
-          "#stub",
-          "#www",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "limited",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2035,10 +2262,10 @@
         ],
         "created": "2015-12-20",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2052,40 +2279,41 @@
           "http://kqrtg5wz4qbyjprujkz33gza7r73iw3ainqp1mz5zmu16symcdwy.loki/"
         ],
         "created": "2015-12-20",
-        "entries": [
+        "paths": [
           "bb",
           "ca",
           "dobrochan",
           "dota",
           "genshin",
-          "obr",
+          "lgbt",
+          "po",
           "polru",
           "rus"
         ],
         "tagsIds": [
-          "#live",
-          "#blocked",
-          "#www",
-          "#tor",
-          "#loki",
-          "#foreign",
-          "#wild",
-          "#board",
-          "#ar",
-          "#en",
-          "#eo",
-          "#es",
-          "#hu",
-          "#id",
-          "#it",
-          "#ja",
-          "#ko",
-          "#lt",
-          "#pl",
-          "#pt",
-          "#ru",
-          "#tr",
-          "#zh-hk"
+          "live",
+          "www",
+          "tor",
+          "loki",
+          "blocked",
+          "foreign",
+          "wild",
+          "board",
+          "ar",
+          "en",
+          "eo",
+          "es",
+          "hu",
+          "id",
+          "it",
+          "ja",
+          "ko",
+          "lt",
+          "pl",
+          "pt",
+          "ru",
+          "tr",
+          "zh-hk"
         ]
       },
       {
@@ -2095,10 +2323,10 @@
         ],
         "created": "2015-11-22",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2108,11 +2336,11 @@
         ],
         "created": "2015-11-20",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2122,11 +2350,11 @@
         ],
         "created": "2015-11-19",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2135,34 +2363,34 @@
           "https://ii.yakuji.moe/"
         ],
         "created": "2015-10-11",
-        "entries": [
+        "paths": [
           "abe",
           "dev"
         ],
         "tagsIds": [
-          "#live",
-          "#www",
-          "#iich",
-          "#archive",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "iich",
+          "archive",
+          "board",
+          "ru"
         ]
       },
       {
         "id": "wiki-1chan-ca",
         "urls": [
           "https://wiki.1chan.ca/",
-          "https://kolchepedia.ru/"
+          "https://kolchepedia.ru/",
+          "https://1-chan.ru/"
         ],
         "created": "2015-10-07",
         "tagsIds": [
-          "#ins",
-          "#live",
-          "#www",
-          "#wild",
-          "#index",
-          "#wiki",
-          "#ru"
+          "live",
+          "www",
+          "wild",
+          "index",
+          "wiki",
+          "ru"
         ]
       },
       {
@@ -2172,13 +2400,13 @@
         ],
         "created": "2015-08-30",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex0ch",
-          "#cheap",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex0ch",
+          "cheap",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2188,10 +2416,10 @@
         ],
         "created": "2015-08-14",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2201,11 +2429,11 @@
         ],
         "created": "2015-08-05",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2216,12 +2444,12 @@
         ],
         "created": "2015-06-22",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex0ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex0ch",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2232,11 +2460,11 @@
         ],
         "created": "2015-04-25",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#index",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "index",
+          "ru"
         ]
       },
       {
@@ -2246,11 +2474,11 @@
         ],
         "created": "2015-04-22",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2260,13 +2488,12 @@
         ],
         "created": "2015-03-13",
         "tagsIds": [
-          "#del",
-          "#live",
-          "#tor",
-          "#obscure",
-          "#wild",
-          "#board",
-          "#ru"
+          "live",
+          "tor",
+          "obscure",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2276,10 +2503,10 @@
         ],
         "created": "2015-03-09",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2289,12 +2516,27 @@
         ],
         "created": "2015-03-04",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex0ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex0ch",
+          "clone",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "0chan-one",
+        "urls": [
+          "https://0chan.one/"
+        ],
+        "created": "2015-02-27",
+        "tagsIds": [
+          "new",
+          "ghost",
+          "www",
+          "ex0ch",
+          "index",
+          "ru"
         ]
       },
       {
@@ -2304,12 +2546,12 @@
         ],
         "created": "2015-02-14",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex0ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex0ch",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2320,14 +2562,14 @@
         ],
         "created": "2015-02-13",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#tor",
-          "#limited",
-          "#fags",
-          "#comfy",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "tor",
+          "limited",
+          "comfy",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2337,10 +2579,10 @@
         ],
         "created": "2015-02-05",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2350,10 +2592,10 @@
         ],
         "created": "2015-01-30",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2363,10 +2605,10 @@
         ],
         "created": "2015-01-10",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2376,10 +2618,10 @@
         ],
         "created": "2015-01-03",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2389,12 +2631,12 @@
         ],
         "created": "2014-12-31",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#obscure",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "obscure",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2404,11 +2646,11 @@
         ],
         "created": "2014-12-24",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#iich",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "iich",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2418,10 +2660,10 @@
         ],
         "created": "2014-12-01",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2431,10 +2673,10 @@
         ],
         "created": "2014-11-14",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2444,11 +2686,11 @@
         ],
         "created": "2014-10-24",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2458,11 +2700,11 @@
         ],
         "created": "2014-09-13",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2472,11 +2714,11 @@
         ],
         "created": "2014-09-01",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2486,12 +2728,12 @@
         ],
         "created": "2014-08-28",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex0ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex0ch",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2501,10 +2743,10 @@
         ],
         "created": "2014-08-20",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2514,11 +2756,11 @@
         ],
         "created": "2014-08-14",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2528,12 +2770,12 @@
         ],
         "created": "2014-08-03",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2543,12 +2785,12 @@
         ],
         "created": "2014-08-03",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex0ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex0ch",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2558,12 +2800,12 @@
         ],
         "created": "2014-07-27",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex0ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex0ch",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2573,12 +2815,11 @@
         ],
         "created": "2014-07-24",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#4ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2588,11 +2829,11 @@
         ],
         "created": "2014-07-21",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2602,11 +2843,11 @@
         ],
         "created": "2014-07-15",
         "tagsIds": [
-          "#ghost",
-          "#www",
-          "#obscure",
-          "#board",
-          "#ru"
+          "ghost",
+          "www",
+          "obscure",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2616,10 +2857,10 @@
         ],
         "created": "2014-06-10",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2629,12 +2870,12 @@
         ],
         "created": "2014-06-07",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2644,13 +2885,13 @@
         ],
         "created": "2014-05-19",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex0ch",
-          "#cheap",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex0ch",
+          "cheap",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2660,10 +2901,10 @@
         ],
         "created": "2014-05-01",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ru",
-          "#board"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2673,11 +2914,11 @@
         ],
         "created": "2014-04-18",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2687,16 +2928,15 @@
         ],
         "created": "2014-04-11",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#limited",
-          "#ex1ch",
-          "#clone",
-          "#wild",
-          "#board",
-          "#index",
-          "#news",
-          "#ru"
+          "live",
+          "www",
+          "limited",
+          "ex1ch",
+          "clone",
+          "wild",
+          "board",
+          "news",
+          "ru"
         ]
       },
       {
@@ -2706,11 +2946,11 @@
         ],
         "created": "2014-03-20",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2720,11 +2960,11 @@
         ],
         "created": "2014-03-14",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2734,13 +2974,13 @@
         ],
         "created": "2014-02-15",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex0ch",
-          "#cheap",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex0ch",
+          "cheap",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2750,10 +2990,10 @@
         ],
         "created": "2014-02-08",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2763,11 +3003,11 @@
         ],
         "created": "2014-02-04",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2777,11 +3017,11 @@
         ],
         "created": "2014-01-18",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2791,12 +3031,12 @@
         ],
         "created": "2013-12-04",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2806,13 +3046,13 @@
         ],
         "created": "2013-10-25",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#clone",
-          "#fags",
-          "#wild",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "clone",
+          "fags",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2823,13 +3063,13 @@
         ],
         "created": "2013-10-11",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#blocked",
-          "#ex2ch",
-          "#mods",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "blocked",
+          "ex2ch",
+          "mods",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2839,12 +3079,12 @@
         ],
         "created": "2013-10-10",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#exapach",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "exapach",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2854,10 +3094,10 @@
         ],
         "created": "2013-09-17",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2867,11 +3107,11 @@
         ],
         "created": "2013-09-15",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex1ch",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex1ch",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2881,12 +3121,12 @@
         ],
         "created": "2013-09-13",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2896,12 +3136,12 @@
         ],
         "created": "2013-09-06",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2911,10 +3151,10 @@
         ],
         "created": "2013-09-06",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2924,12 +3164,12 @@
         ],
         "created": "2013-09-04",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#exapach",
-          "#cheap",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "exapach",
+          "cheap",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2939,10 +3179,10 @@
         ],
         "created": "2013-09-03",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2952,11 +3192,11 @@
         ],
         "created": "2013-09-01",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2966,11 +3206,11 @@
         ],
         "created": "2013-09-01",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2980,13 +3220,13 @@
         ],
         "created": "2013-08-26",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#cheap",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "cheap",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -2996,12 +3236,12 @@
         ],
         "created": "2013-08-08",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3011,11 +3251,11 @@
         ],
         "created": "2013-07-26",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3025,11 +3265,11 @@
         ],
         "created": "2013-07-20",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3039,10 +3279,10 @@
         ],
         "created": "2013-07-14",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3052,11 +3292,11 @@
         ],
         "created": "2013-07-08",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3066,13 +3306,13 @@
         ],
         "created": "2013-07-03",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#exapach",
-          "#cheap",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "exapach",
+          "cheap",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3082,10 +3322,10 @@
         ],
         "created": "2013-06-15",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3095,11 +3335,11 @@
         ],
         "created": "2013-06-01",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#index",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "index",
+          "ru"
         ]
       },
       {
@@ -3109,11 +3349,11 @@
         ],
         "created": "2013-05-31",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3123,11 +3363,11 @@
         ],
         "created": "2013-05-31",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3137,12 +3377,12 @@
         ],
         "created": "2013-05-26",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3152,12 +3392,12 @@
         ],
         "created": "2013-05-12",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex0ch",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex0ch",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3167,11 +3407,11 @@
         ],
         "created": "2013-05-09",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3181,10 +3421,10 @@
         ],
         "created": "2013-05-01",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3194,13 +3434,13 @@
         ],
         "created": "2013-04-22",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#limited",
-          "#iich",
-          "#fags",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "limited",
+          "iich",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3214,14 +3454,14 @@
         ],
         "created": "2013-04-02",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#ex2ch",
-          "#fags",
-          "#mods",
-          "#wild",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "ex2ch",
+          "fags",
+          "mods",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3231,11 +3471,11 @@
         ],
         "created": "2013-04-20",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3245,10 +3485,10 @@
         ],
         "created": "2013-04-08",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3258,10 +3498,10 @@
         ],
         "created": "2013-04-06",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3271,11 +3511,11 @@
         ],
         "created": "2013-04-01",
         "tagsIds": [
-          "#ghost",
-          "#www",
-          "#iich",
-          "#board",
-          "#ru"
+          "ghost",
+          "www",
+          "iich",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3285,11 +3525,11 @@
         ],
         "created": "2013-04-01",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3299,12 +3539,12 @@
         ],
         "created": "2013-04",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#foreign",
-          "#board",
-          "#uk",
-          "#ru"
+          "dead",
+          "www",
+          "foreign",
+          "board",
+          "ru",
+          "uk"
         ]
       },
       {
@@ -3314,11 +3554,11 @@
         ],
         "created": "2013-03-29",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#exapach",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "exapach",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3328,28 +3568,13 @@
         ],
         "created": "2013-03-23",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#cheap",
-          "#clone",
-          "#board",
-          "#ru"
-        ]
-      },
-      {
-        "id": "0chanru-net",
-        "urls": [
-          "https://0chanru.net/"
-        ],
-        "created": "2013-03-15",
-        "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex0ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "cheap",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3359,14 +3584,14 @@
         ],
         "created": "2013-03-13",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex1ch",
-          "#clone",
-          "#board",
-          "#index",
-          "#news",
-          "#ru"
+          "dead",
+          "www",
+          "ex1ch",
+          "clone",
+          "board",
+          "index",
+          "news",
+          "ru"
         ]
       },
       {
@@ -3376,10 +3601,10 @@
         ],
         "created": "2013-03-11",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3389,10 +3614,10 @@
         ],
         "created": "2013-03-04",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3402,13 +3627,13 @@
         ],
         "created": "2013-03-02",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#cheap",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "cheap",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3418,10 +3643,10 @@
         ],
         "created": "2013-02-20",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3431,11 +3656,11 @@
         ],
         "created": "2013-02-19",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#index",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "index",
+          "ru"
         ]
       },
       {
@@ -3445,10 +3670,10 @@
         ],
         "created": "2013-02-18",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3458,10 +3683,10 @@
         ],
         "created": "2013-02-17",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3471,10 +3696,10 @@
         ],
         "created": "2013-02-15",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3484,12 +3709,12 @@
         ],
         "created": "2013-02-15",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3499,11 +3724,25 @@
         ],
         "created": "2013-02-05",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#index",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "index",
+          "ru"
+        ]
+      },
+      {
+        "id": "boards-ongoing-ru",
+        "urls": [
+          "http://boards.ongoing.ru/"
+        ],
+        "created": "2013-02-02",
+        "tagsIds": [
+          "new",
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3513,11 +3752,11 @@
         ],
         "created": "2013-01-29",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3527,10 +3766,10 @@
         ],
         "created": "2013-01-29",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3540,10 +3779,10 @@
         ],
         "created": "2013-01-16",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3553,11 +3792,11 @@
         ],
         "created": "2013-01-02",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3567,10 +3806,10 @@
         ],
         "created": "2013-01-01",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3580,10 +3819,10 @@
         ],
         "created": "2012-12-25",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3593,10 +3832,10 @@
         ],
         "created": "2012-12-19",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3606,12 +3845,12 @@
         ],
         "created": "2012-12-09",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3621,10 +3860,10 @@
         ],
         "created": "2012-12-08",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3634,10 +3873,10 @@
         ],
         "created": "2012-12-03",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3647,13 +3886,13 @@
         ],
         "created": "2012-11-24",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#cheap",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "cheap",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3663,10 +3902,10 @@
         ],
         "created": "2012-11-17",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3676,11 +3915,11 @@
         ],
         "created": "2012-11-17",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3690,11 +3929,11 @@
         ],
         "created": "2012-10-15",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3704,11 +3943,11 @@
         ],
         "created": "2012-11-11",
         "tagsIds": [
-          "#stub",
-          "#www",
-          "#ex2ch",
-          "#board",
-          "#ru"
+          "stub",
+          "www",
+          "ex2ch",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3718,11 +3957,27 @@
         ],
         "created": "2012-10-10",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#index",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "index",
+          "ru"
+        ]
+      },
+      {
+        "id": "macro-yakuji-moe",
+        "urls": [
+          "http://macro.yakuji.moe/"
+        ],
+        "created": "2012-10-02",
+        "tagsIds": [
+          "new",
+          "ghost",
+          "www",
+          "limited",
+          "iich",
+          "gallery",
+          "ru"
         ]
       },
       {
@@ -3732,11 +3987,11 @@
         ],
         "created": "2012-10-09",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3746,10 +4001,10 @@
         ],
         "created": "2012-09-14",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3759,10 +4014,10 @@
         ],
         "created": "2012-09-07",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3772,10 +4027,10 @@
         ],
         "created": "2012-08-29",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3785,10 +4040,10 @@
         ],
         "created": "2012-08-20",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3798,23 +4053,23 @@
         ],
         "created": "2012-08-10",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
-        "id": "cirno-ru-9-wakaba-html",
+        "id": "cirno-ru-9",
         "urls": [
           "http://cirno.ru/9/wakaba.html"
         ],
         "created": "2012-08-10",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3826,12 +4081,12 @@
         ],
         "created": "2012-08-09",
         "tagsIds": [
-          "#readonly",
-          "#www",
-          "#exapach",
-          "#fags",
-          "#board",
-          "#ru"
+          "readonly",
+          "www",
+          "exapach",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3841,10 +4096,10 @@
         ],
         "created": "2012-08-07",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3855,11 +4110,11 @@
         ],
         "created": "2012-07",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#obscure",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "obscure",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3869,11 +4124,11 @@
         ],
         "created": "2012-06-30",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3883,11 +4138,11 @@
         ],
         "created": "2012-06-20",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3897,12 +4152,12 @@
         ],
         "created": "2012-06-18",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3912,11 +4167,11 @@
         ],
         "created": "2012-05-29",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#obscure",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "obscure",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3926,10 +4181,10 @@
         ],
         "created": "2012-05-27",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3939,13 +4194,13 @@
         ],
         "created": "2012-05-11",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex0ch",
-          "#clone",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex0ch",
+          "clone",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3955,10 +4210,10 @@
         ],
         "created": "2012-05-09",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3968,28 +4223,43 @@
         ],
         "created": "2012-04-30",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#ex0ch",
-          "#clone",
-          "#mods",
-          "#wild",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "ex0ch",
+          "clone",
+          "mods",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
         "id": "kokoko-ch",
         "urls": [
-          "http://kokoko.ch/"
+          "http://kokoko.ch/",
+          "http://кококо.рф/"
         ],
         "created": "2012-04-10",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "rakach-ru",
+        "urls": [
+          "http://rakach.ru/"
+        ],
+        "created": "2012-03-30",
+        "tagsIds": [
+          "new",
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -3999,12 +4269,12 @@
         ],
         "created": "2012-03-13",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#exapach",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "exapach",
+          "cheap",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4014,11 +4284,11 @@
         ],
         "created": "2012-03-13",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#exapach",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "exapach",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4029,13 +4299,13 @@
         ],
         "created": "2012-02-29",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#blocked",
-          "#ex0ch",
-          "#mods",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "blocked",
+          "ex0ch",
+          "mods",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4045,10 +4315,10 @@
         ],
         "created": "2012-02-11",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4058,10 +4328,10 @@
         ],
         "created": "2012-02-09",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4071,12 +4341,12 @@
         ],
         "created": "2012-02-05",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4086,10 +4356,10 @@
         ],
         "created": "2012-01-31",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4099,27 +4369,31 @@
         ],
         "created": "2012-01-29",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
-        "id": "reserve-dollship-ru",
+        "id": "dollship-ru",
         "urls": [
-          "http://reserve.dollship.ru/"
+          "http://dollship.ru/",
+          "http://reserve.dollship.ru/",
+          "http://dollchanship.ru/",
+          "http://reserve.dcship.ru/"
         ],
         "created": "2012-01-12",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#iich",
-          "#fags",
-          "#board",
-          "#ru"
+          "new",
+          "dead",
+          "www",
+          "iich",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4129,13 +4403,13 @@
         ],
         "created": "2012-01-12",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#cheap",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "cheap",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4145,10 +4419,10 @@
         ],
         "created": "2012-01-01",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4158,11 +4432,11 @@
         ],
         "created": "2011-12-30",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4172,12 +4446,12 @@
         ],
         "created": "2011-12-20",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#foreign",
-          "#board",
-          "#ru",
-          "#uk"
+          "dead",
+          "www",
+          "foreign",
+          "board",
+          "ru",
+          "uk"
         ]
       },
       {
@@ -4187,11 +4461,11 @@
         ],
         "created": "2011-12-05",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4201,12 +4475,12 @@
         ],
         "created": "2011-11-30",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#iich",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "iich",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4216,11 +4490,11 @@
         ],
         "created": "2011-11-30",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4231,16 +4505,16 @@
         ],
         "created": "2011-11-09",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#blocked",
-          "#ex2ch",
-          "#clone",
-          "#fags",
-          "#mods",
-          "#wild",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "blocked",
+          "ex2ch",
+          "clone",
+          "fags",
+          "mods",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4250,10 +4524,27 @@
         ],
         "created": "2011-10-09",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "2chtanstory-wordpress-com",
+        "urls": [
+          "https://2chtanstory.wordpress.com/"
+        ],
+        "created": "2011-11-01",
+        "tagsIds": [
+          "new",
+          "ghost",
+          "www",
+          "limited",
+          "ex2ch",
+          "cheap",
+          "blog",
+          "ru"
         ]
       },
       {
@@ -4263,11 +4554,11 @@
         ],
         "created": "2011-10",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#stream",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "stream",
+          "ru"
         ]
       },
       {
@@ -4277,11 +4568,26 @@
         ],
         "created": "2011-09-24",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "swingo-so",
+        "urls": [
+          "http://swingo.so/"
+        ],
+        "created": "2011-08-09",
+        "tagsIds": [
+          "new",
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4291,10 +4597,10 @@
         ],
         "created": "2011-08-08",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4304,13 +4610,14 @@
         ],
         "created": "2011-08-04",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#obscure",
-          "#wild",
-          "#comfy",
-          "#chat",
-          "#ru"
+          "live",
+          "www",
+          "comfy",
+          "obscure",
+          "wild",
+          "chat",
+          "stream",
+          "ru"
         ]
       },
       {
@@ -4320,11 +4627,11 @@
         ],
         "created": "2011-06-26",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4334,11 +4641,11 @@
         ],
         "created": "2011-06-01",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#mods",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "mods",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4348,11 +4655,11 @@
         ],
         "created": "2011-05-29",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#obscure",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "obscure",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4362,10 +4669,10 @@
         ],
         "created": "2011-05-28",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4375,10 +4682,10 @@
         ],
         "created": "2011-05-27",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4388,12 +4695,12 @@
         ],
         "created": "2011-05-21",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#exapach",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "exapach",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4403,11 +4710,11 @@
         ],
         "created": "2011-05-18",
         "tagsIds": [
-          "#readonly",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "readonly",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4417,10 +4724,10 @@
         ],
         "created": "2011-05-16",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4430,10 +4737,10 @@
         ],
         "created": "2011-05-09",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4444,10 +4751,10 @@
         ],
         "created": "2011-04-11",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4457,11 +4764,11 @@
         ],
         "created": "2011-02-23",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4470,17 +4777,17 @@
           "https://ylilauta.org/"
         ],
         "created": "2011-02-20",
-        "entries": [
+        "paths": [
           "russia"
         ],
         "tagsIds": [
-          "#ghost",
-          "#www",
-          "#foreign",
-          "#comfy",
-          "#board",
-          "#fi",
-          "#ru"
+          "ghost",
+          "www",
+          "foreign",
+          "comfy",
+          "board",
+          "fi",
+          "ru"
         ]
       },
       {
@@ -4490,11 +4797,11 @@
         ],
         "created": "2011-02-14",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#obscure",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "obscure",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4504,10 +4811,10 @@
         ],
         "created": "2011-02-11",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4518,12 +4825,12 @@
         ],
         "created": "2011-02-08",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4533,10 +4840,10 @@
         ],
         "created": "2011-02-01",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4546,10 +4853,10 @@
         ],
         "created": "2011-01-22",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4559,10 +4866,10 @@
         ],
         "created": "2011-01-22",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4571,16 +4878,16 @@
           "http://mechachan.com/"
         ],
         "created": "2011-01-18",
-        "entries": [
+        "paths": [
           "hie"
         ],
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#foreign",
-          "#board",
-          "#en",
-          "#ru"
+          "dead",
+          "www",
+          "foreign",
+          "board",
+          "en",
+          "ru"
         ]
       },
       {
@@ -4590,10 +4897,10 @@
         ],
         "created": "2011-01-17",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4603,11 +4910,11 @@
         ],
         "created": "2011-01-17",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#obscure",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "obscure",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4619,14 +4926,13 @@
         ],
         "created": "2011",
         "tagsIds": [
-          "#ins",
-          "#live",
-          "#www",
-          "#tor",
-          "#ex2ch",
-          "#iich",
-          "#archive",
-          "#ru"
+          "live",
+          "www",
+          "tor",
+          "iich",
+          "ex2ch",
+          "archive",
+          "ru"
         ]
       },
       {
@@ -4636,11 +4942,11 @@
         ],
         "created": "2010-12-27",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#stream",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "stream",
+          "ru"
         ]
       },
       {
@@ -4650,10 +4956,10 @@
         ],
         "created": "2010-12-23",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4663,10 +4969,10 @@
         ],
         "created": "2010-12-15",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4676,10 +4982,10 @@
         ],
         "created": "2010-12-15",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4689,13 +4995,13 @@
         ],
         "created": "2010-12-08",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#clone",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "clone",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4705,13 +5011,13 @@
         ],
         "created": "2010-12-06",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#foreign",
-          "#board",
-          "#ru",
-          "#uk"
+          "dead",
+          "www",
+          "foreign",
+          "cheap",
+          "board",
+          "ru",
+          "uk"
         ]
       },
       {
@@ -4721,10 +5027,10 @@
         ],
         "created": "2010-11-29",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4734,10 +5040,10 @@
         ],
         "created": "2010-11-23",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4747,12 +5053,12 @@
         ],
         "created": "2010-11-22",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#obscure",
-          "#chat",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "obscure",
+          "board",
+          "chat",
+          "ru"
         ]
       },
       {
@@ -4762,10 +5068,10 @@
         ],
         "created": "2010-11-09",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4775,11 +5081,11 @@
         ],
         "created": "2010-10-22",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4789,11 +5095,11 @@
         ],
         "created": "2010-10-11",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4803,12 +5109,12 @@
         ],
         "created": "2010-09-18",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#iich",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "iich",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4818,13 +5124,13 @@
         ],
         "created": "2010-09-14",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#clone",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "clone",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4835,10 +5141,10 @@
         ],
         "created": "2010-09-07",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4848,13 +5154,13 @@
         ],
         "created": "2010-09-05",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#cheap",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "cheap",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4864,11 +5170,11 @@
         ],
         "created": "2010-08-24",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4878,10 +5184,10 @@
         ],
         "created": "2010-08-12",
         "tagsIds": [
-          "#stub",
-          "#www",
-          "#board",
-          "#ru"
+          "stub",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4891,10 +5197,10 @@
         ],
         "created": "2010-08-03",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4904,14 +5210,14 @@
         ],
         "created": "2010-07-06",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#fags",
-          "#mods",
-          "#wild",
-          "#comfy",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "comfy",
+          "fags",
+          "mods",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4921,11 +5227,27 @@
         ],
         "created": "2010-07-01",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "vjope-aa-am",
+        "urls": [
+          "http://vjope.aa.am/"
+        ],
+        "created": "2010-06-22",
+        "tagsIds": [
+          "new",
+          "dead",
+          "www",
+          "cheap",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4935,10 +5257,10 @@
         ],
         "created": "2010-06-17",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4948,10 +5270,10 @@
         ],
         "created": "2010-06-05",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4961,12 +5283,12 @@
         ],
         "created": "2010-05-21",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#obscure",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "obscure",
+          "board",
+          "ru"
         ]
       },
       {
@@ -4976,10 +5298,26 @@
         ],
         "created": "2010-05-13",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "iichantra-ru",
+        "urls": [
+          "https://iichantra.ru/"
+        ],
+        "created": "2010-05-08",
+        "tagsIds": [
+          "new",
+          "ghost",
+          "www",
+          "limited",
+          "iich",
+          "blog",
+          "ru"
         ]
       },
       {
@@ -4989,25 +5327,25 @@
         ],
         "created": "2010-05-10",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
-        "id": "devio-us-~anton",
+        "id": "devio-us",
         "urls": [
           "http://devio.us/~anton"
         ],
         "created": "2010-04-28",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5017,10 +5355,10 @@
         ],
         "created": "2010-04-23",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5030,12 +5368,12 @@
         ],
         "created": "2010-04-18",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#obscure",
-          "#wild",
-          "#chat",
-          "#ru"
+          "live",
+          "www",
+          "obscure",
+          "wild",
+          "chat",
+          "ru"
         ]
       },
       {
@@ -5045,10 +5383,10 @@
         ],
         "created": "2010-04-05",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5058,10 +5396,10 @@
         ],
         "created": "2010-04-03",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5071,12 +5409,11 @@
         ],
         "created": "2010-03-16",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#4ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5086,10 +5423,10 @@
         ],
         "created": "2010-03-15",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5099,11 +5436,11 @@
         ],
         "created": "2010-03-02",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5113,11 +5450,11 @@
         ],
         "created": "2010-02-22",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5127,13 +5464,13 @@
         ],
         "created": "2010-02-07",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#cheap",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "cheap",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5143,10 +5480,10 @@
         ],
         "created": "2010-01-30",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5156,11 +5493,11 @@
         ],
         "created": "2010-01-20",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5169,18 +5506,32 @@
           "https://370ch.lt/"
         ],
         "created": "2010",
-        "entries": [
+        "paths": [
           "int"
         ],
         "tagsIds": [
-          "#ins",
-          "#live",
-          "#www",
-          "#foreign",
-          "#board",
-          "#wild",
-          "#lt",
-          "#ru"
+          "live",
+          "www",
+          "foreign",
+          "wild",
+          "board",
+          "lt",
+          "ru"
+        ]
+      },
+      {
+        "id": "art-4otaku-org",
+        "urls": [
+          "https://art.4otaku.org/"
+        ],
+        "created": "2010",
+        "tagsIds": [
+          "new",
+          "ghost",
+          "www",
+          "iich",
+          "gallery",
+          "ru"
         ]
       },
       {
@@ -5195,13 +5546,12 @@
         ],
         "created": "2010",
         "tagsIds": [
-          "#ins",
-          "#live",
-          "#www",
-          "#tor",
-          "#ex2ch",
-          "#archive",
-          "#ru"
+          "live",
+          "www",
+          "tor",
+          "ex2ch",
+          "archive",
+          "ru"
         ]
       },
       {
@@ -5211,10 +5561,10 @@
         ],
         "created": "2009-12-24",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5224,10 +5574,10 @@
         ],
         "created": "2009-12-15",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5237,10 +5587,10 @@
         ],
         "created": "2009-12-09",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5250,11 +5600,11 @@
         ],
         "created": "2009-12-07",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5264,12 +5614,12 @@
         ],
         "created": "2009-11-27",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#iich",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "iich",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5279,10 +5629,10 @@
         ],
         "created": "2009-11-11",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5292,11 +5642,11 @@
         ],
         "created": "2009-11-06",
         "tagsIds": [
-          "#dead",
-          "#limited",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "limited",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5309,18 +5659,18 @@
           "https://xcomm.id/"
         ],
         "created": "2009-10-24",
-        "entries": [
+        "paths": [
           "ru"
         ],
         "tagsIds": [
-          "#ghost",
-          "#www",
-          "#blocked",
-          "#foreign",
-          "#board",
-          "#de",
-          "#en",
-          "#ru"
+          "ghost",
+          "www",
+          "blocked",
+          "foreign",
+          "board",
+          "de",
+          "en",
+          "ru"
         ]
       },
       {
@@ -5330,11 +5680,11 @@
         ],
         "created": "2009-10-22",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#exapach",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "exapach",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5344,11 +5694,12 @@
         ],
         "created": "2009-10-10",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#iich",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "iich",
+          "cheap",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5358,11 +5709,11 @@
         ],
         "created": "2009-09-12",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5372,10 +5723,10 @@
         ],
         "created": "2009-09-05",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5385,11 +5736,11 @@
         ],
         "created": "2009-09",
         "tagsIds": [
-          "#dead",
-          "#limited",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "limited",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5399,10 +5750,10 @@
         ],
         "created": "2009-08-22",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5412,10 +5763,10 @@
         ],
         "created": "2009-08-08",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5425,10 +5776,10 @@
         ],
         "created": "2009-08-05",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5438,10 +5789,10 @@
         ],
         "created": "2009-08-01",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5451,10 +5802,10 @@
         ],
         "created": "2009-07-29",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5464,10 +5815,10 @@
         ],
         "created": "2009-07-14",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5477,10 +5828,10 @@
         ],
         "created": "2009-07-14",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5490,12 +5841,12 @@
         ],
         "created": "2009-07-13",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5505,11 +5856,11 @@
         ],
         "created": "2009-06-30",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5519,11 +5870,11 @@
         ],
         "created": "2009-06-22",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#obscure",
-          "#chat",
-          "#ru"
+          "dead",
+          "www",
+          "obscure",
+          "chat",
+          "ru"
         ]
       },
       {
@@ -5533,10 +5884,10 @@
         ],
         "created": "2009-06-08",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5546,12 +5897,12 @@
         ],
         "created": "2009-05-23",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5561,11 +5912,11 @@
         ],
         "created": "2009-05-12",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5575,13 +5926,13 @@
         ],
         "created": "2009-05-11",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#foreign",
-          "#board",
-          "#index",
-          "#ru",
-          "#uk"
+          "live",
+          "www",
+          "foreign",
+          "board",
+          "index",
+          "ru",
+          "uk"
         ]
       },
       {
@@ -5591,12 +5942,12 @@
         ],
         "created": "2009-05-07",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5606,12 +5957,12 @@
         ],
         "created": "2009-05-02",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex1ch",
-          "#board",
-          "#news",
-          "#ru"
+          "dead",
+          "www",
+          "ex1ch",
+          "board",
+          "news",
+          "ru"
         ]
       },
       {
@@ -5621,10 +5972,10 @@
         ],
         "created": "2009-04-22",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5634,11 +5985,11 @@
         ],
         "created": "2009-04-21",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5650,13 +6001,13 @@
         ],
         "created": "2009-04-01",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#ex2ch",
-          "#clone",
-          "#mods",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "ex2ch",
+          "clone",
+          "mods",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5666,10 +6017,10 @@
         ],
         "created": "2009-03-10",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5679,11 +6030,11 @@
         ],
         "created": "2009-03-06",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5693,11 +6044,11 @@
         ],
         "created": "2009-02-19",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5707,12 +6058,12 @@
         ],
         "created": "2009-02-16",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5722,10 +6073,10 @@
         ],
         "created": "2009-02-15",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5735,10 +6086,10 @@
         ],
         "created": "2009-02-14",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5749,10 +6100,10 @@
         ],
         "created": "2009-02-13",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5763,13 +6114,14 @@
         ],
         "created": "2009-02-12",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#iich",
-          "#fags",
-          "#board",
-          "#wild",
-          "#ru"
+          "live",
+          "www",
+          "iich",
+          "fags",
+          "wild",
+          "board",
+          "stream",
+          "ru"
         ]
       },
       {
@@ -5779,10 +6131,10 @@
         ],
         "created": "2009-02-07",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5792,11 +6144,11 @@
         ],
         "created": "2009-01-23",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5806,12 +6158,12 @@
         ],
         "created": "2009-01-21",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5821,11 +6173,11 @@
         ],
         "created": "2009-01-21",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5836,11 +6188,11 @@
         ],
         "created": "2009-01-21",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5850,12 +6202,12 @@
         ],
         "created": "2009-01-17",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5865,11 +6217,11 @@
         ],
         "created": "2009-01-14",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5879,10 +6231,10 @@
         ],
         "created": "2009-01-11",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5892,18 +6244,17 @@
           "http://radioanon.ru/"
         ],
         "created": "2009-01",
-        "entries": [
+        "paths": [
           "board"
         ],
         "tagsIds": [
-          "#ins",
-          "#live",
-          "#www",
-          "#limited",
-          "#board",
-          "#stream",
-          "#wiki",
-          "#ru"
+          "live",
+          "www",
+          "limited",
+          "board",
+          "stream",
+          "wiki",
+          "ru"
         ]
       },
       {
@@ -5913,12 +6264,12 @@
         ],
         "created": "2009",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex2ch",
-          "#clone",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "clone",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5928,13 +6279,13 @@
         ],
         "created": "2009",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#foreign",
-          "#cheap",
-          "#board",
-          "#ru",
-          "#uk"
+          "dead",
+          "www",
+          "foreign",
+          "cheap",
+          "board",
+          "ru",
+          "uk"
         ]
       },
       {
@@ -5944,11 +6295,11 @@
         ],
         "created": "2008-10-30",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5958,11 +6309,11 @@
         ],
         "created": "2008-10-15",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5972,10 +6323,10 @@
         ],
         "created": "2008-10-11",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -5985,11 +6336,11 @@
         ],
         "created": "2008-09-13",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#news",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "news",
+          "ru"
         ]
       },
       {
@@ -5999,11 +6350,11 @@
         ],
         "created": "2008-08-22",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -6015,12 +6366,12 @@
         ],
         "created": "2008-08-07",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#iich",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "iich",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -6030,11 +6381,45 @@
         ],
         "created": "2008-08-07",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "coyc-net",
+        "urls": [
+          "http://coyc.net/"
+        ],
+        "created": "2008-08-04",
+        "tagsIds": [
+          "new",
+          "ghost",
+          "www",
+          "limited",
+          "iich",
+          "blog",
+          "index",
+          "ru"
+        ]
+      },
+      {
+        "id": "iichan-eroge-blogspot-com",
+        "urls": [
+          "http://iichan-eroge.blogspot.com/"
+        ],
+        "created": "2008-08-03",
+        "tagsIds": [
+          "new",
+          "ghost",
+          "www",
+          "limited",
+          "iich",
+          "cheap",
+          "blog",
+          "ru"
         ]
       },
       {
@@ -6044,11 +6429,11 @@
         ],
         "created": "2008-07-03",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#obscure",
-          "#chat",
-          "#ru"
+          "dead",
+          "www",
+          "obscure",
+          "chat",
+          "ru"
         ]
       },
       {
@@ -6059,13 +6444,13 @@
         ],
         "created": "2008-07-02",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#limited",
-          "#blocked",
-          "#board",
-          "#stream",
-          "#ru"
+          "live",
+          "www",
+          "limited",
+          "blocked",
+          "board",
+          "stream",
+          "ru"
         ]
       },
       {
@@ -6075,10 +6460,10 @@
         ],
         "created": "2008-06-11",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -6088,14 +6473,13 @@
         ],
         "created": "2008-05-28",
         "tagsIds": [
-          "#ins",
-          "#ghost",
-          "#www",
-          "#limited",
-          "#iich",
-          "#index",
-          "#wiki",
-          "#ru"
+          "ghost",
+          "www",
+          "limited",
+          "iich",
+          "index",
+          "wiki",
+          "ru"
         ]
       },
       {
@@ -6105,10 +6489,10 @@
         ],
         "created": "2008-05-15",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -6118,10 +6502,10 @@
         ],
         "created": "2008-05-05",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -6131,10 +6515,10 @@
         ],
         "created": "2008-04-30",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -6144,11 +6528,11 @@
         ],
         "created": "2008-03-22",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#iich",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "iich",
+          "board",
+          "ru"
         ]
       },
       {
@@ -6159,12 +6543,12 @@
         ],
         "created": "2008-03-02",
         "tagsIds": [
-          "#ghost",
-          "#www",
-          "#iich",
-          "#board",
-          "#index",
-          "#ru"
+          "ghost",
+          "www",
+          "iich",
+          "board",
+          "index",
+          "ru"
         ]
       },
       {
@@ -6174,12 +6558,12 @@
         ],
         "created": "2008-02-10",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#iich",
-          "#blocked",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "blocked",
+          "iich",
+          "board",
+          "ru"
         ]
       },
       {
@@ -6189,11 +6573,11 @@
         ],
         "created": "2008-02-04",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#mods",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "mods",
+          "board",
+          "ru"
         ]
       },
       {
@@ -6203,11 +6587,11 @@
         ],
         "created": "2008-01-18",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#ex0ch",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex0ch",
+          "board",
+          "ru"
         ]
       },
       {
@@ -6217,11 +6601,11 @@
         ],
         "created": "2008",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#obscure",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "obscure",
+          "board",
+          "ru"
         ]
       },
       {
@@ -6231,11 +6615,11 @@
         ],
         "created": "2007-12-26",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -6245,11 +6629,11 @@
         ],
         "created": "2007-11-06",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#mods",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "mods",
+          "board",
+          "ru"
         ]
       },
       {
@@ -6259,10 +6643,10 @@
         ],
         "created": "2007-09-10",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -6272,10 +6656,10 @@
         ],
         "created": "2007-09-04",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -6285,10 +6669,10 @@
         ],
         "created": "2007-09-01",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -6302,13 +6686,12 @@
         ],
         "created": "2007-07-30",
         "tagsIds": [
-          "#ins",
-          "#dead",
-          "#www",
-          "#blocked",
-          "#index",
-          "#wiki",
-          "#ru"
+          "readonly",
+          "www",
+          "blocked",
+          "index",
+          "wiki",
+          "ru"
         ]
       },
       {
@@ -6318,12 +6701,12 @@
         ],
         "created": "2007-07-04",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#fags",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "fags",
+          "board",
+          "ru"
         ]
       },
       {
@@ -6333,10 +6716,10 @@
         ],
         "created": "2007-04-16",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -6346,10 +6729,10 @@
         ],
         "created": "2007-04-15",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -6359,13 +6742,15 @@
         ],
         "created": "2007-06-01",
         "tagsIds": [
-          "#live",
-          "#www",
-          "#iich",
-          "#mods",
-          "#wild",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "blocked",
+          "iich",
+          "mods",
+          "wild",
+          "board",
+          "index",
+          "ru"
         ]
       },
       {
@@ -6375,11 +6760,11 @@
         ],
         "created": "2007-06-01",
         "tagsIds": [
-          "#stub",
-          "#www",
-          "#iich",
-          "#board",
-          "#ru"
+          "stub",
+          "www",
+          "iich",
+          "board",
+          "ru"
         ]
       },
       {
@@ -6389,11 +6774,11 @@
         ],
         "created": "2006-07-30",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "board",
+          "ru"
         ]
       },
       {
@@ -6403,10 +6788,10 @@
         ],
         "created": "2006-02-21",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -6416,11 +6801,11 @@
         ],
         "created": "2006-02-21",
         "tagsIds": [
-          "#stub",
-          "#www",
-          "#ex2ch",
-          "#board",
-          "#ru"
+          "stub",
+          "www",
+          "ex2ch",
+          "board",
+          "ru"
         ]
       },
       {
@@ -6430,10 +6815,10 @@
         ],
         "created": "2005-09-16",
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "board",
+          "ru"
         ]
       },
       {
@@ -6443,11 +6828,11 @@
           "http://xxu3lso4h2rh6wmrxiou3ax7r7la7x6dhoepnku3jvrlwp35pefq.b32.i2p/"
         ],
         "tagsIds": [
-          "#readonly",
-          "#i2p",
-          "#wild",
-          "#board",
-          "#ru"
+          "readonly",
+          "i2p",
+          "wild",
+          "board",
+          "ru"
         ]
       },
       {
@@ -6456,11 +6841,11 @@
           "http://bulbach.500mb.net/"
         ],
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#cheap",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "cheap",
+          "board",
+          "ru"
         ]
       },
       {
@@ -6470,14 +6855,14 @@
           "http://brchanansdnhvvnm.onion/"
         ],
         "tagsIds": [
-          "#stub",
-          "#www",
-          "#tor",
-          "#foreign",
-          "#board",
-          "#en",
-          "#pt",
-          "#ru"
+          "stub",
+          "www",
+          "tor",
+          "foreign",
+          "board",
+          "en",
+          "pt",
+          "ru"
         ]
       },
       {
@@ -6487,13 +6872,46 @@
           "https://gopchnqtt2thncw263t32kg3wav567kf5lhzpzqcbnp5diofnhqq.b32.i2p/"
         ],
         "tagsIds": [
-          "#del",
-          "#live",
-          "#i2p",
-          "#obscure",
-          "#wild",
-          "#chat",
-          "#ru"
+          "live",
+          "i2p",
+          "obscure",
+          "wild",
+          "chat",
+          "ru"
+        ]
+      },
+      {
+        "id": "ivchan-net",
+        "urls": [
+          "https://ivchan.net/"
+        ],
+        "tagsIds": [
+          "new",
+          "dead",
+          "www",
+          "iich",
+          "archive",
+          "ru"
+        ]
+      },
+      {
+        "id": "ichan-ru",
+        "urls": [
+          "http://ichan.ru/"
+        ],
+        "paths": [
+          "a",
+          "l",
+          "vg"
+        ],
+        "tagsIds": [
+          "new",
+          "live",
+          "www",
+          "iich",
+          "archive",
+          "gallery",
+          "ru"
         ]
       },
       {
@@ -6502,10 +6920,11 @@
           "https://obr.li/"
         ],
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#board",
-          "#ru"
+          "dead",
+          "www",
+          "ex2ch",
+          "board",
+          "ru"
         ]
       },
       {
@@ -6515,13 +6934,12 @@
           "http://pidorgmob3uchxfepm7ywvfbjwo5f232us3lkegvbolwv2qybesa.b32.i2p/"
         ],
         "tagsIds": [
-          "#del",
-          "#live",
-          "#i2p",
-          "#obscure",
-          "#wild",
-          "#chat",
-          "#ru"
+          "live",
+          "i2p",
+          "obscure",
+          "wild",
+          "chat",
+          "ru"
         ]
       },
       {
@@ -6531,19 +6949,18 @@
           "http://foxdickchan.i2p/",
           "http://iqxr4hupmaqdd4wvkwwjjrq6ddocydqqqadtnk6ltdnalvrzanxq.b32.i2p/"
         ],
-        "entries": [
+        "paths": [
           "rus"
         ],
         "tagsIds": [
-          "#del",
-          "#live",
-          "#tor",
-          "#i2p",
-          "#foreign",
-          "#wild",
-          "#board",
-          "#en",
-          "#ru"
+          "ghost",
+          "tor",
+          "i2p",
+          "foreign",
+          "wild",
+          "board",
+          "en",
+          "ru"
         ]
       },
       {
@@ -6551,17 +6968,16 @@
         "urls": [
           "http://tdsrvhos656xypxsqtkqmiwefuvlyqmnvk5faoo23oh2m4xqg4gr47ad.onion/"
         ],
-        "entries": [
+        "paths": [
           "polru"
         ],
         "tagsIds": [
-          "#del",
-          "#live",
-          "#tor",
-          "#foreign",
-          "#board",
-          "#en",
-          "#ru"
+          "dead",
+          "tor",
+          "foreign",
+          "board",
+          "en",
+          "ru"
         ]
       },
       {
@@ -6569,17 +6985,17 @@
         "urls": [
           "http://wakachan.org/"
         ],
-        "entries": [
+        "paths": [
           "unyl"
         ],
         "tagsIds": [
-          "#dead",
-          "#www",
-          "#iich",
-          "#foreign",
-          "#board",
-          "#en",
-          "#ru"
+          "dead",
+          "www",
+          "iich",
+          "foreign",
+          "board",
+          "en",
+          "ru"
         ]
       },
       {
@@ -6588,12 +7004,11 @@
           "https://014.yakuji.moe/"
         ],
         "tagsIds": [
-          "#ins",
-          "#live",
-          "#www",
-          "#iich",
-          "#archive",
-          "#ru"
+          "live",
+          "www",
+          "iich",
+          "archive",
+          "ru"
         ]
       },
       {
@@ -6602,288 +7017,310 @@
           "https://410.yakuji.moe/"
         ],
         "tagsIds": [
-          "#ins",
-          "#live",
-          "#www",
-          "#iich",
-          "#archive",
-          "#ru"
-        ]
-      },
-      {
-        "id": "zenchan-cc",
-        "urls": [
-          "https://zenchan.cc/"
-        ],
-        "tagsIds": [
-          "#live",
-          "#www",
-          "#obscure",
-          "#wild",
-          "#board",
-          "#ru"
+          "live",
+          "www",
+          "iich",
+          "archive",
+          "ru"
         ]
       }
     ],
     "tags": [
       {
-        "id": "#ins",
-        "type": "diff",
+        "id": "diff",
+        "description": "Разница в изменениях между редакциями"
+      },
+      {
+        "id": "new",
+        "parentId": "diff",
         "description": "Добавлено в текущей редакции"
       },
       {
-        "id": "#del",
-        "type": "diff",
+        "id": "lower",
+        "parentId": "diff",
         "description": "К перемещению в следующей редакции"
       },
       {
-        "id": "#www",
-        "type": "net",
-        "description": "Доступно в клирнете"
+        "id": "cycle",
+        "description": "Жизненный цикл"
       },
       {
-        "id": "#tor",
-        "type": "net",
-        "description": "Доступно в сети Tor"
-      },
-      {
-        "id": "#i2p",
-        "type": "net",
-        "description": "Доступно в сети I2P"
-      },
-      {
-        "id": "#loki",
-        "type": "net",
-        "description": "Доступно в сети Lokinet"
-      },
-      {
-        "id": "#limited",
-        "type": "access",
-        "description": "Доступ ограничен владельцем"
-      },
-      {
-        "id": "#blocked",
-        "type": "access",
-        "description": "Заблокировано третьим лицом"
-      },
-      {
-        "id": "#live",
-        "type": "cycle",
+        "id": "live",
+        "parentId": "cycle",
         "description": "Живые"
       },
       {
-        "id": "#ghost",
-        "type": "cycle",
+        "id": "ghost",
+        "parentId": "cycle",
         "description": "Отмирающие"
       },
       {
-        "id": "#readonly",
-        "type": "cycle",
+        "id": "readonly",
+        "parentId": "cycle",
         "description": "Только чтение"
       },
       {
-        "id": "#stub",
-        "type": "cycle",
+        "id": "stub",
+        "parentId": "cycle",
         "description": "Заглушки"
       },
       {
-        "id": "#dead",
-        "type": "cycle",
+        "id": "dead",
+        "parentId": "cycle",
         "description": "Мертвые"
       },
       {
-        "id": "#4ch",
-        "type": "community",
-        "description": "4chan.org и связанные сайты"
+        "id": "net",
+        "description": "Сети, в которых доступен сайт"
       },
       {
-        "id": "#iich",
-        "type": "community",
+        "id": "www",
+        "parentId": "net",
+        "description": "Доступно в клирнете"
+      },
+      {
+        "id": "tor",
+        "parentId": "net",
+        "description": "Доступно в сети Tor"
+      },
+      {
+        "id": "i2p",
+        "parentId": "net",
+        "description": "Доступно в сети I2P"
+      },
+      {
+        "id": "loki",
+        "parentId": "net",
+        "description": "Доступно в сети Lokinet"
+      },
+      {
+        "id": "access",
+        "description": "Виды доступа к сайту"
+      },
+      {
+        "id": "limited",
+        "parentId": "access",
+        "description": "Ограничено владельцем"
+      },
+      {
+        "id": "blocked",
+        "parentId": "access",
+        "description": "Заблокировано третьим лицом"
+      },
+      {
+        "id": "community",
+        "description": "Принадлежность к сообществам"
+      },
+      {
+        "id": "iich",
+        "parentId": "community",
         "description": "iichan.ru и связанные сайты"
       },
       {
-        "id": "#ex0ch",
-        "type": "community",
+        "id": "ex0ch",
+        "parentId": "community",
         "description": "Пост-0chan.ru и связанные сайты"
       },
       {
-        "id": "#ex1ch",
-        "type": "community",
+        "id": "ex1ch",
+        "parentId": "community",
         "description": "Пост-1chan.ru и связанные сайты"
       },
       {
-        "id": "#ex2ch",
-        "type": "community",
+        "id": "ex2ch",
+        "parentId": "community",
         "description": "Пост-2ch.ru и связанные сайты"
       },
       {
-        "id": "#exapach",
-        "type": "community",
+        "id": "exapach",
+        "parentId": "community",
         "description": "Пост-apachan.net и связанные сайты"
       },
       {
-        "id": "#foreign",
-        "type": "community",
-        "description": "Зарубежный сайт с русскоязычными разделами"
+        "id": "foreign",
+        "parentId": "community",
+        "description": "Зарубежный сайт с русскоязычным содержимым"
       },
       {
-        "id": "#cheap",
-        "type": "quality",
+        "id": "quality",
+        "description": "Качество содержимого"
+      },
+      {
+        "id": "cheap",
+        "parentId": "quality",
         "description": "Бесплатная или базовая инфраструктура для сайта"
       },
       {
-        "id": "#clone",
-        "type": "quality",
+        "id": "clone",
+        "parentId": "quality",
         "description": "Копирование атрибутов более известных проектов"
       },
       {
-        "id": "#comfy",
-        "type": "quality",
+        "id": "comfy",
+        "parentId": "quality",
         "description": "Положительный опыт использования"
       },
       {
-        "id": "#obscure",
-        "type": "quality",
+        "id": "obscure",
+        "parentId": "quality",
         "description": "Нестандартная концепция использования"
       },
       {
-        "id": "#fags",
-        "type": "quality",
+        "id": "fags",
+        "parentId": "quality",
         "description": "Персонифицированные треды, аватарки и т.п."
       },
       {
-        "id": "#mods",
-        "type": "quality",
+        "id": "mods",
+        "parentId": "quality",
         "description": "Злоупотребление модераторскими полномочиями"
       },
       {
-        "id": "#wild",
-        "type": "quality",
+        "id": "wild",
+        "parentId": "quality",
         "description": "Бессмысленное или вредящее содержимое"
       },
       {
-        "id": "#archive",
-        "type": "service",
+        "id": "service",
+        "description": "Предоставляемые сервисы"
+      },
+      {
+        "id": "archive",
+        "parentId": "service",
         "description": "Статичное содержимое, архивы устаревших ресурсов"
       },
       {
-        "id": "#board",
-        "type": "service",
+        "id": "board",
+        "parentId": "service",
         "description": "Форумоподобная дискуссионная площадка"
       },
       {
-        "id": "#chat",
-        "type": "service",
-        "description": "Чат или чатоподобная площадка для общения"
+        "id": "blog",
+        "parentId": "service",
+        "description": "Персональный, коллективный блог, личная страница"
       },
       {
-        "id": "#index",
-        "type": "service",
+        "id": "chat",
+        "parentId": "service",
+        "description": "Чат, чатоподобная площадка для общения"
+      },
+      {
+        "id": "gallery",
+        "parentId": "service",
+        "description": "Коллекция тематических изображений"
+      },
+      {
+        "id": "index",
+        "parentId": "service",
         "description": "Список ссылок, имеющих отношение к бордосфере"
       },
       {
-        "id": "#news",
-        "type": "service",
+        "id": "news",
+        "parentId": "service",
         "description": "Новости, обзоры и обсуждения последних событий"
       },
       {
-        "id": "#stream",
-        "type": "service",
-        "description": "Интернет-радио, стримы и другое потоковое содержимое"
+        "id": "stream",
+        "parentId": "service",
+        "description": "Интернет-радио, стримы, потоковое содержимое"
       },
       {
-        "id": "#wiki",
-        "type": "service",
+        "id": "wiki",
+        "parentId": "service",
         "description": "База знаний, вики-система"
       },
       {
-        "id": "#ar",
-        "type": "locale",
+        "id": "locale",
+        "description": "Используемые языки"
+      },
+      {
+        "id": "ar",
+        "parentId": "locale",
         "description": "Арабский язык"
       },
       {
-        "id": "#de",
-        "type": "locale",
+        "id": "de",
+        "parentId": "locale",
         "description": "Немецкий язык"
       },
       {
-        "id": "#en",
-        "type": "locale",
+        "id": "en",
+        "parentId": "locale",
         "description": "Английский язык"
       },
       {
-        "id": "#eo",
-        "type": "locale",
+        "id": "eo",
+        "parentId": "locale",
         "description": "Эсперанто"
       },
       {
-        "id": "#es",
-        "type": "locale",
+        "id": "es",
+        "parentId": "locale",
         "description": "Испанский язык"
       },
       {
-        "id": "#fi",
-        "type": "locale",
+        "id": "fi",
+        "parentId": "locale",
         "description": "Финский язык"
       },
       {
-        "id": "#hu",
-        "type": "locale",
+        "id": "hu",
+        "parentId": "locale",
         "description": "Венгерский язык"
       },
       {
-        "id": "#id",
-        "type": "locale",
+        "id": "id",
+        "parentId": "locale",
         "description": "Индонезийский язык"
       },
       {
-        "id": "#it",
-        "type": "locale",
+        "id": "it",
+        "parentId": "locale",
         "description": "Итальянский язык"
       },
       {
-        "id": "#ja",
-        "type": "locale",
+        "id": "ja",
+        "parentId": "locale",
         "description": "Японский язык"
       },
       {
-        "id": "#ko",
-        "type": "locale",
+        "id": "ko",
+        "parentId": "locale",
         "description": "Корейский язык"
       },
       {
-        "id": "#lt",
-        "type": "locale",
+        "id": "lt",
+        "parentId": "locale",
         "description": "Литовский язык"
       },
       {
-        "id": "#pl",
-        "type": "locale",
+        "id": "pl",
+        "parentId": "locale",
         "description": "Польский язык"
       },
       {
-        "id": "#pt",
-        "type": "locale",
+        "id": "pt",
+        "parentId": "locale",
         "description": "Португальский язык"
       },
       {
-        "id": "#ru",
-        "type": "locale",
+        "id": "ru",
+        "parentId": "locale",
         "description": "Русский язык"
       },
       {
-        "id": "#tr",
-        "type": "locale",
+        "id": "tr",
+        "parentId": "locale",
         "description": "Турецкий язык"
       },
       {
-        "id": "#uk",
-        "type": "locale",
+        "id": "uk",
+        "parentId": "locale",
         "description": "Украинский язык"
       },
       {
-        "id": "#zh-hk",
-        "type": "locale",
+        "id": "zh-hk",
+        "parentId": "locale",
         "description": "Китайский язык (Китайский традиционный)"
       }
     ]
