@@ -1,5 +1,12 @@
 [
   {
+    "name": "claire.ws",
+    "url": "https://claire.ws/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "bitardchan.rf.gd",
     "url": "https://bitardchan.rf.gd/",
     "language": [
@@ -2637,6 +2644,13 @@
     ]
   },
   {
+    "name": "tinuviall.livejournal.com",
+    "url": "https://tinuviall.livejournal.com/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "xchan.in",
     "url": "http://xchan.in/",
     "mirrors": [
@@ -3025,6 +3039,13 @@
   {
     "name": "xynta.ch",
     "url": "https://xynta.ch/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "lumiarena.net/board",
+    "url": "http://www.lumiarena.net/board",
     "language": [
       "ru"
     ]
@@ -3626,6 +3647,13 @@
   {
     "name": "014.yakuji.moe",
     "url": "https://014.yakuji.moe/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "2007.ii.yakuji.moe",
+    "url": "https://2007.ii.yakuji.moe/",
     "language": [
       "ru"
     ]

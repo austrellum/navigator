@@ -1,8 +1,8 @@
 # Навигатор бордосферы
 
-> Редакция от **1 февраля 2024** (v1.12.0)
+> Редакция от **5 февраля 2024** (v1.12.0-fix1)
 >
-> Всего **471**, доступно **126**
+> Всего **475**, доступно **131**
 
 ## Живые
 
@@ -102,7 +102,7 @@
   - [allchan.io](https://allchan.io/) 2015 #limited #comfy #fags
     - [.onion](http://v5ocmeo5igswk45cq3vpo5iomjxy6spzugaqwfx3ublqbxdffbb4pgid.onion/)
   - [owlchan.org](https://owlchan.org/) 2014 #iich
-  - [1chan.ca](https://1chan.ca/) 2014 #limited #ex1ch #clone #wild #news
+  - [1chan.ca](https://1chan.ca/) 2014 #ex1ch #clone #wild #news
   - [02ch.in](https://02ch.in/) 2013 #clone #fags #wild
   - [rfch.rocks](https://rfch.rocks/) 2013 #blocked #ex2ch #mods
     - [.xyz](https://rfch.xyz/)
@@ -155,6 +155,7 @@
   - [pidorchan.i2p](http://pidorchan.i2p/) #obscure #wild #chat
     - [.b32.i2p](http://pidorgmob3uchxfepm7ywvfbjwo5f232us3lkegvbolwv2qybesa.b32.i2p/)
   - [014.yakuji.moe](https://014.yakuji.moe/) #iich #archive
+  - 🆕 [2007.ii.yakuji.moe](https://2007.ii.yakuji.moe/) #iich #archive
   - [410.yakuji.moe](https://410.yakuji.moe/) #iich #archive
 
 ## Отмирающие
@@ -185,6 +186,7 @@
   - 🆕 [macro.yakuji.moe](http://macro.yakuji.moe/) 2012 #limited #iich #gallery
   - 🆕 [2chtanstory.…rdpress.com](https://2chtanstory.wordpress.com/) 2011 #limited #ex2ch #cheap #blog
   - [ylilauta.org](https://ylilauta.org/) [/russia](https://ylilauta.org/russia) 2011 #foreign #comfy
+  - 🆕 [tinuviall.li…journal.com](https://tinuviall.livejournal.com/) 2010 #limited #ex2ch #cheap #blog
   - 🆕 [iichantra.ru](https://iichantra.ru/) 2010 #limited #iich #blog
   - 🆕 [art.4otaku.org](https://art.4otaku.org/) 2010 #iich #gallery
   - [hamstakilla.com](https://hamstakilla.com/) [/ru](https://hamstakilla.com/ru) 2009 #blocked #foreign
@@ -220,6 +222,7 @@
 
 ## Заглушки
 
+  - 🆕 [claire.ws](https://claire.ws/) 2024
   - [papachan.rf.gd](https://papachan.rf.gd/) 2023 #exapach #cheap #clone #wild
   - [1chan.cf](http://1chan.cf/) 2022 #ex1ch #clone #index #news
   - [zchan.app](https://zchan.app/) 2020 #wild
@@ -540,6 +543,7 @@
   - [evachan.ru](http://evachan.ru/) 2009 #fags
   - [metroblog.ru/gesta3](http://metroblog.ru/gesta3) 2009 #obscure #chat
   - [xynta.ch](https://xynta.ch/) 2009
+  - 🆕 [lumiarena.net/board](http://www.lumiarena.net/board) 2009
   - [2ch.su](http://www.2ch.su/) 2009 #ex2ch #clone
   - [4otaku.ru/board](http://4otaku.ru/board) 2009 #fags
   - [02-ch.ru](http://02-ch.ru/) 2009 #ex2ch #clone

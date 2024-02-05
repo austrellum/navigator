@@ -1,7 +1,7 @@
 НАВИГАТОР БОРДОСФЕРЫ
 
-Редакция от 1 февраля 2024 (v1.12.0)
-Всего 471, доступно 126
+Редакция от 5 февраля 2024 (v1.12.0-fix1)
+Всего 475, доступно 131
 
 Живые
 
@@ -101,7 +101,7 @@
 — https://allchan.io/ 2015 #limited #comfy #fags
   — http://v5ocmeo5igswk45cq3vpo5iomjxy6spzugaqwfx3ublqbxdffbb4pgid.onion/
 — https://owlchan.org/ 2014 #iich
-— https://1chan.ca/ 2014 #limited #ex1ch #clone #wild #news
+— https://1chan.ca/ 2014 #ex1ch #clone #wild #news
 — https://02ch.in/ 2013 #clone #fags #wild
 — https://rfch.rocks/ 2013 #blocked #ex2ch #mods
   — https://rfch.xyz/
@@ -154,6 +154,7 @@
 — http://pidorchan.i2p/ #obscure #wild #chat
   — http://pidorgmob3uchxfepm7ywvfbjwo5f232us3lkegvbolwv2qybesa.b32.i2p/
 — https://014.yakuji.moe/ #iich #archive
+— [+++] https://2007.ii.yakuji.moe/ #iich #archive
 — https://410.yakuji.moe/ #iich #archive
 
 Отмирающие
@@ -184,6 +185,7 @@
 — [+++] http://macro.yakuji.moe/ 2012 #limited #iich #gallery
 — [+++] https://2chtanstory.wordpress.com/ 2011 #limited #ex2ch #cheap #blog
 — https://ylilauta.org/ /russia 2011 #foreign #comfy
+— [+++] https://tinuviall.livejournal.com/ 2010 #limited #ex2ch #cheap #blog
 — [+++] https://iichantra.ru/ 2010 #limited #iich #blog
 — [+++] https://art.4otaku.org/ 2010 #iich #gallery
 — https://hamstakilla.com/ /ru 2009 #blocked #foreign
@@ -219,6 +221,7 @@
 
 Заглушки
 
+— [+++] https://claire.ws/ 2024
 — https://papachan.rf.gd/ 2023 #exapach #cheap #clone #wild
 — http://1chan.cf/ 2022 #ex1ch #clone #index #news
 — https://zchan.app/ 2020 #wild
@@ -539,6 +542,7 @@
 — http://evachan.ru/ 2009 #fags
 — http://metroblog.ru/gesta3 2009 #obscure #chat
 — https://xynta.ch/ 2009
+— [+++] http://www.lumiarena.net/board 2009
 — http://www.2ch.su/ 2009 #ex2ch #clone
 — http://4otaku.ru/board 2009 #fags
 — http://02-ch.ru/ 2009 #ex2ch #clone

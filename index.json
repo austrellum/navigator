@@ -1,14 +1,28 @@
 {
   "meta": {
-    "version": "1.12.0",
+    "version": "1.12.0-fix1",
     "created": "2022-06-06",
-    "updated": "2024-02-01",
+    "updated": "2024-02-05",
     "source": "https://github.com/austrellum/navigator",
     "discussion": "https://wc.12hp.ch/wc/res/2577.html",
     "survey": "https://tally.so/r/3jPop4"
   },
   "data": {
     "sites": [
+      {
+        "id": "claire-ws",
+        "urls": [
+          "https://claire.ws/"
+        ],
+        "created": "2024-02-04",
+        "tagsIds": [
+          "new",
+          "stub",
+          "www",
+          "board",
+          "ru"
+        ]
+      },
       {
         "id": "bitardchan-rf-gd",
         "urls": [
@@ -209,7 +223,6 @@
         ],
         "created": "2023-05-31",
         "tagsIds": [
-          "lower",
           "live",
           "www",
           "wild",
@@ -788,7 +801,6 @@
         ],
         "created": "2022-05-16",
         "tagsIds": [
-          "lower",
           "live",
           "www",
           "tor",
@@ -2930,7 +2942,6 @@
         "tagsIds": [
           "live",
           "www",
-          "limited",
           "ex1ch",
           "clone",
           "wild",
@@ -5134,6 +5145,23 @@
         ]
       },
       {
+        "id": "tinuviall-livejournal-com",
+        "urls": [
+          "https://tinuviall.livejournal.com/"
+        ],
+        "created": "2010-09-13",
+        "tagsIds": [
+          "new",
+          "ghost",
+          "www",
+          "limited",
+          "ex2ch",
+          "cheap",
+          "blog",
+          "ru"
+        ]
+      },
+      {
         "id": "xchan-in",
         "urls": [
           "http://xchan.in/",
@@ -5884,6 +5912,20 @@
         ],
         "created": "2009-06-08",
         "tagsIds": [
+          "dead",
+          "www",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "lumiarena-net",
+        "urls": [
+          "http://www.lumiarena.net/board"
+        ],
+        "created": "2009-06",
+        "tagsIds": [
+          "new",
           "dead",
           "www",
           "board",
@@ -7004,6 +7046,20 @@
           "https://014.yakuji.moe/"
         ],
         "tagsIds": [
+          "live",
+          "www",
+          "iich",
+          "archive",
+          "ru"
+        ]
+      },
+      {
+        "id": "2007-ii-yakuji-moe",
+        "urls": [
+          "https://2007.ii.yakuji.moe/"
+        ],
+        "tagsIds": [
+          "new",
           "live",
           "www",
           "iich",

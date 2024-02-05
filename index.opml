@@ -3,7 +3,7 @@
   <head>
     <title>Навигатор бордосферы</title>
     <dateCreated>Mon, 06 Jun 2022 00:00:00 GMT</dateCreated>
-    <dateModified>Thu, 01 Feb 2024 00:00:00 GMT</dateModified>
+    <dateModified>Mon, 05 Feb 2024 00:00:00 GMT</dateModified>
     <ownerId>https://github.com/austrellum/navigator</ownerId>
   </head>
   <body>
@@ -39,7 +39,7 @@
         <outline text="uchan.i2p" type="link" url="http://uchan.i2p/" />
         <outline text=".b32.i2p" type="link" url="http://uchanooau3lfmqav57q4743szpcex6jdsyae64veb6th45n2yfaq.b32.i2p/" />
       </outline>
-      <outline text="reee-re" category="lower,live,www,wild,board,ru">
+      <outline text="reee-re" category="live,www,wild,board,ru">
         <outline text="reee.re" type="link" url="https://reee.re/" />
       </outline>
       <outline text="2ch-plus" category="live,www,ex0ch,ex2ch,clone,wild,board,ru">
@@ -95,7 +95,7 @@
       <outline text="austrellum-github-io" category="new,live,www,limited,cheap,comfy,index,ru">
         <outline text="austrellum.g…o/navigator" type="link" url="https://austrellum.github.io/navigator" />
       </outline>
-      <outline text="1chan-su" category="lower,live,www,tor,ex1ch,clone,comfy,board,index,news,ru">
+      <outline text="1chan-su" category="live,www,tor,ex1ch,clone,comfy,board,index,news,ru">
         <outline text="1chan.su" type="link" url="https://1chan.su/" />
         <outline text=".lol" type="link" url="https://1chan.lol/" />
         <outline text=".online" type="link" url="https://1chan.online/" />
@@ -208,7 +208,7 @@
       <outline text="owlchan-org" category="live,www,iich,board,ru">
         <outline text="owlchan.org" type="link" url="https://owlchan.org/" />
       </outline>
-      <outline text="1chan-ca" category="live,www,limited,ex1ch,clone,wild,board,news,ru">
+      <outline text="1chan-ca" category="live,www,ex1ch,clone,wild,board,news,ru">
         <outline text="1chan.ca" type="link" url="https://1chan.ca/" />
       </outline>
       <outline text="02ch-in" category="live,www,clone,fags,wild,board,ru">
@@ -323,6 +323,9 @@
       <outline text="014-yakuji-moe" category="live,www,iich,archive,ru">
         <outline text="014.yakuji.moe" type="link" url="https://014.yakuji.moe/" />
       </outline>
+      <outline text="2007-ii-yakuji-moe" category="new,live,www,iich,archive,ru">
+        <outline text="2007.ii.yakuji.moe" type="link" url="https://2007.ii.yakuji.moe/" />
+      </outline>
       <outline text="410-yakuji-moe" category="live,www,iich,archive,ru">
         <outline text="410.yakuji.moe" type="link" url="https://410.yakuji.moe/" />
       </outline>
@@ -392,6 +395,9 @@
       <outline text="ylilauta-org" category="ghost,www,foreign,comfy,board,fi,ru">
         <outline text="ylilauta.org" type="link" url="https://ylilauta.org/" />
       </outline>
+      <outline text="tinuviall-livejournal-com" category="new,ghost,www,limited,ex2ch,cheap,blog,ru">
+        <outline text="tinuviall.li…journal.com" type="link" url="https://tinuviall.livejournal.com/" />
+      </outline>
       <outline text="iichantra-ru" category="new,ghost,www,limited,iich,blog,ru">
         <outline text="iichantra.ru" type="link" url="https://iichantra.ru/" />
       </outline>
@@ -455,6 +461,9 @@
       </outline>
     </outline>
     <outline text="Заглушки">
+      <outline text="claire-ws" category="new,stub,www,board,ru">
+        <outline text="claire.ws" type="link" url="https://claire.ws/" />
+      </outline>
       <outline text="papachan-rf-gd" category="stub,www,exapach,cheap,clone,wild,board,ru">
         <outline text="papachan.rf.gd" type="link" url="https://papachan.rf.gd/" />
       </outline>
@@ -1369,6 +1378,9 @@
       </outline>
       <outline text="xynta-ch" category="dead,www,board,ru">
         <outline text="xynta.ch" type="link" url="https://xynta.ch/" />
+      </outline>
+      <outline text="lumiarena-net" category="new,dead,www,board,ru">
+        <outline text="lumiarena.net/board" type="link" url="http://www.lumiarena.net/board" />
       </outline>
       <outline text="2ch-su" category="dead,www,ex2ch,clone,board,ru">
         <outline text="2ch.su" type="link" url="http://www.2ch.su/" />
