@@ -1,5 +1,19 @@
 [
   {
+    "name": "wchan.free.nf",
+    "url": "https://wchan.free.nf/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "claire.lol",
+    "url": "https://claire.lol/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "bitardchan.rf.gd",
     "url": "https://bitardchan.rf.gd/",
     "language": [
@@ -174,6 +188,18 @@
     ]
   },
   {
+    "name": "nullnyanvapwq3ou4gbc62y26uiggj5ztbur7mzxrnjhfwxu43jbxtqd.onion",
+    "url": "http://nullnyanvapwq3ou4gbc62y26uiggj5ztbur7mzxrnjhfwxu43jbxtqd.onion/",
+    "mirrors": [
+      "http://nullnyanvapwq3ou4gbc62y26uiggj5ztbur7mzxrnjhfwxu43jbxtqd.onion/",
+      "http://nullnyan.i2p/",
+      "http://xkih5s3yp75pqdvwdqo3dq2vtkxg2ddnfawtdfchk6wmcthvdaoa.b32.i2p/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "zenchan.cc",
     "url": "https://zenchan.cc/",
     "language": [
@@ -183,13 +209,6 @@
   {
     "name": "apachan.x10.mx",
     "url": "https://apachan.x10.mx/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "mothchan.ru",
-    "url": "https://mothchan.ru/",
     "language": [
       "ru"
     ]
@@ -451,12 +470,9 @@
     ]
   },
   {
-    "name": "nullnyanvapwq3ou4gbc62y26uiggj5ztbur7mzxrnjhfwxu43jbxtqd.onion",
-    "url": "http://nullnyanvapwq3ou4gbc62y26uiggj5ztbur7mzxrnjhfwxu43jbxtqd.onion/",
+    "name": "nullnyan.net",
+    "url": "https://nullnyan.net/",
     "mirrors": [
-      "http://nullnyanvapwq3ou4gbc62y26uiggj5ztbur7mzxrnjhfwxu43jbxtqd.onion/",
-      "http://nullnyan.i2p/",
-      "http://xkih5s3yp75pqdvwdqo3dq2vtkxg2ddnfawtdfchk6wmcthvdaoa.b32.i2p/",
       "https://nullnyan.net/",
       "https://0nyan.ml/"
     ],
