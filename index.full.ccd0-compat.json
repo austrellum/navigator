@@ -14,6 +14,13 @@
     ]
   },
   {
+    "name": "catarsys.ru",
+    "url": "https://catarsys.ru/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "claire.lol",
     "url": "https://claire.lol/",
     "language": [
@@ -23,6 +30,17 @@
   {
     "name": "claire.ws",
     "url": "https://claire.ws/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "smallchan.i2p",
+    "url": "http://smallchan.i2p/",
+    "mirrors": [
+      "http://smallchan.i2p/",
+      "http://ucusncqzojo3bjem76zssfomb5yfuyvmbvpvnbhkb3z2nntdxxha.b32.i2p/"
+    ],
     "language": [
       "ru"
     ]
@@ -763,13 +781,6 @@
     ]
   },
   {
-    "name": "booru.yakuji.moe",
-    "url": "http://booru.yakuji.moe/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
     "name": "2ch.ge",
     "url": "http://2ch.ge/",
     "language": [
@@ -1256,13 +1267,6 @@
   {
     "name": "midorichan.ru",
     "url": "https://midorichan.ru/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "ii.yakuji.moe",
-    "url": "https://ii.yakuji.moe/",
     "language": [
       "ru"
     ]
@@ -2069,13 +2073,6 @@
   {
     "name": "23ch.ru",
     "url": "http://23ch.ru/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "macro.yakuji.moe",
-    "url": "http://macro.yakuji.moe/",
     "language": [
       "ru"
     ]
@@ -3686,22 +3683,17 @@
     ]
   },
   {
-    "name": "014.yakuji.moe",
-    "url": "https://014.yakuji.moe/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "2007.ii.yakuji.moe",
-    "url": "https://2007.ii.yakuji.moe/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "410.yakuji.moe",
-    "url": "https://410.yakuji.moe/",
+    "name": "ii.yakuji.moe",
+    "url": "https://ii.yakuji.moe/",
+    "mirrors": [
+      "https://ii.yakuji.moe/",
+      "http://booru.yakuji.moe/",
+      "https://2007.ii.yakuji.moe/",
+      "http://macro.yakuji.moe/",
+      "https://014.yakuji.moe/",
+      "https://410.yakuji.moe/",
+      "http://nowere.yakuji.moe/"
+    ],
     "language": [
       "ru"
     ]

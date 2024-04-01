@@ -1,13 +1,16 @@
 # Навигатор бордосферы
 
-> Редакция от **1 марта 2024** (v1.12.0-fix1)
+> Редакция от **1 апреля 2024** (v1.12.0-fix2)
 >
-> Всего **480**, доступно **122**
+> Всего **477**, доступно **120**
 
 ## Живые
 
-  - 🆕 [wchan.free.nf](https://wchan.free.nf/) 2024 #cheap #wild
-  - 🆕 [claire.lol](https://claire.lol/) 2024 #limited
+  - [wchan.free.nf](https://wchan.free.nf/) 2024 #cheap #wild
+  - 🆕 [catarsys.ru](https://catarsys.ru/) 2024 #wild
+  - [claire.lol](https://claire.lol/) 2024 #wild
+  - 🆕 [smallchan.i2p](http://smallchan.i2p/) 2024
+    - [.b32.i2p](http://ucusncqzojo3bjem76zssfomb5yfuyvmbvpvnbhkb3z2nntdxxha.b32.i2p/)
   - [bitardchan.rf.gd](https://bitardchan.rf.gd/) 2023 #cheap #wild
   - [makachan.wuaze.com](https://makachan.wuaze.com/) 2023 #cheap #wild
   - [trapach.kesug.com](https://trapach.kesug.com/) 2023 #cheap #wild
@@ -22,28 +25,17 @@
   - [uchan.i2p](http://uchan.i2p/) 2023
     - [.b32.i2p](http://uchanooau3lfmqav57q4743szpcex6jdsyae64veb6th45n2yfaq.b32.i2p/)
   - [reee.re](https://reee.re/) 2023 #wild
-  - [2ch.plus](https://2ch.plus/) 2023 #ex0ch #ex2ch #clone #wild
-  - [varyachan.life](https://varyachan.life/) 2023 #ex2ch #fags #wild
-    - [.onion](http://varya2mudm4b73s2ec2nuurnmk6lju76vnwnjsev6zyhfq4to67kc5yd.onion/)
   - [metatorrkdag…6gsad.onion](http://metatorrkdagnx2njwvnzqeclsk3qbwabr6hori4vmivj25qy6s6gsad.onion/) 2023 #ex0ch #wild
     - [.i2p](http://metator.i2p/)
     - [.b32.i2p](http://meta2ztenfbd4meh6bqvysngyyc343h4rzh3qenwk4po5jzfhy6q.b32.i2p/)
-  - [1chan.plus](https://1chan.plus/) 2023 #ex1ch #clone #comfy #wild #index #news
   - [7jdf5v63lmgt…7epqd.onion](http://7jdf5v63lmgtx2ccnkevo4y63aat6t6aqirxmat7qgcb4bxhhc27epqd.onion/) 2023 #wild
     - [.i2p](http://lunach.i2p/)
     - [.b32.i2p](http://rju7h4gwust4ptaiqhql7m7nvor45ez5675v7r3rza2egskkrmga.b32.i2p/)
-  - [0chan.wiki](https://0chan.wiki/) 2023 #limited #wiki
   - [rf.dobrochan.net](https://rf.dobrochan.net/) 2023 #iich #clone #mods #archive
-  - [0chan.plus](https://0chan.plus/) 2023 #ex0ch #clone #mods #wild
-    - [.us](https://0chan.us/)
-    - [.net](https://0chanru.net/)
-    - [.onion](http://32xwwlgnvohjzhlfcgkakdktbscrzsa2fdbrbh43evu4vuxqw3gspoyd.onion/)
-  - [2ch.so](https://2ch.so/) 2023 #ex0ch #ex2ch #clone #mods #wild
   - [nullnyanvapw…bxtqd.onion](http://nullnyanvapwq3ou4gbc62y26uiggj5ztbur7mzxrnjhfwxu43jbxtqd.onion/) 2023 #ex0ch #clone
     - [.i2p](http://nullnyan.i2p/)
     - [.b32.i2p](http://xkih5s3yp75pqdvwdqo3dq2vtkxg2ddnfawtdfchk6wmcthvdaoa.b32.i2p/)
   - [zenchan.cc](https://zenchan.cc/) 2023 #obscure #wild
-  - [apachan.x10.mx](https://apachan.x10.mx/) 2022 #exapach #cheap #clone #wild
   - [chaoschan.org](https://chaoschan.org/) 2022
   - [альфачан.рф](http://альфачан.рф/) 2022 #exapach #wild
   - [austrellum.g…o/navigator](https://austrellum.github.io/navigator) 2022 #limited #cheap #comfy #index
@@ -87,9 +79,6 @@
   - [neochan.ru](https://neochan.ru/) 2018 #fags
     - [.onion](http://neochan7n7xp2v6yvw2u6zedciwlhot4kwftqpuoxrjwet3iprcms2qd.onion/)
   - [kpop.re](https://kpop.re/) 2017 #fags
-  - [bbs.iriscot.org](https://bbs.iriscot.org/) 2017
-  - [nullnyan.net](https://nullnyan.net/) 2016 #ex0ch #clone #fags
-    - [.ml](https://0nyan.ml/)
   - [tumba.ch](https://tumba.ch/) 2016 #limited
   - [endchan.net](https://endchan.net/) [/bb](https://endchan.net/bb) [/ca](https://endchan.net/ca) [/dobrochan](https://endchan.net/dobrochan) [/dota](https://endchan.net/dota) [/genshin](https://endchan.net/genshin) [/lgbt](https://endchan.net/lgbt) [/po](https://endchan.net/po) [/polru](https://endchan.net/polru) [/rus](https://endchan.net/rus) 2015 #blocked #foreign #wild
     - [.gg](https://endchan.gg/)
@@ -97,7 +86,6 @@
     - [.onion](http://endchancxfbnrfgauuxlztwlckytq7rgeo5v6pc2zd4nyqo3khfam4ad.onion/)
     - [.onion](http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion/)
     - [.loki](http://kqrtg5wz4qbyjprujkz33gza7r73iw3ainqp1mz5zmu16symcdwy.loki/)
-  - [ii.yakuji.moe](https://ii.yakuji.moe/) [/abe](https://ii.yakuji.moe/abe) [/dev](https://ii.yakuji.moe/dev) 2015 #iich #archive
   - [wiki.1chan.ca](https://wiki.1chan.ca/) 2015 #wild #index #wiki
     - [.ru](https://kolchepedia.ru/)
     - [.ru](https://1-chan.ru/)
@@ -153,28 +141,26 @@
     - [.li](http://bbs.anoma.li/)
   - [nowere.net](https://nowere.net/) 2008 #blocked #iich
   - [iichan.hk](https://iichan.hk/) 2007 #blocked #iich #mods #wild #index
-  - [gopchan.i2p](http://gopchan.i2p/) #obscure #wild #chat
-    - [.b32.i2p](https://gopchnqtt2thncw263t32kg3wav567kf5lhzpzqcbnp5diofnhqq.b32.i2p/)
   - [ichan.ru](http://ichan.ru/) [/a](http://ichan.ru/a) [/l](http://ichan.ru/l) [/vg](http://ichan.ru/vg) #iich #archive #gallery
-  - [pidorchan.i2p](http://pidorchan.i2p/) #obscure #wild #chat
-    - [.b32.i2p](http://pidorgmob3uchxfepm7ywvfbjwo5f232us3lkegvbolwv2qybesa.b32.i2p/)
   - [rcuhe6pk7mbm…4z7qd.onion](http://rcuhe6pk7mbmsjk7bwyja5etvjhjvzmc724rnf3piamemvawoi44z7qd.onion/) [/rus](http://rcuhe6pk7mbmsjk7bwyja5etvjhjvzmc724rnf3piamemvawoi44z7qd.onion/rus) #foreign #wild
     - [.i2p](http://foxdickchan.i2p/)
     - [.b32.i2p](http://iqxr4hupmaqdd4wvkwwjjrq6ddocydqqqadtnk6ltdnalvrzanxq.b32.i2p/)
-  - [014.yakuji.moe](https://014.yakuji.moe/) #iich #archive
-  - [2007.ii.yakuji.moe](https://2007.ii.yakuji.moe/) #iich #archive
-  - [410.yakuji.moe](https://410.yakuji.moe/) #iich #archive
+  - [ii.yakuji.moe](https://ii.yakuji.moe/) [/abe](https://ii.yakuji.moe/abe) [/dev](https://ii.yakuji.moe/dev) #iich #archive
+    - [.moe](http://booru.yakuji.moe/)
+    - [.moe](https://2007.ii.yakuji.moe/)
+    - [.moe](http://macro.yakuji.moe/)
+    - [.moe](https://014.yakuji.moe/)
+    - [.moe](https://410.yakuji.moe/)
+    - [.moe](http://nowere.yakuji.moe/)
 
 ## Отмирающие
 
   - [j33111470.my…/forestchan](http://j33111470.myjino.ru/forestchan) 2023 #limited #cheap #fags
   - [314n.0chan.one](https://314n.0chan.one/) 2023 #ex0ch #clone #obscure
-  - [booru.0chan.plus](https://booru.0chan.plus/) 2023 #limited #ex0ch #gallery
   - [slonik.0chan.ru](https://slonik.0chan.ru/) 2022 #limited #ex0ch #blog
   - [taozgyb2jfbj…bx2qd.onion](http://taozgyb2jfbj567lzvfjse4c2snsb37tq3o2iucflxqoilogwc6bx2qd.onion/) [/ru](http://taozgyb2jfbj567lzvfjse4c2snsb37tq3o2iucflxqoilogwc6bx2qd.onion/ru) 2022 #foreign #wild
     - [.b32.i2p](http://y5hr627jx2kzyaxlg3i5ohbmlj37eduamz67qd23kkg3dy4hg5ea.b32.i2p/)
   - [bchan.myqip.ru](https://bchan.myqip.ru/) 2021 #cheap #obscure
-  - [booru.yakuji.moe](http://booru.yakuji.moe/) 2019 #limited #iich #gallery
   - [2fan.ru/ch](https://2fan.ru/ch) 2018
   - [kohlchan.net](https://kohlchan.net/) [/ru](https://kohlchan.net/ru) 2018 #blocked #foreign
     - [.top](https://kohlchan.top/)
@@ -183,11 +169,11 @@
     - [.i2p](http://kohlchan.i2p/)
     - [.b32.i2p](http://kohlchanvn6vtsujobyw4pt5naaszmxqutd5hsdatmxfe2qaqhya.b32.i2p/)
   - [0chantech.userecho.com](https://0chantech.userecho.com/) 2017 #limited #ex0ch
+  - [bbs.iriscot.org](https://bbs.iriscot.org/) 2017
   - [merzochan.at.ua](https://merzochan.at.ua/) 2016 #blocked #cheap #obscure
   - [hramopedia.org](https://hramopedia.org/) 2016 #limited #iich #wiki
   - [vkchan.ru](https://vkchan.ru/) 2014 #obscure
   - [2draw.me/d](https://2draw.me/d) 2013 #iich
-  - [macro.yakuji.moe](http://macro.yakuji.moe/) 2012 #limited #iich #gallery
   - [2chtanstory.…rdpress.com](https://2chtanstory.wordpress.com/) 2011 #limited #ex2ch #cheap #blog
   - [ylilauta.org](https://ylilauta.org/) [/russia](https://ylilauta.org/russia) 2011 #foreign #comfy
   - [tinuviall.li…journal.com](https://tinuviall.livejournal.com/) 2010 #limited #ex2ch #cheap #blog
@@ -223,15 +209,15 @@
 
 ## Заглушки
 
-  - 🆕 [2chru.net](http://2chru.net/) 2024 #ex2ch #clone
+  - [2chru.net](http://2chru.net/) 2024 #ex2ch #clone
   - [claire.ws](https://claire.ws/) 2024
   - [papachan.rf.gd](https://papachan.rf.gd/) 2023 #exapach #cheap #clone #wild
   - [mothchan.ru](https://mothchan.ru/) 2022 #wild
-  - [1chan.cf](http://1chan.cf/) 2022 #ex1ch #clone #index #news
   - [zchan.app](https://zchan.app/) 2020 #wild
   - [0chan.pl](https://0chan.pl/) 2018 #ex0ch #clone
   - [utochan.ru](https://utochan.ru/) 2017
-  - [0chanrunet.cf](https://0chanrunet.cf/) 2016 #ex0ch
+  - [nullnyan.net](https://nullnyan.net/) 2016 #ex0ch #clone #fags
+    - [.ml](https://0nyan.ml/)
   - [2ch.kz](http://2ch.kz/) 2012 #ex2ch
   - [topsape.ru/chan](http://topsape.ru/chan) 2010
   - [iichan.ru](http://iichan.ru/) 2007 #iich
@@ -248,7 +234,13 @@
   - [lambdachan.net](https://lambdachan.net/) 2023 #wild
   - [22channel.org](https://22channel.org/) 2023 #wild
   - [mboard.tk](https://mboard.tk/) 2023 #wild
+  - [2ch.plus](https://2ch.plus/) 2023 #ex0ch #ex2ch #clone #wild
   - [mint.0chan.ru](https://mint.0chan.ru/) 2023 #ex0ch #clone #wild
+  - [varyachan.life](https://varyachan.life/) 2023 #ex2ch #fags #wild
+    - [.onion](http://varya2mudm4b73s2ec2nuurnmk6lju76vnwnjsev6zyhfq4to67kc5yd.onion/)
+  - [1chan.plus](https://1chan.plus/) 2023 #ex1ch #clone #comfy #wild #index #news
+  - [0chan.wiki](https://0chan.wiki/) 2023 #limited #wiki
+  - [booru.0chan.plus](https://booru.0chan.plus/) 2023 #limited #ex0ch #gallery
   - [0chna.ru](https://0chna.ru/) 2023 #ex0ch #clone #wild
     - [.onion](http://ykzvtjpl56wkpapyq4yxp6tnyweu3adreqjuuqon5ncwanla7unnnpqd.onion/)
   - [0chan.nl](http://0chan.nl/) 2023 #ex0ch #clone
@@ -256,6 +248,12 @@
   - [доброчан.рф](https://доброчан.рф/) 2023 #iich #clone
   - [anonchan.i2p](http://anonchan.i2p/) 2023 #wild
     - [.b32.i2p](http://ztspuueo7wvmnui5fd4jqjy5dzbc2zgu6cbcyopko2hlz4amcgfq.b32.i2p/)
+  - [0chan.plus](https://0chan.plus/) 2023 #ex0ch #clone #mods #wild
+    - [.us](https://0chan.us/)
+    - [.net](https://0chanru.net/)
+    - [.onion](http://32xwwlgnvohjzhlfcgkakdktbscrzsa2fdbrbh43evu4vuxqw3gspoyd.onion/)
+  - [2ch.so](https://2ch.so/) 2023 #ex0ch #ex2ch #clone #mods #wild
+  - [apachan.x10.mx](https://apachan.x10.mx/) 2022 #exapach #cheap #clone #wild
   - [cyber2ch.com](https://cyber2ch.com/) 2022 #ex2ch #clone
   - [nyamo.org](https://nyamo.org/) 2022 #wild
   - [000000.byethost22.com](http://000000.byethost22.com/) 2022 #cheap
@@ -265,6 +263,7 @@
   - [lenchan.ru](http://lenchan.ru/) 2022 #fags
   - [motherfox.ru](https://motherfox.ru/) 2022 #ex2ch
   - [1chan.life](https://1chan.life/) 2022 #ex1ch #clone #wild #index #news
+  - [1chan.cf](http://1chan.cf/) 2022 #ex1ch #clone #index #news
   - [0ch.kz](https://0ch.kz/) 2021 #ex0ch #clone
   - [purplechan.i2p](http://purplechan.i2p/) 2021 #wild
     - [.b32.i2p](http://tyiwxpgs7syjvz3cha3uckaxgondtiktlsvriebyy4qmzgbaj3gq.b32.i2p/)
@@ -319,10 +318,11 @@
   - [hubchan.ru](http://hubchan.ru/) 2016
   - [imageboard0.blogspot.ru](https://imageboard0.blogspot.ru/) 2016 #cheap #obscure
   - [0-chanru.net](http://0-chanru.net/) 2016 #ex0ch
-  - 🆕 [gqchan.qg](http://gqchan.qg/) 2016 #ex0ch #clone #wild
+  - [gqchan.qg](http://gqchan.qg/) 2016 #ex0ch #clone #wild
     - [.gq](http://gq-chan.gq/)
   - [2channel.hk](https://2channel.hk/) 2016 #ex2ch
   - [zerochan.ru](http://www.zerochan.ru/) 2016 #ex0ch #clone
+  - [0chanrunet.cf](https://0chanrunet.cf/) 2016 #ex0ch
   - [crychan.com](https://crychan.com/) 2016
   - [depreschan.ovh](http://depreschan.ovh/) 2016
   - [exach.com](http://exach.com/) 2016
@@ -604,8 +604,12 @@
   - [polynomial.ru/wakaba](http://www.polynomial.ru/wakaba) 2006
   - [i-bbs.org](http://i-bbs.org/) 2005
   - [bulbach.500mb.net](http://bulbach.500mb.net/) #cheap
+  - [gopchan.i2p](http://gopchan.i2p/) #obscure #wild #chat
+    - [.b32.i2p](https://gopchnqtt2thncw263t32kg3wav567kf5lhzpzqcbnp5diofnhqq.b32.i2p/)
   - [ivchan.net](https://ivchan.net/) #iich #archive
   - [obr.li](https://obr.li/) #ex2ch
+  - [pidorchan.i2p](http://pidorchan.i2p/) #obscure #wild #chat
+    - [.b32.i2p](http://pidorgmob3uchxfepm7ywvfbjwo5f232us3lkegvbolwv2qybesa.b32.i2p/)
   - [tdsrvhos656x…r47ad.onion](http://tdsrvhos656xypxsqtkqmiwefuvlyqmnvk5faoo23oh2m4xqg4gr47ad.onion/) [/polru](http://tdsrvhos656xypxsqtkqmiwefuvlyqmnvk5faoo23oh2m4xqg4gr47ad.onion/polru) #foreign
   - [wakachan.org](http://wakachan.org/) [/unyl](http://wakachan.org/unyl) #iich #foreign
 

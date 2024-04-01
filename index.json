@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.12.0-fix1",
+    "version": "1.12.0-fix2",
     "created": "2022-06-06",
-    "updated": "2024-03-01",
+    "updated": "2024-04-01",
     "source": "https://github.com/austrellum/navigator",
     "discussion": "https://wc.12hp.ch/wc/res/2577.html",
     "survey": "https://tally.so/r/3jPop4"
@@ -16,7 +16,6 @@
         ],
         "created": "2024-02-24",
         "tagsIds": [
-          "new",
           "stub",
           "www",
           "ex2ch",
@@ -32,10 +31,24 @@
         ],
         "created": "2024-02-17",
         "tagsIds": [
-          "new",
           "live",
           "www",
           "cheap",
+          "wild",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "catarsys-ru",
+        "urls": [
+          "https://catarsys.ru/"
+        ],
+        "created": "2024-02-14",
+        "tagsIds": [
+          "new",
+          "live",
+          "www",
           "wild",
           "board",
           "ru"
@@ -48,10 +61,9 @@
         ],
         "created": "2024-02-08",
         "tagsIds": [
-          "new",
           "live",
           "www",
-          "limited",
+          "wild",
           "board",
           "ru"
         ]
@@ -65,6 +77,21 @@
         "tagsIds": [
           "stub",
           "www",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "smallchan-i2p",
+        "urls": [
+          "http://smallchan.i2p/",
+          "http://ucusncqzojo3bjem76zssfomb5yfuyvmbvpvnbhkb3z2nntdxxha.b32.i2p/"
+        ],
+        "created": "2024-01-03",
+        "tagsIds": [
+          "new",
+          "live",
+          "i2p",
           "board",
           "ru"
         ]
@@ -341,8 +368,7 @@
         ],
         "created": "2023-04-24",
         "tagsIds": [
-          "lower",
-          "live",
+          "dead",
           "www",
           "ex0ch",
           "ex2ch",
@@ -376,8 +402,7 @@
         ],
         "created": "2023-04-12",
         "tagsIds": [
-          "lower",
-          "live",
+          "dead",
           "www",
           "tor",
           "ex2ch",
@@ -394,6 +419,7 @@
         ],
         "created": "2023-04-07",
         "tagsIds": [
+          "lower",
           "ghost",
           "www",
           "limited",
@@ -428,8 +454,7 @@
         ],
         "created": "2023-03-26",
         "tagsIds": [
-          "lower",
-          "live",
+          "dead",
           "www",
           "ex1ch",
           "clone",
@@ -481,8 +506,7 @@
         ],
         "created": "2023-02-17",
         "tagsIds": [
-          "lower",
-          "live",
+          "dead",
           "www",
           "limited",
           "wiki",
@@ -496,8 +520,7 @@
         ],
         "created": "2023-02-12",
         "tagsIds": [
-          "lower",
-          "ghost",
+          "dead",
           "www",
           "limited",
           "ex0ch",
@@ -610,8 +633,7 @@
         ],
         "created": "2023-01-06",
         "tagsIds": [
-          "lower",
-          "live",
+          "dead",
           "www",
           "tor",
           "ex0ch",
@@ -629,8 +651,7 @@
         ],
         "created": "2023-01-06",
         "tagsIds": [
-          "lower",
-          "live",
+          "dead",
           "www",
           "ex0ch",
           "ex2ch",
@@ -681,8 +702,7 @@
         ],
         "created": "2022-11-29",
         "tagsIds": [
-          "lower",
-          "live",
+          "dead",
           "www",
           "exapach",
           "cheap",
@@ -948,8 +968,7 @@
         ],
         "created": "2022-02-01",
         "tagsIds": [
-          "lower",
-          "stub",
+          "dead",
           "www",
           "ex1ch",
           "clone",
@@ -1484,21 +1503,6 @@
         ]
       },
       {
-        "id": "booru-yakuji-moe",
-        "urls": [
-          "http://booru.yakuji.moe/"
-        ],
-        "created": "2019-04-01",
-        "tagsIds": [
-          "ghost",
-          "www",
-          "limited",
-          "iich",
-          "gallery",
-          "ru"
-        ]
-      },
-      {
         "id": "2ch-ge",
         "urls": [
           "http://2ch.ge/"
@@ -2022,8 +2026,7 @@
         ],
         "created": "2017-02-02",
         "tagsIds": [
-          "lower",
-          "live",
+          "ghost",
           "www",
           "board",
           "ru"
@@ -2120,7 +2123,7 @@
         ],
         "created": "2016-09-29",
         "tagsIds": [
-          "live",
+          "stub",
           "www",
           "ex0ch",
           "clone",
@@ -2208,7 +2211,6 @@
         ],
         "created": "2016-05-23",
         "tagsIds": [
-          "new",
           "dead",
           "www",
           "ex0ch",
@@ -2269,8 +2271,7 @@
         ],
         "created": "2016-02-23",
         "tagsIds": [
-          "lower",
-          "stub",
+          "dead",
           "www",
           "ex0ch",
           "board",
@@ -2441,25 +2442,6 @@
           "dead",
           "www",
           "fags",
-          "board",
-          "ru"
-        ]
-      },
-      {
-        "id": "ii-yakuji-moe",
-        "urls": [
-          "https://ii.yakuji.moe/"
-        ],
-        "created": "2015-10-11",
-        "paths": [
-          "abe",
-          "dev"
-        ],
-        "tagsIds": [
-          "live",
-          "www",
-          "iich",
-          "archive",
           "board",
           "ru"
         ]
@@ -4050,21 +4032,6 @@
         ]
       },
       {
-        "id": "macro-yakuji-moe",
-        "urls": [
-          "http://macro.yakuji.moe/"
-        ],
-        "created": "2012-10-02",
-        "tagsIds": [
-          "ghost",
-          "www",
-          "limited",
-          "iich",
-          "gallery",
-          "ru"
-        ]
-      },
-      {
         "id": "ponychan-ru",
         "urls": [
           "http://ponychan.ru/"
@@ -5639,7 +5606,6 @@
         ],
         "created": "2010",
         "tagsIds": [
-          "lower",
           "live",
           "www",
           "tor",
@@ -6977,8 +6943,7 @@
           "https://gopchnqtt2thncw263t32kg3wav567kf5lhzpzqcbnp5diofnhqq.b32.i2p/"
         ],
         "tagsIds": [
-          "lower",
-          "live",
+          "dead",
           "i2p",
           "obscure",
           "wild",
@@ -7038,8 +7003,7 @@
           "http://pidorgmob3uchxfepm7ywvfbjwo5f232us3lkegvbolwv2qybesa.b32.i2p/"
         ],
         "tagsIds": [
-          "lower",
-          "live",
+          "dead",
           "i2p",
           "obscure",
           "wild",
@@ -7104,35 +7068,19 @@
         ]
       },
       {
-        "id": "014-yakuji-moe",
+        "id": "ii-yakuji-moe",
         "urls": [
-          "https://014.yakuji.moe/"
+          "https://ii.yakuji.moe/",
+          "http://booru.yakuji.moe/",
+          "https://2007.ii.yakuji.moe/",
+          "http://macro.yakuji.moe/",
+          "https://014.yakuji.moe/",
+          "https://410.yakuji.moe/",
+          "http://nowere.yakuji.moe/"
         ],
-        "tagsIds": [
-          "live",
-          "www",
-          "iich",
-          "archive",
-          "ru"
-        ]
-      },
-      {
-        "id": "2007-ii-yakuji-moe",
-        "urls": [
-          "https://2007.ii.yakuji.moe/"
-        ],
-        "tagsIds": [
-          "live",
-          "www",
-          "iich",
-          "archive",
-          "ru"
-        ]
-      },
-      {
-        "id": "410-yakuji-moe",
-        "urls": [
-          "https://410.yakuji.moe/"
+        "paths": [
+          "abe",
+          "dev"
         ],
         "tagsIds": [
           "live",

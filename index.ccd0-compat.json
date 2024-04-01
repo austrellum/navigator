@@ -7,8 +7,26 @@
     ]
   },
   {
+    "name": "catarsys.ru",
+    "url": "https://catarsys.ru/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "claire.lol",
     "url": "https://claire.lol/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "smallchan.i2p",
+    "url": "http://smallchan.i2p/",
+    "mirrors": [
+      "http://smallchan.i2p/",
+      "http://ucusncqzojo3bjem76zssfomb5yfuyvmbvpvnbhkb3z2nntdxxha.b32.i2p/"
+    ],
     "language": [
       "ru"
     ]
@@ -98,24 +116,6 @@
     ]
   },
   {
-    "name": "2ch.plus",
-    "url": "https://2ch.plus/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "varyachan.life",
-    "url": "https://varyachan.life/",
-    "mirrors": [
-      "https://varyachan.life/",
-      "http://varya2mudm4b73s2ec2nuurnmk6lju76vnwnjsev6zyhfq4to67kc5yd.onion/"
-    ],
-    "language": [
-      "ru"
-    ]
-  },
-  {
     "name": "j33111470.myjino.ru/forestchan",
     "url": "http://j33111470.myjino.ru/forestchan",
     "language": [
@@ -130,13 +130,6 @@
       "http://metator.i2p/",
       "http://meta2ztenfbd4meh6bqvysngyyc343h4rzh3qenwk4po5jzfhy6q.b32.i2p/"
     ],
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "1chan.plus",
-    "url": "https://1chan.plus/",
     "language": [
       "ru"
     ]
@@ -168,26 +161,6 @@
     ]
   },
   {
-    "name": "0chan.plus",
-    "url": "https://0chan.plus/",
-    "mirrors": [
-      "https://0chan.plus/",
-      "https://0chan.us/",
-      "https://0chanru.net/",
-      "http://32xwwlgnvohjzhlfcgkakdktbscrzsa2fdbrbh43evu4vuxqw3gspoyd.onion/"
-    ],
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "2ch.so",
-    "url": "https://2ch.so/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
     "name": "nullnyanvapwq3ou4gbc62y26uiggj5ztbur7mzxrnjhfwxu43jbxtqd.onion",
     "url": "http://nullnyanvapwq3ou4gbc62y26uiggj5ztbur7mzxrnjhfwxu43jbxtqd.onion/",
     "mirrors": [
@@ -202,13 +175,6 @@
   {
     "name": "zenchan.cc",
     "url": "https://zenchan.cc/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "apachan.x10.mx",
-    "url": "https://apachan.x10.mx/",
     "language": [
       "ru"
     ]
@@ -470,17 +436,6 @@
     ]
   },
   {
-    "name": "nullnyan.net",
-    "url": "https://nullnyan.net/",
-    "mirrors": [
-      "https://nullnyan.net/",
-      "https://0nyan.ml/"
-    ],
-    "language": [
-      "ru"
-    ]
-  },
-  {
     "name": "merzochan.at.ua",
     "url": "https://merzochan.at.ua/",
     "language": [
@@ -521,13 +476,6 @@
       "ru",
       "tr",
       "zh"
-    ]
-  },
-  {
-    "name": "ii.yakuji.moe",
-    "url": "https://ii.yakuji.moe/",
-    "language": [
-      "ru"
     ]
   },
   {
@@ -817,28 +765,6 @@
   {
     "name": "iichan.hk",
     "url": "https://iichan.hk/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "gopchan.i2p",
-    "url": "http://gopchan.i2p/",
-    "mirrors": [
-      "http://gopchan.i2p/",
-      "https://gopchnqtt2thncw263t32kg3wav567kf5lhzpzqcbnp5diofnhqq.b32.i2p/"
-    ],
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "pidorchan.i2p",
-    "url": "http://pidorchan.i2p/",
-    "mirrors": [
-      "http://pidorchan.i2p/",
-      "http://pidorgmob3uchxfepm7ywvfbjwo5f232us3lkegvbolwv2qybesa.b32.i2p/"
-    ],
     "language": [
       "ru"
     ]
