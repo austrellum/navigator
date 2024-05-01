@@ -1,5 +1,26 @@
 [
   {
+    "name": "0ch.ucoz.org",
+    "url": "https://0ch.ucoz.org/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "1chan.forum2x2.ru",
+    "url": "https://1chan.forum2x2.ru/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "rf.dobrochan.nl",
+    "url": "https://rf.dobrochan.nl/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "2chru.net",
     "url": "http://2chru.net/",
     "language": [
@@ -30,6 +51,13 @@
   {
     "name": "claire.ws",
     "url": "https://claire.ws/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "0141chan.org",
+    "url": "https://0141chan.org/",
     "language": [
       "ru"
     ]
@@ -1706,6 +1734,13 @@
     ]
   },
   {
+    "name": "gensokyo.4otaku.org",
+    "url": "https://gensokyo.4otaku.org/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "nowai.p.ht",
     "url": "http://nowai.p.ht/",
     "language": [
@@ -1799,13 +1834,6 @@
   {
     "name": "2x2ch.ru",
     "url": "http://2x2ch.ru/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "gensokyo.4otaku.org",
-    "url": "https://gensokyo.4otaku.org/",
     "language": [
       "ru"
     ]
@@ -3540,6 +3568,10 @@
   {
     "name": "iichan.hk",
     "url": "https://iichan.hk/",
+    "mirrors": [
+      "https://iichan.hk/",
+      "https://iichan.lol/"
+    ],
     "language": [
       "ru"
     ]

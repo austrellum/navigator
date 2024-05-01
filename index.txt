@@ -1,21 +1,25 @@
 НАВИГАТОР БОРДОСФЕРЫ
 
-Редакция от 1 апреля 2024 (v1.12.0-fix2)
-Всего 477, доступно 120
+Редакция от 1 мая 2024 (v1.13.0)
+Всего 481, доступно 115
 
 Живые
 
+— [+++] https://0ch.ucoz.org/ 2024 #ex0ch #cheap #clone #wild
+— [+++] https://1chan.forum2x2.ru/ 2024 #ex1ch #cheap #clone #wild
+— [+++] https://rf.dobrochan.nl/ 2024 #iich #clone
 — https://wchan.free.nf/ 2024 #cheap #wild
-— [+++] https://catarsys.ru/ 2024 #wild
+— https://catarsys.ru/ 2024 #wild
 — https://claire.lol/ 2024 #wild
-— [+++] http://smallchan.i2p/ 2024
+— [+++] https://0141chan.org/ 2024 #iich #clone #fags #wild
+— http://smallchan.i2p/ 2024
   — http://ucusncqzojo3bjem76zssfomb5yfuyvmbvpvnbhkb3z2nntdxxha.b32.i2p/
 — https://bitardchan.rf.gd/ 2023 #cheap #wild
 — https://makachan.wuaze.com/ 2023 #cheap #wild
 — https://trapach.kesug.com/ 2023 #cheap #wild
 — https://lostchat.rf.gd/ 2023 #cheap #obscure #wild #chat
 — http://omegachan.hk.swtest.ru/ 2023 #cheap #wild
-— http://pinachjukrv62ntdxw5qwhpp3vmzupi6kwp5dekcisyb6vztrpb7vzad.onion/ 2023 #clone #obscure
+— http://pinachjukrv62ntdxw5qwhpp3vmzupi6kwp5dekcisyb6vztrpb7vzad.onion/ 2023 #clone #obscure #wild
   — http://pinach.i2p/
   — http://pinachiojrocyrpw7l2e2hwrgyiwe6wqks47do4f3p3sldqg6lta.b32.i2p/
 — https://lentachan.ru/ 2023 #limited #ex0ch #clone #comfy #wild #index #news
@@ -37,6 +41,8 @@
 — https://zenchan.cc/ 2023 #obscure #wild
 — https://chaoschan.org/ 2022
 — http://альфачан.рф/ 2022 #exapach #wild
+— http://nestchan.i2p/ 2022 #wild
+  — http://wzwlwxju3orzbuld7cjtia2z4fqp2vt7orjdzmsz3ynlqr3ewokq.b32.i2p/
 — https://austrellum.github.io/navigator 2022 #limited #cheap #comfy #index
 — https://1chan.su/ 2022 #ex1ch #clone #comfy #index #news
   — https://1chan.lol/
@@ -78,7 +84,6 @@
 — https://neochan.ru/ 2018 #fags
   — http://neochan7n7xp2v6yvw2u6zedciwlhot4kwftqpuoxrjwet3iprcms2qd.onion/
 — https://kpop.re/ 2017 #fags
-— https://tumba.ch/ 2016 #limited
 — https://endchan.net/ /bb /ca /dobrochan /dota /genshin /lgbt /po /polru /rus 2015 #blocked #foreign #wild
   — https://endchan.gg/
   — https://endchan.org/
@@ -97,8 +102,8 @@
 — https://02ch.in/ 2013 #clone #fags #wild
 — https://rfch.rocks/ 2013 #blocked #ex2ch #mods
   — https://rfch.xyz/
-— https://zloiodm.in/ 2013 #fags
 — https://gensokyo.4otaku.org/ 2013 #limited #iich #fags
+— https://zloiodm.in/ 2013 #fags
 — https://syn-ch.ru/ 2013 #ex2ch #fags #mods #wild
   — https://syn-ch.com/
   — https://syn-ch.org/
@@ -120,8 +125,7 @@
 — https://horochan.ru/ 2010 #comfy #fags #mods #wild
 — http://zadraw.ch/ 2010
 — http://bnw.im/ 2010 #obscure #wild #chat
-— https://370ch.lt/ /int 2010 #foreign #wild
-— https://m2ch.hk/ 2010 #ex2ch #archive
+— https://m2ch.hk/ 2010 #blocked #ex2ch #archive
   — https://m2ch.gq/
   — https://m2ch.cf/
   — https://m2ch.fapp.in/
@@ -140,7 +144,14 @@
   — http://bbs.anoma.li/
 — https://nowere.net/ 2008 #blocked #iich
 — https://iichan.hk/ 2007 #blocked #iich #mods #wild #index
+  — https://iichan.lol/
+— http://102chan-memorial.i2p/ #wild #archive
+  — http://xxu3lso4h2rh6wmrxiou3ax7r7la7x6dhoepnku3jvrlwp35pefq.b32.i2p/
+— http://gopchan.i2p/ #obscure #wild #chat
+  — https://gopchnqtt2thncw263t32kg3wav567kf5lhzpzqcbnp5diofnhqq.b32.i2p/
 — http://ichan.ru/ /a /l /vg #iich #archive #gallery
+— http://pidorchan.i2p/ #obscure #wild #chat
+  — http://pidorgmob3uchxfepm7ywvfbjwo5f232us3lkegvbolwv2qybesa.b32.i2p/
 — http://rcuhe6pk7mbmsjk7bwyja5etvjhjvzmc724rnf3piamemvawoi44z7qd.onion/ /rus #foreign #wild
   — http://foxdickchan.i2p/
   — http://iqxr4hupmaqdd4wvkwwjjrq6ddocydqqqadtnk6ltdnalvrzanxq.b32.i2p/
@@ -154,7 +165,6 @@
 
 Отмирающие
 
-— http://j33111470.myjino.ru/forestchan 2023 #limited #cheap #fags
 — https://314n.0chan.one/ 2023 #ex0ch #clone #obscure
 — https://slonik.0chan.ru/ 2022 #limited #ex0ch #blog
 — http://taozgyb2jfbj567lzvfjse4c2snsb37tq3o2iucflxqoilogwc6bx2qd.onion/ /ru 2022 #foreign #wild
@@ -177,6 +187,7 @@
 — https://ylilauta.org/ /russia 2011 #foreign #comfy
 — https://tinuviall.livejournal.com/ 2010 #limited #ex2ch #cheap #blog
 — https://iichantra.ru/ 2010 #limited #iich #blog
+— https://370ch.lt/ /int 2010 #foreign #wild
 — https://art.4otaku.org/ 2010 #iich #gallery
 — https://hamstakilla.com/ /ru 2009 #blocked #foreign
   — https://kctier.club/
@@ -203,8 +214,6 @@
   — https://lurkmo.re/
   — https://lurkmore.net/
   — https://lurkmore.to/
-— http://102chan-memorial.i2p/ #wild
-  — http://xxu3lso4h2rh6wmrxiou3ax7r7la7x6dhoepnku3jvrlwp35pefq.b32.i2p/
 
 Заглушки
 
@@ -217,6 +226,7 @@
 — https://utochan.ru/ 2017
 — https://nullnyan.net/ 2016 #ex0ch #clone #fags
   — https://0nyan.ml/
+— https://tumba.ch/ 2016 #limited
 — http://2ch.kz/ 2012 #ex2ch
 — http://topsape.ru/chan 2010
 — http://iichan.ru/ 2007 #iich
@@ -237,6 +247,7 @@
 — https://mint.0chan.ru/ 2023 #ex0ch #clone #wild
 — https://varyachan.life/ 2023 #ex2ch #fags #wild
   — http://varya2mudm4b73s2ec2nuurnmk6lju76vnwnjsev6zyhfq4to67kc5yd.onion/
+— http://j33111470.myjino.ru/forestchan 2023 #limited #cheap #fags
 — https://1chan.plus/ 2023 #ex1ch #clone #comfy #wild #index #news
 — https://0chan.wiki/ 2023 #limited #wiki
 — https://booru.0chan.plus/ 2023 #limited #ex0ch #gallery
@@ -257,8 +268,6 @@
 — https://nyamo.org/ 2022 #wild
 — http://000000.byethost22.com/ 2022 #cheap
 — https://govnyach.pythonanywhere.com/ 2022 #cheap #wild
-— http://nestchan.i2p/ 2022 #wild
-  — http://wzwlwxju3orzbuld7cjtia2z4fqp2vt7orjdzmsz3ynlqr3ewokq.b32.i2p/
 — http://lenchan.ru/ 2022 #fags
 — https://motherfox.ru/ 2022 #ex2ch
 — https://1chan.life/ 2022 #ex1ch #clone #wild #index #news
@@ -603,12 +612,8 @@
 — http://www.polynomial.ru/wakaba 2006
 — http://i-bbs.org/ 2005
 — http://bulbach.500mb.net/ #cheap
-— http://gopchan.i2p/ #obscure #wild #chat
-  — https://gopchnqtt2thncw263t32kg3wav567kf5lhzpzqcbnp5diofnhqq.b32.i2p/
 — https://ivchan.net/ #iich #archive
 — https://obr.li/ #ex2ch
-— http://pidorchan.i2p/ #obscure #wild #chat
-  — http://pidorgmob3uchxfepm7ywvfbjwo5f232us3lkegvbolwv2qybesa.b32.i2p/
 — http://tdsrvhos656xypxsqtkqmiwefuvlyqmnvk5faoo23oh2m4xqg4gr47ad.onion/ /polru #foreign
 — http://wakachan.org/ /unyl #iich #foreign
 

@@ -1,5 +1,26 @@
 [
   {
+    "name": "0ch.ucoz.org",
+    "url": "https://0ch.ucoz.org/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "1chan.forum2x2.ru",
+    "url": "https://1chan.forum2x2.ru/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "rf.dobrochan.nl",
+    "url": "https://rf.dobrochan.nl/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "wchan.free.nf",
     "url": "https://wchan.free.nf/",
     "language": [
@@ -16,6 +37,13 @@
   {
     "name": "claire.lol",
     "url": "https://claire.lol/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "0141chan.org",
+    "url": "https://0141chan.org/",
     "language": [
       "ru"
     ]
@@ -116,13 +144,6 @@
     ]
   },
   {
-    "name": "j33111470.myjino.ru/forestchan",
-    "url": "http://j33111470.myjino.ru/forestchan",
-    "language": [
-      "ru"
-    ]
-  },
-  {
     "name": "metatorrkdagnx2njwvnzqeclsk3qbwabr6hori4vmivj25qy6s6gsad.onion",
     "url": "http://metatorrkdagnx2njwvnzqeclsk3qbwabr6hori4vmivj25qy6s6gsad.onion/",
     "mirrors": [
@@ -189,6 +210,17 @@
   {
     "name": "альфачан.рф",
     "url": "http://альфачан.рф/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "nestchan.i2p",
+    "url": "http://nestchan.i2p/",
+    "mirrors": [
+      "http://nestchan.i2p/",
+      "http://wzwlwxju3orzbuld7cjtia2z4fqp2vt7orjdzmsz3ynlqr3ewokq.b32.i2p/"
+    ],
     "language": [
       "ru"
     ]
@@ -443,13 +475,6 @@
     ]
   },
   {
-    "name": "tumba.ch",
-    "url": "https://tumba.ch/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
     "name": "endchan.net",
     "url": "https://endchan.net/",
     "mirrors": [
@@ -536,15 +561,15 @@
     ]
   },
   {
-    "name": "zloiodm.in",
-    "url": "https://zloiodm.in/",
+    "name": "gensokyo.4otaku.org",
+    "url": "https://gensokyo.4otaku.org/",
     "language": [
       "ru"
     ]
   },
   {
-    "name": "gensokyo.4otaku.org",
-    "url": "https://gensokyo.4otaku.org/",
+    "name": "zloiodm.in",
+    "url": "https://zloiodm.in/",
     "language": [
       "ru"
     ]
@@ -765,6 +790,32 @@
   {
     "name": "iichan.hk",
     "url": "https://iichan.hk/",
+    "mirrors": [
+      "https://iichan.hk/",
+      "https://iichan.lol/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "gopchan.i2p",
+    "url": "http://gopchan.i2p/",
+    "mirrors": [
+      "http://gopchan.i2p/",
+      "https://gopchnqtt2thncw263t32kg3wav567kf5lhzpzqcbnp5diofnhqq.b32.i2p/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "pidorchan.i2p",
+    "url": "http://pidorchan.i2p/",
+    "mirrors": [
+      "http://pidorchan.i2p/",
+      "http://pidorgmob3uchxfepm7ywvfbjwo5f232us3lkegvbolwv2qybesa.b32.i2p/"
+    ],
     "language": [
       "ru"
     ]

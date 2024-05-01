@@ -1,14 +1,66 @@
 {
   "meta": {
-    "version": "1.12.0-fix2",
+    "version": "1.13.0",
     "created": "2022-06-06",
-    "updated": "2024-04-01",
+    "updated": "2024-05-01",
     "source": "https://github.com/austrellum/navigator",
     "discussion": "https://wc.12hp.ch/wc/res/2577.html",
     "survey": "https://tally.so/r/3jPop4"
   },
   "data": {
     "sites": [
+      {
+        "id": "0ch-ucoz-org",
+        "urls": [
+          "https://0ch.ucoz.org/"
+        ],
+        "created": "2024-02-24",
+        "tagsIds": [
+          "new",
+          "live",
+          "www",
+          "ex0ch",
+          "cheap",
+          "clone",
+          "wild",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "1chan-forum2x2-ru",
+        "urls": [
+          "https://1chan.forum2x2.ru/"
+        ],
+        "created": "2024-02-24",
+        "tagsIds": [
+          "new",
+          "live",
+          "www",
+          "ex1ch",
+          "cheap",
+          "clone",
+          "wild",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "rf-dobrochan-nl",
+        "urls": [
+          "https://rf.dobrochan.nl/"
+        ],
+        "created": "2024-02-23",
+        "tagsIds": [
+          "new",
+          "live",
+          "www",
+          "iich",
+          "clone",
+          "board",
+          "ru"
+        ]
+      },
       {
         "id": "2chru-net",
         "urls": [
@@ -46,7 +98,6 @@
         ],
         "created": "2024-02-14",
         "tagsIds": [
-          "new",
           "live",
           "www",
           "wild",
@@ -61,6 +112,7 @@
         ],
         "created": "2024-02-08",
         "tagsIds": [
+          "lower",
           "live",
           "www",
           "wild",
@@ -82,6 +134,24 @@
         ]
       },
       {
+        "id": "0141chan-org",
+        "urls": [
+          "https://0141chan.org/"
+        ],
+        "created": "2024-01-15",
+        "tagsIds": [
+          "new",
+          "live",
+          "www",
+          "iich",
+          "clone",
+          "fags",
+          "wild",
+          "board",
+          "ru"
+        ]
+      },
+      {
         "id": "smallchan-i2p",
         "urls": [
           "http://smallchan.i2p/",
@@ -89,7 +159,7 @@
         ],
         "created": "2024-01-03",
         "tagsIds": [
-          "new",
+          "lower",
           "live",
           "i2p",
           "board",
@@ -118,6 +188,7 @@
         ],
         "created": "2023-12-22",
         "tagsIds": [
+          "lower",
           "live",
           "www",
           "cheap",
@@ -133,6 +204,7 @@
         ],
         "created": "2023-12-21",
         "tagsIds": [
+          "lower",
           "live",
           "www",
           "cheap",
@@ -195,6 +267,7 @@
         ],
         "created": "2023-10-17",
         "tagsIds": [
+          "lower",
           "live",
           "www",
           "cheap",
@@ -217,6 +290,7 @@
           "i2p",
           "clone",
           "obscure",
+          "wild",
           "board",
           "ru"
         ]
@@ -229,6 +303,7 @@
         ],
         "created": "2023-09-02",
         "tagsIds": [
+          "lower",
           "live",
           "www",
           "limited",
@@ -419,8 +494,7 @@
         ],
         "created": "2023-04-07",
         "tagsIds": [
-          "lower",
-          "ghost",
+          "dead",
           "www",
           "limited",
           "cheap",
@@ -835,7 +909,7 @@
         ],
         "created": "2022-07-18",
         "tagsIds": [
-          "dead",
+          "live",
           "i2p",
           "wild",
           "board",
@@ -1039,6 +1113,7 @@
         ],
         "created": "2021-11-22",
         "tagsIds": [
+          "lower",
           "readonly",
           "www",
           "limited",
@@ -1132,6 +1207,7 @@
         ],
         "created": "2021-01-16",
         "tagsIds": [
+          "lower",
           "ghost",
           "www",
           "cheap",
@@ -1477,6 +1553,7 @@
         ],
         "created": "2019-05-12",
         "tagsIds": [
+          "lower",
           "live",
           "www",
           "limited",
@@ -1641,6 +1718,7 @@
         ],
         "created": "2018-08-15",
         "tagsIds": [
+          "lower",
           "live",
           "www",
           "fags",
@@ -2337,7 +2415,7 @@
         ],
         "created": "2016-01-01",
         "tagsIds": [
-          "live",
+          "stub",
           "www",
           "limited",
           "board",
@@ -2601,6 +2679,7 @@
         ],
         "created": "2015-02-27",
         "tagsIds": [
+          "lower",
           "live",
           "www",
           "ex0ch",
@@ -3298,6 +3377,22 @@
         ]
       },
       {
+        "id": "gensokyo-4otaku-org",
+        "urls": [
+          "https://gensokyo.4otaku.org/"
+        ],
+        "created": "2013-08-19",
+        "tagsIds": [
+          "live",
+          "www",
+          "limited",
+          "iich",
+          "fags",
+          "board",
+          "ru"
+        ]
+      },
+      {
         "id": "nowai-p-ht",
         "urls": [
           "http://nowai.p.ht/"
@@ -3496,22 +3591,6 @@
         ]
       },
       {
-        "id": "gensokyo-4otaku-org",
-        "urls": [
-          "https://gensokyo.4otaku.org/"
-        ],
-        "created": "2013-04-22",
-        "tagsIds": [
-          "live",
-          "www",
-          "limited",
-          "iich",
-          "fags",
-          "board",
-          "ru"
-        ]
-      },
-      {
         "id": "syn-ch-ru",
         "urls": [
           "https://syn-ch.ru/",
@@ -3522,6 +3601,7 @@
         ],
         "created": "2013-04-02",
         "tagsIds": [
+          "lower",
           "live",
           "www",
           "ex2ch",
@@ -5571,7 +5651,7 @@
           "int"
         ],
         "tagsIds": [
-          "live",
+          "ghost",
           "www",
           "foreign",
           "wild",
@@ -5609,6 +5689,7 @@
           "live",
           "www",
           "tor",
+          "blocked",
           "ex2ch",
           "archive",
           "ru"
@@ -6809,7 +6890,8 @@
       {
         "id": "iichan-hk",
         "urls": [
-          "https://iichan.hk/"
+          "https://iichan.hk/",
+          "https://iichan.lol/"
         ],
         "created": "2007-06-01",
         "tagsIds": [
@@ -6899,10 +6981,10 @@
           "http://xxu3lso4h2rh6wmrxiou3ax7r7la7x6dhoepnku3jvrlwp35pefq.b32.i2p/"
         ],
         "tagsIds": [
-          "readonly",
+          "live",
           "i2p",
           "wild",
-          "board",
+          "archive",
           "ru"
         ]
       },
@@ -6943,7 +7025,7 @@
           "https://gopchnqtt2thncw263t32kg3wav567kf5lhzpzqcbnp5diofnhqq.b32.i2p/"
         ],
         "tagsIds": [
-          "dead",
+          "live",
           "i2p",
           "obscure",
           "wild",
@@ -7003,7 +7085,7 @@
           "http://pidorgmob3uchxfepm7ywvfbjwo5f232us3lkegvbolwv2qybesa.b32.i2p/"
         ],
         "tagsIds": [
-          "dead",
+          "live",
           "i2p",
           "obscure",
           "wild",
