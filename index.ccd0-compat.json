@@ -1,5 +1,12 @@
 [
   {
+    "name": "1chan.do.am",
+    "url": "https://1chan.do.am/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "0ch.ucoz.org",
     "url": "https://0ch.ucoz.org/",
     "language": [
@@ -14,8 +21,15 @@
     ]
   },
   {
-    "name": "rf.dobrochan.nl",
-    "url": "https://rf.dobrochan.nl/",
+    "name": "dobrochan.nl",
+    "url": "https://dobrochan.nl/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "1chan.0pk.me",
+    "url": "https://1chan.0pk.me/",
     "language": [
       "ru"
     ]
@@ -30,6 +44,13 @@
   {
     "name": "catarsys.ru",
     "url": "https://catarsys.ru/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "chatnovgoroddoska.ru",
+    "url": "http://chatnovgoroddoska.ru/",
     "language": [
       "ru"
     ]
@@ -101,17 +122,6 @@
       "http://pinachjukrv62ntdxw5qwhpp3vmzupi6kwp5dekcisyb6vztrpb7vzad.onion/",
       "http://pinach.i2p/",
       "http://pinachiojrocyrpw7l2e2hwrgyiwe6wqks47do4f3p3sldqg6lta.b32.i2p/"
-    ],
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "lentachan.ru",
-    "url": "https://lentachan.ru/",
-    "mirrors": [
-      "https://lentachan.ru/",
-      "https://lenta.0chan.one/"
     ],
     "language": [
       "ru"
@@ -201,6 +211,17 @@
     ]
   },
   {
+    "name": "gopchan.i2p",
+    "url": "http://gopchan.i2p/",
+    "mirrors": [
+      "http://gopchan.i2p/",
+      "https://gopchnqtt2thncw263t32kg3wav567kf5lhzpzqcbnp5diofnhqq.b32.i2p/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "chaoschan.org",
     "url": "https://chaoschan.org/",
     "language": [
@@ -281,13 +302,6 @@
     "language": [
       "ru",
       "uk"
-    ]
-  },
-  {
-    "name": "bchan.myqip.ru",
-    "url": "https://bchan.myqip.ru/",
-    "language": [
-      "ru"
     ]
   },
   {
@@ -575,12 +589,12 @@
     ]
   },
   {
-    "name": "syn-ch.ru",
-    "url": "https://syn-ch.ru/",
+    "name": "syn-ch.org",
+    "url": "https://syn-ch.org/",
     "mirrors": [
-      "https://syn-ch.ru/",
-      "https://syn-ch.com/",
       "https://syn-ch.org/",
+      "https://syn-ch.com/",
+      "https://syn-ch.ru/",
       "https://синч.рф/",
       "https://syn-ch.com.ua/"
     ],
@@ -793,17 +807,6 @@
     "mirrors": [
       "https://iichan.hk/",
       "https://iichan.lol/"
-    ],
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "gopchan.i2p",
-    "url": "http://gopchan.i2p/",
-    "mirrors": [
-      "http://gopchan.i2p/",
-      "https://gopchnqtt2thncw263t32kg3wav567kf5lhzpzqcbnp5diofnhqq.b32.i2p/"
     ],
     "language": [
       "ru"

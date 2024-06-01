@@ -1,5 +1,26 @@
 [
   {
+    "name": "1chan.do.am",
+    "url": "https://1chan.do.am/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "ochkoparasha.fun",
+    "url": "https://ochkoparasha.fun/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "dark.ucoz.org",
+    "url": "https://dark.ucoz.org/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "0ch.ucoz.org",
     "url": "https://0ch.ucoz.org/",
     "language": [
@@ -14,8 +35,15 @@
     ]
   },
   {
-    "name": "rf.dobrochan.nl",
-    "url": "https://rf.dobrochan.nl/",
+    "name": "dobrochan.nl",
+    "url": "https://dobrochan.nl/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "1chan.0pk.me",
+    "url": "https://1chan.0pk.me/",
     "language": [
       "ru"
     ]
@@ -37,6 +65,13 @@
   {
     "name": "catarsys.ru",
     "url": "https://catarsys.ru/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "chatnovgoroddoska.ru",
+    "url": "http://chatnovgoroddoska.ru/",
     "language": [
       "ru"
     ]
@@ -384,6 +419,17 @@
     ]
   },
   {
+    "name": "gopchan.i2p",
+    "url": "http://gopchan.i2p/",
+    "mirrors": [
+      "http://gopchan.i2p/",
+      "https://gopchnqtt2thncw263t32kg3wav567kf5lhzpzqcbnp5diofnhqq.b32.i2p/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "apachan.x10.mx",
     "url": "https://apachan.x10.mx/",
     "language": [
@@ -471,6 +517,13 @@
   {
     "name": "austrellum.github.io/navigator",
     "url": "https://austrellum.github.io/navigator",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "nabeg.in",
+    "url": "https://nabeg.in/",
     "language": [
       "ru"
     ]
@@ -690,6 +743,13 @@
   {
     "name": "board.animedebil.ru/a",
     "url": "http://board.animedebil.ru/a",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "1ch.1bb.ru",
+    "url": "https://1ch.1bb.ru/",
     "language": [
       "ru"
     ]
@@ -1839,12 +1899,12 @@
     ]
   },
   {
-    "name": "syn-ch.ru",
-    "url": "https://syn-ch.ru/",
+    "name": "syn-ch.org",
+    "url": "https://syn-ch.org/",
     "mirrors": [
-      "https://syn-ch.ru/",
-      "https://syn-ch.com/",
       "https://syn-ch.org/",
+      "https://syn-ch.com/",
+      "https://syn-ch.ru/",
       "https://синч.рф/",
       "https://syn-ch.com.ua/"
     ],
@@ -2924,8 +2984,9 @@
       "https://m2ch.hk/",
       "https://m2ch.gq/",
       "https://m2ch.cf/",
-      "https://m2ch.fapp.in/",
       "https://m2ch.lib/",
+      "https://m2ch.fapp.in/",
+      "https://m2ch.is-probably.gay/",
       "http://m2chfapiswfw2wcakptqp4o6ltgchvjuxfab7urxlduraomtlnhw5xad.onion/"
     ],
     "language": [
@@ -3639,17 +3700,6 @@
     "language": [
       "en",
       "pt",
-      "ru"
-    ]
-  },
-  {
-    "name": "gopchan.i2p",
-    "url": "http://gopchan.i2p/",
-    "mirrors": [
-      "http://gopchan.i2p/",
-      "https://gopchnqtt2thncw263t32kg3wav567kf5lhzpzqcbnp5diofnhqq.b32.i2p/"
-    ],
-    "language": [
       "ru"
     ]
   },

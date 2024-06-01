@@ -1,27 +1,82 @@
 {
   "meta": {
-    "version": "1.13.0",
+    "version": "1.14.0-n20",
     "created": "2022-06-06",
-    "updated": "2024-05-01",
+    "updated": "2024-06-01",
     "source": "https://github.com/austrellum/navigator",
     "discussion": "https://wc.12hp.ch/wc/res/2577.html",
+    "feedback": "https://tally.so/r/mO5NJM",
     "survey": "https://tally.so/r/3jPop4"
   },
   "data": {
     "sites": [
       {
+        "id": "1chan-do-am",
+        "urls": [
+          "https://1chan.do.am/"
+        ],
+        "created": "2024-04-24",
+        "tagsIds": [
+          "new",
+          "live",
+          "www",
+          "ex1ch",
+          "cheap",
+          "clone",
+          "obscure",
+          "wild",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "ochkoparasha-fun",
+        "urls": [
+          "https://ochkoparasha.fun/"
+        ],
+        "created": "2024-05-02",
+        "tagsIds": [
+          "new",
+          "stub",
+          "www",
+          "ex0ch",
+          "clone",
+          "wild",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "dark-ucoz-org",
+        "urls": [
+          "https://dark.ucoz.org/"
+        ],
+        "created": "2024-05-02",
+        "tagsIds": [
+          "new",
+          "dead",
+          "www",
+          "cheap",
+          "obscure",
+          "wild",
+          "board",
+          "ru"
+        ]
+      },
+      {
         "id": "0ch-ucoz-org",
         "urls": [
           "https://0ch.ucoz.org/"
         ],
-        "created": "2024-02-24",
+        "created": "2024-04-24",
         "tagsIds": [
-          "new",
+          "lower",
           "live",
           "www",
           "ex0ch",
           "cheap",
           "clone",
+          "obscure",
           "wild",
           "board",
           "ru"
@@ -32,31 +87,50 @@
         "urls": [
           "https://1chan.forum2x2.ru/"
         ],
-        "created": "2024-02-24",
+        "created": "2024-04-24",
         "tagsIds": [
-          "new",
+          "lower",
           "live",
           "www",
           "ex1ch",
           "cheap",
           "clone",
+          "obscure",
           "wild",
           "board",
           "ru"
         ]
       },
       {
-        "id": "rf-dobrochan-nl",
+        "id": "dobrochan-nl",
         "urls": [
-          "https://rf.dobrochan.nl/"
+          "https://dobrochan.nl/"
         ],
-        "created": "2024-02-23",
+        "created": "2024-04-23",
         "tagsIds": [
-          "new",
           "live",
           "www",
           "iich",
           "clone",
+          "board",
+          "wiki",
+          "ru"
+        ]
+      },
+      {
+        "id": "1chan-0pk-me",
+        "urls": [
+          "https://1chan.0pk.me/"
+        ],
+        "created": "2024-04-20",
+        "tagsIds": [
+          "new",
+          "live",
+          "www",
+          "ex1ch",
+          "cheap",
+          "obscure",
+          "wild",
           "board",
           "ru"
         ]
@@ -100,6 +174,21 @@
         "tagsIds": [
           "live",
           "www",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "chatnovgoroddoska-ru",
+        "urls": [
+          "http://chatnovgoroddoska.ru/"
+        ],
+        "created": "2024-02-08",
+        "tagsIds": [
+          "new",
+          "live",
+          "www",
+          "fags",
           "wild",
           "board",
           "ru"
@@ -112,9 +201,10 @@
         ],
         "created": "2024-02-08",
         "tagsIds": [
-          "lower",
           "live",
           "www",
+          "fags",
+          "mods",
           "wild",
           "board",
           "ru"
@@ -140,7 +230,6 @@
         ],
         "created": "2024-01-15",
         "tagsIds": [
-          "new",
           "live",
           "www",
           "iich",
@@ -159,7 +248,6 @@
         ],
         "created": "2024-01-03",
         "tagsIds": [
-          "lower",
           "live",
           "i2p",
           "board",
@@ -188,7 +276,6 @@
         ],
         "created": "2023-12-22",
         "tagsIds": [
-          "lower",
           "live",
           "www",
           "cheap",
@@ -204,9 +291,9 @@
         ],
         "created": "2023-12-21",
         "tagsIds": [
-          "lower",
-          "live",
+          "ghost",
           "www",
+          "blocked",
           "cheap",
           "wild",
           "board",
@@ -267,7 +354,6 @@
         ],
         "created": "2023-10-17",
         "tagsIds": [
-          "lower",
           "live",
           "www",
           "cheap",
@@ -303,8 +389,7 @@
         ],
         "created": "2023-09-02",
         "tagsIds": [
-          "lower",
-          "live",
+          "dead",
           "www",
           "limited",
           "ex0ch",
@@ -371,6 +456,7 @@
         ],
         "created": "2023-05-31",
         "tagsIds": [
+          "lower",
           "live",
           "www",
           "wild",
@@ -770,6 +856,22 @@
         ]
       },
       {
+        "id": "gopchan-i2p",
+        "urls": [
+          "http://gopchan.i2p/",
+          "https://gopchnqtt2thncw263t32kg3wav567kf5lhzpzqcbnp5diofnhqq.b32.i2p/"
+        ],
+        "created": "2023",
+        "tagsIds": [
+          "live",
+          "i2p",
+          "obscure",
+          "wild",
+          "chat",
+          "ru"
+        ]
+      },
+      {
         "id": "apachan-x10-mx",
         "urls": [
           "https://apachan.x10.mx/"
@@ -953,6 +1055,23 @@
         ]
       },
       {
+        "id": "nabeg-in",
+        "urls": [
+          "https://nabeg.in/"
+        ],
+        "created": "2022-06-01",
+        "tagsIds": [
+          "new",
+          "live",
+          "www",
+          "iich",
+          "fags",
+          "wild",
+          "wiki",
+          "ru"
+        ]
+      },
+      {
         "id": "1chan-su",
         "urls": [
           "https://1chan.su/",
@@ -1027,6 +1146,7 @@
         ],
         "created": "2022-02-16",
         "tagsIds": [
+          "lower",
           "live",
           "www",
           "cheap",
@@ -1113,8 +1233,7 @@
         ],
         "created": "2021-11-22",
         "tagsIds": [
-          "lower",
-          "readonly",
+          "stub",
           "www",
           "limited",
           "obscure",
@@ -1207,8 +1326,7 @@
         ],
         "created": "2021-01-16",
         "tagsIds": [
-          "lower",
-          "ghost",
+          "stub",
           "www",
           "cheap",
           "obscure",
@@ -1307,6 +1425,7 @@
         ],
         "created": "2020-08-09",
         "tagsIds": [
+          "lower",
           "live",
           "www",
           "foreign",
@@ -1329,7 +1448,6 @@
         "tagsIds": [
           "stub",
           "www",
-          "wild",
           "board",
           "ru"
         ]
@@ -1358,6 +1476,25 @@
           "dead",
           "www",
           "fags",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "1ch-1bb-ru",
+        "urls": [
+          "https://1ch.1bb.ru/"
+        ],
+        "created": "2020-07-06",
+        "tagsIds": [
+          "new",
+          "stub",
+          "www",
+          "ex1ch",
+          "cheap",
+          "clone",
+          "obscure",
+          "wild",
           "board",
           "ru"
         ]
@@ -1553,8 +1690,7 @@
         ],
         "created": "2019-05-12",
         "tagsIds": [
-          "lower",
-          "live",
+          "ghost",
           "www",
           "limited",
           "iich",
@@ -1718,7 +1854,6 @@
         ],
         "created": "2018-08-15",
         "tagsIds": [
-          "lower",
           "live",
           "www",
           "fags",
@@ -1915,7 +2050,7 @@
           "www",
           "foreign",
           "comfy",
-          "board",
+          "archive",
           "en",
           "ru"
         ]
@@ -2679,8 +2814,7 @@
         ],
         "created": "2015-02-27",
         "tagsIds": [
-          "lower",
-          "live",
+          "ghost",
           "www",
           "ex0ch",
           "index",
@@ -3591,17 +3725,16 @@
         ]
       },
       {
-        "id": "syn-ch-ru",
+        "id": "syn-ch-org",
         "urls": [
-          "https://syn-ch.ru/",
-          "https://syn-ch.com/",
           "https://syn-ch.org/",
+          "https://syn-ch.com/",
+          "https://syn-ch.ru/",
           "https://синч.рф/",
           "https://syn-ch.com.ua/"
         ],
         "created": "2013-04-02",
         "tagsIds": [
-          "lower",
           "live",
           "www",
           "ex2ch",
@@ -4840,7 +4973,7 @@
           "readonly",
           "www",
           "fags",
-          "board",
+          "archive",
           "ru"
         ]
       },
@@ -4908,6 +5041,7 @@
           "russia"
         ],
         "tagsIds": [
+          "lower",
           "ghost",
           "www",
           "foreign",
@@ -5355,6 +5489,7 @@
         "tagsIds": [
           "live",
           "www",
+          "iich",
           "comfy",
           "fags",
           "mods",
@@ -5680,8 +5815,9 @@
           "https://m2ch.hk/",
           "https://m2ch.gq/",
           "https://m2ch.cf/",
-          "https://m2ch.fapp.in/",
           "https://m2ch.lib/",
+          "https://m2ch.fapp.in/",
+          "https://m2ch.is-probably.gay/",
           "http://m2chfapiswfw2wcakptqp4o6ltgchvjuxfab7urxlduraomtlnhw5xad.onion/"
         ],
         "created": "2010",
@@ -7015,21 +7151,6 @@
           "board",
           "en",
           "pt",
-          "ru"
-        ]
-      },
-      {
-        "id": "gopchan-i2p",
-        "urls": [
-          "http://gopchan.i2p/",
-          "https://gopchnqtt2thncw263t32kg3wav567kf5lhzpzqcbnp5diofnhqq.b32.i2p/"
-        ],
-        "tagsIds": [
-          "live",
-          "i2p",
-          "obscure",
-          "wild",
-          "chat",
           "ru"
         ]
       },
