@@ -1,7 +1,28 @@
 [
   {
-    "name": "1chan.do.am",
-    "url": "https://1chan.do.am/",
+    "name": "ejchan.cc",
+    "url": "https://ejchan.cc/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "0ch.do.am",
+    "url": "https://0ch.do.am/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "escapechan.fun",
+    "url": "https://escapechan.fun/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "1chan.mmohost.me",
+    "url": "https://1chan.mmohost.me/",
     "language": [
       "ru"
     ]
@@ -16,6 +37,20 @@
   {
     "name": "dark.ucoz.org",
     "url": "https://dark.ucoz.org/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "board.clf3.in",
+    "url": "https://board.clf3.in/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "1chan.do.am",
+    "url": "https://1chan.do.am/",
     "language": [
       "ru"
     ]
@@ -51,6 +86,13 @@
   {
     "name": "2chru.net",
     "url": "http://2chru.net/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "kuklobunt.org",
+    "url": "https://kuklobunt.org/",
     "language": [
       "ru"
     ]
@@ -1289,13 +1331,6 @@
     ]
   },
   {
-    "name": "cn.urbanculture.in",
-    "url": "http://cn.urbanculture.in/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
     "name": "tumba.ch",
     "url": "https://tumba.ch/",
     "language": [
@@ -2047,13 +2082,6 @@
     ]
   },
   {
-    "name": "boards.ongoing.ru",
-    "url": "http://boards.ongoing.ru/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
     "name": "13chan.p.ht",
     "url": "http://13chan.p.ht/",
     "language": [
@@ -2481,6 +2509,13 @@
     ]
   },
   {
+    "name": "urbanculture.in",
+    "url": "http://urbanculture.in/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "swingo.so",
     "url": "http://swingo.so/",
     "language": [
@@ -2811,6 +2846,13 @@
   {
     "name": "chaos.fm",
     "url": "http://chaos.fm/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "boards.ongoing.ru",
+    "url": "http://boards.ongoing.ru/",
     "language": [
       "ru"
     ]
@@ -3465,11 +3507,11 @@
     ]
   },
   {
-    "name": "bbs.anoma.ch",
-    "url": "https://bbs.anoma.ch/",
+    "name": "anoma.ch",
+    "url": "https://anoma.ch/",
     "mirrors": [
-      "https://bbs.anoma.ch/",
-      "http://bbs.anoma.li/"
+      "https://anoma.ch/",
+      "http://anoma.li/"
     ],
     "language": [
       "ru"

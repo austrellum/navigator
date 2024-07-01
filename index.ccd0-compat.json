@@ -1,21 +1,14 @@
 [
   {
-    "name": "1chan.do.am",
-    "url": "https://1chan.do.am/",
+    "name": "ejchan.cc",
+    "url": "https://ejchan.cc/",
     "language": [
       "ru"
     ]
   },
   {
-    "name": "0ch.ucoz.org",
-    "url": "https://0ch.ucoz.org/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "1chan.forum2x2.ru",
-    "url": "https://1chan.forum2x2.ru/",
+    "name": "escapechan.fun",
+    "url": "https://escapechan.fun/",
     "language": [
       "ru"
     ]
@@ -23,13 +16,6 @@
   {
     "name": "dobrochan.nl",
     "url": "https://dobrochan.nl/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "1chan.0pk.me",
-    "url": "https://1chan.0pk.me/",
     "language": [
       "ru"
     ]
@@ -147,8 +133,12 @@
     ]
   },
   {
-    "name": "reee.re",
-    "url": "https://reee.re/",
+    "name": "varyachan.life",
+    "url": "https://varyachan.life/",
+    "mirrors": [
+      "https://varyachan.life/",
+      "http://varya2mudm4b73s2ec2nuurnmk6lju76vnwnjsev6zyhfq4to67kc5yd.onion/"
+    ],
     "language": [
       "ru"
     ]
@@ -266,13 +256,6 @@
       "https://1chan.online/",
       "http://kolchh5ok22n7kmycnghqtie574gzkiz3ojebm574isvlfbkqtjqvdyd.onion/"
     ],
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "trash.pythonanywhere.com",
-    "url": "https://trash.pythonanywhere.com/",
     "language": [
       "ru"
     ]
@@ -671,14 +654,6 @@
     ]
   },
   {
-    "name": "ylilauta.org",
-    "url": "https://ylilauta.org/",
-    "language": [
-      "fi",
-      "ru"
-    ]
-  },
-  {
     "name": "horochan.ru",
     "url": "https://horochan.ru/",
     "language": [
@@ -773,11 +748,11 @@
     ]
   },
   {
-    "name": "bbs.anoma.ch",
-    "url": "https://bbs.anoma.ch/",
+    "name": "anoma.ch",
+    "url": "https://anoma.ch/",
     "mirrors": [
-      "https://bbs.anoma.ch/",
-      "http://bbs.anoma.li/"
+      "https://anoma.ch/",
+      "http://anoma.li/"
     ],
     "language": [
       "ru"

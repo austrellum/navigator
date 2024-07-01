@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.14.0-n20",
+    "version": "1.15.0-n21",
     "created": "2022-06-06",
-    "updated": "2024-06-01",
+    "updated": "2024-07-01",
     "source": "https://github.com/austrellum/navigator",
     "discussion": "https://wc.12hp.ch/wc/res/2577.html",
     "feedback": "https://tally.so/r/mO5NJM",
@@ -11,14 +11,68 @@
   "data": {
     "sites": [
       {
-        "id": "1chan-do-am",
+        "id": "ejchan-cc",
         "urls": [
-          "https://1chan.do.am/"
+          "https://ejchan.cc/"
         ],
-        "created": "2024-04-24",
+        "created": "2024-06-29",
         "tagsIds": [
           "new",
           "live",
+          "www",
+          "fags",
+          "wild",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "0ch-do-am",
+        "urls": [
+          "https://0ch.do.am/"
+        ],
+        "created": "2024-06-26",
+        "tagsIds": [
+          "new",
+          "unlisted",
+          "www",
+          "ex0ch",
+          "cheap",
+          "clone",
+          "obscure",
+          "fags",
+          "wild",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "escapechan-fun",
+        "urls": [
+          "https://escapechan.fun/"
+        ],
+        "created": "2024-06-23",
+        "tagsIds": [
+          "new",
+          "live",
+          "www",
+          "ex2ch",
+          "clone",
+          "mods",
+          "wild",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "1chan-mmohost-me",
+        "urls": [
+          "https://1chan.mmohost.me/"
+        ],
+        "created": "2024-06-17",
+        "tagsIds": [
+          "new",
+          "unlisted",
           "www",
           "ex1ch",
           "cheap",
@@ -36,7 +90,7 @@
         ],
         "created": "2024-05-02",
         "tagsIds": [
-          "new",
+          "move",
           "stub",
           "www",
           "ex0ch",
@@ -53,10 +107,42 @@
         ],
         "created": "2024-05-02",
         "tagsIds": [
-          "new",
-          "dead",
+          "unlisted",
           "www",
           "cheap",
+          "obscure",
+          "wild",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "board-clf3-in",
+        "urls": [
+          "https://board.clf3.in/"
+        ],
+        "created": "2024-04-24",
+        "tagsIds": [
+          "new",
+          "unlisted",
+          "www",
+          "cheap",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "1chan-do-am",
+        "urls": [
+          "https://1chan.do.am/"
+        ],
+        "created": "2024-04-24",
+        "tagsIds": [
+          "unlisted",
+          "www",
+          "ex1ch",
+          "cheap",
+          "clone",
           "obscure",
           "wild",
           "board",
@@ -70,8 +156,7 @@
         ],
         "created": "2024-04-24",
         "tagsIds": [
-          "lower",
-          "live",
+          "unlisted",
           "www",
           "ex0ch",
           "cheap",
@@ -89,8 +174,7 @@
         ],
         "created": "2024-04-24",
         "tagsIds": [
-          "lower",
-          "live",
+          "unlisted",
           "www",
           "ex1ch",
           "cheap",
@@ -113,6 +197,7 @@
           "iich",
           "clone",
           "board",
+          "stream",
           "wiki",
           "ru"
         ]
@@ -124,8 +209,7 @@
         ],
         "created": "2024-04-20",
         "tagsIds": [
-          "new",
-          "live",
+          "unlisted",
           "www",
           "ex1ch",
           "cheap",
@@ -151,12 +235,27 @@
         ]
       },
       {
+        "id": "kuklobunt-org",
+        "urls": [
+          "https://kuklobunt.org/"
+        ],
+        "created": "2024-02-24",
+        "tagsIds": [
+          "new",
+          "live",
+          "www",
+          "index",
+          "ru"
+        ]
+      },
+      {
         "id": "wchan-free-nf",
         "urls": [
           "https://wchan.free.nf/"
         ],
         "created": "2024-02-17",
         "tagsIds": [
+          "move",
           "live",
           "www",
           "cheap",
@@ -185,7 +284,6 @@
         ],
         "created": "2024-02-08",
         "tagsIds": [
-          "new",
           "live",
           "www",
           "fags",
@@ -261,6 +359,7 @@
         ],
         "created": "2023-12-22",
         "tagsIds": [
+          "move",
           "live",
           "www",
           "cheap",
@@ -276,6 +375,7 @@
         ],
         "created": "2023-12-22",
         "tagsIds": [
+          "move",
           "live",
           "www",
           "cheap",
@@ -291,6 +391,7 @@
         ],
         "created": "2023-12-21",
         "tagsIds": [
+          "move",
           "ghost",
           "www",
           "blocked",
@@ -354,6 +455,7 @@
         ],
         "created": "2023-10-17",
         "tagsIds": [
+          "move",
           "live",
           "www",
           "cheap",
@@ -371,6 +473,7 @@
         ],
         "created": "2023-09-10",
         "tagsIds": [
+          "move",
           "live",
           "tor",
           "i2p",
@@ -456,8 +559,7 @@
         ],
         "created": "2023-05-31",
         "tagsIds": [
-          "lower",
-          "live",
+          "dead",
           "www",
           "wild",
           "board",
@@ -563,7 +665,8 @@
         ],
         "created": "2023-04-12",
         "tagsIds": [
-          "dead",
+          "move",
+          "live",
           "www",
           "tor",
           "ex2ch",
@@ -745,6 +848,7 @@
         "tagsIds": [
           "live",
           "www",
+          "blocked",
           "iich",
           "clone",
           "mods",
@@ -1061,7 +1165,6 @@
         ],
         "created": "2022-06-01",
         "tagsIds": [
-          "new",
           "live",
           "www",
           "iich",
@@ -1146,8 +1249,7 @@
         ],
         "created": "2022-02-16",
         "tagsIds": [
-          "lower",
-          "live",
+          "dead",
           "www",
           "cheap",
           "wild",
@@ -1425,8 +1527,7 @@
         ],
         "created": "2020-08-09",
         "tagsIds": [
-          "lower",
-          "live",
+          "ghost",
           "www",
           "foreign",
           "board",
@@ -1446,7 +1547,7 @@
         ],
         "created": "2020-08-05",
         "tagsIds": [
-          "stub",
+          "move",
           "www",
           "board",
           "ru"
@@ -1487,7 +1588,6 @@
         ],
         "created": "2020-07-06",
         "tagsIds": [
-          "new",
           "stub",
           "www",
           "ex1ch",
@@ -2239,7 +2339,7 @@
         ],
         "created": "2017-02-02",
         "tagsIds": [
-          "ghost",
+          "live",
           "www",
           "board",
           "ru"
@@ -2523,19 +2623,6 @@
           "http://exach.com/"
         ],
         "created": "2016-01-17",
-        "tagsIds": [
-          "dead",
-          "www",
-          "board",
-          "ru"
-        ]
-      },
-      {
-        "id": "cn-urbanculture-in",
-        "urls": [
-          "http://cn.urbanculture.in/"
-        ],
-        "created": "2016-01-13",
         "tagsIds": [
           "dead",
           "www",
@@ -4013,19 +4100,6 @@
         ]
       },
       {
-        "id": "boards-ongoing-ru",
-        "urls": [
-          "http://boards.ongoing.ru/"
-        ],
-        "created": "2013-02-02",
-        "tagsIds": [
-          "dead",
-          "www",
-          "board",
-          "ru"
-        ]
-      },
-      {
         "id": "13chan-p-ht",
         "urls": [
           "http://13chan.p.ht/"
@@ -4237,10 +4311,9 @@
         ],
         "created": "2012-10-10",
         "tagsIds": [
-          "dead",
+          "stub",
           "www",
           "board",
-          "index",
           "ru"
         ]
       },
@@ -4837,6 +4910,19 @@
         ]
       },
       {
+        "id": "urbanculture-in",
+        "urls": [
+          "http://urbanculture.in/"
+        ],
+        "created": "2011-09-16",
+        "tagsIds": [
+          "live",
+          "www",
+          "wiki",
+          "ru"
+        ]
+      },
+      {
         "id": "swingo-so",
         "urls": [
           "http://swingo.so/"
@@ -5041,8 +5127,7 @@
           "russia"
         ],
         "tagsIds": [
-          "lower",
-          "ghost",
+          "unlisted",
           "www",
           "foreign",
           "comfy",
@@ -5473,6 +5558,19 @@
           "http://chaos.fm/"
         ],
         "created": "2010-08-03",
+        "tagsIds": [
+          "dead",
+          "www",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "boards-ongoing-ru",
+        "urls": [
+          "http://boards.ongoing.ru/"
+        ],
+        "created": "2010-07-10",
         "tagsIds": [
           "dead",
           "www",
@@ -6725,10 +6823,10 @@
         ]
       },
       {
-        "id": "bbs-anoma-ch",
+        "id": "anoma-ch",
         "urls": [
-          "https://bbs.anoma.ch/",
-          "http://bbs.anoma.li/"
+          "https://anoma.ch/",
+          "http://anoma.li/"
         ],
         "created": "2008-07-02",
         "tagsIds": [
@@ -7225,6 +7323,7 @@
           "rus"
         ],
         "tagsIds": [
+          "move",
           "live",
           "tor",
           "i2p",
@@ -7305,7 +7404,7 @@
         "description": "Добавлено в текущей редакции"
       },
       {
-        "id": "lower",
+        "id": "move",
         "parentId": "diff",
         "description": "К перемещению в следующей редакции"
       },
@@ -7337,6 +7436,11 @@
         "id": "dead",
         "parentId": "cycle",
         "description": "Мертвые"
+      },
+      {
+        "id": "unlisted",
+        "parentId": "cycle",
+        "description": "Исключенные"
       },
       {
         "id": "net",
