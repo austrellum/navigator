@@ -1,5 +1,36 @@
 [
   {
+    "name": "taochan67ewnv22yzxvldythp3ljvlxtnjrdzzpkdtdlv3kmroclf6yd.onion",
+    "url": "http://taochan67ewnv22yzxvldythp3ljvlxtnjrdzzpkdtdlv3kmroclf6yd.onion/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "wje3mhl55diwkidbqeh4lteurb3j5cgxyw33vqoqunpau67vfvvlhcqd.onion",
+    "url": "http://wje3mhl55diwkidbqeh4lteurb3j5cgxyw33vqoqunpau67vfvvlhcqd.onion/",
+    "mirrors": [
+      "http://wje3mhl55diwkidbqeh4lteurb3j5cgxyw33vqoqunpau67vfvvlhcqd.onion/",
+      "http://tttt.i2p/",
+      "http://lux3qephwqjvl4l5krd5b3qnxzehpypwm244k5y4jy5hq2izbl4a.b32.i2p/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "fykllpcfh2ndwl2iomavkxtcrlfo3gdcpejxilbkldu47xe2hw27kjid.onion",
+    "url": "http://fykllpcfh2ndwl2iomavkxtcrlfo3gdcpejxilbkldu47xe2hw27kjid.onion/",
+    "mirrors": [
+      "http://fykllpcfh2ndwl2iomavkxtcrlfo3gdcpejxilbkldu47xe2hw27kjid.onion/",
+      "http://text.i2p/",
+      "http://o4npre32mrriiv2pnd64ws3v2sjrk4cbcqjfkpzsadkk7cjaqixq.b32.i2p/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "ejchan.cc",
     "url": "https://ejchan.cc/",
     "language": [
@@ -9,6 +40,11 @@
   {
     "name": "escapechan.fun",
     "url": "https://escapechan.fun/",
+    "mirrors": [
+      "https://escapechan.fun/",
+      "https://escapechan.online/",
+      "https://escapechan.ru/"
+    ],
     "language": [
       "ru"
     ]
@@ -16,13 +52,6 @@
   {
     "name": "dobrochan.nl",
     "url": "https://dobrochan.nl/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "wchan.free.nf",
-    "url": "https://wchan.free.nf/",
     "language": [
       "ru"
     ]
@@ -67,22 +96,8 @@
     ]
   },
   {
-    "name": "bitardchan.rf.gd",
-    "url": "https://bitardchan.rf.gd/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "makachan.wuaze.com",
-    "url": "https://makachan.wuaze.com/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "trapach.kesug.com",
-    "url": "https://trapach.kesug.com/",
+    "name": "cm24zxqih6eqkhkpowqivpyu2izmwodaxfmopli3wjv4jm3yue6q.b32.i2p",
+    "url": "http://cm24zxqih6eqkhkpowqivpyu2izmwodaxfmopli3wjv4jm3yue6q.b32.i2p/",
     "language": [
       "ru"
     ]
@@ -129,17 +144,6 @@
     ],
     "language": [
       "en",
-      "ru"
-    ]
-  },
-  {
-    "name": "varyachan.life",
-    "url": "https://varyachan.life/",
-    "mirrors": [
-      "https://varyachan.life/",
-      "http://varya2mudm4b73s2ec2nuurnmk6lju76vnwnjsev6zyhfq4to67kc5yd.onion/"
-    ],
-    "language": [
       "ru"
     ]
   },
@@ -253,7 +257,6 @@
     "mirrors": [
       "https://1chan.su/",
       "https://1chan.lol/",
-      "https://1chan.online/",
       "http://kolchh5ok22n7kmycnghqtie574gzkiz3ojebm574isvlfbkqtjqvdyd.onion/"
     ],
     "language": [
@@ -654,6 +657,18 @@
     ]
   },
   {
+    "name": "2ch.hk",
+    "url": "https://2ch.hk/",
+    "mirrors": [
+      "https://2ch.hk/",
+      "https://2ch.life/",
+      "https://2-ch.ru/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "horochan.ru",
     "url": "https://horochan.ru/",
     "language": [
@@ -714,18 +729,6 @@
     ]
   },
   {
-    "name": "2ch.hk",
-    "url": "https://2ch.hk/",
-    "mirrors": [
-      "https://2ch.hk/",
-      "https://2ch.life/",
-      "https://2-ch.ru/"
-    ],
-    "language": [
-      "ru"
-    ]
-  },
-  {
     "name": "410chan.org",
     "url": "https://410chan.org/",
     "mirrors": [
@@ -752,7 +755,7 @@
     "url": "https://anoma.ch/",
     "mirrors": [
       "https://anoma.ch/",
-      "http://anoma.li/"
+      "https://anoma.li/"
     ],
     "language": [
       "ru"

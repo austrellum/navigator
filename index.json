@@ -1,15 +1,118 @@
 {
   "meta": {
-    "version": "1.15.0-n21",
+    "version": "1.16.0-n22",
     "created": "2022-06-06",
-    "updated": "2024-07-01",
+    "updated": "2024-08-01",
     "source": "https://github.com/austrellum/navigator",
-    "discussion": "https://wc.12hp.ch/wc/res/2577.html",
+    "discussion": "https://wc.12hp.ch/wc/res/4130.html",
     "feedback": "https://tally.so/r/mO5NJM",
     "survey": "https://tally.so/r/3jPop4"
   },
   "data": {
     "sites": [
+      {
+        "id": "1chna-ru",
+        "urls": [
+          "https://1chna.ru/"
+        ],
+        "created": "2024-07-24",
+        "tagsIds": [
+          "new",
+          "dead",
+          "www",
+          "blocked",
+          "ex1ch",
+          "clone",
+          "wild",
+          "board",
+          "index",
+          "ru"
+        ]
+      },
+      {
+        "id": "1chan-fun",
+        "urls": [
+          "https://1chan.fun/"
+        ],
+        "created": "2024-07-20",
+        "tagsIds": [
+          "new",
+          "dead",
+          "www",
+          "ex1ch",
+          "clone",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "taochan67ewnv22yzxvldythp3ljvlxtnjrdzzpkdtdlv3kmroclf6yd-onion",
+        "urls": [
+          "http://taochan67ewnv22yzxvldythp3ljvlxtnjrdzzpkdtdlv3kmroclf6yd.onion/"
+        ],
+        "created": "2024-07-16",
+        "tagsIds": [
+          "new",
+          "live",
+          "tor",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "kochan-do-am",
+        "urls": [
+          "https://kochan.do.am/"
+        ],
+        "created": "2024-07-08",
+        "tagsIds": [
+          "unlisted",
+          "www",
+          "cheap",
+          "obscure",
+          "wild",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "wje3mhl55diwkidbqeh4lteurb3j5cgxyw33vqoqunpau67vfvvlhcqd-onion",
+        "urls": [
+          "http://wje3mhl55diwkidbqeh4lteurb3j5cgxyw33vqoqunpau67vfvvlhcqd.onion/",
+          "http://tttt.i2p/",
+          "http://lux3qephwqjvl4l5krd5b3qnxzehpypwm244k5y4jy5hq2izbl4a.b32.i2p/"
+        ],
+        "created": "2024-07-06",
+        "tagsIds": [
+          "new",
+          "live",
+          "tor",
+          "i2p",
+          "obscure",
+          "wild",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "fykllpcfh2ndwl2iomavkxtcrlfo3gdcpejxilbkldu47xe2hw27kjid-onion",
+        "urls": [
+          "http://fykllpcfh2ndwl2iomavkxtcrlfo3gdcpejxilbkldu47xe2hw27kjid.onion/",
+          "http://text.i2p/",
+          "http://o4npre32mrriiv2pnd64ws3v2sjrk4cbcqjfkpzsadkk7cjaqixq.b32.i2p/"
+        ],
+        "created": "2024-07-06",
+        "tagsIds": [
+          "new",
+          "live",
+          "tor",
+          "i2p",
+          "obscure",
+          "wild",
+          "board",
+          "ru"
+        ]
+      },
       {
         "id": "ejchan-cc",
         "urls": [
@@ -17,10 +120,12 @@
         ],
         "created": "2024-06-29",
         "tagsIds": [
-          "new",
           "live",
           "www",
+          "blocked",
+          "ex2ch",
           "fags",
+          "mods",
           "wild",
           "board",
           "ru"
@@ -33,7 +138,6 @@
         ],
         "created": "2024-06-26",
         "tagsIds": [
-          "new",
           "unlisted",
           "www",
           "ex0ch",
@@ -49,15 +153,18 @@
       {
         "id": "escapechan-fun",
         "urls": [
-          "https://escapechan.fun/"
+          "https://escapechan.fun/",
+          "https://escapechan.online/",
+          "https://escapechan.ru/"
         ],
         "created": "2024-06-23",
         "tagsIds": [
-          "new",
           "live",
           "www",
+          "blocked",
           "ex2ch",
           "clone",
+          "fags",
           "mods",
           "wild",
           "board",
@@ -71,7 +178,6 @@
         ],
         "created": "2024-06-17",
         "tagsIds": [
-          "new",
           "unlisted",
           "www",
           "ex1ch",
@@ -90,8 +196,7 @@
         ],
         "created": "2024-05-02",
         "tagsIds": [
-          "move",
-          "stub",
+          "dead",
           "www",
           "ex0ch",
           "clone",
@@ -123,7 +228,6 @@
         ],
         "created": "2024-04-24",
         "tagsIds": [
-          "new",
           "unlisted",
           "www",
           "cheap",
@@ -194,8 +298,10 @@
         "tagsIds": [
           "live",
           "www",
+          "blocked",
           "iich",
           "clone",
+          "fags",
           "board",
           "stream",
           "wiki",
@@ -241,10 +347,10 @@
         ],
         "created": "2024-02-24",
         "tagsIds": [
-          "new",
           "live",
           "www",
-          "index",
+          "fags",
+          "blog",
           "ru"
         ]
       },
@@ -255,8 +361,7 @@
         ],
         "created": "2024-02-17",
         "tagsIds": [
-          "move",
-          "live",
+          "dead",
           "www",
           "cheap",
           "wild",
@@ -273,6 +378,9 @@
         "tagsIds": [
           "live",
           "www",
+          "limited",
+          "fags",
+          "wild",
           "board",
           "ru"
         ]
@@ -346,9 +454,26 @@
         ],
         "created": "2024-01-03",
         "tagsIds": [
+          "move",
           "live",
           "i2p",
           "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "cm24zxqih6eqkhkpowqivpyu2izmwodaxfmopli3wjv4jm3yue6q-b32-i2p",
+        "urls": [
+          "http://cm24zxqih6eqkhkpowqivpyu2izmwodaxfmopli3wjv4jm3yue6q.b32.i2p/"
+        ],
+        "created": "2024",
+        "tagsIds": [
+          "new",
+          "live",
+          "i2p",
+          "obscure",
+          "wild",
+          "chat",
           "ru"
         ]
       },
@@ -359,8 +484,7 @@
         ],
         "created": "2023-12-22",
         "tagsIds": [
-          "move",
-          "live",
+          "dead",
           "www",
           "cheap",
           "wild",
@@ -375,8 +499,7 @@
         ],
         "created": "2023-12-22",
         "tagsIds": [
-          "move",
-          "live",
+          "dead",
           "www",
           "cheap",
           "wild",
@@ -391,8 +514,7 @@
         ],
         "created": "2023-12-21",
         "tagsIds": [
-          "move",
-          "ghost",
+          "dead",
           "www",
           "blocked",
           "cheap",
@@ -408,6 +530,7 @@
         ],
         "created": "2023-11-15",
         "tagsIds": [
+          "move",
           "live",
           "www",
           "cheap",
@@ -455,8 +578,7 @@
         ],
         "created": "2023-10-17",
         "tagsIds": [
-          "move",
-          "live",
+          "ghost",
           "www",
           "cheap",
           "wild",
@@ -473,8 +595,7 @@
         ],
         "created": "2023-09-10",
         "tagsIds": [
-          "move",
-          "live",
+          "ghost",
           "tor",
           "i2p",
           "clone",
@@ -497,7 +618,7 @@
           "limited",
           "ex0ch",
           "clone",
-          "comfy",
+          "uxui",
           "wild",
           "board",
           "index",
@@ -515,7 +636,6 @@
           "live",
           "www",
           "cheap",
-          "wild",
           "board",
           "ru"
         ]
@@ -665,8 +785,7 @@
         ],
         "created": "2023-04-12",
         "tagsIds": [
-          "move",
-          "live",
+          "dead",
           "www",
           "tor",
           "ex2ch",
@@ -721,7 +840,7 @@
           "www",
           "ex1ch",
           "clone",
-          "comfy",
+          "uxui",
           "wild",
           "board",
           "index",
@@ -851,7 +970,9 @@
           "blocked",
           "iich",
           "clone",
+          "fags",
           "mods",
+          "wild",
           "archive",
           "board",
           "ru"
@@ -1151,9 +1272,8 @@
         "tagsIds": [
           "live",
           "www",
-          "limited",
           "cheap",
-          "comfy",
+          "uxui",
           "index",
           "ru"
         ]
@@ -1169,7 +1289,6 @@
           "www",
           "iich",
           "fags",
-          "wild",
           "wiki",
           "ru"
         ]
@@ -1179,7 +1298,6 @@
         "urls": [
           "https://1chan.su/",
           "https://1chan.lol/",
-          "https://1chan.online/",
           "http://kolchh5ok22n7kmycnghqtie574gzkiz3ojebm574isvlfbkqtjqvdyd.onion/"
         ],
         "created": "2022-05-16",
@@ -1187,9 +1305,10 @@
           "live",
           "www",
           "tor",
+          "blocked",
           "ex1ch",
           "clone",
-          "comfy",
+          "uxui",
           "board",
           "index",
           "news",
@@ -1308,6 +1427,7 @@
           "tor",
           "i2p",
           "foreign",
+          "wild",
           "board",
           "ru",
           "uk"
@@ -1547,7 +1667,7 @@
         ],
         "created": "2020-08-05",
         "tagsIds": [
-          "move",
+          "unlisted",
           "www",
           "board",
           "ru"
@@ -1954,6 +2074,7 @@
         ],
         "created": "2018-08-15",
         "tagsIds": [
+          "move",
           "live",
           "www",
           "fags",
@@ -2149,7 +2270,7 @@
           "readonly",
           "www",
           "foreign",
-          "comfy",
+          "uxui",
           "archive",
           "en",
           "ru"
@@ -2339,8 +2460,10 @@
         ],
         "created": "2017-02-02",
         "tagsIds": [
+          "move",
           "live",
           "www",
+          "wild",
           "board",
           "ru"
         ]
@@ -2749,15 +2872,12 @@
       {
         "id": "wiki-1chan-ca",
         "urls": [
-          "https://wiki.1chan.ca/",
-          "https://kolchepedia.ru/",
-          "https://1-chan.ru/"
+          "https://wiki.1chan.ca/"
         ],
         "created": "2015-10-07",
         "tagsIds": [
           "live",
           "www",
-          "wild",
           "index",
           "wiki",
           "ru"
@@ -2934,8 +3054,7 @@
           "live",
           "www",
           "tor",
-          "limited",
-          "comfy",
+          "uxui",
           "fags",
           "board",
           "ru"
@@ -3018,6 +3137,7 @@
           "live",
           "www",
           "iich",
+          "fags",
           "board",
           "ru"
         ]
@@ -4958,7 +5078,7 @@
         "tagsIds": [
           "live",
           "www",
-          "comfy",
+          "uxui",
           "obscure",
           "wild",
           "chat",
@@ -5130,7 +5250,7 @@
           "unlisted",
           "www",
           "foreign",
-          "comfy",
+          "uxui",
           "board",
           "fi",
           "ru"
@@ -5367,6 +5487,24 @@
         ]
       },
       {
+        "id": "2ch-hk",
+        "urls": [
+          "https://2ch.hk/",
+          "https://2ch.life/",
+          "https://2-ch.ru/"
+        ],
+        "created": "2010-11-30",
+        "tagsIds": [
+          "live",
+          "www",
+          "ex2ch",
+          "clone",
+          "mods",
+          "board",
+          "ru"
+        ]
+      },
+      {
         "id": "chan-ru",
         "urls": [
           "https://chan.ru/"
@@ -5588,7 +5726,7 @@
           "live",
           "www",
           "iich",
-          "comfy",
+          "uxui",
           "fags",
           "mods",
           "wild",
@@ -5875,6 +6013,21 @@
         ]
       },
       {
+        "id": "2x2-ch-ru",
+        "urls": [
+          "http://2x2-ch.ru/"
+        ],
+        "created": "2010-01-12",
+        "tagsIds": [
+          "dead",
+          "www",
+          "ex2ch",
+          "clone",
+          "board",
+          "ru"
+        ]
+      },
+      {
         "id": "370ch-lt",
         "urls": [
           "https://370ch.lt/"
@@ -5884,6 +6037,7 @@
           "int"
         ],
         "tagsIds": [
+          "move",
           "ghost",
           "www",
           "foreign",
@@ -6381,24 +6535,6 @@
         ]
       },
       {
-        "id": "2ch-hk",
-        "urls": [
-          "https://2ch.hk/",
-          "https://2ch.life/",
-          "https://2-ch.ru/"
-        ],
-        "created": "2009-04-01",
-        "tagsIds": [
-          "live",
-          "www",
-          "ex2ch",
-          "clone",
-          "mods",
-          "board",
-          "ru"
-        ]
-      },
-      {
         "id": "v2ch-ru",
         "urls": [
           "https://v2ch.ru/"
@@ -6826,7 +6962,7 @@
         "id": "anoma-ch",
         "urls": [
           "https://anoma.ch/",
-          "http://anoma.li/"
+          "https://anoma.li/"
         ],
         "created": "2008-07-02",
         "tagsIds": [
@@ -7215,7 +7351,7 @@
           "http://xxu3lso4h2rh6wmrxiou3ax7r7la7x6dhoepnku3jvrlwp35pefq.b32.i2p/"
         ],
         "tagsIds": [
-          "live",
+          "readonly",
           "i2p",
           "wild",
           "archive",
@@ -7529,7 +7665,7 @@
         "description": "Копирование атрибутов более известных проектов"
       },
       {
-        "id": "comfy",
+        "id": "uxui",
         "parentId": "quality",
         "description": "Положительный опыт использования"
       },
