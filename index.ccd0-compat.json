@@ -1,5 +1,19 @@
 [
   {
+    "name": "1chna.ru",
+    "url": "https://1chna.ru/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "1chan.fun",
+    "url": "https://1chan.fun/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "taochan67ewnv22yzxvldythp3ljvlxtnjrdzzpkdtdlv3kmroclf6yd.onion",
     "url": "http://taochan67ewnv22yzxvldythp3ljvlxtnjrdzzpkdtdlv3kmroclf6yd.onion/",
     "language": [
@@ -80,17 +94,6 @@
   {
     "name": "0141chan.org",
     "url": "https://0141chan.org/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "smallchan.i2p",
-    "url": "http://smallchan.i2p/",
-    "mirrors": [
-      "http://smallchan.i2p/",
-      "http://ucusncqzojo3bjem76zssfomb5yfuyvmbvpvnbhkb3z2nntdxxha.b32.i2p/"
-    ],
     "language": [
       "ru"
     ]
@@ -690,14 +693,6 @@
     ]
   },
   {
-    "name": "370ch.lt",
-    "url": "https://370ch.lt/",
-    "language": [
-      "lt",
-      "ru"
-    ]
-  },
-  {
     "name": "hamstakilla.com",
     "url": "https://hamstakilla.com/",
     "mirrors": [
@@ -811,6 +806,13 @@
     ],
     "language": [
       "en",
+      "ru"
+    ]
+  },
+  {
+    "name": "yachan.dev.yandex.net",
+    "url": "https://yachan.dev.yandex.net/",
+    "language": [
       "ru"
     ]
   }

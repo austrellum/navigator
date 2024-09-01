@@ -1,5 +1,19 @@
 [
   {
+    "name": "apachan.x10.bz",
+    "url": "https://apachan.x10.bz/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "mint.do.am",
+    "url": "https://mint.do.am/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "1chna.ru",
     "url": "https://1chna.ru/",
     "language": [
@@ -914,6 +928,13 @@
     ]
   },
   {
+    "name": "nest.rf.gd",
+    "url": "http://nest.rf.gd/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "8kun.top",
     "url": "https://8kun.top/",
     "mirrors": [
@@ -1246,6 +1267,13 @@
     ]
   },
   {
+    "name": "linaba.ml",
+    "url": "http://linaba.ml/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "2chn.ru",
     "url": "http://2chn.ru/",
     "language": [
@@ -1396,6 +1424,18 @@
   {
     "name": "tumba.ch",
     "url": "https://tumba.ch/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "cloudboard.ga",
+    "url": "http://cloudboard.ga/",
+    "mirrors": [
+      "http://cloudboard.ga/",
+      "http://cloudboard.xyz/",
+      "http://pilvi.space/"
+    ],
     "language": [
       "ru"
     ]
@@ -1729,6 +1769,20 @@
     ]
   },
   {
+    "name": "16ch.ws/board",
+    "url": "http://16ch.ws/board",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "sajtknajvsa.esy.es",
+    "url": "http://sajtknajvsa.esy.es/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "rollach.ru",
     "url": "http://rollach.ru/",
     "language": [
@@ -1780,6 +1834,20 @@
   {
     "name": "reptila.ch",
     "url": "http://reptila.ch/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "board.confach.ru",
+    "url": "http://board.confach.ru/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "honokakawai.com",
+    "url": "http://honokakawai.com/",
     "language": [
       "ru"
     ]
@@ -1985,6 +2053,13 @@
     ]
   },
   {
+    "name": "achan.p.ht",
+    "url": "http://achan.p.ht/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "2x2ch.ru",
     "url": "http://2x2ch.ru/",
     "language": [
@@ -2161,6 +2236,13 @@
     ]
   },
   {
+    "name": "bardachan.ru",
+    "url": "http://bardachan.ru/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "the-deep.hol.es",
     "url": "http://the-deep.hol.es/",
     "language": [
@@ -2170,6 +2252,20 @@
   {
     "name": "vlore.ru",
     "url": "http://vlore.ru/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "crypt0.in",
+    "url": "https://crypt0.in/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "suika.ru",
+    "url": "http://suika.ru/",
     "language": [
       "ru"
     ]
@@ -2492,6 +2588,41 @@
     ]
   },
   {
+    "name": "2chik.ru",
+    "url": "https://2chik.ru/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "azuchan.ru/kotoba",
+    "url": "http://www.azuchan.ru/kotoba",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "respublica.jp/Russia/siokara.htm",
+    "url": "http://respublica.jp/Russia/siokara.htm",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "tespedia.ru/board",
+    "url": "https://tespedia.ru/board",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "wakachan.ru",
+    "url": "http://wakachan.ru/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "boxxybabee.ru",
     "url": "http://boxxybabee.ru/",
     "language": [
@@ -2759,6 +2890,13 @@
       "http://arhivach.ng/",
       "http://arhivachqqqvwqcotafhk4ks2he56seuwcshpayrm5myeq45vlff44yd.onion/"
     ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "shkolochan.16mb.com",
+    "url": "http://shkolochan.16mb.com/",
     "language": [
       "ru"
     ]
@@ -3092,6 +3230,13 @@
   {
     "name": "art.4otaku.org",
     "url": "https://art.4otaku.org/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "iidvach.ru",
+    "url": "http://iidvach.ru/",
     "language": [
       "ru"
     ]
@@ -3883,6 +4028,13 @@
       "https://410.yakuji.moe/",
       "http://nowere.yakuji.moe/"
     ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "yachan.dev.yandex.net",
+    "url": "https://yachan.dev.yandex.net/",
     "language": [
       "ru"
     ]
