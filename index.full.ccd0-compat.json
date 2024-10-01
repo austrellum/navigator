@@ -1,5 +1,12 @@
 [
   {
+    "name": "shelterch.rf.gd",
+    "url": "https://shelterch.rf.gd/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "apachan.x10.bz",
     "url": "https://apachan.x10.bz/",
     "language": [
@@ -1211,13 +1218,6 @@
     ]
   },
   {
-    "name": "0chantech.userecho.com",
-    "url": "https://0chantech.userecho.com/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
     "name": "outchan.userecho.com",
     "url": "https://outchan.userecho.com/",
     "language": [
@@ -1248,6 +1248,20 @@
   {
     "name": "1chan.pl",
     "url": "https://1chan.pl/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "whitegospodin.blogspot.com",
+    "url": "https://whitegospodin.blogspot.com/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "0chantech.userecho.com",
+    "url": "https://0chantech.userecho.com/",
     "language": [
       "ru"
     ]
@@ -2884,10 +2898,12 @@
   },
   {
     "name": "arhivach.top",
-    "url": "http://arhivach.top/",
+    "url": "https://arhivach.top/",
     "mirrors": [
-      "http://arhivach.top/",
-      "http://arhivach.ng/",
+      "https://arhivach.top/",
+      "https://arhivach.ng/",
+      "https://arhivach.site/",
+      "https://arhivach.xyz/",
       "http://arhivachqqqvwqcotafhk4ks2he56seuwcshpayrm5myeq45vlff44yd.onion/"
     ],
     "language": [

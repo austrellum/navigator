@@ -64,6 +64,13 @@
     ]
   },
   {
+    "name": "1chan.mmohost.me",
+    "url": "https://1chan.mmohost.me/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "dobrochan.nl",
     "url": "https://dobrochan.nl/",
     "language": [
@@ -108,13 +115,6 @@
   {
     "name": "lostchat.rf.gd",
     "url": "https://lostchat.rf.gd/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "omegachan.hk.swtest.ru",
-    "url": "http://omegachan.hk.swtest.ru/",
     "language": [
       "ru"
     ]
@@ -196,13 +196,6 @@
       "http://nullnyan.i2p/",
       "http://xkih5s3yp75pqdvwdqo3dq2vtkxg2ddnfawtdfchk6wmcthvdaoa.b32.i2p/"
     ],
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "zenchan.cc",
-    "url": "https://zenchan.cc/",
     "language": [
       "ru"
     ]

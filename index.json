@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.17.0-n23",
+    "version": "1.17.0-n24",
     "created": "2022-06-06",
-    "updated": "2024-09-01",
+    "updated": "2024-10-01",
     "source": "https://github.com/austrellum/navigator",
     "discussion": "https://wc.12hp.ch/wc/res/4130.html",
     "feedback": "https://tally.so/r/mO5NJM",
@@ -11,13 +11,27 @@
   "data": {
     "sites": [
       {
+        "id": "shelterch-rf-gd",
+        "urls": [
+          "https://shelterch.rf.gd/"
+        ],
+        "created": "2024-09-02",
+        "tagsIds": [
+          "new",
+          "unlisted",
+          "www",
+          "cheap",
+          "board",
+          "ru"
+        ]
+      },
+      {
         "id": "apachan-x10-bz",
         "urls": [
           "https://apachan.x10.bz/"
         ],
         "created": "2024-08-07",
         "tagsIds": [
-          "new",
           "unlisted",
           "www",
           "exapach",
@@ -33,7 +47,6 @@
         ],
         "created": "2024-08-03",
         "tagsIds": [
-          "new",
           "unlisted",
           "www",
           "ex1ch",
@@ -66,6 +79,7 @@
         ],
         "created": "2024-07-20",
         "tagsIds": [
+          "move",
           "live",
           "www",
           "ex1ch",
@@ -160,7 +174,7 @@
         ],
         "created": "2024-06-26",
         "tagsIds": [
-          "unlisted",
+          "dead",
           "www",
           "ex0ch",
           "cheap",
@@ -198,7 +212,7 @@
         ],
         "created": "2024-06-17",
         "tagsIds": [
-          "unlisted",
+          "ghost",
           "www",
           "ex1ch",
           "cheap",
@@ -230,7 +244,7 @@
         ],
         "created": "2024-05-02",
         "tagsIds": [
-          "unlisted",
+          "dead",
           "www",
           "cheap",
           "obscure",
@@ -245,7 +259,7 @@
         ],
         "created": "2024-04-24",
         "tagsIds": [
-          "unlisted",
+          "readonly",
           "www",
           "cheap",
           "board",
@@ -259,7 +273,7 @@
         ],
         "created": "2024-04-24",
         "tagsIds": [
-          "unlisted",
+          "dead",
           "www",
           "ex1ch",
           "cheap",
@@ -276,7 +290,7 @@
         ],
         "created": "2024-04-24",
         "tagsIds": [
-          "unlisted",
+          "dead",
           "www",
           "ex0ch",
           "cheap",
@@ -293,7 +307,7 @@
         ],
         "created": "2024-04-24",
         "tagsIds": [
-          "unlisted",
+          "dead",
           "www",
           "ex1ch",
           "cheap",
@@ -329,7 +343,7 @@
         ],
         "created": "2024-04-20",
         "tagsIds": [
-          "unlisted",
+          "dead",
           "www",
           "ex1ch",
           "cheap",
@@ -532,6 +546,7 @@
         ],
         "created": "2023-11-15",
         "tagsIds": [
+          "move",
           "ghost",
           "www",
           "cheap",
@@ -576,8 +591,7 @@
         ],
         "created": "2023-10-17",
         "tagsIds": [
-          "move",
-          "ghost",
+          "stub",
           "www",
           "cheap",
           "board",
@@ -1051,8 +1065,7 @@
         ],
         "created": "2023",
         "tagsIds": [
-          "move",
-          "live",
+          "dead",
           "www",
           "obscure",
           "board",
@@ -1789,7 +1802,6 @@
         ],
         "created": "2020",
         "tagsIds": [
-          "new",
           "dead",
           "www",
           "cheap",
@@ -2324,21 +2336,6 @@
         ]
       },
       {
-        "id": "0chantech-userecho-com",
-        "urls": [
-          "https://0chantech.userecho.com/"
-        ],
-        "created": "2017-04-18",
-        "tagsIds": [
-          "ghost",
-          "www",
-          "limited",
-          "ex0ch",
-          "board",
-          "ru"
-        ]
-      },
-      {
         "id": "outchan-userecho-com",
         "urls": [
           "https://outchan.userecho.com/"
@@ -2411,6 +2408,37 @@
         ]
       },
       {
+        "id": "whitegospodin-blogspot-com",
+        "urls": [
+          "https://whitegospodin.blogspot.com/"
+        ],
+        "created": "2017-04-24",
+        "tagsIds": [
+          "new",
+          "ghost",
+          "www",
+          "iich",
+          "cheap",
+          "blog",
+          "ru"
+        ]
+      },
+      {
+        "id": "0chantech-userecho-com",
+        "urls": [
+          "https://0chantech.userecho.com/"
+        ],
+        "created": "2017-04-18",
+        "tagsIds": [
+          "ghost",
+          "www",
+          "limited",
+          "ex0ch",
+          "board",
+          "ru"
+        ]
+      },
+      {
         "id": "anonum-org",
         "urls": [
           "https://anonum.org/"
@@ -2443,7 +2471,6 @@
         ],
         "created": "2017",
         "tagsIds": [
-          "new",
           "dead",
           "www",
           "board",
@@ -2757,7 +2784,6 @@
         ],
         "created": "2016",
         "tagsIds": [
-          "new",
           "dead",
           "www",
           "board",
@@ -3398,7 +3424,6 @@
         ],
         "created": "2014-04-28",
         "tagsIds": [
-          "new",
           "dead",
           "www",
           "cheap",
@@ -3542,7 +3567,6 @@
         ],
         "created": "2014",
         "tagsIds": [
-          "new",
           "dead",
           "www",
           "board",
@@ -3556,7 +3580,6 @@
         ],
         "created": "2014",
         "tagsIds": [
-          "new",
           "dead",
           "www",
           "ex2ch",
@@ -3977,7 +4000,6 @@
         ],
         "created": "2013-05-08",
         "tagsIds": [
-          "new",
           "dead",
           "www",
           "ex2ch",
@@ -4333,7 +4355,6 @@
         ],
         "created": "2013-01-07",
         "tagsIds": [
-          "new",
           "dead",
           "www",
           "ex2ch",
@@ -4376,7 +4397,6 @@
         ],
         "created": "2013",
         "tagsIds": [
-          "new",
           "dead",
           "www",
           "board",
@@ -4390,7 +4410,6 @@
         ],
         "created": "2013",
         "tagsIds": [
-          "new",
           "dead",
           "www",
           "board",
@@ -4649,8 +4668,7 @@
         ],
         "created": "2012-08-09",
         "tagsIds": [
-          "move",
-          "readonly",
+          "dead",
           "www",
           "exapach",
           "fags",
@@ -4998,7 +5016,6 @@
         ],
         "created": "2012",
         "tagsIds": [
-          "new",
           "dead",
           "www",
           "ex2ch",
@@ -5015,7 +5032,6 @@
         ],
         "created": "2012",
         "tagsIds": [
-          "new",
           "dead",
           "www",
           "iich",
@@ -5030,7 +5046,6 @@
         ],
         "created": "2012",
         "tagsIds": [
-          "new",
           "dead",
           "www",
           "board",
@@ -5044,7 +5059,6 @@
         ],
         "created": "2012",
         "tagsIds": [
-          "new",
           "dead",
           "www",
           "obscure",
@@ -5059,7 +5073,6 @@
         ],
         "created": "2012",
         "tagsIds": [
-          "new",
           "dead",
           "www",
           "iich",
@@ -5572,8 +5585,10 @@
       {
         "id": "arhivach-top",
         "urls": [
-          "http://arhivach.top/",
-          "http://arhivach.ng/",
+          "https://arhivach.top/",
+          "https://arhivach.ng/",
+          "https://arhivach.site/",
+          "https://arhivach.xyz/",
           "http://arhivachqqqvwqcotafhk4ks2he56seuwcshpayrm5myeq45vlff44yd.onion/"
         ],
         "created": "2011",
@@ -5594,7 +5609,6 @@
         ],
         "created": "2011",
         "tagsIds": [
-          "new",
           "dead",
           "www",
           "cheap",
@@ -6265,7 +6279,6 @@
         ],
         "created": "2010",
         "tagsIds": [
-          "new",
           "dead",
           "www",
           "ex2ch",
@@ -7420,8 +7433,7 @@
         ],
         "created": "2007-07-30",
         "tagsIds": [
-          "move",
-          "readonly",
+          "stub",
           "www",
           "blocked",
           "index",
@@ -7605,7 +7617,7 @@
           "https://ivchan.net/"
         ],
         "tagsIds": [
-          "dead",
+          "live",
           "www",
           "iich",
           "archive",

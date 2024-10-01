@@ -3,7 +3,7 @@
   <head>
     <title>Навигатор бордосферы</title>
     <dateCreated>Mon, 06 Jun 2022 00:00:00 GMT</dateCreated>
-    <dateModified>Sun, 01 Sep 2024 00:00:00 GMT</dateModified>
+    <dateModified>Tue, 01 Oct 2024 00:00:00 GMT</dateModified>
     <ownerId>https://github.com/austrellum/navigator</ownerId>
   </head>
   <body>
@@ -11,7 +11,7 @@
       <outline text="1chna-ru" category="live,www,ex1ch,clone,board,index,ru">
         <outline text="1chna.ru" type="link" url="https://1chna.ru/" />
       </outline>
-      <outline text="1chan-fun" category="live,www,ex1ch,clone,board,ru">
+      <outline text="1chan-fun" category="move,live,www,ex1ch,clone,board,ru">
         <outline text="1chan.fun" type="link" url="https://1chan.fun/" />
       </outline>
       <outline text="taochan67ewnv22yzxvldythp3ljvlxtnjrdzzpkdtdlv3kmroclf6yd-onion" category="live,tor,board,ru">
@@ -80,9 +80,6 @@
         <outline text="nullnyanvapw…bxtqd.onion" type="link" url="http://nullnyanvapwq3ou4gbc62y26uiggj5ztbur7mzxrnjhfwxu43jbxtqd.onion/" />
         <outline text=".i2p" type="link" url="http://nullnyan.i2p/" />
         <outline text=".b32.i2p" type="link" url="http://xkih5s3yp75pqdvwdqo3dq2vtkxg2ddnfawtdfchk6wmcthvdaoa.b32.i2p/" />
-      </outline>
-      <outline text="zenchan-cc" category="move,live,www,obscure,board,ru">
-        <outline text="zenchan.cc" type="link" url="https://zenchan.cc/" />
       </outline>
       <outline text="gopchan-i2p" category="live,i2p,obscure,chat,ru">
         <outline text="gopchan.i2p" type="link" url="http://gopchan.i2p/" />
@@ -240,8 +237,10 @@
         <outline text="tuzach.in" type="link" url="https://tuzach.in/" />
       </outline>
       <outline text="arhivach-top" category="live,www,tor,iich,ex2ch,archive,ru">
-        <outline text="arhivach.top" type="link" url="http://arhivach.top/" />
-        <outline text=".ng" type="link" url="http://arhivach.ng/" />
+        <outline text="arhivach.top" type="link" url="https://arhivach.top/" />
+        <outline text=".ng" type="link" url="https://arhivach.ng/" />
+        <outline text=".site" type="link" url="https://arhivach.site/" />
+        <outline text=".xyz" type="link" url="https://arhivach.xyz/" />
         <outline text=".onion" type="link" url="http://arhivachqqqvwqcotafhk4ks2he56seuwcshpayrm5myeq45vlff44yd.onion/" />
       </outline>
       <outline text="2ch-hk" category="live,www,ex2ch,clone,mods,board,ru">
@@ -292,6 +291,9 @@
         <outline text="iichan.hk" type="link" url="https://iichan.hk/" />
         <outline text=".lol" type="link" url="https://iichan.lol/" />
       </outline>
+      <outline text="ivchan-net" category="live,www,iich,archive,ru">
+        <outline text="ivchan.net" type="link" url="https://ivchan.net/" />
+      </outline>
       <outline text="ichan-ru" category="live,www,iich,archive,gallery,ru">
         <outline text="ichan.ru" type="link" url="http://ichan.ru/" />
       </outline>
@@ -313,11 +315,11 @@
       </outline>
     </outline>
     <outline text="Отмирающие">
-      <outline text="lostchat-rf-gd" category="ghost,www,cheap,obscure,chat,ru">
-        <outline text="lostchat.rf.gd" type="link" url="https://lostchat.rf.gd/" />
+      <outline text="1chan-mmohost-me" category="ghost,www,ex1ch,cheap,clone,obscure,board,ru">
+        <outline text="1chan.mmohost.me" type="link" url="https://1chan.mmohost.me/" />
       </outline>
-      <outline text="omegachan-hk-swtest-ru" category="move,ghost,www,cheap,board,ru">
-        <outline text="omegachan.hk.swtest.ru" type="link" url="http://omegachan.hk.swtest.ru/" />
+      <outline text="lostchat-rf-gd" category="move,ghost,www,cheap,obscure,chat,ru">
+        <outline text="lostchat.rf.gd" type="link" url="https://lostchat.rf.gd/" />
       </outline>
       <outline text="pinachjukrv62ntdxw5qwhpp3vmzupi6kwp5dekcisyb6vztrpb7vzad-onion" category="ghost,tor,i2p,clone,obscure,board,ru">
         <outline text="pinachjukrv6…7vzad.onion" type="link" url="http://pinachjukrv62ntdxw5qwhpp3vmzupi6kwp5dekcisyb6vztrpb7vzad.onion/" />
@@ -354,6 +356,9 @@
         <outline text=".onion" type="link" url="http://kohlchanvwpfx6hthoti5fvqsjxgcwm3tmddvpduph5fqntv5affzfqd.onion/" />
         <outline text=".i2p" type="link" url="http://kohlchan.i2p/" />
         <outline text=".b32.i2p" type="link" url="http://kohlchanvn6vtsujobyw4pt5naaszmxqutd5hsdatmxfe2qaqhya.b32.i2p/" />
+      </outline>
+      <outline text="whitegospodin-blogspot-com" category="new,ghost,www,iich,cheap,blog,ru">
+        <outline text="whitegospodi…logspot.com" type="link" url="https://whitegospodin.blogspot.com/" />
       </outline>
       <outline text="0chantech-userecho-com" category="ghost,www,limited,ex0ch,board,ru">
         <outline text="0chantech.userecho.com" type="link" url="https://0chantech.userecho.com/" />
@@ -415,26 +420,17 @@
       </outline>
     </outline>
     <outline text="Только чтение">
+      <outline text="board-clf3-in" category="readonly,www,cheap,board,ru">
+        <outline text="board.clf3.in" type="link" url="https://board.clf3.in/" />
+      </outline>
       <outline text="darkness-epizy-com" category="readonly,www,cheap,board,ru">
         <outline text="darkness.epizy.com" type="link" url="http://darkness.epizy.com/" />
       </outline>
       <outline text="legacy-arisuchan-jp" category="readonly,www,foreign,uxui,archive,en,ru">
         <outline text="legacy.arisuchan.jp" type="link" url="https://legacy.arisuchan.jp/" />
       </outline>
-      <outline text="black-area-ru" category="move,readonly,www,exapach,fags,board,ru">
-        <outline text="black-area.ru" type="link" url="https://black-area.ru/" />
-        <outline text=".ru" type="link" url="http://tsun-tsun.ru/" />
-        <outline text=".ru" type="link" url="http://radiogin.ru/" />
-      </outline>
       <outline text="board-everypony-ru" category="readonly,www,fags,archive,ru">
         <outline text="board.everypony.ru" type="link" url="https://board.everypony.ru/" />
-      </outline>
-      <outline text="lurkmore-ru" category="move,readonly,www,blocked,index,wiki,ru">
-        <outline text="lurkmore.ru" type="link" url="http://lurkmore.ru/" />
-        <outline text=".co" type="link" url="https://lurkmore.co/" />
-        <outline text=".re" type="link" url="https://lurkmo.re/" />
-        <outline text=".net" type="link" url="https://lurkmore.net/" />
-        <outline text=".to" type="link" url="https://lurkmore.to/" />
       </outline>
       <outline text="102chan-memorial-i2p" category="readonly,i2p,archive,ru">
         <outline text="102chan-memorial.i2p" type="link" url="http://102chan-memorial.i2p/" />
@@ -447,6 +443,9 @@
       </outline>
       <outline text="claire-ws" category="stub,www,board,ru">
         <outline text="claire.ws" type="link" url="https://claire.ws/" />
+      </outline>
+      <outline text="omegachan-hk-swtest-ru" category="stub,www,cheap,board,ru">
+        <outline text="omegachan.hk.swtest.ru" type="link" url="http://omegachan.hk.swtest.ru/" />
       </outline>
       <outline text="papachan-rf-gd" category="stub,www,exapach,cheap,clone,board,ru">
         <outline text="papachan.rf.gd" type="link" url="https://papachan.rf.gd/" />
@@ -485,6 +484,13 @@
       <outline text="topsape-ru" category="stub,www,board,ru">
         <outline text="topsape.ru/chan" type="link" url="http://topsape.ru/chan" />
       </outline>
+      <outline text="lurkmore-ru" category="stub,www,blocked,index,wiki,ru">
+        <outline text="lurkmore.ru" type="link" url="http://lurkmore.ru/" />
+        <outline text=".co" type="link" url="https://lurkmore.co/" />
+        <outline text=".re" type="link" url="https://lurkmo.re/" />
+        <outline text=".net" type="link" url="https://lurkmore.net/" />
+        <outline text=".to" type="link" url="https://lurkmore.to/" />
+      </outline>
       <outline text="iichan-ru" category="stub,www,iich,board,ru">
         <outline text="iichan.ru" type="link" url="http://iichan.ru/" />
       </outline>
@@ -497,8 +503,26 @@
       </outline>
     </outline>
     <outline text="Мертвые">
+      <outline text="0ch-do-am" category="dead,www,ex0ch,cheap,clone,obscure,fags,board,ru">
+        <outline text="0ch.do.am" type="link" url="https://0ch.do.am/" />
+      </outline>
       <outline text="ochkoparasha-fun" category="dead,www,ex0ch,clone,board,ru">
         <outline text="ochkoparasha.fun" type="link" url="https://ochkoparasha.fun/" />
+      </outline>
+      <outline text="dark-ucoz-org" category="dead,www,cheap,obscure,board,ru">
+        <outline text="dark.ucoz.org" type="link" url="https://dark.ucoz.org/" />
+      </outline>
+      <outline text="1chan-do-am" category="dead,www,ex1ch,cheap,clone,obscure,board,ru">
+        <outline text="1chan.do.am" type="link" url="https://1chan.do.am/" />
+      </outline>
+      <outline text="0ch-ucoz-org" category="dead,www,ex0ch,cheap,clone,obscure,board,ru">
+        <outline text="0ch.ucoz.org" type="link" url="https://0ch.ucoz.org/" />
+      </outline>
+      <outline text="1chan-forum2x2-ru" category="dead,www,ex1ch,cheap,clone,obscure,board,ru">
+        <outline text="1chan.forum2x2.ru" type="link" url="https://1chan.forum2x2.ru/" />
+      </outline>
+      <outline text="1chan-0pk-me" category="dead,www,ex1ch,cheap,obscure,board,ru">
+        <outline text="1chan.0pk.me" type="link" url="https://1chan.0pk.me/" />
       </outline>
       <outline text="wchan-free-nf" category="dead,www,cheap,board,ru">
         <outline text="wchan.free.nf" type="link" url="https://wchan.free.nf/" />
@@ -590,6 +614,9 @@
       <outline text="2ch-so" category="dead,www,ex0ch,ex2ch,clone,mods,board,ru">
         <outline text="2ch.so" type="link" url="https://2ch.so/" />
       </outline>
+      <outline text="zenchan-cc" category="dead,www,obscure,board,ru">
+        <outline text="zenchan.cc" type="link" url="https://zenchan.cc/" />
+      </outline>
       <outline text="apachan-x10-mx" category="dead,www,exapach,cheap,clone,board,ru">
         <outline text="apachan.x10.mx" type="link" url="https://apachan.x10.mx/" />
       </outline>
@@ -669,7 +696,7 @@
       <outline text="10chan-top" category="dead,www,foreign,board,en,ru">
         <outline text="10chan.top" type="link" url="https://10chan.top/" />
       </outline>
-      <outline text="nest-rf-gd" category="new,dead,www,cheap,obscure,board,ru">
+      <outline text="nest-rf-gd" category="dead,www,cheap,obscure,board,ru">
         <outline text="nest.rf.gd" type="link" url="http://nest.rf.gd/" />
       </outline>
       <outline text="lolifox-moe" category="dead,www,ex2ch,board,ru">
@@ -745,7 +772,7 @@
       <outline text="anonum-org" category="dead,www,board,ru">
         <outline text="anonum.org" type="link" url="https://anonum.org/" />
       </outline>
-      <outline text="linaba-ml" category="new,dead,www,board,ru">
+      <outline text="linaba-ml" category="dead,www,board,ru">
         <outline text="linaba.ml" type="link" url="http://linaba.ml/" />
       </outline>
       <outline text="2chn-ru" category="dead,www,ex2ch,clone,board,ru">
@@ -800,7 +827,7 @@
       <outline text="exach-com" category="dead,www,board,ru">
         <outline text="exach.com" type="link" url="http://exach.com/" />
       </outline>
-      <outline text="cloudboard-ga" category="new,dead,www,board,ru">
+      <outline text="cloudboard-ga" category="dead,www,board,ru">
         <outline text="cloudboard.ga" type="link" url="http://cloudboard.ga/" />
         <outline text=".xyz" type="link" url="http://cloudboard.xyz/" />
         <outline text=".space" type="link" url="http://pilvi.space/" />
@@ -912,7 +939,7 @@
       <outline text="cchan-tk" category="dead,www,board,ru">
         <outline text="cchan.tk" type="link" url="http://cchan.tk/" />
       </outline>
-      <outline text="16ch-ws" category="new,dead,www,cheap,board,ru">
+      <outline text="16ch-ws" category="dead,www,cheap,board,ru">
         <outline text="16ch.ws/board" type="link" url="http://16ch.ws/board" />
       </outline>
       <outline text="sajtknajvsa-esy-es" category="dead,www,cheap,board,ru">
@@ -939,10 +966,10 @@
       <outline text="reptila-ch" category="dead,www,fags,board,ru">
         <outline text="reptila.ch" type="link" url="http://reptila.ch/" />
       </outline>
-      <outline text="board-confach-ru" category="new,dead,www,board,ru">
+      <outline text="board-confach-ru" category="dead,www,board,ru">
         <outline text="board.confach.ru" type="link" url="http://board.confach.ru/" />
       </outline>
-      <outline text="honokakawai-com" category="new,dead,www,ex2ch,clone,board,ru">
+      <outline text="honokakawai-com" category="dead,www,ex2ch,clone,board,ru">
         <outline text="honokakawai.com" type="link" url="http://honokakawai.com/" />
       </outline>
       <outline text="dvach-org" category="dead,www,ex2ch,clone,board,ru">
@@ -1017,7 +1044,7 @@
       <outline text="yochan-org" category="dead,www,fags,board,ru">
         <outline text="yochan.org" type="link" url="http://yochan.org/" />
       </outline>
-      <outline text="achan-p-ht" category="new,dead,www,ex2ch,clone,board,ru">
+      <outline text="achan-p-ht" category="dead,www,ex2ch,clone,board,ru">
         <outline text="achan.p.ht" type="link" url="http://achan.p.ht/" />
       </outline>
       <outline text="2x2ch-ru" category="dead,www,board,ru">
@@ -1086,7 +1113,7 @@
       <outline text="maruchan-re" category="dead,www,board,ru">
         <outline text="maruchan.re" type="link" url="http://maruchan.re/" />
       </outline>
-      <outline text="bardachan-ru" category="new,dead,www,ex2ch,clone,board,ru">
+      <outline text="bardachan-ru" category="dead,www,ex2ch,clone,board,ru">
         <outline text="bardachan.ru" type="link" url="http://bardachan.ru/" />
       </outline>
       <outline text="the-deep-hol-es" category="dead,www,cheap,board,ru">
@@ -1095,10 +1122,10 @@
       <outline text="vlore-ru" category="dead,www,board,ru">
         <outline text="vlore.ru" type="link" url="http://vlore.ru/" />
       </outline>
-      <outline text="crypt0-in" category="new,dead,www,board,ru">
+      <outline text="crypt0-in" category="dead,www,board,ru">
         <outline text="crypt0.in" type="link" url="https://crypt0.in/" />
       </outline>
-      <outline text="suika-ru" category="new,dead,www,board,ru">
+      <outline text="suika-ru" category="dead,www,board,ru">
         <outline text="suika.ru" type="link" url="http://suika.ru/" />
       </outline>
       <outline text="boards-osach-ru" category="dead,www,board,ru">
@@ -1148,6 +1175,11 @@
       </outline>
       <outline text="cirno-ru-9" category="dead,www,board,ru">
         <outline text="cirno.ru/9/wakaba.html" type="link" url="http://cirno.ru/9/wakaba.html" />
+      </outline>
+      <outline text="black-area-ru" category="dead,www,exapach,fags,board,ru">
+        <outline text="black-area.ru" type="link" url="https://black-area.ru/" />
+        <outline text=".ru" type="link" url="http://tsun-tsun.ru/" />
+        <outline text=".ru" type="link" url="http://radiogin.ru/" />
       </outline>
       <outline text="7n8-ru" category="dead,www,board,ru">
         <outline text="7n8.ru" type="link" url="http://7n8.ru/" />
@@ -1210,19 +1242,19 @@
       <outline text="chan-twitterach-ru" category="dead,www,board,ru">
         <outline text="chan.twitterach.ru/chan" type="link" url="http://chan.twitterach.ru/chan" />
       </outline>
-      <outline text="2chik-ru" category="new,dead,www,ex2ch,clone,obscure,board,ru">
+      <outline text="2chik-ru" category="dead,www,ex2ch,clone,obscure,board,ru">
         <outline text="2chik.ru" type="link" url="https://2chik.ru/" />
       </outline>
-      <outline text="azuchan-ru" category="new,dead,www,iich,board,ru">
+      <outline text="azuchan-ru" category="dead,www,iich,board,ru">
         <outline text="azuchan.ru/kotoba" type="link" url="http://www.azuchan.ru/kotoba" />
       </outline>
-      <outline text="respublica-jp-Russia" category="new,dead,www,board,ru">
+      <outline text="respublica-jp-Russia" category="dead,www,board,ru">
         <outline text="respublica.j…siokara.htm" type="link" url="http://respublica.jp/Russia/siokara.htm" />
       </outline>
-      <outline text="tespedia-ru" category="new,dead,www,obscure,board,ru">
+      <outline text="tespedia-ru" category="dead,www,obscure,board,ru">
         <outline text="tespedia.ru/board" type="link" url="https://tespedia.ru/board" />
       </outline>
-      <outline text="wakachan-ru" category="new,dead,www,iich,clone,board,ru">
+      <outline text="wakachan-ru" category="dead,www,iich,clone,board,ru">
         <outline text="wakachan.ru" type="link" url="http://wakachan.ru/" />
       </outline>
       <outline text="boxxybabee-ru" category="dead,www,fags,board,ru">
@@ -1311,7 +1343,7 @@
       <outline text="ktosverhu-ru" category="dead,www,obscure,board,ru">
         <outline text="ktosverhu.ru" type="link" url="http://ktosverhu.ru/" />
       </outline>
-      <outline text="shkolochan-16mb-com" category="new,dead,www,cheap,board,ru">
+      <outline text="shkolochan-16mb-com" category="dead,www,cheap,board,ru">
         <outline text="shkolochan.16mb.com" type="link" url="http://shkolochan.16mb.com/" />
       </outline>
       <outline text="lamp-fm" category="dead,www,board,stream,ru">
@@ -1426,7 +1458,7 @@
       <outline text="2x2-ch-ru" category="dead,www,ex2ch,clone,board,ru">
         <outline text="2x2-ch.ru" type="link" url="http://2x2-ch.ru/" />
       </outline>
-      <outline text="iidvach-ru" category="new,dead,www,ex2ch,clone,board,ru">
+      <outline text="iidvach-ru" category="dead,www,ex2ch,clone,board,ru">
         <outline text="iidvach.ru" type="link" url="http://iidvach.ru/" />
       </outline>
       <outline text="realchan-ru" category="dead,www,board,ru">
@@ -1655,9 +1687,6 @@
       <outline text="bulbach-500mb-net" category="dead,www,cheap,board,ru">
         <outline text="bulbach.500mb.net" type="link" url="http://bulbach.500mb.net/" />
       </outline>
-      <outline text="ivchan-net" category="dead,www,iich,archive,ru">
-        <outline text="ivchan.net" type="link" url="https://ivchan.net/" />
-      </outline>
       <outline text="obr-li" category="dead,www,ex2ch,board,ru">
         <outline text="obr.li" type="link" url="https://obr.li/" />
       </outline>
@@ -1669,38 +1698,17 @@
       </outline>
     </outline>
     <outline text="Исключенные">
-      <outline text="apachan-x10-bz" category="new,unlisted,www,exapach,cheap,board,ru">
+      <outline text="shelterch-rf-gd" category="new,unlisted,www,cheap,board,ru">
+        <outline text="shelterch.rf.gd" type="link" url="https://shelterch.rf.gd/" />
+      </outline>
+      <outline text="apachan-x10-bz" category="unlisted,www,exapach,cheap,board,ru">
         <outline text="apachan.x10.bz" type="link" url="https://apachan.x10.bz/" />
       </outline>
-      <outline text="mint-do-am" category="new,unlisted,www,ex1ch,cheap,obscure,board,ru">
+      <outline text="mint-do-am" category="unlisted,www,ex1ch,cheap,obscure,board,ru">
         <outline text="mint.do.am" type="link" url="https://mint.do.am/" />
       </outline>
       <outline text="kochan-do-am" category="unlisted,www,cheap,obscure,board,ru">
         <outline text="kochan.do.am" type="link" url="https://kochan.do.am/" />
-      </outline>
-      <outline text="0ch-do-am" category="unlisted,www,ex0ch,cheap,clone,obscure,fags,board,ru">
-        <outline text="0ch.do.am" type="link" url="https://0ch.do.am/" />
-      </outline>
-      <outline text="1chan-mmohost-me" category="unlisted,www,ex1ch,cheap,clone,obscure,board,ru">
-        <outline text="1chan.mmohost.me" type="link" url="https://1chan.mmohost.me/" />
-      </outline>
-      <outline text="dark-ucoz-org" category="unlisted,www,cheap,obscure,board,ru">
-        <outline text="dark.ucoz.org" type="link" url="https://dark.ucoz.org/" />
-      </outline>
-      <outline text="board-clf3-in" category="unlisted,www,cheap,board,ru">
-        <outline text="board.clf3.in" type="link" url="https://board.clf3.in/" />
-      </outline>
-      <outline text="1chan-do-am" category="unlisted,www,ex1ch,cheap,clone,obscure,board,ru">
-        <outline text="1chan.do.am" type="link" url="https://1chan.do.am/" />
-      </outline>
-      <outline text="0ch-ucoz-org" category="unlisted,www,ex0ch,cheap,clone,obscure,board,ru">
-        <outline text="0ch.ucoz.org" type="link" url="https://0ch.ucoz.org/" />
-      </outline>
-      <outline text="1chan-forum2x2-ru" category="unlisted,www,ex1ch,cheap,clone,obscure,board,ru">
-        <outline text="1chan.forum2x2.ru" type="link" url="https://1chan.forum2x2.ru/" />
-      </outline>
-      <outline text="1chan-0pk-me" category="unlisted,www,ex1ch,cheap,obscure,board,ru">
-        <outline text="1chan.0pk.me" type="link" url="https://1chan.0pk.me/" />
       </outline>
       <outline text="zchan-app" category="unlisted,www,board,ru">
         <outline text="zchan.app" type="link" url="https://zchan.app/" />
