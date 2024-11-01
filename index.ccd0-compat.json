@@ -1,14 +1,29 @@
 [
   {
-    "name": "1chna.ru",
-    "url": "https://1chna.ru/",
+    "name": "ya4f65sgciiylr7yg2bvfc26mwdq2kpxjasczfvzu72d34a44lxtguqd.onion",
+    "url": "http://ya4f65sgciiylr7yg2bvfc26mwdq2kpxjasczfvzu72d34a44lxtguqd.onion/",
+    "mirrors": [
+      "http://ya4f65sgciiylr7yg2bvfc26mwdq2kpxjasczfvzu72d34a44lxtguqd.onion/",
+      "http://if4xm4xvudghhsw3b34ac26xsuc3mei4s4eykpl4gzslslujpopq.b32.i2p/"
+    ],
     "language": [
       "ru"
     ]
   },
   {
-    "name": "1chan.fun",
-    "url": "https://1chan.fun/",
+    "name": "ckkpss.i2p",
+    "url": "http://ckkpss.i2p/",
+    "mirrors": [
+      "http://ckkpss.i2p/",
+      "http://ckkpsswi4k45ihka2hw4ooer3cikio35wgyhg44a2trju5gd5lea.b32.i2p/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "1chna.ru",
+    "url": "https://1chna.ru/",
     "language": [
       "ru"
     ]
@@ -108,13 +123,6 @@
   {
     "name": "cm24zxqih6eqkhkpowqivpyu2izmwodaxfmopli3wjv4jm3yue6q.b32.i2p",
     "url": "http://cm24zxqih6eqkhkpowqivpyu2izmwodaxfmopli3wjv4jm3yue6q.b32.i2p/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "lostchat.rf.gd",
-    "url": "https://lostchat.rf.gd/",
     "language": [
       "ru"
     ]
@@ -436,6 +444,7 @@
     "url": "https://neochan.ru/",
     "mirrors": [
       "https://neochan.ru/",
+      "https://neochan.net/",
       "http://neochan7n7xp2v6yvw2u6zedciwlhot4kwftqpuoxrjwet3iprcms2qd.onion/"
     ],
     "language": [
