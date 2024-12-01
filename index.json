@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.17.0-n25",
+    "version": "1.18.0-n26",
     "created": "2022-06-06",
-    "updated": "2024-11-01",
+    "updated": "2024-12-01",
     "source": "https://github.com/austrellum/navigator",
     "discussion": "https://wc.12hp.ch/wc/res/4130.html",
     "feedback": "https://tally.so/r/mO5NJM",
@@ -11,6 +11,20 @@
   "data": {
     "sites": [
       {
+        "id": "nerealchan1-xyz",
+        "urls": [
+          "https://nerealchan1.xyz/"
+        ],
+        "created": "2024-10-02",
+        "tagsIds": [
+          "new",
+          "live",
+          "www",
+          "board",
+          "ru"
+        ]
+      },
+      {
         "id": "ya4f65sgciiylr7yg2bvfc26mwdq2kpxjasczfvzu72d34a44lxtguqd-onion",
         "urls": [
           "http://ya4f65sgciiylr7yg2bvfc26mwdq2kpxjasczfvzu72d34a44lxtguqd.onion/",
@@ -18,7 +32,6 @@
         ],
         "created": "2024-10-01",
         "tagsIds": [
-          "new",
           "live",
           "tor",
           "i2p",
@@ -48,7 +61,6 @@
         ],
         "created": "2024-08-19",
         "tagsIds": [
-          "new",
           "live",
           "i2p",
           "obscure",
@@ -156,6 +168,7 @@
         ],
         "created": "2024-07-06",
         "tagsIds": [
+          "move",
           "live",
           "tor",
           "i2p",
@@ -184,12 +197,14 @@
       {
         "id": "ejchan-cc",
         "urls": [
-          "https://ejchan.cc/"
+          "https://ejchan.cc/",
+          "http://ejchan3q3c42bzcuios5n6fqzhavsbz5vtawdc3vlonnvue66cuy4byd.onion/"
         ],
         "created": "2024-06-29",
         "tagsIds": [
           "live",
           "www",
+          "tor",
           "blocked",
           "ex2ch",
           "mods",
@@ -219,12 +234,14 @@
         "urls": [
           "https://escapechan.fun/",
           "https://escapechan.online/",
-          "https://escapechan.ru/"
+          "https://escapechan.ru/",
+          "http://mk2dodftctwgnux6z7iafm5tcyj7xrv7aytlh25zka45m7svvb6olfyd.onion/"
         ],
         "created": "2024-06-23",
         "tagsIds": [
           "live",
           "www",
+          "tor",
           "blocked",
           "ex2ch",
           "clone",
@@ -613,8 +630,7 @@
         ],
         "created": "2023-10-17",
         "tagsIds": [
-          "move",
-          "stub",
+          "dead",
           "www",
           "cheap",
           "board",
@@ -680,6 +696,7 @@
         ],
         "created": "2023-08-18",
         "tagsIds": [
+          "move",
           "stub",
           "www",
           "exapach",
@@ -842,6 +859,7 @@
         ],
         "created": "2023-03-31",
         "tagsIds": [
+          "move",
           "live",
           "tor",
           "i2p",
@@ -1100,6 +1118,7 @@
         ],
         "created": "2023",
         "tagsIds": [
+          "move",
           "live",
           "i2p",
           "obscure",
@@ -1114,7 +1133,7 @@
         ],
         "created": "2022-11-29",
         "tagsIds": [
-          "dead",
+          "live",
           "www",
           "exapach",
           "cheap",
@@ -1504,7 +1523,6 @@
           "i2p",
           "ex0ch",
           "clone",
-          "wild",
           "board",
           "ru"
         ]
@@ -1988,8 +2006,7 @@
         ],
         "created": "2018-12-20",
         "tagsIds": [
-          "move",
-          "live",
+          "dead",
           "www",
           "ex0ch",
           "clone",
@@ -3626,8 +3643,7 @@
         ],
         "created": "2013-10-11",
         "tagsIds": [
-          "move",
-          "live",
+          "dead",
           "www",
           "blocked",
           "ex2ch",
@@ -7615,6 +7631,7 @@
           "http://pidorgmob3uchxfepm7ywvfbjwo5f232us3lkegvbolwv2qybesa.b32.i2p/"
         ],
         "tagsIds": [
+          "move",
           "live",
           "i2p",
           "obscure",
@@ -7639,6 +7656,19 @@
           "foreign",
           "board",
           "en",
+          "ru"
+        ]
+      },
+      {
+        "id": "technach-i2p",
+        "urls": [
+          "http://technach.i2p/",
+          "http://t3hhbbujrbpkcyh7v6fylyt5ourd3l5hepqdydg2zhryroklv5va.b32.i2p/"
+        ],
+        "tagsIds": [
+          "dead",
+          "i2p",
+          "board",
           "ru"
         ]
       },
@@ -7860,19 +7890,9 @@
         "description": "Нестандартная концепция использования"
       },
       {
-        "id": "fags",
-        "parentId": "quality",
-        "description": "Персонифицированные треды, аватарки и т.п."
-      },
-      {
         "id": "mods",
         "parentId": "quality",
         "description": "Злоупотребление модераторскими полномочиями"
-      },
-      {
-        "id": "wild",
-        "parentId": "quality",
-        "description": "Бессмысленное или вредящее содержимое"
       },
       {
         "id": "service",

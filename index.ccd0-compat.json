@@ -1,5 +1,12 @@
 [
   {
+    "name": "nerealchan1.xyz",
+    "url": "https://nerealchan1.xyz/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "ya4f65sgciiylr7yg2bvfc26mwdq2kpxjasczfvzu72d34a44lxtguqd.onion",
     "url": "http://ya4f65sgciiylr7yg2bvfc26mwdq2kpxjasczfvzu72d34a44lxtguqd.onion/",
     "mirrors": [
@@ -62,6 +69,10 @@
   {
     "name": "ejchan.cc",
     "url": "https://ejchan.cc/",
+    "mirrors": [
+      "https://ejchan.cc/",
+      "http://ejchan3q3c42bzcuios5n6fqzhavsbz5vtawdc3vlonnvue66cuy4byd.onion/"
+    ],
     "language": [
       "ru"
     ]
@@ -72,7 +83,8 @@
     "mirrors": [
       "https://escapechan.fun/",
       "https://escapechan.online/",
-      "https://escapechan.ru/"
+      "https://escapechan.ru/",
+      "http://mk2dodftctwgnux6z7iafm5tcyj7xrv7aytlh25zka45m7svvb6olfyd.onion/"
     ],
     "language": [
       "ru"
@@ -215,6 +227,13 @@
       "http://gopchan.i2p/",
       "https://gopchnqtt2thncw263t32kg3wav567kf5lhzpzqcbnp5diofnhqq.b32.i2p/"
     ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "apachan.x10.mx",
+    "url": "https://apachan.x10.mx/",
     "language": [
       "ru"
     ]
@@ -385,17 +404,6 @@
     ]
   },
   {
-    "name": "0chan.me",
-    "url": "https://0chan.me/",
-    "mirrors": [
-      "https://0chan.me/",
-      "https://ochan.ru/"
-    ],
-    "language": [
-      "ru"
-    ]
-  },
-  {
     "name": "2channel.moe",
     "url": "https://2channel.moe/",
     "mirrors": [
@@ -550,17 +558,6 @@
   {
     "name": "02ch.in",
     "url": "https://02ch.in/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "rfch.rocks",
-    "url": "https://rfch.rocks/",
-    "mirrors": [
-      "https://rfch.rocks/",
-      "https://rfch.xyz/"
-    ],
     "language": [
       "ru"
     ]

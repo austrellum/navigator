@@ -1,5 +1,12 @@
 [
   {
+    "name": "nerealchan1.xyz",
+    "url": "https://nerealchan1.xyz/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "ya4f65sgciiylr7yg2bvfc26mwdq2kpxjasczfvzu72d34a44lxtguqd.onion",
     "url": "http://ya4f65sgciiylr7yg2bvfc26mwdq2kpxjasczfvzu72d34a44lxtguqd.onion/",
     "mirrors": [
@@ -97,6 +104,10 @@
   {
     "name": "ejchan.cc",
     "url": "https://ejchan.cc/",
+    "mirrors": [
+      "https://ejchan.cc/",
+      "http://ejchan3q3c42bzcuios5n6fqzhavsbz5vtawdc3vlonnvue66cuy4byd.onion/"
+    ],
     "language": [
       "ru"
     ]
@@ -114,7 +125,8 @@
     "mirrors": [
       "https://escapechan.fun/",
       "https://escapechan.online/",
-      "https://escapechan.ru/"
+      "https://escapechan.ru/",
+      "http://mk2dodftctwgnux6z7iafm5tcyj7xrv7aytlh25zka45m7svvb6olfyd.onion/"
     ],
     "language": [
       "ru"
@@ -4036,6 +4048,17 @@
     ],
     "language": [
       "en",
+      "ru"
+    ]
+  },
+  {
+    "name": "technach.i2p",
+    "url": "http://technach.i2p/",
+    "mirrors": [
+      "http://technach.i2p/",
+      "http://t3hhbbujrbpkcyh7v6fylyt5ourd3l5hepqdydg2zhryroklv5va.b32.i2p/"
+    ],
+    "language": [
       "ru"
     ]
   },
