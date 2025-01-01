@@ -152,7 +152,7 @@
 
 Сайт и его содержимое недоступны ни по одной из ссылок.
 
-##### #cycle:unlisted
+#### #cycle:unlisted
 
 Раздел: «Исключенные».
 
@@ -201,7 +201,13 @@
 
 Сайт доступен в сети Lokinet.
 
-См. [Darknet (Wikipedia)](https://en.wikipedia.org/wiki/Darknet)
+См. [Darknet (Wikipedia)](https://en.wikipedia.org/wiki/Darknet), [lokinet.org](https://lokinet.org/)
+
+#### #net:yggdrasil
+
+Сайт доступен в сети Yggdrasil.
+
+См. [Darknet (Wikipedia)](https://en.wikipedia.org/wiki/Darknet), [yggdrasil-network.github.io](https://yggdrasil-network.github.io/)
 
 #### #access
 

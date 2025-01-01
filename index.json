@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.18.0-n26",
+    "version": "1.19.0-n27",
     "created": "2022-06-06",
-    "updated": "2024-12-01",
+    "updated": "2025-01-01",
     "source": "https://github.com/austrellum/navigator",
     "discussion": "https://wc.12hp.ch/wc/res/4130.html",
     "feedback": "https://tally.so/r/mO5NJM",
@@ -11,13 +11,30 @@
   "data": {
     "sites": [
       {
+        "id": "wkki2ufbs7lbd7li3bpomaiwdqu67dblfg3auoldksaqrgrlcz252lqd-onion",
+        "urls": [
+          "http://wkki2ufbs7lbd7li3bpomaiwdqu67dblfg3auoldksaqrgrlcz252lqd.onion/",
+          "http://qyj4vv3bg47ip2y5chludl24cba2mooqtaxzh75aweznsiyx64mq.b32.i2p/",
+          "http://[200:a7d0:d173:fe40:a96e:f64:8919:1267]/"
+        ],
+        "created": "2024-12-30",
+        "tagsIds": [
+          "new",
+          "live",
+          "tor",
+          "i2p",
+          "yggdrasil",
+          "board",
+          "ru"
+        ]
+      },
+      {
         "id": "nerealchan1-xyz",
         "urls": [
           "https://nerealchan1.xyz/"
         ],
         "created": "2024-10-02",
         "tagsIds": [
-          "new",
           "live",
           "www",
           "board",
@@ -46,7 +63,7 @@
         ],
         "created": "2024-09-02",
         "tagsIds": [
-          "unlisted",
+          "live",
           "www",
           "cheap",
           "board",
@@ -76,7 +93,7 @@
         ],
         "created": "2024-08-07",
         "tagsIds": [
-          "unlisted",
+          "live",
           "www",
           "exapach",
           "cheap",
@@ -91,7 +108,7 @@
         ],
         "created": "2024-08-03",
         "tagsIds": [
-          "unlisted",
+          "live",
           "www",
           "ex1ch",
           "cheap",
@@ -132,12 +149,14 @@
         ]
       },
       {
-        "id": "taochan67ewnv22yzxvldythp3ljvlxtnjrdzzpkdtdlv3kmroclf6yd-onion",
+        "id": "ejchan3q3c42bzcuios5n6fqzhavsbz5vtawdc3vlonnvue66cuy4byd-onion",
         "urls": [
+          "http://ejchan3q3c42bzcuios5n6fqzhavsbz5vtawdc3vlonnvue66cuy4byd.onion/",
           "http://taochan67ewnv22yzxvldythp3ljvlxtnjrdzzpkdtdlv3kmroclf6yd.onion/"
         ],
         "created": "2024-07-16",
         "tagsIds": [
+          "move",
           "live",
           "tor",
           "board",
@@ -168,8 +187,7 @@
         ],
         "created": "2024-07-06",
         "tagsIds": [
-          "move",
-          "live",
+          "dead",
           "tor",
           "i2p",
           "obscure",
@@ -197,8 +215,7 @@
       {
         "id": "ejchan-cc",
         "urls": [
-          "https://ejchan.cc/",
-          "http://ejchan3q3c42bzcuios5n6fqzhavsbz5vtawdc3vlonnvue66cuy4byd.onion/"
+          "https://ejchan.cc/"
         ],
         "created": "2024-06-29",
         "tagsIds": [
@@ -459,7 +476,6 @@
         ],
         "created": "2024-02-08",
         "tagsIds": [
-          "move",
           "live",
           "www",
           "board",
@@ -696,8 +712,7 @@
         ],
         "created": "2023-08-18",
         "tagsIds": [
-          "move",
-          "stub",
+          "dead",
           "www",
           "exapach",
           "cheap",
@@ -859,8 +874,7 @@
         ],
         "created": "2023-03-31",
         "tagsIds": [
-          "move",
-          "live",
+          "ghost",
           "tor",
           "i2p",
           "ex0ch",
@@ -1118,8 +1132,7 @@
         ],
         "created": "2023",
         "tagsIds": [
-          "move",
-          "live",
+          "dead",
           "i2p",
           "obscure",
           "chat",
@@ -2596,7 +2609,6 @@
         ],
         "created": "2016-09-29",
         "tagsIds": [
-          "move",
           "stub",
           "www",
           "ex0ch",
@@ -7401,8 +7413,7 @@
         ],
         "created": "2007-07-30",
         "tagsIds": [
-          "move",
-          "stub",
+          "dead",
           "www",
           "blocked",
           "index",
@@ -7631,8 +7642,7 @@
           "http://pidorgmob3uchxfepm7ywvfbjwo5f232us3lkegvbolwv2qybesa.b32.i2p/"
         ],
         "tagsIds": [
-          "move",
-          "live",
+          "dead",
           "i2p",
           "obscure",
           "chat",
@@ -7816,6 +7826,11 @@
         "id": "loki",
         "parentId": "net",
         "description": "Доступно в сети Lokinet"
+      },
+      {
+        "id": "yggdrasil",
+        "parentId": "net",
+        "description": "Доступно в сети Yggdrasil"
       },
       {
         "id": "access",
