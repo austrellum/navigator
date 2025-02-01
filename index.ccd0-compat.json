@@ -1,5 +1,41 @@
 [
   {
+    "name": "kobchan.run.place",
+    "url": "http://kobchan.run.place/",
+    "mirrors": [
+      "http://kobchan.run.place/",
+      "http://kobchan.prtcl.icu/",
+      "http://kobchan.nya.pub/",
+      "http://swtb7yu4uy4yusemvt2ljmu3x7xpukogjc2y3smmpdk6c4vvgk5p3vid.onion/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "ritsuchbxdjeuhcj5mp4e3mfndlzzhiceaq7mcwmokesxde5p22gviyd.onion",
+    "url": "http://ritsuchbxdjeuhcj5mp4e3mfndlzzhiceaq7mcwmokesxde5p22gviyd.onion/",
+    "mirrors": [
+      "http://ritsuchbxdjeuhcj5mp4e3mfndlzzhiceaq7mcwmokesxde5p22gviyd.onion/",
+      "http://ritsuchan.i2p/",
+      "http://ritsuch3huwzg56jdzz7de3fy7c2amxqvgi7v7e4g4cakftwzvyq.b32.i2p/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "wkki2ufbs7lbd7li3bpomaiwdqu67dblfg3auoldksaqrgrlcz252lqd.onion",
+    "url": "http://wkki2ufbs7lbd7li3bpomaiwdqu67dblfg3auoldksaqrgrlcz252lqd.onion/",
+    "mirrors": [
+      "http://wkki2ufbs7lbd7li3bpomaiwdqu67dblfg3auoldksaqrgrlcz252lqd.onion/",
+      "http://qyj4vv3bg47ip2y5chludl24cba2mooqtaxzh75aweznsiyx64mq.b32.i2p/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "nerealchan1.xyz",
     "url": "https://nerealchan1.xyz/",
     "language": [
@@ -18,6 +54,13 @@
     ]
   },
   {
+    "name": "shelterch.rf.gd",
+    "url": "https://shelterch.rf.gd/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "ckkpss.i2p",
     "url": "http://ckkpss.i2p/",
     "mirrors": [
@@ -29,27 +72,22 @@
     ]
   },
   {
+    "name": "apachan.x10.bz",
+    "url": "https://apachan.x10.bz/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "mint.do.am",
+    "url": "https://mint.do.am/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "1chna.ru",
     "url": "https://1chna.ru/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "taochan67ewnv22yzxvldythp3ljvlxtnjrdzzpkdtdlv3kmroclf6yd.onion",
-    "url": "http://taochan67ewnv22yzxvldythp3ljvlxtnjrdzzpkdtdlv3kmroclf6yd.onion/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "wje3mhl55diwkidbqeh4lteurb3j5cgxyw33vqoqunpau67vfvvlhcqd.onion",
-    "url": "http://wje3mhl55diwkidbqeh4lteurb3j5cgxyw33vqoqunpau67vfvvlhcqd.onion/",
-    "mirrors": [
-      "http://wje3mhl55diwkidbqeh4lteurb3j5cgxyw33vqoqunpau67vfvvlhcqd.onion/",
-      "http://tttt.i2p/",
-      "http://lux3qephwqjvl4l5krd5b3qnxzehpypwm244k5y4jy5hq2izbl4a.b32.i2p/"
-    ],
     "language": [
       "ru"
     ]
@@ -69,10 +107,6 @@
   {
     "name": "ejchan.cc",
     "url": "https://ejchan.cc/",
-    "mirrors": [
-      "https://ejchan.cc/",
-      "http://ejchan3q3c42bzcuios5n6fqzhavsbz5vtawdc3vlonnvue66cuy4byd.onion/"
-    ],
     "language": [
       "ru"
     ]
@@ -221,17 +255,6 @@
     ]
   },
   {
-    "name": "gopchan.i2p",
-    "url": "http://gopchan.i2p/",
-    "mirrors": [
-      "http://gopchan.i2p/",
-      "https://gopchnqtt2thncw263t32kg3wav567kf5lhzpzqcbnp5diofnhqq.b32.i2p/"
-    ],
-    "language": [
-      "ru"
-    ]
-  },
-  {
     "name": "apachan.x10.mx",
     "url": "https://apachan.x10.mx/",
     "language": [
@@ -279,7 +302,6 @@
     "url": "https://1chan.su/",
     "mirrors": [
       "https://1chan.su/",
-      "https://1chan.lol/",
       "http://kolchh5ok22n7kmycnghqtie574gzkiz3ojebm574isvlfbkqtjqvdyd.onion/"
     ],
     "language": [
@@ -345,7 +367,7 @@
     "url": "https://chan.city/",
     "mirrors": [
       "https://chan.city/",
-      "http://chanes.uwu.mx/"
+      "https://chanes.uwu.mx/"
     ],
     "language": [
       "de",
@@ -365,6 +387,26 @@
     ],
     "language": [
       "ru"
+    ]
+  },
+  {
+    "name": "8chan.moe",
+    "url": "https://8chan.moe/",
+    "mirrors": [
+      "https://8chan.moe/",
+      "https://8chan.se/",
+      "https://8chan.cc/",
+      "http://alephchvkipd2houttjirmgivro5pxullvcgm4c47ptm7mhubbja6kad.onion/"
+    ],
+    "language": [
+      "ar",
+      "en",
+      "es",
+      "hi",
+      "it",
+      "ja",
+      "ru",
+      "sl"
     ]
   },
   {
@@ -495,8 +537,7 @@
       "https://endchan.gg/",
       "https://endchan.org/",
       "http://endchancxfbnrfgauuxlztwlckytq7rgeo5v6pc2zd4nyqo3khfam4ad.onion/",
-      "http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion/",
-      "http://kqrtg5wz4qbyjprujkz33gza7r73iw3ainqp1mz5zmu16symcdwy.loki/"
+      "http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion/"
     ],
     "language": [
       "ar",
@@ -686,7 +727,7 @@
   },
   {
     "name": "bnw.im",
-    "url": "http://bnw.im/",
+    "url": "https://bnw.im/",
     "language": [
       "ru"
     ]
@@ -779,17 +820,6 @@
     "mirrors": [
       "https://iichan.hk/",
       "https://iichan.lol/"
-    ],
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "pidorchan.i2p",
-    "url": "http://pidorchan.i2p/",
-    "mirrors": [
-      "http://pidorchan.i2p/",
-      "http://pidorgmob3uchxfepm7ywvfbjwo5f232us3lkegvbolwv2qybesa.b32.i2p/"
     ],
     "language": [
       "ru"

@@ -197,18 +197,6 @@
 
 См. [Darknet (Wikipedia)](https://en.wikipedia.org/wiki/Darknet), [I2P (Wikipedia)](https://en.wikipedia.org/wiki/I2P)
 
-#### #net:loki
-
-Сайт доступен в сети Lokinet.
-
-См. [Darknet (Wikipedia)](https://en.wikipedia.org/wiki/Darknet), [lokinet.org](https://lokinet.org/)
-
-#### #net:yggdrasil
-
-Сайт доступен в сети Yggdrasil.
-
-См. [Darknet (Wikipedia)](https://en.wikipedia.org/wiki/Darknet), [yggdrasil-network.github.io](https://yggdrasil-network.github.io/)
-
 #### #access
 
 Теги, определяющие виды доступа к сайту.
@@ -359,6 +347,7 @@ iichan.ru и связанные сайты.
   - #locale:eo — Эсперанто
   - #locale:es — Испанский язык
   - #locale:fi — Финский язык
+  - #locale:hi — Хинди
   - #locale:hu — Венгерский язык
   - #locale:id — Индонезийский язык
   - #locale:it — Итальянский язык
@@ -368,6 +357,7 @@ iichan.ru и связанные сайты.
   - #locale:pl — Польский язык
   - #locale:pt — Португальский язык
   - #locale:ru — Русский язык
+  - #locale:sl — Словенский язык
   - #locale:tr — Турецкий язык
   - #locale:uk — Украинский язык
   - #locale:zh-hk — Китайский язык (Китайский традиционный)

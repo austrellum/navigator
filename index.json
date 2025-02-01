@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.19.0-n27",
+    "version": "1.20.0-n28",
     "created": "2022-06-06",
-    "updated": "2025-01-01",
+    "updated": "2025-02-01",
     "source": "https://github.com/austrellum/navigator",
     "discussion": "https://wc.12hp.ch/wc/res/4130.html",
     "feedback": "https://tally.so/r/mO5NJM",
@@ -11,19 +11,52 @@
   "data": {
     "sites": [
       {
-        "id": "wkki2ufbs7lbd7li3bpomaiwdqu67dblfg3auoldksaqrgrlcz252lqd-onion",
+        "id": "kobchan-run-place",
         "urls": [
-          "http://wkki2ufbs7lbd7li3bpomaiwdqu67dblfg3auoldksaqrgrlcz252lqd.onion/",
-          "http://qyj4vv3bg47ip2y5chludl24cba2mooqtaxzh75aweznsiyx64mq.b32.i2p/",
-          "http://[200:a7d0:d173:fe40:a96e:f64:8919:1267]/"
+          "http://kobchan.run.place/",
+          "http://kobchan.prtcl.icu/",
+          "http://kobchan.nya.pub/",
+          "http://swtb7yu4uy4yusemvt2ljmu3x7xpukogjc2y3smmpdk6c4vvgk5p3vid.onion/"
         ],
-        "created": "2024-12-30",
+        "created": "2025-01-19",
+        "tagsIds": [
+          "new",
+          "live",
+          "www",
+          "tor",
+          "cheap",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "ritsuchbxdjeuhcj5mp4e3mfndlzzhiceaq7mcwmokesxde5p22gviyd-onion",
+        "urls": [
+          "http://ritsuchbxdjeuhcj5mp4e3mfndlzzhiceaq7mcwmokesxde5p22gviyd.onion/",
+          "http://ritsuchan.i2p/",
+          "http://ritsuch3huwzg56jdzz7de3fy7c2amxqvgi7v7e4g4cakftwzvyq.b32.i2p/"
+        ],
+        "created": "2025-01-15",
         "tagsIds": [
           "new",
           "live",
           "tor",
           "i2p",
-          "yggdrasil",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "wkki2ufbs7lbd7li3bpomaiwdqu67dblfg3auoldksaqrgrlcz252lqd-onion",
+        "urls": [
+          "http://wkki2ufbs7lbd7li3bpomaiwdqu67dblfg3auoldksaqrgrlcz252lqd.onion/",
+          "http://qyj4vv3bg47ip2y5chludl24cba2mooqtaxzh75aweznsiyx64mq.b32.i2p/"
+        ],
+        "created": "2024-12-30",
+        "tagsIds": [
+          "live",
+          "tor",
+          "i2p",
           "board",
           "ru"
         ]
@@ -35,6 +68,7 @@
         ],
         "created": "2024-10-02",
         "tagsIds": [
+          "move",
           "live",
           "www",
           "board",
@@ -49,6 +83,7 @@
         ],
         "created": "2024-10-01",
         "tagsIds": [
+          "move",
           "live",
           "tor",
           "i2p",
@@ -78,6 +113,7 @@
         ],
         "created": "2024-08-19",
         "tagsIds": [
+          "move",
           "live",
           "i2p",
           "obscure",
@@ -93,6 +129,7 @@
         ],
         "created": "2024-08-07",
         "tagsIds": [
+          "move",
           "live",
           "www",
           "exapach",
@@ -156,8 +193,7 @@
         ],
         "created": "2024-07-16",
         "tagsIds": [
-          "move",
-          "live",
+          "dead",
           "tor",
           "board",
           "ru"
@@ -204,6 +240,7 @@
         ],
         "created": "2024-07-06",
         "tagsIds": [
+          "move",
           "live",
           "tor",
           "i2p",
@@ -221,8 +258,6 @@
         "tagsIds": [
           "live",
           "www",
-          "tor",
-          "blocked",
           "ex2ch",
           "mods",
           "board",
@@ -259,7 +294,6 @@
           "live",
           "www",
           "tor",
-          "blocked",
           "ex2ch",
           "clone",
           "mods",
@@ -388,7 +422,6 @@
         "tagsIds": [
           "live",
           "www",
-          "blocked",
           "iich",
           "clone",
           "board",
@@ -420,6 +453,7 @@
         ],
         "created": "2024-02-24",
         "tagsIds": [
+          "move",
           "stub",
           "www",
           "ex2ch",
@@ -489,6 +523,7 @@
         ],
         "created": "2024-02-08",
         "tagsIds": [
+          "move",
           "live",
           "www",
           "mods",
@@ -553,6 +588,20 @@
         ]
       },
       {
+        "id": "technach-i2p",
+        "urls": [
+          "http://technach.i2p/",
+          "http://t3hhbbujrbpkcyh7v6fylyt5ourd3l5hepqdydg2zhryroklv5va.b32.i2p/"
+        ],
+        "created": "2024",
+        "tagsIds": [
+          "dead",
+          "i2p",
+          "board",
+          "ru"
+        ]
+      },
+      {
         "id": "bitardchan-rf-gd",
         "urls": [
           "https://bitardchan.rf.gd/"
@@ -589,7 +638,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "blocked",
           "cheap",
           "board",
           "ru"
@@ -662,6 +710,7 @@
         ],
         "created": "2023-09-10",
         "tagsIds": [
+          "move",
           "ghost",
           "tor",
           "i2p",
@@ -684,7 +733,6 @@
           "limited",
           "ex0ch",
           "clone",
-          "uxui",
           "board",
           "index",
           "news",
@@ -874,6 +922,7 @@
         ],
         "created": "2023-03-31",
         "tagsIds": [
+          "move",
           "ghost",
           "tor",
           "i2p",
@@ -893,7 +942,6 @@
           "www",
           "ex1ch",
           "clone",
-          "uxui",
           "board",
           "index",
           "news",
@@ -1017,7 +1065,6 @@
         "tagsIds": [
           "live",
           "www",
-          "blocked",
           "iich",
           "clone",
           "mods",
@@ -1274,6 +1321,7 @@
         ],
         "created": "2022-07-18",
         "tagsIds": [
+          "move",
           "live",
           "i2p",
           "board",
@@ -1291,6 +1339,7 @@
           "ru"
         ],
         "tagsIds": [
+          "move",
           "ghost",
           "tor",
           "i2p",
@@ -1309,7 +1358,6 @@
           "live",
           "www",
           "cheap",
-          "uxui",
           "index",
           "ru"
         ]
@@ -1321,6 +1369,7 @@
         ],
         "created": "2022-06-01",
         "tagsIds": [
+          "move",
           "live",
           "www",
           "iich",
@@ -1332,7 +1381,6 @@
         "id": "1chan-su",
         "urls": [
           "https://1chan.su/",
-          "https://1chan.lol/",
           "http://kolchh5ok22n7kmycnghqtie574gzkiz3ojebm574isvlfbkqtjqvdyd.onion/"
         ],
         "created": "2022-05-16",
@@ -1340,10 +1388,8 @@
           "live",
           "www",
           "tor",
-          "blocked",
           "ex1ch",
           "clone",
-          "uxui",
           "board",
           "index",
           "news",
@@ -1569,6 +1615,21 @@
         ]
       },
       {
+        "id": "lurkmore-media",
+        "urls": [
+          "https://lurkmore.media/"
+        ],
+        "created": "2021-02-20",
+        "tagsIds": [
+          "new",
+          "live",
+          "www",
+          "archive",
+          "wiki",
+          "ru"
+        ]
+      },
+      {
         "id": "bchan-myqip-ru",
         "urls": [
           "https://bchan.myqip.ru/"
@@ -1667,7 +1728,7 @@
         "id": "chan-city",
         "urls": [
           "https://chan.city/",
-          "http://chanes.uwu.mx/"
+          "https://chanes.uwu.mx/"
         ],
         "created": "2020-08-09",
         "tagsIds": [
@@ -1794,6 +1855,35 @@
           "www",
           "board",
           "ru"
+        ]
+      },
+      {
+        "id": "8chan-moe",
+        "urls": [
+          "https://8chan.moe/",
+          "https://8chan.se/",
+          "https://8chan.cc/",
+          "http://alephchvkipd2houttjirmgivro5pxullvcgm4c47ptm7mhubbja6kad.onion/"
+        ],
+        "created": "2020-04-21",
+        "paths": [
+          "bb",
+          "ru"
+        ],
+        "tagsIds": [
+          "new",
+          "live",
+          "www",
+          "tor",
+          "board",
+          "ar",
+          "en",
+          "es",
+          "hi",
+          "it",
+          "ja",
+          "ru",
+          "sl"
         ]
       },
       {
@@ -2004,7 +2094,6 @@
         "tagsIds": [
           "live",
           "www",
-          "blocked",
           "exapach",
           "clone",
           "board",
@@ -2087,7 +2176,6 @@
           "www",
           "tor",
           "i2p",
-          "blocked",
           "ex2ch",
           "clone",
           "mods",
@@ -2194,11 +2282,10 @@
           "ru"
         ],
         "tagsIds": [
-          "ghost",
+          "live",
           "www",
           "tor",
           "i2p",
-          "blocked",
           "foreign",
           "board",
           "de",
@@ -2295,7 +2382,6 @@
           "readonly",
           "www",
           "foreign",
-          "uxui",
           "archive",
           "en",
           "ru"
@@ -2667,7 +2753,6 @@
         "tagsIds": [
           "ghost",
           "www",
-          "blocked",
           "cheap",
           "obscure",
           "board",
@@ -2850,8 +2935,7 @@
           "https://endchan.gg/",
           "https://endchan.org/",
           "http://endchancxfbnrfgauuxlztwlckytq7rgeo5v6pc2zd4nyqo3khfam4ad.onion/",
-          "http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion/",
-          "http://kqrtg5wz4qbyjprujkz33gza7r73iw3ainqp1mz5zmu16symcdwy.loki/"
+          "http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion/"
         ],
         "created": "2015-12-20",
         "paths": [
@@ -2869,8 +2953,6 @@
           "live",
           "www",
           "tor",
-          "loki",
-          "blocked",
           "foreign",
           "board",
           "ar",
@@ -3113,7 +3195,6 @@
           "live",
           "www",
           "tor",
-          "uxui",
           "board",
           "ru"
         ]
@@ -3657,7 +3738,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "blocked",
           "ex2ch",
           "mods",
           "board",
@@ -4896,7 +4976,6 @@
         "tagsIds": [
           "live",
           "www",
-          "blocked",
           "ex0ch",
           "mods",
           "board",
@@ -5170,7 +5249,6 @@
         "tagsIds": [
           "live",
           "www",
-          "blocked",
           "ex2ch",
           "clone",
           "mods",
@@ -5235,14 +5313,17 @@
         ]
       },
       {
-        "id": "urbanculture-in",
+        "id": "urbanculture-media",
         "urls": [
-          "http://urbanculture.in/"
+          "https://urbanculture.media/",
+          "http://urbanculture.in/",
+          "http://56p32yrjr7h3bgfvrk3qqzvu2s7mhpsq7rmbu7vsev5kyywbhcoorsqd.onion/"
         ],
         "created": "2011-09-16",
         "tagsIds": [
           "live",
           "www",
+          "tor",
           "wiki",
           "ru"
         ]
@@ -5282,7 +5363,6 @@
         "tagsIds": [
           "live",
           "www",
-          "uxui",
           "obscure",
           "chat",
           "stream",
@@ -5450,7 +5530,6 @@
           "unlisted",
           "www",
           "foreign",
-          "uxui",
           "board",
           "fi",
           "ru"
@@ -5584,8 +5663,9 @@
         ]
       },
       {
-        "id": "arhivach-top",
+        "id": "arhivach-hk",
         "urls": [
+          "https://arhivach.hk/",
           "https://arhivach.top/",
           "https://arhivach.ng/",
           "https://arhivach.site/",
@@ -5937,7 +6017,6 @@
           "live",
           "www",
           "iich",
-          "uxui",
           "mods",
           "board",
           "ru"
@@ -6083,7 +6162,7 @@
       {
         "id": "bnw-im",
         "urls": [
-          "http://bnw.im/"
+          "https://bnw.im/"
         ],
         "created": "2010-04-18",
         "tagsIds": [
@@ -6294,7 +6373,6 @@
           "live",
           "www",
           "tor",
-          "blocked",
           "ex2ch",
           "archive",
           "ru"
@@ -6410,7 +6488,6 @@
         "tagsIds": [
           "ghost",
           "www",
-          "blocked",
           "foreign",
           "board",
           "de",
@@ -7121,7 +7198,7 @@
       {
         "id": "coyc-net",
         "urls": [
-          "http://coyc.net/"
+          "https://coyc.net/"
         ],
         "created": "2008-08-04",
         "tagsIds": [
@@ -7137,7 +7214,7 @@
       {
         "id": "iichan-eroge-blogspot-com",
         "urls": [
-          "http://iichan-eroge.blogspot.com/"
+          "https://iichan-eroge.blogspot.com/"
         ],
         "created": "2008-08-03",
         "tagsIds": [
@@ -7175,7 +7252,6 @@
           "live",
           "www",
           "limited",
-          "blocked",
           "board",
           "stream",
           "ru"
@@ -7288,7 +7364,6 @@
         "tagsIds": [
           "live",
           "www",
-          "blocked",
           "iich",
           "board",
           "ru"
@@ -7415,7 +7490,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "blocked",
           "index",
           "wiki",
           "ru"
@@ -7471,7 +7545,6 @@
         "tagsIds": [
           "live",
           "www",
-          "blocked",
           "iich",
           "mods",
           "board",
@@ -7593,7 +7666,7 @@
       {
         "id": "ivchan-net",
         "urls": [
-          "https://ivchan.net/"
+          "http://ivchan.net/"
         ],
         "tagsIds": [
           "live",
@@ -7666,19 +7739,6 @@
           "foreign",
           "board",
           "en",
-          "ru"
-        ]
-      },
-      {
-        "id": "technach-i2p",
-        "urls": [
-          "http://technach.i2p/",
-          "http://t3hhbbujrbpkcyh7v6fylyt5ourd3l5hepqdydg2zhryroklv5va.b32.i2p/"
-        ],
-        "tagsIds": [
-          "dead",
-          "i2p",
-          "board",
           "ru"
         ]
       },
@@ -7821,16 +7881,6 @@
         "id": "i2p",
         "parentId": "net",
         "description": "Доступно в сети I2P"
-      },
-      {
-        "id": "loki",
-        "parentId": "net",
-        "description": "Доступно в сети Lokinet"
-      },
-      {
-        "id": "yggdrasil",
-        "parentId": "net",
-        "description": "Доступно в сети Yggdrasil"
       },
       {
         "id": "access",
@@ -7993,6 +8043,11 @@
         "description": "Финский язык"
       },
       {
+        "id": "hi",
+        "parentId": "locale",
+        "description": "Хинди"
+      },
+      {
         "id": "hu",
         "parentId": "locale",
         "description": "Венгерский язык"
@@ -8036,6 +8091,11 @@
         "id": "ru",
         "parentId": "locale",
         "description": "Русский язык"
+      },
+      {
+        "id": "sl",
+        "parentId": "locale",
+        "description": "Словенский язык"
       },
       {
         "id": "tr",

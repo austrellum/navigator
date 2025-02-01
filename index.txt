@@ -1,13 +1,19 @@
 НАВИГАТОР БОРДОСФЕРЫ
 
-Редакция от 1 января 2025 (v1.19.0-n27)
-Всего 530, доступно 128
+Редакция от 1 февраля 2025 (v1.20.0-n28)
+Всего 534, доступно 120
 
-Живые (79)
+Живые (83)
 
-— [+++] http://wkki2ufbs7lbd7li3bpomaiwdqu67dblfg3auoldksaqrgrlcz252lqd.onion/ 2024
+— [+++] http://kobchan.run.place/ 2025 #cheap
+  — http://kobchan.prtcl.icu/
+  — http://kobchan.nya.pub/
+  — http://swtb7yu4uy4yusemvt2ljmu3x7xpukogjc2y3smmpdk6c4vvgk5p3vid.onion/
+— [+++] http://ritsuchbxdjeuhcj5mp4e3mfndlzzhiceaq7mcwmokesxde5p22gviyd.onion/ 2025
+  — http://ritsuchan.i2p/
+  — http://ritsuch3huwzg56jdzz7de3fy7c2amxqvgi7v7e4g4cakftwzvyq.b32.i2p/
+— http://wkki2ufbs7lbd7li3bpomaiwdqu67dblfg3auoldksaqrgrlcz252lqd.onion/ 2024
   — http://qyj4vv3bg47ip2y5chludl24cba2mooqtaxzh75aweznsiyx64mq.b32.i2p/
-  — http://[200:a7d0:d173:fe40:a96e:f64:8919:1267]/
 — https://nerealchan1.xyz/ 2024
 — http://ya4f65sgciiylr7yg2bvfc26mwdq2kpxjasczfvzu72d34a44lxtguqd.onion/ 2024
   — http://if4xm4xvudghhsw3b34ac26xsuc3mei4s4eykpl4gzslslujpopq.b32.i2p/
@@ -17,17 +23,15 @@
 — https://apachan.x10.bz/ 2024 #exapach #cheap
 — https://mint.do.am/ 2024 #ex1ch #cheap #obscure
 — https://1chna.ru/ 2024 #ex1ch #clone #index
-— http://ejchan3q3c42bzcuios5n6fqzhavsbz5vtawdc3vlonnvue66cuy4byd.onion/ 2024
-  — http://taochan67ewnv22yzxvldythp3ljvlxtnjrdzzpkdtdlv3kmroclf6yd.onion/
 — http://fykllpcfh2ndwl2iomavkxtcrlfo3gdcpejxilbkldu47xe2hw27kjid.onion/ 2024 #obscure
   — http://text.i2p/
   — http://o4npre32mrriiv2pnd64ws3v2sjrk4cbcqjfkpzsadkk7cjaqixq.b32.i2p/
-— https://ejchan.cc/ 2024 #blocked #ex2ch #mods
-— https://escapechan.fun/ 2024 #blocked #ex2ch #clone #mods
+— https://ejchan.cc/ 2024 #ex2ch #mods
+— https://escapechan.fun/ 2024 #ex2ch #clone #mods
   — https://escapechan.online/
   — https://escapechan.ru/
   — http://mk2dodftctwgnux6z7iafm5tcyj7xrv7aytlh25zka45m7svvb6olfyd.onion/
-— https://dobrochan.nl/ 2024 #blocked #iich #clone #stream #wiki
+— https://dobrochan.nl/ 2024 #iich #clone #stream #wiki
 — https://kuklobunt.org/ 2024 #blog
 — https://catarsys.ru/ 2024 #limited
 — http://chatnovgoroddoska.ru/ 2024
@@ -40,7 +44,7 @@
 — http://7jdf5v63lmgtx2ccnkevo4y63aat6t6aqirxmat7qgcb4bxhhc27epqd.onion/ 2023
   — http://lunach.i2p/
   — http://rju7h4gwust4ptaiqhql7m7nvor45ez5675v7r3rza2egskkrmga.b32.i2p/
-— https://rf.dobrochan.net/ 2023 #blocked #iich #clone #mods #archive
+— https://rf.dobrochan.net/ 2023 #iich #clone #mods #archive
 — http://nullnyanvapwq3ou4gbc62y26uiggj5ztbur7mzxrnjhfwxu43jbxtqd.onion/ 2023 #ex0ch #clone
   — http://nullnyan.i2p/
   — http://xkih5s3yp75pqdvwdqo3dq2vtkxg2ddnfawtdfchk6wmcthvdaoa.b32.i2p/
@@ -49,10 +53,9 @@
 — http://альфачан.рф/ 2022 #exapach
 — http://nestchan.i2p/ 2022
   — http://wzwlwxju3orzbuld7cjtia2z4fqp2vt7orjdzmsz3ynlqr3ewokq.b32.i2p/
-— https://austrellum.github.io/navigator 2022 #cheap #uxui #index
+— https://austrellum.github.io/navigator 2022 #cheap #index
 — https://nabeg.in/ 2022 #iich #wiki
-— https://1chan.su/ 2022 #blocked #ex1ch #clone #uxui #index #news
-  — https://1chan.lol/
+— https://1chan.su/ 2022 #ex1ch #clone #index #news
   — http://kolchh5ok22n7kmycnghqtie574gzkiz3ojebm574isvlfbkqtjqvdyd.onion/
 — https://shitshare.xyz/ 2022 #obscure #chat
   — http://jn2nxlwe5cxifl7p7dixow2kcyow5wdm6f6h6p4q5u356gyeu3tk5bqd.onion/
@@ -62,6 +65,7 @@
   — http://ninechtv5neapzmvmivoqel6kstawcfwo4kavwweahu2wi6jxpde74ad.onion/
   — http://9ch.i2p/
   — http://ninechjiwpw5cs4t25sa4pvtacgwhrsptgmopidfulbt5nnxxryq.b32.i2p/
+— [+++] https://lurkmore.media/ 2021 #archive #wiki
 — http://bitchanr4b64govofzjthtu6qc4ytrbuwbgynapkjileajpycioikxad.onion/ /board/B…xGXcb/1 2020 #foreign
   — http://bitchan.i2p/
   — http://waycuw2c27ruakfblkf5tcegwmt3ot445dlfoypil6bzmm4yxg7a.b32.i2p/
@@ -69,30 +73,39 @@
 — https://wc.12hp.ch/ 2020 #ex1ch #cheap
 — http://kislitsa.i2p/ 2020 #index
   — http://khceo3smaxtng2tnuicmcbhdnkk2j6myi4nkigcux76qh3aabdhq.b32.i2p/
+— [+++] https://8chan.moe/ /bb /ru 2020
+  — https://8chan.se/
+  — https://8chan.cc/
+  — http://alephchvkipd2houttjirmgivro5pxullvcgm4c47ptm7mhubbja6kad.onion/
 — https://8kun.top/ /cafechan 2019 #foreign
   — http://w7m432cocr665kf5tlpcxojwldajr3njd2etcxwhpbrt44eemuxhp7ad.onion/
 — https://014chan.org/ 2019 #iich
   — http://bulochka.org/
-— https://apachan.space/ 2019 #blocked #exapach #clone
+— https://apachan.space/ 2019 #exapach #clone
   — https://apachan.icu/
 — https://neolurk.org/ 2018 #limited #clone #index #wiki
-— https://2channel.moe/ 2018 #blocked #ex2ch #clone #mods
+— https://2channel.moe/ 2018 #ex2ch #clone #mods
   — http://2channel5s3pvmo2364gs25e5xrx7nz6kivqhpj6ihh3df4hykvxysqd.onion/
   — http://2channel.i2p/
   — http://wirxk4kulmd7v6qmttltnu5nx2vtchzvrg7ewocejrvdjcaiv5sq.b32.i2p/
+— https://kohlchan.net/ /ru 2018 #foreign
+  — https://kohlchan.top/
+  — https://kohlchan.ws/
+  — http://kohlchanvwpfx6hthoti5fvqsjxgcwm3tmddvpduph5fqntv5affzfqd.onion/
+  — http://kohlchan.i2p/
+  — http://kohlchanvn6vtsujobyw4pt5naaszmxqutd5hsdatmxfe2qaqhya.b32.i2p/
 — https://neochan.ru/ 2018
   — https://neochan.net/
   — http://neochan7n7xp2v6yvw2u6zedciwlhot4kwftqpuoxrjwet3iprcms2qd.onion/
 — https://kpop.re/ 2017
-— https://endchan.net/ /bb /ca /dobrochan /dota /genshin /lgbt /po /polru /rus 2015 #blocked #foreign
+— https://endchan.net/ /bb /ca /dobrochan /dota /genshin /lgbt /po /polru /rus 2015 #foreign
   — https://endchan.gg/
   — https://endchan.org/
   — http://endchancxfbnrfgauuxlztwlckytq7rgeo5v6pc2zd4nyqo3khfam4ad.onion/
   — http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion/
-  — http://kqrtg5wz4qbyjprujkz33gza7r73iw3ainqp1mz5zmu16symcdwy.loki/
 — https://wiki.1chan.ca/ 2015 #index #wiki
 — http://pfpmd7dd5ijt4add2sfi4djsaij4u3ebvnwvyvuj6aeipe2f5llptkid.onion/ 2015 #obscure
-— https://allchan.io/ 2015 #uxui
+— https://allchan.io/ 2015
   — http://v5ocmeo5igswk45cq3vpo5iomjxy6spzugaqwfx3ublqbxdffbb4pgid.onion/
 — https://owlchan.org/ 2014 #iich
 — https://1chan.ca/ 2014 #ex1ch #clone #news
@@ -108,14 +121,17 @@
   — https://314n.ru/
 — https://ponyach.com/ 2012
 — https://0-chan.ru/ 2012 #ex0ch #clone #mods
-— https://alterchan.net/ 2012 #blocked #ex0ch #mods
+— https://alterchan.net/ 2012 #ex0ch #mods
   — https://alterchan.in/
 — https://hackwren.ch/ 2011
-— https://dva-ch.net/ 2011 #blocked #ex2ch #clone #mods
+— https://dva-ch.net/ 2011 #ex2ch #clone #mods
   — https://2ch.rip/
-— http://urbanculture.in/ 2011 #wiki
-— https://tuzach.in/ 2011 #uxui #obscure #chat #stream
-— https://arhivach.top/ 2011 #iich #ex2ch #archive
+— https://urbanculture.media/ 2011 #wiki
+  — http://urbanculture.in/
+  — http://56p32yrjr7h3bgfvrk3qqzvu2s7mhpsq7rmbu7vsev5kyywbhcoorsqd.onion/
+— https://tuzach.in/ 2011 #obscure #chat #stream
+— https://arhivach.hk/ 2011 #iich #ex2ch #archive
+  — https://arhivach.top/
   — https://arhivach.ng/
   — https://arhivach.site/
   — https://arhivach.xyz/
@@ -123,10 +139,10 @@
 — https://2ch.hk/ 2010 #ex2ch #clone #mods
   — https://2ch.life/
   — https://2-ch.ru/
-— https://horochan.ru/ 2010 #iich #uxui #mods
+— https://horochan.ru/ 2010 #iich #mods
 — http://zadraw.ch/ 2010
-— http://bnw.im/ 2010 #obscure #chat
-— https://m2ch.hk/ 2010 #blocked #ex2ch #archive
+— https://bnw.im/ 2010 #obscure #chat
+— https://m2ch.hk/ 2010 #ex2ch #archive
   — https://m2ch.gq/
   — https://m2ch.cf/
   — https://m2ch.lib/
@@ -139,12 +155,12 @@
   — https://410chan.ru/
 — https://anon.fm/ /board 2009 #limited #stream #wiki
   — http://radioanon.ru/
-— https://anoma.ch/ 2008 #limited #blocked #stream
+— https://anoma.ch/ 2008 #limited #stream
   — https://anoma.li/
-— https://nowere.net/ 2008 #blocked #iich
-— https://iichan.hk/ 2007 #blocked #iich #mods #index
+— https://nowere.net/ 2008 #iich
+— https://iichan.hk/ 2007 #iich #mods #index
   — https://iichan.lol/
-— https://ivchan.net/ #iich #archive
+— http://ivchan.net/ #iich #archive
 — http://ichan.ru/ /a /l /vg #iich #archive #gallery
 — https://ii.yakuji.moe/ /abe /dev #iich #archive
   — http://booru.yakuji.moe/
@@ -155,7 +171,7 @@
   — http://nowere.yakuji.moe/
 — https://yachan.dev.yandex.net/ #limited
 
-Отмирающие (29)
+Отмирающие (28)
 
 — https://1chan.mmohost.me/ 2024 #ex1ch #cheap #clone #obscure
 — http://pinachjukrv62ntdxw5qwhpp3vmzupi6kwp5dekcisyb6vztrpb7vzad.onion/ 2023 #clone #obscure
@@ -169,20 +185,14 @@
 — http://taozgyb2jfbj567lzvfjse4c2snsb37tq3o2iucflxqoilogwc6bx2qd.onion/ /ru 2022 #foreign
   — http://y5hr627jx2kzyaxlg3i5ohbmlj37eduamz67qd23kkg3dy4hg5ea.b32.i2p/
 — https://chan.city/ 2020 #foreign #index
-  — http://chanes.uwu.mx/
+  — https://chanes.uwu.mx/
 — https://iibooru.org/ 2019 #limited #iich #gallery
 — https://bona.cafe/ 2018
 — https://2fan.ru/ch 2018
-— https://kohlchan.net/ /ru 2018 #blocked #foreign
-  — https://kohlchan.top/
-  — https://kohlchan.ws/
-  — http://kohlchanvwpfx6hthoti5fvqsjxgcwm3tmddvpduph5fqntv5affzfqd.onion/
-  — http://kohlchan.i2p/
-  — http://kohlchanvn6vtsujobyw4pt5naaszmxqutd5hsdatmxfe2qaqhya.b32.i2p/
 — https://whitegospodin.blogspot.com/ 2017 #iich #cheap #blog
 — https://0chantech.userecho.com/ 2017 #limited #ex0ch
 — https://bbs.iriscot.org/ 2017
-— https://merzochan.at.ua/ 2016 #blocked #cheap #obscure
+— https://merzochan.at.ua/ 2016 #cheap #obscure
 — https://hramopedia.org/ 2016 #limited #iich #wiki
 — https://0chan.one/ 2015 #ex0ch #index
 — https://vkchan.ru/ 2014 #obscure
@@ -191,13 +201,13 @@
 — https://tinuviall.livejournal.com/ 2010 #limited #ex2ch #cheap #blog
 — https://iichantra.ru/ 2010 #limited #iich #blog
 — https://art.4otaku.org/ 2010 #iich #gallery
-— https://hamstakilla.com/ /ru 2009 #blocked #foreign
+— https://hamstakilla.com/ /ru 2009 #foreign
   — https://kctier.club/
   — https://krautchan.rip/
   — https://bernd.group/
   — https://xcomm.id/
-— http://coyc.net/ 2008 #limited #iich #blog #index
-— http://iichan-eroge.blogspot.com/ 2008 #limited #iich #cheap #blog
+— https://coyc.net/ 2008 #limited #iich #blog #index
+— https://iichan-eroge.blogspot.com/ 2008 #limited #iich #cheap #blog
 — https://noobtype.ru/ 2008 #limited #iich #index #wiki
 — http://overchan.ru/ 2008 #iich #index
   — http://12ch.ru/
@@ -209,7 +219,7 @@
 
 — https://board.clf3.in/ 2024 #cheap
 — http://darkness.epizy.com/ 2020 #cheap
-— https://legacy.arisuchan.jp/ /ru 2017 #foreign #uxui #archive
+— https://legacy.arisuchan.jp/ /ru 2017 #foreign #archive
 — https://board.everypony.ru/ 2011 #archive
 — http://102chan-memorial.i2p/ #archive
   — http://xxu3lso4h2rh6wmrxiou3ax7r7la7x6dhoepnku3jvrlwp35pefq.b32.i2p/
@@ -235,9 +245,11 @@
 — https://brchan.org/ #foreign
   — http://brchanansdnhvvnm.onion/
 
-Мертвые (398)
+Мертвые (399)
 
 — https://1chan.fun/ 2024 #ex1ch #clone
+— http://ejchan3q3c42bzcuios5n6fqzhavsbz5vtawdc3vlonnvue66cuy4byd.onion/ 2024
+  — http://taochan67ewnv22yzxvldythp3ljvlxtnjrdzzpkdtdlv3kmroclf6yd.onion/
 — https://kochan.do.am/ 2024 #cheap #obscure
 — http://wje3mhl55diwkidbqeh4lteurb3j5cgxyw33vqoqunpau67vfvvlhcqd.onion/ 2024 #obscure
   — http://tttt.i2p/
@@ -252,14 +264,16 @@
 — https://wchan.free.nf/ 2024 #cheap
 — http://smallchan.i2p/ 2024
   — http://ucusncqzojo3bjem76zssfomb5yfuyvmbvpvnbhkb3z2nntdxxha.b32.i2p/
+— http://technach.i2p/ 2024
+  — http://t3hhbbujrbpkcyh7v6fylyt5ourd3l5hepqdydg2zhryroklv5va.b32.i2p/
 — https://bitardchan.rf.gd/ 2023 #cheap
 — https://makachan.wuaze.com/ 2023 #cheap
-— https://trapach.kesug.com/ 2023 #blocked #cheap
+— https://trapach.kesug.com/ 2023 #cheap
 — https://lostchat.rf.gd/ 2023 #cheap #obscure #chat
 — https://jojoch.rf.gd/ 2023 #cheap
 — https://mochan.rf.gd/ 2023 #cheap #obscure #chat
 — http://omegachan.hk.swtest.ru/ 2023 #cheap
-— https://lentachan.ru/ 2023 #limited #ex0ch #clone #uxui #index #news
+— https://lentachan.ru/ 2023 #limited #ex0ch #clone #index #news
   — https://lenta.0chan.one/
 — https://papachan.rf.gd/ 2023 #exapach #cheap #clone
 — https://reee.re/ 2023
@@ -273,7 +287,7 @@
 — https://varyachan.life/ 2023 #ex2ch
   — http://varya2mudm4b73s2ec2nuurnmk6lju76vnwnjsev6zyhfq4to67kc5yd.onion/
 — http://j33111470.myjino.ru/forestchan 2023 #limited #cheap
-— https://1chan.plus/ 2023 #ex1ch #clone #uxui #index #news
+— https://1chan.plus/ 2023 #ex1ch #clone #index #news
 — https://0chan.wiki/ 2023 #limited #wiki
 — https://booru.0chan.plus/ 2023 #limited #ex0ch #gallery
 — https://0chna.ru/ 2023 #ex0ch #clone
@@ -418,7 +432,7 @@
 — http://board.confach.ru/ 2014
 — http://honokakawai.com/ 2014 #ex2ch #clone
 — http://dvach.org/ 2013 #ex2ch #clone
-— https://rfch.rocks/ 2013 #blocked #ex2ch #mods
+— https://rfch.rocks/ 2013 #ex2ch #mods
   — https://rfch.xyz/
 — http://apachan.in/ 2013 #exapach #clone
 — http://netchan.ru/ 2013
@@ -659,7 +673,7 @@
 — http://jach.ru/ 2007
 — http://b.duckroll.ru/ 2007
 — http://lulz.ru/ 2007
-— http://lurkmore.ru/ 2007 #blocked #index #wiki
+— http://lurkmore.ru/ 2007 #index #wiki
   — https://lurkmore.co/
   — https://lurkmo.re/
   — https://lurkmore.net/
@@ -674,15 +688,13 @@
 — https://obr.li/ #ex2ch
 — http://pidorchan.i2p/ #obscure #chat
   — http://pidorgmob3uchxfepm7ywvfbjwo5f232us3lkegvbolwv2qybesa.b32.i2p/
-— http://technach.i2p/
-  — http://t3hhbbujrbpkcyh7v6fylyt5ourd3l5hepqdydg2zhryroklv5va.b32.i2p/
 — http://tdsrvhos656xypxsqtkqmiwefuvlyqmnvk5faoo23oh2m4xqg4gr47ad.onion/ /polru #foreign
 — http://wakachan.org/ /unyl #iich #foreign
 
 Исключенные (3)
 
 — https://zchan.app/ 2020
-— https://ylilauta.org/ /russia 2011 #foreign #uxui
+— https://ylilauta.org/ /russia 2011 #foreign
 — https://370ch.lt/ /int 2010 #foreign
 
 Условные обозначения
