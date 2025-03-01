@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.20.0-n28",
+    "version": "1.21.0-n29",
     "created": "2022-06-06",
-    "updated": "2025-02-01",
+    "updated": "2025-03-01",
     "source": "https://github.com/austrellum/navigator",
     "discussion": "https://wc.12hp.ch/wc/res/4130.html",
     "feedback": "https://tally.so/r/mO5NJM",
@@ -10,6 +10,72 @@
   },
   "data": {
     "sites": [
+      {
+        "id": "1chan-cyou",
+        "urls": [
+          "https://1chan.cyou/",
+          "http://kolchan72pmrg6a6okrfx3v3ia6gbkzluc4otfcsabkyl7u6gpwaglqd.onion/"
+        ],
+        "created": "2025-02-16",
+        "tagsIds": [
+          "new",
+          "live",
+          "www",
+          "tor",
+          "ex1ch",
+          "clone",
+          "board",
+          "news",
+          "ru"
+        ]
+      },
+      {
+        "id": "texchan-i2p",
+        "urls": [
+          "http://texchan.i2p/",
+          "http://3ltsdikanxrdenpjitjt4hndmq77c2l2pxz2qrwurycprlwuaoiq.b32.i2p/"
+        ],
+        "created": "2025-02-13",
+        "tagsIds": [
+          "new",
+          "live",
+          "i2p",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "4riba-veliona-no",
+        "urls": [
+          "https://4riba.veliona.no/"
+        ],
+        "created": "2025-02-05",
+        "tagsIds": [
+          "new",
+          "unlisted",
+          "www",
+          "cheap",
+          "clone",
+          "index",
+          "ru"
+        ]
+      },
+      {
+        "id": "overkob-nekoweb-org",
+        "urls": [
+          "https://overkob.nekoweb.org/"
+        ],
+        "created": "2025-01-28",
+        "tagsIds": [
+          "new",
+          "unlisted",
+          "www",
+          "cheap",
+          "clone",
+          "index",
+          "ru"
+        ]
+      },
       {
         "id": "kobchan-run-place",
         "urls": [
@@ -20,8 +86,7 @@
         ],
         "created": "2025-01-19",
         "tagsIds": [
-          "new",
-          "live",
+          "unlisted",
           "www",
           "tor",
           "cheap",
@@ -38,10 +103,43 @@
         ],
         "created": "2025-01-15",
         "tagsIds": [
-          "new",
           "live",
           "tor",
           "i2p",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "flchan-prtcl-icu",
+        "urls": [
+          "https://flchan.prtcl.icu/",
+          "http://6fh7ey4r26vr5po43gq3igcy2r4vhv4ujol6qobsylv5bzz25illrrqd.onion/"
+        ],
+        "created": "2025",
+        "tagsIds": [
+          "new",
+          "unlisted",
+          "www",
+          "tor",
+          "cheap",
+          "board",
+          "en",
+          "ru"
+        ]
+      },
+      {
+        "id": "o1ch-one-connect-ru",
+        "urls": [
+          "https://o1ch.one-connect.ru/"
+        ],
+        "created": "2024-12-15",
+        "tagsIds": [
+          "new",
+          "unlisted",
+          "www",
+          "cheap",
+          "obscure",
           "board",
           "ru"
         ]
@@ -54,8 +152,24 @@
         ],
         "created": "2024-12-30",
         "tagsIds": [
+          "move",
           "live",
           "tor",
+          "i2p",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "xchan-i2p",
+        "urls": [
+          "http://xchan.i2p/",
+          "http://ntnvj3lavzql7ko5332fd5r7s4vryhkmka6rprrhh437qsi5sh3a.b32.i2p/"
+        ],
+        "created": "2024-10-02",
+        "tagsIds": [
+          "new",
+          "live",
           "i2p",
           "board",
           "ru"
@@ -68,8 +182,7 @@
         ],
         "created": "2024-10-02",
         "tagsIds": [
-          "move",
-          "live",
+          "dead",
           "www",
           "board",
           "ru"
@@ -83,8 +196,7 @@
         ],
         "created": "2024-10-01",
         "tagsIds": [
-          "move",
-          "live",
+          "dead",
           "tor",
           "i2p",
           "board",
@@ -113,8 +225,7 @@
         ],
         "created": "2024-08-19",
         "tagsIds": [
-          "move",
-          "live",
+          "dead",
           "i2p",
           "obscure",
           "board",
@@ -129,7 +240,6 @@
         ],
         "created": "2024-08-07",
         "tagsIds": [
-          "move",
           "live",
           "www",
           "exapach",
@@ -145,6 +255,7 @@
         ],
         "created": "2024-08-03",
         "tagsIds": [
+          "move",
           "live",
           "www",
           "ex1ch",
@@ -240,8 +351,7 @@
         ],
         "created": "2024-07-06",
         "tagsIds": [
-          "move",
-          "live",
+          "dead",
           "tor",
           "i2p",
           "obscure",
@@ -252,10 +362,12 @@
       {
         "id": "ejchan-cc",
         "urls": [
-          "https://ejchan.cc/"
+          "https://ejchan.cc/",
+          "https://ejchan.co/"
         ],
         "created": "2024-06-29",
         "tagsIds": [
+          "move",
           "live",
           "www",
           "ex2ch",
@@ -287,6 +399,7 @@
           "https://escapechan.fun/",
           "https://escapechan.online/",
           "https://escapechan.ru/",
+          "https://escapechan.pro/",
           "http://mk2dodftctwgnux6z7iafm5tcyj7xrv7aytlh25zka45m7svvb6olfyd.onion/"
         ],
         "created": "2024-06-23",
@@ -355,10 +468,10 @@
         ],
         "created": "2024-04-24",
         "tagsIds": [
-          "readonly",
+          "live",
           "www",
           "cheap",
-          "board",
+          "archive",
           "ru"
         ]
       },
@@ -369,7 +482,7 @@
         ],
         "created": "2024-04-24",
         "tagsIds": [
-          "dead",
+          "live",
           "www",
           "ex1ch",
           "cheap",
@@ -453,8 +566,7 @@
         ],
         "created": "2024-02-24",
         "tagsIds": [
-          "move",
-          "stub",
+          "dead",
           "www",
           "ex2ch",
           "clone",
@@ -523,8 +635,7 @@
         ],
         "created": "2024-02-08",
         "tagsIds": [
-          "move",
-          "live",
+          "unlisted",
           "www",
           "mods",
           "board",
@@ -710,8 +821,7 @@
         ],
         "created": "2023-09-10",
         "tagsIds": [
-          "move",
-          "ghost",
+          "dead",
           "tor",
           "i2p",
           "clone",
@@ -922,8 +1032,7 @@
         ],
         "created": "2023-03-31",
         "tagsIds": [
-          "move",
-          "ghost",
+          "dead",
           "tor",
           "i2p",
           "ex0ch",
@@ -1193,6 +1302,7 @@
         ],
         "created": "2022-11-29",
         "tagsIds": [
+          "move",
           "live",
           "www",
           "exapach",
@@ -1321,8 +1431,7 @@
         ],
         "created": "2022-07-18",
         "tagsIds": [
-          "move",
-          "live",
+          "dead",
           "i2p",
           "board",
           "ru"
@@ -1339,7 +1448,6 @@
           "ru"
         ],
         "tagsIds": [
-          "move",
           "ghost",
           "tor",
           "i2p",
@@ -1369,7 +1477,6 @@
         ],
         "created": "2022-06-01",
         "tagsIds": [
-          "move",
           "live",
           "www",
           "iich",
@@ -1621,7 +1728,6 @@
         ],
         "created": "2021-02-20",
         "tagsIds": [
-          "new",
           "live",
           "www",
           "archive",
@@ -1871,7 +1977,6 @@
           "ru"
         ],
         "tagsIds": [
-          "new",
           "live",
           "www",
           "tor",
@@ -1879,11 +1984,9 @@
           "ar",
           "en",
           "es",
-          "hi",
           "it",
           "ja",
-          "ru",
-          "sl"
+          "ru"
         ]
       },
       {
@@ -2379,7 +2482,7 @@
           "ru"
         ],
         "tagsIds": [
-          "readonly",
+          "live",
           "www",
           "foreign",
           "archive",
@@ -2957,18 +3060,12 @@
           "board",
           "ar",
           "en",
-          "eo",
           "es",
-          "hu",
-          "id",
           "it",
           "ja",
-          "ko",
           "lt",
-          "pl",
           "pt",
           "ru",
-          "tr",
           "zh-hk"
         ]
       },
@@ -5458,7 +5555,7 @@
         ],
         "created": "2011-05-18",
         "tagsIds": [
-          "readonly",
+          "live",
           "www",
           "archive",
           "ru"
@@ -7621,13 +7718,32 @@
         ]
       },
       {
+        "id": "wakachan-org",
+        "urls": [
+          "http://wakachan.org/"
+        ],
+        "created": "2004-07",
+        "paths": [
+          "unyl"
+        ],
+        "tagsIds": [
+          "dead",
+          "www",
+          "iich",
+          "foreign",
+          "board",
+          "en",
+          "ru"
+        ]
+      },
+      {
         "id": "102chan-memorial-i2p",
         "urls": [
           "http://102chan-memorial.i2p/",
           "http://xxu3lso4h2rh6wmrxiou3ax7r7la7x6dhoepnku3jvrlwp35pefq.b32.i2p/"
         ],
         "tagsIds": [
-          "readonly",
+          "live",
           "i2p",
           "archive",
           "ru"
@@ -7760,24 +7876,6 @@
         ]
       },
       {
-        "id": "wakachan-org",
-        "urls": [
-          "http://wakachan.org/"
-        ],
-        "paths": [
-          "unyl"
-        ],
-        "tagsIds": [
-          "dead",
-          "www",
-          "iich",
-          "foreign",
-          "board",
-          "en",
-          "ru"
-        ]
-      },
-      {
         "id": "ii-yakuji-moe",
         "urls": [
           "https://ii.yakuji.moe/",
@@ -7892,11 +7990,6 @@
         "description": "Ограничено владельцем"
       },
       {
-        "id": "blocked",
-        "parentId": "access",
-        "description": "Заблокировано третьим лицом"
-      },
-      {
         "id": "community",
         "description": "Принадлежность к сообществам"
       },
@@ -7943,11 +8036,6 @@
         "id": "clone",
         "parentId": "quality",
         "description": "Копирование атрибутов более известных проектов"
-      },
-      {
-        "id": "uxui",
-        "parentId": "quality",
-        "description": "Положительный опыт использования"
       },
       {
         "id": "obscure",

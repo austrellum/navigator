@@ -1,5 +1,41 @@
 [
   {
+    "name": "1chan.cyou",
+    "url": "https://1chan.cyou/",
+    "mirrors": [
+      "https://1chan.cyou/",
+      "http://kolchan72pmrg6a6okrfx3v3ia6gbkzluc4otfcsabkyl7u6gpwaglqd.onion/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "texchan.i2p",
+    "url": "http://texchan.i2p/",
+    "mirrors": [
+      "http://texchan.i2p/",
+      "http://3ltsdikanxrdenpjitjt4hndmq77c2l2pxz2qrwurycprlwuaoiq.b32.i2p/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "4riba.veliona.no",
+    "url": "https://4riba.veliona.no/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "overkob.nekoweb.org",
+    "url": "https://overkob.nekoweb.org/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "kobchan.run.place",
     "url": "http://kobchan.run.place/",
     "mirrors": [
@@ -25,11 +61,41 @@
     ]
   },
   {
+    "name": "flchan.prtcl.icu",
+    "url": "https://flchan.prtcl.icu/",
+    "mirrors": [
+      "https://flchan.prtcl.icu/",
+      "http://6fh7ey4r26vr5po43gq3igcy2r4vhv4ujol6qobsylv5bzz25illrrqd.onion/"
+    ],
+    "language": [
+      "en",
+      "ru"
+    ]
+  },
+  {
+    "name": "o1ch.one-connect.ru",
+    "url": "https://o1ch.one-connect.ru/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "wkki2ufbs7lbd7li3bpomaiwdqu67dblfg3auoldksaqrgrlcz252lqd.onion",
     "url": "http://wkki2ufbs7lbd7li3bpomaiwdqu67dblfg3auoldksaqrgrlcz252lqd.onion/",
     "mirrors": [
       "http://wkki2ufbs7lbd7li3bpomaiwdqu67dblfg3auoldksaqrgrlcz252lqd.onion/",
       "http://qyj4vv3bg47ip2y5chludl24cba2mooqtaxzh75aweznsiyx64mq.b32.i2p/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "xchan.i2p",
+    "url": "http://xchan.i2p/",
+    "mirrors": [
+      "http://xchan.i2p/",
+      "http://ntnvj3lavzql7ko5332fd5r7s4vryhkmka6rprrhh437qsi5sh3a.b32.i2p/"
     ],
     "language": [
       "ru"
@@ -144,6 +210,10 @@
   {
     "name": "ejchan.cc",
     "url": "https://ejchan.cc/",
+    "mirrors": [
+      "https://ejchan.cc/",
+      "https://ejchan.co/"
+    ],
     "language": [
       "ru"
     ]
@@ -162,6 +232,7 @@
       "https://escapechan.fun/",
       "https://escapechan.online/",
       "https://escapechan.ru/",
+      "https://escapechan.pro/",
       "http://mk2dodftctwgnux6z7iafm5tcyj7xrv7aytlh25zka45m7svvb6olfyd.onion/"
     ],
     "language": [
@@ -1012,11 +1083,9 @@
       "ar",
       "en",
       "es",
-      "hi",
       "it",
       "ja",
-      "ru",
-      "sl"
+      "ru"
     ]
   },
   {
@@ -1582,18 +1651,12 @@
     "language": [
       "ar",
       "en",
-      "eo",
       "es",
-      "hu",
-      "id",
       "it",
       "ja",
-      "ko",
       "lt",
-      "pl",
       "pt",
       "ru",
-      "tr",
       "zh"
     ]
   },
@@ -4054,6 +4117,14 @@
     ]
   },
   {
+    "name": "wakachan.org",
+    "url": "http://wakachan.org/",
+    "language": [
+      "en",
+      "ru"
+    ]
+  },
+  {
     "name": "102chan-memorial.i2p",
     "url": "http://102chan-memorial.i2p/",
     "mirrors": [
@@ -4132,14 +4203,6 @@
   {
     "name": "tdsrvhos656xypxsqtkqmiwefuvlyqmnvk5faoo23oh2m4xqg4gr47ad.onion",
     "url": "http://tdsrvhos656xypxsqtkqmiwefuvlyqmnvk5faoo23oh2m4xqg4gr47ad.onion/",
-    "language": [
-      "en",
-      "ru"
-    ]
-  },
-  {
-    "name": "wakachan.org",
-    "url": "http://wakachan.org/",
     "language": [
       "en",
       "ru"
