@@ -1,10 +1,89 @@
 [
   {
+    "name": "0chan.1chan.cyou",
+    "url": "https://0chan.1chan.cyou/",
+    "mirrors": [
+      "https://0chan.1chan.cyou/",
+      "http://ochko.i2p/",
+      "http://ochkothkzrdgg4iwmpl3fvsf7soeu4bbbs3rfb5eck5d3mr6ggxq.b32.i2p/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "ht6lluzqxi3zrylhfghoqwcilfbofpnzismugfvxufvyyxvxxuxmebad.onion",
+    "url": "http://ht6lluzqxi3zrylhfghoqwcilfbofpnzismugfvxufvyyxvxxuxmebad.onion/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "phimos.fun",
+    "url": "https://phimos.fun/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "blackchan.i2p",
+    "url": "http://blackchan.i2p/",
+    "mirrors": [
+      "http://blackchan.i2p/",
+      "http://2nryf7gcrox54gythgbqwkqi6xl3i7ldoaedd3oeos6ax2z5qpfa.b32.i2p/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "oeszxxcn5g5qjh4iqxfmotq5voswhnk5d26e6qn2d5w52jkv6vwjrnad.onion",
+    "url": "http://oeszxxcn5g5qjh4iqxfmotq5voswhnk5d26e6qn2d5w52jkv6vwjrnad.onion/",
+    "mirrors": [
+      "http://oeszxxcn5g5qjh4iqxfmotq5voswhnk5d26e6qn2d5w52jkv6vwjrnad.onion/",
+      "http://chiitan5e7ejmvtqs37q6k57bxhncjvdzk2u6hv4mngy2zewhsi46kad.onion/",
+      "http://chii.i2p/",
+      "http://chii4f4rwugtroicml72gej4ytkkwum3bh26d2feoed5kunht7aa.b32.i2p/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "web.decibel.by",
+    "url": "https://web.decibel.by/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "octoch.prtcl.icu",
+    "url": "https://octoch.prtcl.icu/",
+    "mirrors": [
+      "https://octoch.prtcl.icu/",
+      "http://7kftpqo7vng3vv77q4civseva5deryibcspp7kgpraqatchtez3a6fyd.onion/",
+      "http://0ctochan.i2p/",
+      "http://octochan.i2p/",
+      "http://k5ykjs4vczzsmiokqps4lvfi2voafjjv6lhqfbqeo5ndvl4fbxta.b32.i2p/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "alivechan.ch",
+    "url": "https://alivechan.ch/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "1chan.cyou",
     "url": "https://1chan.cyou/",
     "mirrors": [
       "https://1chan.cyou/",
-      "http://kolchan72pmrg6a6okrfx3v3ia6gbkzluc4otfcsabkyl7u6gpwaglqd.onion/"
+      "http://kolchan72pmrg6a6okrfx3v3ia6gbkzluc4otfcsabkyl7u6gpwaglqd.onion/",
+      "http://kolchfc6lm6ltwdj56z6wsptexlnulo3xtkjv5wr7z7frvdgi45q.b32.i2p/"
     ],
     "language": [
       "ru"
@@ -34,17 +113,6 @@
     ]
   },
   {
-    "name": "wkki2ufbs7lbd7li3bpomaiwdqu67dblfg3auoldksaqrgrlcz252lqd.onion",
-    "url": "http://wkki2ufbs7lbd7li3bpomaiwdqu67dblfg3auoldksaqrgrlcz252lqd.onion/",
-    "mirrors": [
-      "http://wkki2ufbs7lbd7li3bpomaiwdqu67dblfg3auoldksaqrgrlcz252lqd.onion/",
-      "http://qyj4vv3bg47ip2y5chludl24cba2mooqtaxzh75aweznsiyx64mq.b32.i2p/"
-    ],
-    "language": [
-      "ru"
-    ]
-  },
-  {
     "name": "xchan.i2p",
     "url": "http://xchan.i2p/",
     "mirrors": [
@@ -63,6 +131,17 @@
     ]
   },
   {
+    "name": "ckkpss.i2p",
+    "url": "http://ckkpss.i2p/",
+    "mirrors": [
+      "http://ckkpss.i2p/",
+      "http://ckkpsswi4k45ihka2hw4ooer3cikio35wgyhg44a2trju5gd5lea.b32.i2p/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "apachan.x10.bz",
     "url": "https://apachan.x10.bz/",
     "language": [
@@ -70,26 +149,8 @@
     ]
   },
   {
-    "name": "mint.do.am",
-    "url": "https://mint.do.am/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
     "name": "1chna.ru",
     "url": "https://1chna.ru/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "ejchan.cc",
-    "url": "https://ejchan.cc/",
-    "mirrors": [
-      "https://ejchan.cc/",
-      "https://ejchan.co/"
-    ],
     "language": [
       "ru"
     ]
@@ -210,13 +271,6 @@
       "http://nullnyan.i2p/",
       "http://xkih5s3yp75pqdvwdqo3dq2vtkxg2ddnfawtdfchk6wmcthvdaoa.b32.i2p/"
     ],
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "apachan.x10.mx",
-    "url": "https://apachan.x10.mx/",
     "language": [
       "ru"
     ]
@@ -371,11 +425,11 @@
     ]
   },
   {
-    "name": "014chan.org",
-    "url": "https://014chan.org/",
+    "name": "bulochka.org",
+    "url": "http://bulochka.org/",
     "mirrors": [
-      "https://014chan.org/",
-      "http://bulochka.org/"
+      "http://bulochka.org/",
+      "https://014chan.org/"
     ],
     "language": [
       "ru"
@@ -645,8 +699,7 @@
     "url": "https://2ch.hk/",
     "mirrors": [
       "https://2ch.hk/",
-      "https://2ch.life/",
-      "https://2-ch.ru/"
+      "https://2ch.life/"
     ],
     "language": [
       "ru"

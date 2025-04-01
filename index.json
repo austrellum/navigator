@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.21.0-n29",
+    "version": "1.22.0-n30",
     "created": "2022-06-06",
-    "updated": "2025-03-01",
+    "updated": "2025-04-01",
     "source": "https://github.com/austrellum/navigator",
     "discussion": "https://wc.12hp.ch/wc/res/4130.html",
     "feedback": "https://tally.so/r/mO5NJM",
@@ -11,17 +11,231 @@
   "data": {
     "sites": [
       {
-        "id": "1chan-cyou",
+        "id": "0chan-1chan-cyou",
         "urls": [
-          "https://1chan.cyou/",
-          "http://kolchan72pmrg6a6okrfx3v3ia6gbkzluc4otfcsabkyl7u6gpwaglqd.onion/"
+          "https://0chan.1chan.cyou/",
+          "http://ochko.i2p/",
+          "http://ochkothkzrdgg4iwmpl3fvsf7soeu4bbbs3rfb5eck5d3mr6ggxq.b32.i2p/"
         ],
-        "created": "2025-02-16",
+        "created": "2025-03-29",
+        "tagsIds": [
+          "new",
+          "live",
+          "www",
+          "i2p",
+          "ex0ch",
+          "clone",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "cock-do-am",
+        "urls": [
+          "https://cock.do.am/"
+        ],
+        "created": "2025-03-28",
+        "tagsIds": [
+          "new",
+          "unlisted",
+          "www",
+          "cheap",
+          "clone",
+          "obscure",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "ht6lluzqxi3zrylhfghoqwcilfbofpnzismugfvxufvyyxvxxuxmebad-onion",
+        "urls": [
+          "http://ht6lluzqxi3zrylhfghoqwcilfbofpnzismugfvxufvyyxvxxuxmebad.onion/"
+        ],
+        "created": "2025-03-27",
+        "tagsIds": [
+          "new",
+          "live",
+          "tor",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "phimos-fun",
+        "urls": [
+          "https://phimos.fun/"
+        ],
+        "created": "2025-03-25",
+        "tagsIds": [
+          "new",
+          "live",
+          "www",
+          "obscure",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "blackchan-i2p",
+        "urls": [
+          "http://blackchan.i2p/",
+          "http://2nryf7gcrox54gythgbqwkqi6xl3i7ldoaedd3oeos6ax2z5qpfa.b32.i2p/"
+        ],
+        "created": "2025-03-23",
+        "tagsIds": [
+          "new",
+          "live",
+          "i2p",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "out-do-am",
+        "urls": [
+          "https://out.do.am/"
+        ],
+        "created": "2025-03-19",
+        "tagsIds": [
+          "new",
+          "unlisted",
+          "www",
+          "cheap",
+          "clone",
+          "obscure",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "oeszxxcn5g5qjh4iqxfmotq5voswhnk5d26e6qn2d5w52jkv6vwjrnad-onion",
+        "urls": [
+          "http://oeszxxcn5g5qjh4iqxfmotq5voswhnk5d26e6qn2d5w52jkv6vwjrnad.onion/",
+          "http://chiitan5e7ejmvtqs37q6k57bxhncjvdzk2u6hv4mngy2zewhsi46kad.onion/",
+          "http://chii.i2p/",
+          "http://chii4f4rwugtroicml72gej4ytkkwum3bh26d2feoed5kunht7aa.b32.i2p/"
+        ],
+        "created": "2025-03-18",
+        "tagsIds": [
+          "new",
+          "live",
+          "tor",
+          "i2p",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "web-decibel-by",
+        "urls": [
+          "https://web.decibel.by/"
+        ],
+        "created": "2025-03-15",
+        "tagsIds": [
+          "new",
+          "live",
+          "www",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "gb-do-am",
+        "urls": [
+          "https://gb.do.am/"
+        ],
+        "created": "2025-03-08",
+        "tagsIds": [
+          "new",
+          "unlisted",
+          "www",
+          "cheap",
+          "clone",
+          "obscure",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "octoch-prtcl-icu",
+        "urls": [
+          "https://octoch.prtcl.icu/",
+          "http://7kftpqo7vng3vv77q4civseva5deryibcspp7kgpraqatchtez3a6fyd.onion/",
+          "http://0ctochan.i2p/",
+          "http://octochan.i2p/",
+          "http://k5ykjs4vczzsmiokqps4lvfi2voafjjv6lhqfbqeo5ndvl4fbxta.b32.i2p/"
+        ],
+        "created": "2025-03-07",
         "tagsIds": [
           "new",
           "live",
           "www",
           "tor",
+          "i2p",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "unitas-do-am",
+        "urls": [
+          "https://unitas.do.am/"
+        ],
+        "created": "2025-03-02",
+        "tagsIds": [
+          "new",
+          "unlisted",
+          "www",
+          "cheap",
+          "clone",
+          "obscure",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "alivechan-ch",
+        "urls": [
+          "https://alivechan.ch/"
+        ],
+        "created": "2025-03-01",
+        "tagsIds": [
+          "new",
+          "live",
+          "www",
+          "clone",
+          "mods",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "pohui-net",
+        "urls": [
+          "https://pohui.net/"
+        ],
+        "created": "2025-03-01",
+        "tagsIds": [
+          "new",
+          "dead",
+          "www",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "1chan-cyou",
+        "urls": [
+          "https://1chan.cyou/",
+          "http://kolchan72pmrg6a6okrfx3v3ia6gbkzluc4otfcsabkyl7u6gpwaglqd.onion/",
+          "http://kolchfc6lm6ltwdj56z6wsptexlnulo3xtkjv5wr7z7frvdgi45q.b32.i2p/"
+        ],
+        "created": "2025-02-16",
+        "tagsIds": [
+          "live",
+          "www",
+          "tor",
+          "i2p",
           "ex1ch",
           "clone",
           "board",
@@ -37,7 +251,6 @@
         ],
         "created": "2025-02-13",
         "tagsIds": [
-          "new",
           "live",
           "i2p",
           "board",
@@ -51,7 +264,6 @@
         ],
         "created": "2025-02-05",
         "tagsIds": [
-          "new",
           "unlisted",
           "www",
           "cheap",
@@ -67,7 +279,6 @@
         ],
         "created": "2025-01-28",
         "tagsIds": [
-          "new",
           "unlisted",
           "www",
           "cheap",
@@ -118,7 +329,6 @@
         ],
         "created": "2025",
         "tagsIds": [
-          "new",
           "unlisted",
           "www",
           "tor",
@@ -129,13 +339,27 @@
         ]
       },
       {
+        "id": "animechan-free-nf",
+        "urls": [
+          "https://animechan.free.nf/"
+        ],
+        "created": "2025",
+        "tagsIds": [
+          "new",
+          "unlisted",
+          "www",
+          "cheap",
+          "board",
+          "ru"
+        ]
+      },
+      {
         "id": "o1ch-one-connect-ru",
         "urls": [
           "https://o1ch.one-connect.ru/"
         ],
         "created": "2024-12-15",
         "tagsIds": [
-          "new",
           "unlisted",
           "www",
           "cheap",
@@ -152,10 +376,24 @@
         ],
         "created": "2024-12-30",
         "tagsIds": [
-          "move",
-          "live",
+          "dead",
           "tor",
           "i2p",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "buzzboard-veliona-no",
+        "urls": [
+          "http://buzzboard.veliona.no/"
+        ],
+        "created": "2024-12-12",
+        "tagsIds": [
+          "new",
+          "unlisted",
+          "www",
+          "cheap",
           "board",
           "ru"
         ]
@@ -168,7 +406,6 @@
         ],
         "created": "2024-10-02",
         "tagsIds": [
-          "new",
           "live",
           "i2p",
           "board",
@@ -210,6 +447,7 @@
         ],
         "created": "2024-09-02",
         "tagsIds": [
+          "move",
           "live",
           "www",
           "cheap",
@@ -225,7 +463,7 @@
         ],
         "created": "2024-08-19",
         "tagsIds": [
-          "dead",
+          "live",
           "i2p",
           "obscure",
           "board",
@@ -255,8 +493,7 @@
         ],
         "created": "2024-08-03",
         "tagsIds": [
-          "move",
-          "live",
+          "dead",
           "www",
           "ex1ch",
           "cheap",
@@ -367,8 +604,7 @@
         ],
         "created": "2024-06-29",
         "tagsIds": [
-          "move",
-          "live",
+          "dead",
           "www",
           "ex2ch",
           "mods",
@@ -482,6 +718,7 @@
         ],
         "created": "2024-04-24",
         "tagsIds": [
+          "move",
           "live",
           "www",
           "ex1ch",
@@ -533,6 +770,7 @@
         ],
         "created": "2024-04-23",
         "tagsIds": [
+          "move",
           "live",
           "www",
           "iich",
@@ -608,6 +846,7 @@
         ],
         "created": "2024-02-14",
         "tagsIds": [
+          "move",
           "live",
           "www",
           "limited",
@@ -708,6 +947,21 @@
         "tagsIds": [
           "dead",
           "i2p",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "topochan-is-great-org",
+        "urls": [
+          "http://topochan.is-great.org/"
+        ],
+        "created": "2024",
+        "tagsIds": [
+          "new",
+          "unlisted",
+          "www",
+          "cheap",
           "board",
           "ru"
         ]
@@ -1302,8 +1556,7 @@
         ],
         "created": "2022-11-29",
         "tagsIds": [
-          "move",
-          "live",
+          "dead",
           "www",
           "exapach",
           "cheap",
@@ -1334,6 +1587,7 @@
         ],
         "created": "2022-11-03",
         "tagsIds": [
+          "move",
           "stub",
           "www",
           "board",
@@ -1974,7 +2228,9 @@
         "created": "2020-04-21",
         "paths": [
           "bb",
-          "ru"
+          "borda",
+          "ru",
+          "rus"
         ],
         "tagsIds": [
           "live",
@@ -2145,10 +2401,10 @@
         ]
       },
       {
-        "id": "014chan-org",
+        "id": "bulochka-org",
         "urls": [
-          "https://014chan.org/",
-          "http://bulochka.org/"
+          "http://bulochka.org/",
+          "https://014chan.org/"
         ],
         "created": "2019-04-05",
         "tagsIds": [
@@ -2588,6 +2844,7 @@
         ],
         "created": "2017-07-07",
         "tagsIds": [
+          "move",
           "stub",
           "www",
           "board",
@@ -4888,6 +5145,7 @@
         ],
         "created": "2012-07",
         "tagsIds": [
+          "move",
           "live",
           "www",
           "obscure",
@@ -5882,8 +6140,7 @@
         "id": "2ch-hk",
         "urls": [
           "https://2ch.hk/",
-          "https://2ch.life/",
-          "https://2-ch.ru/"
+          "https://2ch.life/"
         ],
         "created": "2010-11-30",
         "tagsIds": [
@@ -7750,6 +8007,51 @@
         ]
       },
       {
+        "id": "1chan-moy-su",
+        "urls": [
+          "https://1chan.moy.su/"
+        ],
+        "tagsIds": [
+          "new",
+          "unlisted",
+          "www",
+          "cheap",
+          "clone",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "1chan-ucoz-pl",
+        "urls": [
+          "https://1chan.ucoz.pl/"
+        ],
+        "tagsIds": [
+          "new",
+          "unlisted",
+          "www",
+          "cheap",
+          "clone",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "kolch-ucoz-org",
+        "urls": [
+          "https://kolch.ucoz.org/"
+        ],
+        "tagsIds": [
+          "new",
+          "unlisted",
+          "www",
+          "cheap",
+          "clone",
+          "board",
+          "ru"
+        ]
+      },
+      {
         "id": "bulbach-500mb-net",
         "urls": [
           "http://bulbach.500mb.net/"
@@ -8116,11 +8418,6 @@
         "description": "Английский язык"
       },
       {
-        "id": "eo",
-        "parentId": "locale",
-        "description": "Эсперанто"
-      },
-      {
         "id": "es",
         "parentId": "locale",
         "description": "Испанский язык"
@@ -8129,21 +8426,6 @@
         "id": "fi",
         "parentId": "locale",
         "description": "Финский язык"
-      },
-      {
-        "id": "hi",
-        "parentId": "locale",
-        "description": "Хинди"
-      },
-      {
-        "id": "hu",
-        "parentId": "locale",
-        "description": "Венгерский язык"
-      },
-      {
-        "id": "id",
-        "parentId": "locale",
-        "description": "Индонезийский язык"
       },
       {
         "id": "it",
@@ -8156,19 +8438,9 @@
         "description": "Японский язык"
       },
       {
-        "id": "ko",
-        "parentId": "locale",
-        "description": "Корейский язык"
-      },
-      {
         "id": "lt",
         "parentId": "locale",
         "description": "Литовский язык"
-      },
-      {
-        "id": "pl",
-        "parentId": "locale",
-        "description": "Польский язык"
       },
       {
         "id": "pt",
@@ -8179,11 +8451,6 @@
         "id": "ru",
         "parentId": "locale",
         "description": "Русский язык"
-      },
-      {
-        "id": "sl",
-        "parentId": "locale",
-        "description": "Словенский язык"
       },
       {
         "id": "tr",
