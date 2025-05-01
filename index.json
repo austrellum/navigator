@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.22.0-n30",
+    "version": "1.23.0-n31",
     "created": "2022-06-06",
-    "updated": "2025-04-01",
+    "updated": "2025-05-01",
     "source": "https://github.com/austrellum/navigator",
     "discussion": "https://wc.12hp.ch/wc/res/4130.html",
     "feedback": "https://tally.so/r/mO5NJM",
@@ -10,6 +10,66 @@
   },
   "data": {
     "sites": [
+      {
+        "id": "pejchan-mooo-com",
+        "urls": [
+          "http://pejchan.mooo.com/"
+        ],
+        "created": "2025-04-28",
+        "tagsIds": [
+          "new",
+          "unlisted",
+          "www",
+          "cheap",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "beach-de-cool",
+        "urls": [
+          "https://beach.de.cool/"
+        ],
+        "created": "2025-04-12",
+        "tagsIds": [
+          "new",
+          "unlisted",
+          "www",
+          "cheap",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "naxvmpisf6dmej3vhyu2epeax7e2u4q5b4pafxlfoz7lcrqzybgun5id-onion",
+        "urls": [
+          "http://naxvmpisf6dmej3vhyu2epeax7e2u4q5b4pafxlfoz7lcrqzybgun5id.onion/"
+        ],
+        "created": "2025-04-02",
+        "tagsIds": [
+          "new",
+          "live",
+          "tor",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "wc-foroesp-com",
+        "urls": [
+          "https://wc.foroesp.com/"
+        ],
+        "created": "2025-04-01",
+        "tagsIds": [
+          "new",
+          "unlisted",
+          "www",
+          "cheap",
+          "obscure",
+          "board",
+          "ru"
+        ]
+      },
       {
         "id": "0chan-1chan-cyou",
         "urls": [
@@ -19,12 +79,10 @@
         ],
         "created": "2025-03-29",
         "tagsIds": [
-          "new",
           "live",
           "www",
           "i2p",
           "ex0ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -36,11 +94,9 @@
         ],
         "created": "2025-03-28",
         "tagsIds": [
-          "new",
           "unlisted",
           "www",
           "cheap",
-          "clone",
           "obscure",
           "board",
           "ru"
@@ -53,7 +109,6 @@
         ],
         "created": "2025-03-27",
         "tagsIds": [
-          "new",
           "live",
           "tor",
           "board",
@@ -67,7 +122,7 @@
         ],
         "created": "2025-03-25",
         "tagsIds": [
-          "new",
+          "move",
           "live",
           "www",
           "obscure",
@@ -83,7 +138,6 @@
         ],
         "created": "2025-03-23",
         "tagsIds": [
-          "new",
           "live",
           "i2p",
           "board",
@@ -97,11 +151,9 @@
         ],
         "created": "2025-03-19",
         "tagsIds": [
-          "new",
           "unlisted",
           "www",
           "cheap",
-          "clone",
           "obscure",
           "board",
           "ru"
@@ -117,7 +169,6 @@
         ],
         "created": "2025-03-18",
         "tagsIds": [
-          "new",
           "live",
           "tor",
           "i2p",
@@ -132,7 +183,6 @@
         ],
         "created": "2025-03-15",
         "tagsIds": [
-          "new",
           "live",
           "www",
           "board",
@@ -146,11 +196,9 @@
         ],
         "created": "2025-03-08",
         "tagsIds": [
-          "new",
           "unlisted",
           "www",
           "cheap",
-          "clone",
           "obscure",
           "board",
           "ru"
@@ -167,7 +215,6 @@
         ],
         "created": "2025-03-07",
         "tagsIds": [
-          "new",
           "live",
           "www",
           "tor",
@@ -183,11 +230,9 @@
         ],
         "created": "2025-03-02",
         "tagsIds": [
-          "new",
           "unlisted",
           "www",
           "cheap",
-          "clone",
           "obscure",
           "board",
           "ru"
@@ -200,10 +245,8 @@
         ],
         "created": "2025-03-01",
         "tagsIds": [
-          "new",
           "live",
           "www",
-          "clone",
           "mods",
           "board",
           "ru"
@@ -216,7 +259,6 @@
         ],
         "created": "2025-03-01",
         "tagsIds": [
-          "new",
           "dead",
           "www",
           "board",
@@ -237,7 +279,6 @@
           "tor",
           "i2p",
           "ex1ch",
-          "clone",
           "board",
           "news",
           "ru"
@@ -267,7 +308,6 @@
           "unlisted",
           "www",
           "cheap",
-          "clone",
           "index",
           "ru"
         ]
@@ -282,7 +322,6 @@
           "unlisted",
           "www",
           "cheap",
-          "clone",
           "index",
           "ru"
         ]
@@ -345,7 +384,6 @@
         ],
         "created": "2025",
         "tagsIds": [
-          "new",
           "unlisted",
           "www",
           "cheap",
@@ -390,10 +428,23 @@
         ],
         "created": "2024-12-12",
         "tagsIds": [
-          "new",
           "unlisted",
           "www",
           "cheap",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "waka-ba",
+        "urls": [
+          "https://waka.ba/"
+        ],
+        "created": "2024-11-01",
+        "tagsIds": [
+          "new",
+          "live",
+          "www",
           "board",
           "ru"
         ]
@@ -447,8 +498,7 @@
         ],
         "created": "2024-09-02",
         "tagsIds": [
-          "move",
-          "live",
+          "dead",
           "www",
           "cheap",
           "board",
@@ -511,8 +561,6 @@
         "tagsIds": [
           "live",
           "www",
-          "ex1ch",
-          "clone",
           "board",
           "index",
           "ru"
@@ -528,7 +576,6 @@
           "dead",
           "www",
           "ex1ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -597,8 +644,10 @@
         ]
       },
       {
-        "id": "ejchan-cc",
+        "id": "ejchan-info",
         "urls": [
+          "https://ejchan.info/",
+          "https://ejchan.life/",
           "https://ejchan.cc/",
           "https://ejchan.co/"
         ],
@@ -623,7 +672,6 @@
           "www",
           "ex0ch",
           "cheap",
-          "clone",
           "obscure",
           "board",
           "ru"
@@ -644,7 +692,6 @@
           "www",
           "tor",
           "ex2ch",
-          "clone",
           "mods",
           "board",
           "ru"
@@ -657,11 +704,11 @@
         ],
         "created": "2024-06-17",
         "tagsIds": [
+          "move",
           "ghost",
           "www",
           "ex1ch",
           "cheap",
-          "clone",
           "obscure",
           "board",
           "ru"
@@ -677,7 +724,6 @@
           "dead",
           "www",
           "ex0ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -718,12 +764,10 @@
         ],
         "created": "2024-04-24",
         "tagsIds": [
-          "move",
-          "live",
+          "dead",
           "www",
           "ex1ch",
           "cheap",
-          "clone",
           "obscure",
           "board",
           "ru"
@@ -740,7 +784,6 @@
           "www",
           "ex0ch",
           "cheap",
-          "clone",
           "obscure",
           "board",
           "ru"
@@ -757,7 +800,6 @@
           "www",
           "ex1ch",
           "cheap",
-          "clone",
           "obscure",
           "board",
           "ru"
@@ -770,11 +812,9 @@
         ],
         "created": "2024-04-23",
         "tagsIds": [
-          "move",
-          "live",
+          "dead",
           "www",
           "iich",
-          "clone",
           "board",
           "stream",
           "wiki",
@@ -807,7 +847,6 @@
           "dead",
           "www",
           "ex2ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -846,8 +885,7 @@
         ],
         "created": "2024-02-14",
         "tagsIds": [
-          "move",
-          "live",
+          "dead",
           "www",
           "limited",
           "board",
@@ -904,7 +942,6 @@
           "live",
           "www",
           "iich",
-          "clone",
           "board",
           "ru"
         ]
@@ -958,7 +995,6 @@
         ],
         "created": "2024",
         "tagsIds": [
-          "new",
           "unlisted",
           "www",
           "cheap",
@@ -1078,7 +1114,6 @@
           "dead",
           "tor",
           "i2p",
-          "clone",
           "obscure",
           "board",
           "ru"
@@ -1096,7 +1131,6 @@
           "www",
           "limited",
           "ex0ch",
-          "clone",
           "board",
           "index",
           "news",
@@ -1128,7 +1162,6 @@
           "www",
           "exapach",
           "cheap",
-          "clone",
           "board",
           "ru"
         ]
@@ -1226,7 +1259,6 @@
           "www",
           "ex0ch",
           "ex2ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -1241,7 +1273,6 @@
           "dead",
           "www",
           "ex0ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -1304,7 +1335,6 @@
           "dead",
           "www",
           "ex1ch",
-          "clone",
           "board",
           "index",
           "news",
@@ -1321,7 +1351,6 @@
           "ghost",
           "www",
           "ex0ch",
-          "clone",
           "obscure",
           "board",
           "ru"
@@ -1384,7 +1413,6 @@
           "www",
           "tor",
           "ex0ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -1399,7 +1427,6 @@
           "dead",
           "www",
           "ex0ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -1414,7 +1441,6 @@
           "dead",
           "www",
           "ex2ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -1429,7 +1455,6 @@
           "live",
           "www",
           "iich",
-          "clone",
           "mods",
           "archive",
           "board",
@@ -1446,7 +1471,6 @@
           "dead",
           "www",
           "iich",
-          "clone",
           "board",
           "ru"
         ]
@@ -1479,7 +1503,6 @@
           "www",
           "tor",
           "ex0ch",
-          "clone",
           "mods",
           "board",
           "ru"
@@ -1496,7 +1519,6 @@
           "www",
           "ex0ch",
           "ex2ch",
-          "clone",
           "mods",
           "board",
           "ru"
@@ -1515,7 +1537,6 @@
           "tor",
           "i2p",
           "ex0ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -1560,7 +1581,6 @@
           "www",
           "exapach",
           "cheap",
-          "clone",
           "board",
           "ru"
         ]
@@ -1587,8 +1607,7 @@
         ],
         "created": "2022-11-03",
         "tagsIds": [
-          "move",
-          "stub",
+          "dead",
           "www",
           "board",
           "ru"
@@ -1604,7 +1623,6 @@
           "dead",
           "www",
           "ex2ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -1750,7 +1768,6 @@
           "www",
           "tor",
           "ex1ch",
-          "clone",
           "board",
           "index",
           "news",
@@ -1794,7 +1811,6 @@
           "dead",
           "www",
           "ex1ch",
-          "clone",
           "board",
           "index",
           "news",
@@ -1825,7 +1841,6 @@
           "dead",
           "www",
           "ex1ch",
-          "clone",
           "board",
           "index",
           "news",
@@ -1880,7 +1895,6 @@
           "dead",
           "www",
           "ex0ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -1942,7 +1956,6 @@
           "tor",
           "i2p",
           "ex0ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -1957,7 +1970,6 @@
           "dead",
           "www",
           "ex0ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -1996,8 +2008,9 @@
         ],
         "created": "2021-01-16",
         "tagsIds": [
-          "stub",
+          "live",
           "www",
+          "limited",
           "cheap",
           "obscure",
           "board",
@@ -2014,7 +2027,6 @@
           "dead",
           "www",
           "ex2ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -2050,7 +2062,6 @@
           "live",
           "www",
           "exapach",
-          "clone",
           "board",
           "ru"
         ]
@@ -2076,6 +2087,7 @@
         ],
         "created": "2020-08-10",
         "tagsIds": [
+          "move",
           "live",
           "www",
           "ex1ch",
@@ -2155,7 +2167,6 @@
           "www",
           "ex1ch",
           "cheap",
-          "clone",
           "obscure",
           "board",
           "ru"
@@ -2365,7 +2376,6 @@
           "dead",
           "www",
           "ex1ch",
-          "clone",
           "board",
           "index",
           "news",
@@ -2425,7 +2435,6 @@
           "dead",
           "www",
           "ex2ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -2454,7 +2463,6 @@
           "live",
           "www",
           "exapach",
-          "clone",
           "board",
           "ru"
         ]
@@ -2470,7 +2478,6 @@
           "dead",
           "www",
           "ex0ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -2498,7 +2505,6 @@
           "live",
           "www",
           "limited",
-          "clone",
           "index",
           "wiki",
           "ru"
@@ -2514,7 +2520,6 @@
           "dead",
           "www",
           "ex1ch",
-          "clone",
           "board",
           "index",
           "news",
@@ -2536,7 +2541,6 @@
           "tor",
           "i2p",
           "ex2ch",
-          "clone",
           "mods",
           "board",
           "ru"
@@ -2565,7 +2569,6 @@
           "dead",
           "www",
           "ex2ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -2590,6 +2593,7 @@
         ],
         "created": "2018-07-02",
         "tagsIds": [
+          "move",
           "ghost",
           "www",
           "board",
@@ -2606,7 +2610,6 @@
           "stub",
           "www",
           "ex0ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -2621,7 +2624,6 @@
           "dead",
           "www",
           "ex0ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -2696,7 +2698,6 @@
           "dead",
           "www",
           "ex0ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -2844,8 +2845,7 @@
         ],
         "created": "2017-07-07",
         "tagsIds": [
-          "move",
-          "stub",
+          "dead",
           "www",
           "board",
           "ru"
@@ -2888,7 +2888,6 @@
           "dead",
           "www",
           "ex1ch",
-          "clone",
           "board",
           "index",
           "news",
@@ -2974,7 +2973,6 @@
           "dead",
           "www",
           "ex2ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -3029,7 +3027,6 @@
           "dead",
           "www",
           "ex0ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -3058,7 +3055,6 @@
           "stub",
           "www",
           "ex0ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -3144,7 +3140,6 @@
           "dead",
           "www",
           "ex0ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -3188,7 +3183,6 @@
           "dead",
           "www",
           "ex0ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -3391,7 +3385,6 @@
           "www",
           "ex0ch",
           "cheap",
-          "clone",
           "board",
           "ru"
         ]
@@ -3434,7 +3427,6 @@
           "dead",
           "www",
           "ex0ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -3504,7 +3496,6 @@
           "dead",
           "www",
           "ex0ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -3533,7 +3524,6 @@
           "dead",
           "www",
           "ex0ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -3709,7 +3699,6 @@
           "dead",
           "www",
           "ex0ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -3765,7 +3754,6 @@
           "dead",
           "www",
           "ex0ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -3780,7 +3768,6 @@
           "dead",
           "www",
           "ex0ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -3794,7 +3781,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "clone",
           "board",
           "ru"
         ]
@@ -3850,7 +3836,6 @@
           "dead",
           "www",
           "ex2ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -3866,7 +3851,6 @@
           "www",
           "ex0ch",
           "cheap",
-          "clone",
           "board",
           "ru"
         ]
@@ -3935,7 +3919,6 @@
           "live",
           "www",
           "ex1ch",
-          "clone",
           "board",
           "news",
           "ru"
@@ -3980,7 +3963,6 @@
           "www",
           "ex0ch",
           "cheap",
-          "clone",
           "board",
           "ru"
         ]
@@ -4007,7 +3989,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "clone",
           "board",
           "ru"
         ]
@@ -4048,7 +4029,6 @@
           "dead",
           "www",
           "ex2ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -4063,7 +4043,6 @@
           "dead",
           "www",
           "ex2ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -4077,7 +4056,6 @@
         "tagsIds": [
           "live",
           "www",
-          "clone",
           "board",
           "ru"
         ]
@@ -4108,7 +4086,6 @@
           "dead",
           "www",
           "exapach",
-          "clone",
           "board",
           "ru"
         ]
@@ -4150,7 +4127,6 @@
           "dead",
           "www",
           "ex2ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -4165,7 +4141,6 @@
           "dead",
           "www",
           "ex2ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -4249,7 +4224,6 @@
           "www",
           "ex2ch",
           "cheap",
-          "clone",
           "board",
           "ru"
         ]
@@ -4347,7 +4321,6 @@
           "www",
           "exapach",
           "cheap",
-          "clone",
           "board",
           "ru"
         ]
@@ -4415,7 +4388,6 @@
           "dead",
           "www",
           "ex2ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -4457,7 +4429,6 @@
           "dead",
           "www",
           "ex2ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -4600,7 +4571,6 @@
           "www",
           "ex2ch",
           "cheap",
-          "clone",
           "board",
           "ru"
         ]
@@ -4615,7 +4585,6 @@
           "dead",
           "www",
           "ex1ch",
-          "clone",
           "board",
           "index",
           "news",
@@ -4659,7 +4628,6 @@
           "www",
           "ex2ch",
           "cheap",
-          "clone",
           "board",
           "ru"
         ]
@@ -4740,7 +4708,6 @@
           "dead",
           "www",
           "ex2ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -4809,7 +4776,6 @@
           "dead",
           "www",
           "ex2ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -4944,7 +4910,6 @@
           "www",
           "ex2ch",
           "cheap",
-          "clone",
           "board",
           "ru"
         ]
@@ -5145,7 +5110,6 @@
         ],
         "created": "2012-07",
         "tagsIds": [
-          "move",
           "live",
           "www",
           "obscure",
@@ -5231,7 +5195,6 @@
           "dead",
           "www",
           "ex0ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -5259,7 +5222,6 @@
           "live",
           "www",
           "ex0ch",
-          "clone",
           "mods",
           "board",
           "ru"
@@ -5373,7 +5335,6 @@
           "dead",
           "www",
           "ex2ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -5401,7 +5362,6 @@
           "dead",
           "www",
           "ex2ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -5434,7 +5394,6 @@
           "www",
           "ex2ch",
           "cheap",
-          "clone",
           "board",
           "ru"
         ]
@@ -5462,7 +5421,6 @@
           "dead",
           "www",
           "ex2ch",
-          "clone",
           "obscure",
           "board",
           "ru"
@@ -5519,7 +5477,6 @@
           "dead",
           "www",
           "iich",
-          "clone",
           "board",
           "ru"
         ]
@@ -5575,7 +5532,6 @@
           "dead",
           "www",
           "iich",
-          "clone",
           "board",
           "ru"
         ]
@@ -5605,7 +5561,6 @@
           "live",
           "www",
           "ex2ch",
-          "clone",
           "mods",
           "board",
           "ru"
@@ -5928,7 +5883,6 @@
           "dead",
           "www",
           "ex2ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -6115,7 +6069,6 @@
           "dead",
           "www",
           "ex2ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -6147,7 +6100,6 @@
           "live",
           "www",
           "ex2ch",
-          "clone",
           "mods",
           "board",
           "ru"
@@ -6257,7 +6209,6 @@
           "dead",
           "www",
           "ex2ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -6303,7 +6254,6 @@
           "www",
           "ex2ch",
           "cheap",
-          "clone",
           "board",
           "ru"
         ]
@@ -6399,7 +6349,6 @@
           "dead",
           "www",
           "cheap",
-          "clone",
           "board",
           "ru"
         ]
@@ -6562,7 +6511,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "clone",
           "board",
           "ru"
         ]
@@ -6618,7 +6566,6 @@
           "www",
           "ex2ch",
           "cheap",
-          "clone",
           "board",
           "ru"
         ]
@@ -6659,7 +6606,6 @@
           "dead",
           "www",
           "ex2ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -6706,7 +6652,6 @@
           "dead",
           "www",
           "ex2ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -7020,7 +6965,6 @@
           "dead",
           "www",
           "ex2ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -7088,7 +7032,6 @@
           "dead",
           "www",
           "ex2ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -7132,7 +7075,6 @@
           "dead",
           "www",
           "ex2ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -7229,7 +7171,6 @@
           "dead",
           "www",
           "ex2ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -7327,7 +7268,6 @@
           "dead",
           "www",
           "ex2ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -7369,7 +7309,6 @@
           "dead",
           "www",
           "ex2ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -7431,7 +7370,6 @@
           "dead",
           "www",
           "ex2ch",
-          "clone",
           "board",
           "ru"
         ]
@@ -8012,11 +7950,9 @@
           "https://1chan.moy.su/"
         ],
         "tagsIds": [
-          "new",
           "unlisted",
           "www",
           "cheap",
-          "clone",
           "board",
           "ru"
         ]
@@ -8027,11 +7963,9 @@
           "https://1chan.ucoz.pl/"
         ],
         "tagsIds": [
-          "new",
           "unlisted",
           "www",
           "cheap",
-          "clone",
           "board",
           "ru"
         ]
@@ -8042,11 +7976,9 @@
           "https://kolch.ucoz.org/"
         ],
         "tagsIds": [
-          "new",
           "unlisted",
           "www",
           "cheap",
-          "clone",
           "board",
           "ru"
         ]

@@ -1,5 +1,12 @@
 [
   {
+    "name": "naxvmpisf6dmej3vhyu2epeax7e2u4q5b4pafxlfoz7lcrqzybgun5id.onion",
+    "url": "http://naxvmpisf6dmej3vhyu2epeax7e2u4q5b4pafxlfoz7lcrqzybgun5id.onion/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "0chan.1chan.cyou",
     "url": "https://0chan.1chan.cyou/",
     "mirrors": [
@@ -113,19 +120,19 @@
     ]
   },
   {
+    "name": "waka.ba",
+    "url": "https://waka.ba/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "xchan.i2p",
     "url": "http://xchan.i2p/",
     "mirrors": [
       "http://xchan.i2p/",
       "http://ntnvj3lavzql7ko5332fd5r7s4vryhkmka6rprrhh437qsi5sh3a.b32.i2p/"
     ],
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "shelterch.rf.gd",
-    "url": "https://shelterch.rf.gd/",
     "language": [
       "ru"
     ]
@@ -172,27 +179,6 @@
   {
     "name": "1chan.mmohost.me",
     "url": "https://1chan.mmohost.me/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "1chan.do.am",
-    "url": "https://1chan.do.am/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "dobrochan.nl",
-    "url": "https://dobrochan.nl/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "catarsys.ru",
-    "url": "https://catarsys.ru/",
     "language": [
       "ru"
     ]
@@ -336,6 +322,13 @@
     "language": [
       "ru",
       "uk"
+    ]
+  },
+  {
+    "name": "bchan.myqip.ru",
+    "url": "https://bchan.myqip.ru/",
+    "language": [
+      "ru"
     ]
   },
   {

@@ -1,5 +1,33 @@
 [
   {
+    "name": "pejchan.mooo.com",
+    "url": "http://pejchan.mooo.com/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "beach.de.cool",
+    "url": "https://beach.de.cool/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "naxvmpisf6dmej3vhyu2epeax7e2u4q5b4pafxlfoz7lcrqzybgun5id.onion",
+    "url": "http://naxvmpisf6dmej3vhyu2epeax7e2u4q5b4pafxlfoz7lcrqzybgun5id.onion/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "wc.foroesp.com",
+    "url": "https://wc.foroesp.com/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "0chan.1chan.cyou",
     "url": "https://0chan.1chan.cyou/",
     "mirrors": [
@@ -219,6 +247,13 @@
     ]
   },
   {
+    "name": "waka.ba",
+    "url": "https://waka.ba/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "xchan.i2p",
     "url": "http://xchan.i2p/",
     "mirrors": [
@@ -336,9 +371,11 @@
     ]
   },
   {
-    "name": "ejchan.cc",
-    "url": "https://ejchan.cc/",
+    "name": "ejchan.info",
+    "url": "https://ejchan.info/",
     "mirrors": [
+      "https://ejchan.info/",
+      "https://ejchan.life/",
       "https://ejchan.cc/",
       "https://ejchan.co/"
     ],
