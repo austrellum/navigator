@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.23.0-n31",
+    "version": "1.23.0-n32",
     "created": "2022-06-06",
-    "updated": "2025-05-01",
+    "updated": "2025-06-01",
     "source": "https://github.com/austrellum/navigator",
     "discussion": "https://wc.12hp.ch/wc/res/4130.html",
     "feedback": "https://tally.so/r/mO5NJM",
@@ -11,13 +11,42 @@
   "data": {
     "sites": [
       {
+        "id": "ere-ct-ws",
+        "urls": [
+          "https://ere.ct.ws/"
+        ],
+        "created": "2025-05-23",
+        "tagsIds": [
+          "new",
+          "unlisted",
+          "www",
+          "ex0ch",
+          "cheap",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "chan-today",
+        "urls": [
+          "https://chan.today/"
+        ],
+        "created": "2025-05-11",
+        "tagsIds": [
+          "new",
+          "live",
+          "www",
+          "board",
+          "ru"
+        ]
+      },
+      {
         "id": "pejchan-mooo-com",
         "urls": [
           "http://pejchan.mooo.com/"
         ],
         "created": "2025-04-28",
         "tagsIds": [
-          "new",
           "unlisted",
           "www",
           "cheap",
@@ -32,7 +61,6 @@
         ],
         "created": "2025-04-12",
         "tagsIds": [
-          "new",
           "unlisted",
           "www",
           "cheap",
@@ -47,7 +75,6 @@
         ],
         "created": "2025-04-02",
         "tagsIds": [
-          "new",
           "live",
           "tor",
           "board",
@@ -61,7 +88,6 @@
         ],
         "created": "2025-04-01",
         "tagsIds": [
-          "new",
           "unlisted",
           "www",
           "cheap",
@@ -74,13 +100,16 @@
         "id": "0chan-1chan-cyou",
         "urls": [
           "https://0chan.1chan.cyou/",
+          "http://ochkocuka75kjdsqxwopbvbwr677t4udud2jdydejxerhjhey6sbpkid.onion/",
           "http://ochko.i2p/",
           "http://ochkothkzrdgg4iwmpl3fvsf7soeu4bbbs3rfb5eck5d3mr6ggxq.b32.i2p/"
         ],
         "created": "2025-03-29",
         "tagsIds": [
+          "move",
           "live",
           "www",
+          "tor",
           "i2p",
           "ex0ch",
           "board",
@@ -122,8 +151,7 @@
         ],
         "created": "2025-03-25",
         "tagsIds": [
-          "move",
-          "live",
+          "dead",
           "www",
           "obscure",
           "board",
@@ -245,6 +273,7 @@
         ],
         "created": "2025-03-01",
         "tagsIds": [
+          "move",
           "live",
           "www",
           "mods",
@@ -274,6 +303,7 @@
         ],
         "created": "2025-02-16",
         "tagsIds": [
+          "move",
           "live",
           "www",
           "tor",
@@ -442,7 +472,6 @@
         ],
         "created": "2024-11-01",
         "tagsIds": [
-          "new",
           "live",
           "www",
           "board",
@@ -528,6 +557,7 @@
         ],
         "created": "2024-08-07",
         "tagsIds": [
+          "move",
           "live",
           "www",
           "exapach",
@@ -559,6 +589,7 @@
         ],
         "created": "2024-07-24",
         "tagsIds": [
+          "move",
           "live",
           "www",
           "board",
@@ -644,12 +675,13 @@
         ]
       },
       {
-        "id": "ejchan-info",
+        "id": "ejchan-hk",
         "urls": [
-          "https://ejchan.info/",
+          "https://ejchan.hk/",
           "https://ejchan.life/",
           "https://ejchan.cc/",
-          "https://ejchan.co/"
+          "https://ejchan.co/",
+          "https://ejchan.info/"
         ],
         "created": "2024-06-29",
         "tagsIds": [
@@ -684,6 +716,7 @@
           "https://escapechan.online/",
           "https://escapechan.ru/",
           "https://escapechan.pro/",
+          "https://escapechan.plus/",
           "http://mk2dodftctwgnux6z7iafm5tcyj7xrv7aytlh25zka45m7svvb6olfyd.onion/"
         ],
         "created": "2024-06-23",
@@ -704,8 +737,7 @@
         ],
         "created": "2024-06-17",
         "tagsIds": [
-          "move",
-          "ghost",
+          "stub",
           "www",
           "ex1ch",
           "cheap",
@@ -2087,8 +2119,7 @@
         ],
         "created": "2020-08-10",
         "tagsIds": [
-          "move",
-          "live",
+          "stub",
           "www",
           "ex1ch",
           "cheap",
@@ -2593,8 +2624,7 @@
         ],
         "created": "2018-07-02",
         "tagsIds": [
-          "move",
-          "ghost",
+          "dead",
           "www",
           "board",
           "ru"
@@ -6093,7 +6123,8 @@
         "id": "2ch-hk",
         "urls": [
           "https://2ch.hk/",
-          "https://2ch.life/"
+          "https://2ch.life/",
+          "https://2ch.su/"
         ],
         "created": "2010-11-30",
         "tagsIds": [

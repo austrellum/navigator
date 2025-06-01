@@ -1,5 +1,12 @@
 [
   {
+    "name": "chan.today",
+    "url": "https://chan.today/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "naxvmpisf6dmej3vhyu2epeax7e2u4q5b4pafxlfoz7lcrqzybgun5id.onion",
     "url": "http://naxvmpisf6dmej3vhyu2epeax7e2u4q5b4pafxlfoz7lcrqzybgun5id.onion/",
     "language": [
@@ -11,6 +18,7 @@
     "url": "https://0chan.1chan.cyou/",
     "mirrors": [
       "https://0chan.1chan.cyou/",
+      "http://ochkocuka75kjdsqxwopbvbwr677t4udud2jdydejxerhjhey6sbpkid.onion/",
       "http://ochko.i2p/",
       "http://ochkothkzrdgg4iwmpl3fvsf7soeu4bbbs3rfb5eck5d3mr6ggxq.b32.i2p/"
     ],
@@ -21,13 +29,6 @@
   {
     "name": "ht6lluzqxi3zrylhfghoqwcilfbofpnzismugfvxufvyyxvxxuxmebad.onion",
     "url": "http://ht6lluzqxi3zrylhfghoqwcilfbofpnzismugfvxufvyyxvxxuxmebad.onion/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "phimos.fun",
-    "url": "https://phimos.fun/",
     "language": [
       "ru"
     ]
@@ -170,15 +171,9 @@
       "https://escapechan.online/",
       "https://escapechan.ru/",
       "https://escapechan.pro/",
+      "https://escapechan.plus/",
       "http://mk2dodftctwgnux6z7iafm5tcyj7xrv7aytlh25zka45m7svvb6olfyd.onion/"
     ],
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "1chan.mmohost.me",
-    "url": "https://1chan.mmohost.me/",
     "language": [
       "ru"
     ]
@@ -352,13 +347,6 @@
     ]
   },
   {
-    "name": "wc.12hp.ch",
-    "url": "https://wc.12hp.ch/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
     "name": "chan.city",
     "url": "https://chan.city/",
     "mirrors": [
@@ -455,13 +443,6 @@
   {
     "name": "bona.cafe",
     "url": "https://bona.cafe/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "2fan.ru/ch",
-    "url": "https://2fan.ru/ch",
     "language": [
       "ru"
     ]
@@ -692,7 +673,8 @@
     "url": "https://2ch.hk/",
     "mirrors": [
       "https://2ch.hk/",
-      "https://2ch.life/"
+      "https://2ch.life/",
+      "https://2ch.su/"
     ],
     "language": [
       "ru"

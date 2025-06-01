@@ -1,5 +1,19 @@
 [
   {
+    "name": "ere.ct.ws",
+    "url": "https://ere.ct.ws/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "chan.today",
+    "url": "https://chan.today/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "pejchan.mooo.com",
     "url": "http://pejchan.mooo.com/",
     "language": [
@@ -32,6 +46,7 @@
     "url": "https://0chan.1chan.cyou/",
     "mirrors": [
       "https://0chan.1chan.cyou/",
+      "http://ochkocuka75kjdsqxwopbvbwr677t4udud2jdydejxerhjhey6sbpkid.onion/",
       "http://ochko.i2p/",
       "http://ochkothkzrdgg4iwmpl3fvsf7soeu4bbbs3rfb5eck5d3mr6ggxq.b32.i2p/"
     ],
@@ -371,13 +386,14 @@
     ]
   },
   {
-    "name": "ejchan.info",
-    "url": "https://ejchan.info/",
+    "name": "ejchan.hk",
+    "url": "https://ejchan.hk/",
     "mirrors": [
-      "https://ejchan.info/",
+      "https://ejchan.hk/",
       "https://ejchan.life/",
       "https://ejchan.cc/",
-      "https://ejchan.co/"
+      "https://ejchan.co/",
+      "https://ejchan.info/"
     ],
     "language": [
       "ru"
@@ -398,6 +414,7 @@
       "https://escapechan.online/",
       "https://escapechan.ru/",
       "https://escapechan.pro/",
+      "https://escapechan.plus/",
       "http://mk2dodftctwgnux6z7iafm5tcyj7xrv7aytlh25zka45m7svvb6olfyd.onion/"
     ],
     "language": [
@@ -3313,7 +3330,8 @@
     "url": "https://2ch.hk/",
     "mirrors": [
       "https://2ch.hk/",
-      "https://2ch.life/"
+      "https://2ch.life/",
+      "https://2ch.su/"
     ],
     "language": [
       "ru"
