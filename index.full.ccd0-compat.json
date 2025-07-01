@@ -1,5 +1,26 @@
 [
   {
+    "name": "dobrochan.forum2x2.ru",
+    "url": "https://dobrochan.forum2x2.ru/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "aoba.me",
+    "url": "https://aoba.me/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "wiki.ejnet.in",
+    "url": "https://wiki.ejnet.in/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "ere.ct.ws",
     "url": "https://ere.ct.ws/",
     "language": [
@@ -142,8 +163,12 @@
     ]
   },
   {
-    "name": "alivechan.ch",
-    "url": "https://alivechan.ch/",
+    "name": "alivechan.pw",
+    "url": "https://alivechan.pw/",
+    "mirrors": [
+      "https://alivechan.pw/",
+      "https://alivechan.ch/"
+    ],
     "language": [
       "ru"
     ]
@@ -386,9 +411,10 @@
     ]
   },
   {
-    "name": "ejchan.hk",
-    "url": "https://ejchan.hk/",
+    "name": "ejchan.site",
+    "url": "https://ejchan.site/",
     "mirrors": [
+      "https://ejchan.site/",
       "https://ejchan.hk/",
       "https://ejchan.life/",
       "https://ejchan.cc/",
@@ -1553,6 +1579,13 @@
   {
     "name": "falconboard.net.ru",
     "url": "https://falconboard.net.ru/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "nasosa.ch",
+    "url": "https://nasosa.ch/",
     "language": [
       "ru"
     ]

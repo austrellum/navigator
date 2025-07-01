@@ -1,5 +1,12 @@
 [
   {
+    "name": "dobrochan.forum2x2.ru",
+    "url": "https://dobrochan.forum2x2.ru/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "chan.today",
     "url": "https://chan.today/",
     "language": [
@@ -7,21 +14,15 @@
     ]
   },
   {
-    "name": "naxvmpisf6dmej3vhyu2epeax7e2u4q5b4pafxlfoz7lcrqzybgun5id.onion",
-    "url": "http://naxvmpisf6dmej3vhyu2epeax7e2u4q5b4pafxlfoz7lcrqzybgun5id.onion/",
+    "name": "beach.de.cool",
+    "url": "https://beach.de.cool/",
     "language": [
       "ru"
     ]
   },
   {
-    "name": "0chan.1chan.cyou",
-    "url": "https://0chan.1chan.cyou/",
-    "mirrors": [
-      "https://0chan.1chan.cyou/",
-      "http://ochkocuka75kjdsqxwopbvbwr677t4udud2jdydejxerhjhey6sbpkid.onion/",
-      "http://ochko.i2p/",
-      "http://ochkothkzrdgg4iwmpl3fvsf7soeu4bbbs3rfb5eck5d3mr6ggxq.b32.i2p/"
-    ],
+    "name": "naxvmpisf6dmej3vhyu2epeax7e2u4q5b4pafxlfoz7lcrqzybgun5id.onion",
+    "url": "http://naxvmpisf6dmej3vhyu2epeax7e2u4q5b4pafxlfoz7lcrqzybgun5id.onion/",
     "language": [
       "ru"
     ]
@@ -79,25 +80,6 @@
     ]
   },
   {
-    "name": "alivechan.ch",
-    "url": "https://alivechan.ch/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "1chan.cyou",
-    "url": "https://1chan.cyou/",
-    "mirrors": [
-      "https://1chan.cyou/",
-      "http://kolchan72pmrg6a6okrfx3v3ia6gbkzluc4otfcsabkyl7u6gpwaglqd.onion/",
-      "http://kolchfc6lm6ltwdj56z6wsptexlnulo3xtkjv5wr7z7frvdgi45q.b32.i2p/"
-    ],
-    "language": [
-      "ru"
-    ]
-  },
-  {
     "name": "texchan.i2p",
     "url": "http://texchan.i2p/",
     "mirrors": [
@@ -116,6 +98,13 @@
       "http://ritsuchan.i2p/",
       "http://ritsuch3huwzg56jdzz7de3fy7c2amxqvgi7v7e4g4cakftwzvyq.b32.i2p/"
     ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "o1ch.one-connect.ru",
+    "url": "https://o1ch.one-connect.ru/",
     "language": [
       "ru"
     ]
@@ -157,8 +146,16 @@
     ]
   },
   {
-    "name": "1chna.ru",
-    "url": "https://1chna.ru/",
+    "name": "ejchan.site",
+    "url": "https://ejchan.site/",
+    "mirrors": [
+      "https://ejchan.site/",
+      "https://ejchan.hk/",
+      "https://ejchan.life/",
+      "https://ejchan.cc/",
+      "https://ejchan.co/",
+      "https://ejchan.info/"
+    ],
     "language": [
       "ru"
     ]
@@ -498,6 +495,13 @@
     ]
   },
   {
+    "name": "0chan.club",
+    "url": "https://0chan.club/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "merzochan.at.ua",
     "url": "https://merzochan.at.ua/",
     "language": [
@@ -790,6 +794,27 @@
       "https://iichan.hk/",
       "https://iichan.lol/"
     ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "1chan.moy.su",
+    "url": "https://1chan.moy.su/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "1chan.ucoz.pl",
+    "url": "https://1chan.ucoz.pl/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "kolch.ucoz.org",
+    "url": "https://kolch.ucoz.org/",
     "language": [
       "ru"
     ]
