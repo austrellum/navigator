@@ -1,5 +1,19 @@
 [
   {
+    "name": "foxchan.mooo.com",
+    "url": "https://foxchan.mooo.com/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "hikkychan.cc",
+    "url": "https://hikkychan.cc/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "dobrochan.forum2x2.ru",
     "url": "https://dobrochan.forum2x2.ru/",
     "language": [
@@ -63,9 +77,10 @@
     ]
   },
   {
-    "name": "0chan.1chan.cyou",
-    "url": "https://0chan.1chan.cyou/",
+    "name": "0chan.club",
+    "url": "https://0chan.club/",
     "mirrors": [
+      "https://0chan.club/",
       "https://0chan.1chan.cyou/",
       "http://ochkocuka75kjdsqxwopbvbwr677t4udud2jdydejxerhjhey6sbpkid.onion/",
       "http://ochko.i2p/",
@@ -1715,13 +1730,6 @@
     ]
   },
   {
-    "name": "0chan.club",
-    "url": "https://0chan.club/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
     "name": "shelter.gq",
     "url": "http://shelter.gq/",
     "language": [
@@ -3302,6 +3310,7 @@
       "https://arhivach.ng/",
       "https://arhivach.site/",
       "https://arhivach.xyz/",
+      "https://arhivach.vc/",
       "http://arhivachqqqvwqcotafhk4ks2he56seuwcshpayrm5myeq45vlff44yd.onion/"
     ],
     "language": [
