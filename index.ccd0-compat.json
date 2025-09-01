@@ -1,5 +1,17 @@
 [
   {
+    "name": "lilchan.org",
+    "url": "https://lilchan.org/",
+    "mirrors": [
+      "https://lilchan.org/",
+      "https://lilchan.ru/",
+      "https://lilchan.cc/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "hikkychan.cc",
     "url": "https://hikkychan.cc/",
     "language": [
@@ -23,6 +35,13 @@
   {
     "name": "naxvmpisf6dmej3vhyu2epeax7e2u4q5b4pafxlfoz7lcrqzybgun5id.onion",
     "url": "http://naxvmpisf6dmej3vhyu2epeax7e2u4q5b4pafxlfoz7lcrqzybgun5id.onion/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "wc.foroesp.com",
+    "url": "https://wc.foroesp.com/",
     "language": [
       "ru"
     ]
@@ -175,14 +194,12 @@
     ]
   },
   {
-    "name": "escapechan.fun",
-    "url": "https://escapechan.fun/",
+    "name": "escapechan.online",
+    "url": "https://escapechan.online/",
     "mirrors": [
-      "https://escapechan.fun/",
       "https://escapechan.online/",
       "https://escapechan.ru/",
       "https://escapechan.pro/",
-      "https://escapechan.plus/",
       "http://mk2dodftctwgnux6z7iafm5tcyj7xrv7aytlh25zka45m7svvb6olfyd.onion/"
     ],
     "language": [
@@ -297,17 +314,6 @@
     ]
   },
   {
-    "name": "shitshare.xyz",
-    "url": "https://shitshare.xyz/",
-    "mirrors": [
-      "https://shitshare.xyz/",
-      "http://jn2nxlwe5cxifl7p7dixow2kcyow5wdm6f6h6p4q5u356gyeu3tk5bqd.onion/"
-    ],
-    "language": [
-      "ru"
-    ]
-  },
-  {
     "name": "9ch.site",
     "url": "https://9ch.site/",
     "mirrors": [
@@ -344,13 +350,6 @@
     ]
   },
   {
-    "name": "apachan.ru",
-    "url": "http://apachan.ru/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
     "name": "chan.city",
     "url": "https://chan.city/",
     "mirrors": [
@@ -361,7 +360,6 @@
       "de",
       "en",
       "es",
-      "ja",
       "pt",
       "ru"
     ]
@@ -387,11 +385,15 @@
       "http://alephchvkipd2houttjirmgivro5pxullvcgm4c47ptm7mhubbja6kad.onion/"
     ],
     "language": [
-      "ar",
       "en",
       "es",
-      "it",
-      "ja",
+      "ru"
+    ]
+  },
+  {
+    "name": "darkness.epizy.com",
+    "url": "http://darkness.epizy.com/",
+    "language": [
       "ru"
     ]
   },
@@ -405,8 +407,7 @@
     "language": [
       "en",
       "es",
-      "ru",
-      "zh"
+      "ru"
     ]
   },
   {
@@ -519,15 +520,11 @@
       "http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion/"
     ],
     "language": [
-      "ar",
       "en",
       "es",
-      "it",
-      "ja",
       "lt",
       "pt",
-      "ru",
-      "zh"
+      "ru"
     ]
   },
   {
@@ -794,27 +791,6 @@
       "https://iichan.hk/",
       "https://iichan.lol/"
     ],
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "1chan.moy.su",
-    "url": "https://1chan.moy.su/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "1chan.ucoz.pl",
-    "url": "https://1chan.ucoz.pl/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "kolch.ucoz.org",
-    "url": "https://kolch.ucoz.org/",
     "language": [
       "ru"
     ]

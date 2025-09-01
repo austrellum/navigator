@@ -1,5 +1,17 @@
 [
   {
+    "name": "lilchan.org",
+    "url": "https://lilchan.org/",
+    "mirrors": [
+      "https://lilchan.org/",
+      "https://lilchan.ru/",
+      "https://lilchan.cc/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "foxchan.mooo.com",
     "url": "https://foxchan.mooo.com/",
     "language": [
@@ -448,14 +460,12 @@
     ]
   },
   {
-    "name": "escapechan.fun",
-    "url": "https://escapechan.fun/",
+    "name": "escapechan.online",
+    "url": "https://escapechan.online/",
     "mirrors": [
-      "https://escapechan.fun/",
       "https://escapechan.online/",
       "https://escapechan.ru/",
       "https://escapechan.pro/",
-      "https://escapechan.plus/",
       "http://mk2dodftctwgnux6z7iafm5tcyj7xrv7aytlh25zka45m7svvb6olfyd.onion/"
     ],
     "language": [
@@ -1235,7 +1245,6 @@
       "de",
       "en",
       "es",
-      "ja",
       "pt",
       "ru"
     ]
@@ -1310,11 +1319,8 @@
       "http://alephchvkipd2houttjirmgivro5pxullvcgm4c47ptm7mhubbja6kad.onion/"
     ],
     "language": [
-      "ar",
       "en",
       "es",
-      "it",
-      "ja",
       "ru"
     ]
   },
@@ -1357,8 +1363,7 @@
     "language": [
       "en",
       "es",
-      "ru",
-      "zh"
+      "ru"
     ]
   },
   {
@@ -1879,15 +1884,11 @@
       "http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion/"
     ],
     "language": [
-      "ar",
       "en",
       "es",
-      "it",
-      "ja",
       "lt",
       "pt",
-      "ru",
-      "zh"
+      "ru"
     ]
   },
   {
@@ -3302,14 +3303,9 @@
     ]
   },
   {
-    "name": "arhivach.hk",
-    "url": "https://arhivach.hk/",
+    "name": "arhivach.vc",
+    "url": "https://arhivach.vc/",
     "mirrors": [
-      "https://arhivach.hk/",
-      "https://arhivach.top/",
-      "https://arhivach.ng/",
-      "https://arhivach.site/",
-      "https://arhivach.xyz/",
       "https://arhivach.vc/",
       "http://arhivachqqqvwqcotafhk4ks2he56seuwcshpayrm5myeq45vlff44yd.onion/"
     ],
@@ -3860,13 +3856,6 @@
   {
     "name": "lumiarena.net/board",
     "url": "http://www.lumiarena.net/board",
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "2ch.su",
-    "url": "http://www.2ch.su/",
     "language": [
       "ru"
     ]

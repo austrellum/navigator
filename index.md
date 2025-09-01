@@ -1,16 +1,19 @@
 # Навигатор бордосферы
 
-> Редакция от **1 августа 2025** (v1.24.0-n34)
+> Редакция от **1 сентября 2025** (v1.25.0-n35)
 >
-> Всего **572**, доступно **124**
+> Всего **572**, доступно **128**
 
-## Живые (92)
+## Живые (86)
 
-  - 🆕 [hikkychan.cc](https://hikkychan.cc/) 2025
-  - [dobrochan.forum2x2.ru](https://dobrochan.forum2x2.ru/) 2025 #cheap #obscure
+  - 🆕 [lilchan.org](https://lilchan.org/) 2025
+    - [.ru](https://lilchan.ru/)
+    - [.cc](https://lilchan.cc/)
+  - [hikkychan.cc](https://hikkychan.cc/) 2025
   - [wiki.ejnet.in](https://wiki.ejnet.in/) 2025 #wiki
-  - [beach.de.cool](https://beach.de.cool/) 2025 #cheap
+  - [beach.de.cool](https://beach.de.cool/) 2025
   - [naxvmpisf6dm…un5id.onion](http://naxvmpisf6dmej3vhyu2epeax7e2u4q5b4pafxlfoz7lcrqzybgun5id.onion/) 2025
+  - [wc.foroesp.com](https://wc.foroesp.com/) 2025 #obscure
   - [0chan.club](https://0chan.club/) 2025
     - [.cyou](https://0chan.1chan.cyou/)
     - [.onion](http://ochkocuka75kjdsqxwopbvbwr677t4udud2jdydejxerhjhey6sbpkid.onion/)
@@ -31,7 +34,6 @@
     - [.b32.i2p](http://k5ykjs4vczzsmiokqps4lvfi2voafjjv6lhqfbqeo5ndvl4fbxta.b32.i2p/)
   - [texchan.i2p](http://texchan.i2p/) 2025
     - [.b32.i2p](http://3ltsdikanxrdenpjitjt4hndmq77c2l2pxz2qrwurycprlwuaoiq.b32.i2p/)
-  - [4riba.veliona.no](https://4riba.veliona.no/) 2025 #cheap #index
   - [ritsuchbxdje…gviyd.onion](http://ritsuchbxdjeuhcj5mp4e3mfndlzzhiceaq7mcwmokesxde5p22gviyd.onion/) 2025
     - [.i2p](http://ritsuchan.i2p/)
     - [.b32.i2p](http://ritsuch3huwzg56jdzz7de3fy7c2amxqvgi7v7e4g4cakftwzvyq.b32.i2p/)
@@ -40,24 +42,22 @@
     - [.b32.i2p](http://ntnvj3lavzql7ko5332fd5r7s4vryhkmka6rprrhh437qsi5sh3a.b32.i2p/)
   - [ckkpss.i2p](http://ckkpss.i2p/) 2024 #obscure #chat
     - [.b32.i2p](http://ckkpsswi4k45ihka2hw4ooer3cikio35wgyhg44a2trju5gd5lea.b32.i2p/)
-  - [apachan.x10.bz](https://apachan.x10.bz/) 2024 #cheap
+  - [apachan.x10.bz](https://apachan.x10.bz/) 2024
   - [ejchan.site](https://ejchan.site/) 2024 #mods
     - [.hk](https://ejchan.hk/)
     - [.life](https://ejchan.life/)
     - [.cc](https://ejchan.cc/)
     - [.co](https://ejchan.co/)
     - [.info](https://ejchan.info/)
-  - [escapechan.fun](https://escapechan.fun/) 2024 #mods
-    - [.online](https://escapechan.online/)
+  - [escapechan.online](https://escapechan.online/) 2024 #mods
     - [.ru](https://escapechan.ru/)
     - [.pro](https://escapechan.pro/)
-    - [.plus](https://escapechan.plus/)
     - [.onion](http://mk2dodftctwgnux6z7iafm5tcyj7xrv7aytlh25zka45m7svvb6olfyd.onion/)
-  - [board.clf3.in](https://board.clf3.in/) 2024 #cheap #archive
+  - [board.clf3.in](https://board.clf3.in/) 2024 #archive
   - [kuklobunt.org](https://kuklobunt.org/) 2024 #blog
   - [chatnovgoroddoska.ru](http://chatnovgoroddoska.ru/) 2024
   - [cm24zxqih6eq…e6q.b32.i2p](http://cm24zxqih6eqkhkpowqivpyu2izmwodaxfmopli3wjv4jm3yue6q.b32.i2p/) 2024 #obscure #chat
-  - [paranormach.ru.swtest.ru](http://paranormach.ru.swtest.ru/) 2023 #cheap
+  - [paranormach.ru.swtest.ru](http://paranormach.ru.swtest.ru/) 2023
   - [uchan.i2p](http://uchan.i2p/) 2023
     - [.b32.i2p](http://uchanooau3lfmqav57q4743szpcex6jdsyae64veb6th45n2yfaq.b32.i2p/)
   - [7jdf5v63lmgt…7epqd.onion](http://7jdf5v63lmgtx2ccnkevo4y63aat6t6aqirxmat7qgcb4bxhhc27epqd.onion/) 2023
@@ -69,12 +69,10 @@
     - [.b32.i2p](http://xkih5s3yp75pqdvwdqo3dq2vtkxg2ddnfawtdfchk6wmcthvdaoa.b32.i2p/)
   - [chaoschan.org](https://chaoschan.org/) 2022
   - [альфачан.рф](http://альфачан.рф/) 2022
-  - [austrellum.g…o/navigator](https://austrellum.github.io/navigator) 2022 #cheap #index
+  - [austrellum.g…o/navigator](https://austrellum.github.io/navigator) 2022 #index
   - [nabeg.in](https://nabeg.in/) 2022 #wiki
   - [1chan.su](https://1chan.su/) 2022 #index #news
     - [.onion](http://kolchh5ok22n7kmycnghqtie574gzkiz3ojebm574isvlfbkqtjqvdyd.onion/)
-  - [shitshare.xyz](https://shitshare.xyz/) 2022 #obscure #chat
-    - [.onion](http://jn2nxlwe5cxifl7p7dixow2kcyow5wdm6f6h6p4q5u356gyeu3tk5bqd.onion/)
   - [9ch.site](https://9ch.site/) 2022 #foreign
     - [.moe](https://9ch.moe/)
     - [.fun](https://9ch.fun/)
@@ -82,11 +80,10 @@
     - [.i2p](http://9ch.i2p/)
     - [.b32.i2p](http://ninechjiwpw5cs4t25sa4pvtacgwhrsptgmopidfulbt5nnxxryq.b32.i2p/)
   - [lurkmore.media](https://lurkmore.media/) 2021 #archive #wiki
-  - [bchan.myqip.ru](https://bchan.myqip.ru/) 2021 #cheap #obscure
+  - [bchan.myqip.ru](https://bchan.myqip.ru/) 2021 #obscure
   - [bitchanr4b64…ikxad.onion](http://bitchanr4b64govofzjthtu6qc4ytrbuwbgynapkjileajpycioikxad.onion/) [/board/B…xGXcb/1](http://bitchanr4b64govofzjthtu6qc4ytrbuwbgynapkjileajpycioikxad.onion/board/BM-2cUWkjyYgc9nRZNoYDhexATpZgiTGxGXcb/1) 2020 #foreign
     - [.i2p](http://bitchan.i2p/)
     - [.b32.i2p](http://waycuw2c27ruakfblkf5tcegwmt3ot445dlfoypil6bzmm4yxg7a.b32.i2p/)
-  - [apachan.ru](http://apachan.ru/) 2020
   - [kislitsa.i2p](http://kislitsa.i2p/) 2020 #index
     - [.b32.i2p](http://khceo3smaxtng2tnuicmcbhdnkk2j6myi4nkigcux76qh3aabdhq.b32.i2p/)
   - [8chan.moe](https://8chan.moe/) [/bb](https://8chan.moe/bb) [/borda](https://8chan.moe/borda) [/ru](https://8chan.moe/ru) [/rus](https://8chan.moe/rus) 2020
@@ -114,7 +111,6 @@
     - [.net](https://neochan.net/)
     - [.onion](http://neochan7n7xp2v6yvw2u6zedciwlhot4kwftqpuoxrjwet3iprcms2qd.onion/)
   - [legacy.arisuchan.jp](https://legacy.arisuchan.jp/) [/ru](https://legacy.arisuchan.jp/ru) 2017 #foreign #archive
-  - [nasosa.ch](https://nasosa.ch/) 2017 #obscure #index
   - [kpop.re](https://kpop.re/) 2017
   - [endchan.net](https://endchan.net/) [/bb](https://endchan.net/bb) [/ca](https://endchan.net/ca) [/dobrochan](https://endchan.net/dobrochan) [/dota](https://endchan.net/dota) [/genshin](https://endchan.net/genshin) [/lgbt](https://endchan.net/lgbt) [/po](https://endchan.net/po) [/polru](https://endchan.net/polru) [/rus](https://endchan.net/rus) 2015 #foreign
     - [.gg](https://endchan.gg/)
@@ -149,12 +145,7 @@
     - [.onion](http://56p32yrjr7h3bgfvrk3qqzvu2s7mhpsq7rmbu7vsev5kyywbhcoorsqd.onion/)
   - [tuzach.in](https://tuzach.in/) 2011 #obscure #chat #stream
   - [board.everypony.ru](https://board.everypony.ru/) 2011 #archive
-  - [arhivach.hk](https://arhivach.hk/) 2011 #archive
-    - [.top](https://arhivach.top/)
-    - [.ng](https://arhivach.ng/)
-    - [.site](https://arhivach.site/)
-    - [.xyz](https://arhivach.xyz/)
-    - [.vc](https://arhivach.vc/)
+  - [arhivach.vc](https://arhivach.vc/) 2011 #archive
     - [.onion](http://arhivachqqqvwqcotafhk4ks2he56seuwcshpayrm5myeq45vlff44yd.onion/)
   - [2ch.hk](https://2ch.hk/) 2010 #mods
     - [.life](https://2ch.life/)
@@ -182,9 +173,6 @@
     - [.lol](https://iichan.lol/)
   - [102chan-memorial.i2p](http://102chan-memorial.i2p/) #archive
     - [.b32.i2p](http://xxu3lso4h2rh6wmrxiou3ax7r7la7x6dhoepnku3jvrlwp35pefq.b32.i2p/)
-  - [1chan.moy.su](https://1chan.moy.su/) #cheap
-  - [1chan.ucoz.pl](https://1chan.ucoz.pl/) #cheap
-  - [kolch.ucoz.org](https://kolch.ucoz.org/) #cheap
   - [ivchan.net](http://ivchan.net/) #archive
   - [ichan.ru](http://ichan.ru/) [/a](http://ichan.ru/a) [/l](http://ichan.ru/l) [/vg](http://ichan.ru/vg) #archive #gallery
   - [ii.yakuji.moe](https://ii.yakuji.moe/) [/abe](https://ii.yakuji.moe/abe) [/dev](https://ii.yakuji.moe/dev) #archive
@@ -196,27 +184,29 @@
     - [.moe](http://nowere.yakuji.moe/)
   - [yachan.dev.yandex.net](https://yachan.dev.yandex.net/)
 
-## Отмирающие (25)
+## Отмирающие (27)
 
-  - [o1ch.one-connect.ru](https://o1ch.one-connect.ru/) 2024 #cheap #obscure
+  - [dobrochan.forum2x2.ru](https://dobrochan.forum2x2.ru/) 2025 #obscure
+  - [o1ch.one-connect.ru](https://o1ch.one-connect.ru/) 2024 #obscure
   - [314n.0chan.one](https://314n.0chan.one/) 2023 #obscure
   - [slonik.0chan.ru](https://slonik.0chan.ru/) 2022 #blog
   - [taozgyb2jfbj…bx2qd.onion](http://taozgyb2jfbj567lzvfjse4c2snsb37tq3o2iucflxqoilogwc6bx2qd.onion/) [/ru](http://taozgyb2jfbj567lzvfjse4c2snsb37tq3o2iucflxqoilogwc6bx2qd.onion/ru) 2022 #foreign
     - [.b32.i2p](http://y5hr627jx2kzyaxlg3i5ohbmlj37eduamz67qd23kkg3dy4hg5ea.b32.i2p/)
   - [chan.city](https://chan.city/) 2020 #foreign #index
     - [.mx](https://chanes.uwu.mx/)
+  - [darkness.epizy.com](http://darkness.epizy.com/) 2020
   - [iibooru.org](https://iibooru.org/) 2019 #gallery
   - [bona.cafe](https://bona.cafe/) 2018
-  - [whitegospodi…logspot.com](https://whitegospodin.blogspot.com/) 2017 #cheap #blog
+  - [whitegospodi…logspot.com](https://whitegospodin.blogspot.com/) 2017 #blog
   - [0chantech.userecho.com](https://0chantech.userecho.com/) 2017
   - [bbs.iriscot.org](https://bbs.iriscot.org/) 2017
-  - [merzochan.at.ua](https://merzochan.at.ua/) 2016 #cheap #obscure
+  - [merzochan.at.ua](https://merzochan.at.ua/) 2016 #obscure
   - [hramopedia.org](https://hramopedia.org/) 2016 #wiki
   - [0chan.one](https://0chan.one/) 2015 #index
   - [vkchan.ru](https://vkchan.ru/) 2014 #obscure
   - [2draw.me/d](https://2draw.me/d) 2013
-  - [2chtanstory.…rdpress.com](https://2chtanstory.wordpress.com/) 2011 #cheap #blog
-  - [tinuviall.li…journal.com](https://tinuviall.livejournal.com/) 2010 #cheap #blog
+  - [2chtanstory.…rdpress.com](https://2chtanstory.wordpress.com/) 2011 #blog
+  - [tinuviall.li…journal.com](https://tinuviall.livejournal.com/) 2010 #blog
   - [iichantra.ru](https://iichantra.ru/) 2010 #blog
   - [art.4otaku.org](https://art.4otaku.org/) 2010 #gallery
   - [hamstakilla.com](https://hamstakilla.com/) [/ru](https://hamstakilla.com/ru) 2009 #foreign
@@ -225,7 +215,7 @@
     - [.group](https://bernd.group/)
     - [.id](https://xcomm.id/)
   - [coyc.net](https://coyc.net/) 2008 #blog #index
-  - [iichan-eroge…logspot.com](https://iichan-eroge.blogspot.com/) 2008 #cheap #blog
+  - [iichan-eroge…logspot.com](https://iichan-eroge.blogspot.com/) 2008 #blog
   - [noobtype.ru](https://noobtype.ru/) 2008 #index #wiki
   - [overchan.ru](http://overchan.ru/) 2008 #index
     - [.ru](http://12ch.ru/)
@@ -233,26 +223,19 @@
     - [.i2p](http://foxdickchan.i2p/)
     - [.b32.i2p](http://iqxr4hupmaqdd4wvkwwjjrq6ddocydqqqadtnk6ltdnalvrzanxq.b32.i2p/)
 
-## Только чтение (1)
+## Заглушки (17)
 
-  - [darkness.epizy.com](http://darkness.epizy.com/) 2020 #cheap
-
-## Заглушки (20)
-
-  - [aoba.me](https://aoba.me/) 2025 #cheap #blog
+  - [aoba.me](https://aoba.me/) 2025
   - [alivechan.pw](https://alivechan.pw/) 2025 #mods
     - [.ch](https://alivechan.ch/)
-  - [flchan.prtcl.icu](https://flchan.prtcl.icu/) 2025 #cheap
+  - [flchan.prtcl.icu](https://flchan.prtcl.icu/) 2025
     - [.onion](http://6fh7ey4r26vr5po43gq3igcy2r4vhv4ujol6qobsylv5bzz25illrrqd.onion/)
-  - [animechan.free.nf](https://animechan.free.nf/) 2025 #cheap
-  - [buzzboard.veliona.no](http://buzzboard.veliona.no/) 2024 #cheap
-  - [1chna.ru](https://1chna.ru/) 2024 #index
-  - [1chan.mmohost.me](https://1chan.mmohost.me/) 2024 #cheap #obscure
+  - [1chan.mmohost.me](https://1chan.mmohost.me/) 2024 #obscure
+  - [catarsys.ru](https://catarsys.ru/) 2024
   - [claire.ws](https://claire.ws/) 2024
   - [01chan.ru](http://01chan.ru/) 2021 #obscure
-  - [wc.12hp.ch](https://wc.12hp.ch/) 2020 #cheap
-  - [1ch.1bb.ru](https://1ch.1bb.ru/) 2020 #cheap #obscure
-  - [0chan.pl](https://0chan.pl/) 2018
+  - [wc.12hp.ch](https://wc.12hp.ch/) 2020
+  - [1ch.1bb.ru](https://1ch.1bb.ru/) 2020 #obscure
   - [nullnyan.net](https://nullnyan.net/) 2016
     - [.ml](https://0nyan.ml/)
   - [tumba.ch](https://tumba.ch/) 2016
@@ -264,72 +247,76 @@
   - [brchan.org](https://brchan.org/) #foreign
     - [.onion (v2)](http://brchanansdnhvvnm.onion/)
 
-## Мертвые (428)
+## Мертвые (438)
 
-  - 🆕 [foxchan.mooo.com](https://foxchan.mooo.com/) 2025 #cheap
+  - [foxchan.mooo.com](https://foxchan.mooo.com/) 2025
+  - [ere.ct.ws](https://ere.ct.ws/) 2025
   - [chan.today](https://chan.today/) 2025
-  - [pejchan.mooo.com](http://pejchan.mooo.com/) 2025 #cheap
-  - [cock.do.am](https://cock.do.am/) 2025 #cheap #obscure
+  - [pejchan.mooo.com](http://pejchan.mooo.com/) 2025
+  - [cock.do.am](https://cock.do.am/) 2025 #obscure
   - [phimos.fun](https://phimos.fun/) 2025 #obscure
-  - [out.do.am](https://out.do.am/) 2025 #cheap #obscure
-  - [gb.do.am](https://gb.do.am/) 2025 #cheap #obscure
-  - [unitas.do.am](https://unitas.do.am/) 2025 #cheap #obscure
+  - [out.do.am](https://out.do.am/) 2025 #obscure
+  - [gb.do.am](https://gb.do.am/) 2025 #obscure
+  - [unitas.do.am](https://unitas.do.am/) 2025 #obscure
   - [pohui.net](https://pohui.net/) 2025
   - [1chan.cyou](https://1chan.cyou/) 2025 #news
     - [.onion](http://kolchan72pmrg6a6okrfx3v3ia6gbkzluc4otfcsabkyl7u6gpwaglqd.onion/)
     - [.b32.i2p](http://kolchfc6lm6ltwdj56z6wsptexlnulo3xtkjv5wr7z7frvdgi45q.b32.i2p/)
-  - [overkob.nekoweb.org](https://overkob.nekoweb.org/) 2025 #cheap #index
-  - [kobchan.run.place](http://kobchan.run.place/) 2025 #cheap
+  - [4riba.veliona.no](https://4riba.veliona.no/) 2025 #index
+  - [overkob.nekoweb.org](https://overkob.nekoweb.org/) 2025 #index
+  - [kobchan.run.place](http://kobchan.run.place/) 2025
     - [.icu](http://kobchan.prtcl.icu/)
     - [.pub](http://kobchan.nya.pub/)
     - [.onion](http://swtb7yu4uy4yusemvt2ljmu3x7xpukogjc2y3smmpdk6c4vvgk5p3vid.onion/)
+  - [animechan.free.nf](https://animechan.free.nf/) 2025
   - [wkki2ufbs7lb…52lqd.onion](http://wkki2ufbs7lbd7li3bpomaiwdqu67dblfg3auoldksaqrgrlcz252lqd.onion/) 2024
     - [.b32.i2p](http://qyj4vv3bg47ip2y5chludl24cba2mooqtaxzh75aweznsiyx64mq.b32.i2p/)
+  - [buzzboard.veliona.no](http://buzzboard.veliona.no/) 2024
   - [nerealchan1.xyz](https://nerealchan1.xyz/) 2024
   - [ya4f65sgciiy…tguqd.onion](http://ya4f65sgciiylr7yg2bvfc26mwdq2kpxjasczfvzu72d34a44lxtguqd.onion/) 2024
     - [.b32.i2p](http://if4xm4xvudghhsw3b34ac26xsuc3mei4s4eykpl4gzslslujpopq.b32.i2p/)
-  - [shelterch.rf.gd](https://shelterch.rf.gd/) 2024 #cheap
-  - [mint.do.am](https://mint.do.am/) 2024 #cheap #obscure
+  - [shelterch.rf.gd](https://shelterch.rf.gd/) 2024
+  - [mint.do.am](https://mint.do.am/) 2024 #obscure
+  - [1chna.ru](https://1chna.ru/) 2024 #index
   - [1chan.fun](https://1chan.fun/) 2024
   - [ejchan3q3c42…y4byd.onion](http://ejchan3q3c42bzcuios5n6fqzhavsbz5vtawdc3vlonnvue66cuy4byd.onion/) 2024
     - [.onion](http://taochan67ewnv22yzxvldythp3ljvlxtnjrdzzpkdtdlv3kmroclf6yd.onion/)
-  - [kochan.do.am](https://kochan.do.am/) 2024 #cheap #obscure
+  - [kochan.do.am](https://kochan.do.am/) 2024 #obscure
   - [wje3mhl55diw…lhcqd.onion](http://wje3mhl55diwkidbqeh4lteurb3j5cgxyw33vqoqunpau67vfvvlhcqd.onion/) 2024 #obscure
     - [.i2p](http://tttt.i2p/)
     - [.b32.i2p](http://lux3qephwqjvl4l5krd5b3qnxzehpypwm244k5y4jy5hq2izbl4a.b32.i2p/)
   - [fykllpcfh2nd…7kjid.onion](http://fykllpcfh2ndwl2iomavkxtcrlfo3gdcpejxilbkldu47xe2hw27kjid.onion/) 2024 #obscure
     - [.i2p](http://text.i2p/)
     - [.b32.i2p](http://o4npre32mrriiv2pnd64ws3v2sjrk4cbcqjfkpzsadkk7cjaqixq.b32.i2p/)
-  - [0ch.do.am](https://0ch.do.am/) 2024 #cheap #obscure
+  - [0ch.do.am](https://0ch.do.am/) 2024 #obscure
   - [ochkoparasha.fun](https://ochkoparasha.fun/) 2024
-  - [dark.ucoz.org](https://dark.ucoz.org/) 2024 #cheap #obscure
-  - [1chan.do.am](https://1chan.do.am/) 2024 #cheap #obscure
-  - [0ch.ucoz.org](https://0ch.ucoz.org/) 2024 #cheap #obscure
-  - [1chan.forum2x2.ru](https://1chan.forum2x2.ru/) 2024 #cheap #obscure
+  - [dark.ucoz.org](https://dark.ucoz.org/) 2024 #obscure
+  - [1chan.do.am](https://1chan.do.am/) 2024 #obscure
+  - [0ch.ucoz.org](https://0ch.ucoz.org/) 2024 #obscure
+  - [1chan.forum2x2.ru](https://1chan.forum2x2.ru/) 2024 #obscure
   - [dobrochan.nl](https://dobrochan.nl/) 2024 #stream #wiki
-  - [1chan.0pk.me](https://1chan.0pk.me/) 2024 #cheap #obscure
+  - [1chan.0pk.me](https://1chan.0pk.me/) 2024 #obscure
   - [2chru.net](http://2chru.net/) 2024
-  - [wchan.free.nf](https://wchan.free.nf/) 2024 #cheap
-  - [catarsys.ru](https://catarsys.ru/) 2024
+  - [wchan.free.nf](https://wchan.free.nf/) 2024
   - [0141chan.org](https://0141chan.org/) 2024
   - [smallchan.i2p](http://smallchan.i2p/) 2024
     - [.b32.i2p](http://ucusncqzojo3bjem76zssfomb5yfuyvmbvpvnbhkb3z2nntdxxha.b32.i2p/)
   - [technach.i2p](http://technach.i2p/) 2024
     - [.b32.i2p](http://t3hhbbujrbpkcyh7v6fylyt5ourd3l5hepqdydg2zhryroklv5va.b32.i2p/)
-  - [topochan.is-great.org](http://topochan.is-great.org/) 2024 #cheap
-  - [bitardchan.rf.gd](https://bitardchan.rf.gd/) 2023 #cheap
-  - [makachan.wuaze.com](https://makachan.wuaze.com/) 2023 #cheap
-  - [trapach.kesug.com](https://trapach.kesug.com/) 2023 #cheap
-  - [lostchat.rf.gd](https://lostchat.rf.gd/) 2023 #cheap #obscure #chat
-  - [jojoch.rf.gd](https://jojoch.rf.gd/) 2023 #cheap
-  - [mochan.rf.gd](https://mochan.rf.gd/) 2023 #cheap #obscure #chat
-  - [omegachan.hk.swtest.ru](http://omegachan.hk.swtest.ru/) 2023 #cheap
+  - [topochan.is-great.org](http://topochan.is-great.org/) 2024
+  - [bitardchan.rf.gd](https://bitardchan.rf.gd/) 2023
+  - [makachan.wuaze.com](https://makachan.wuaze.com/) 2023
+  - [trapach.kesug.com](https://trapach.kesug.com/) 2023
+  - [lostchat.rf.gd](https://lostchat.rf.gd/) 2023 #obscure #chat
+  - [jojoch.rf.gd](https://jojoch.rf.gd/) 2023
+  - [mochan.rf.gd](https://mochan.rf.gd/) 2023 #obscure #chat
+  - [omegachan.hk.swtest.ru](http://omegachan.hk.swtest.ru/) 2023
   - [pinachjukrv6…7vzad.onion](http://pinachjukrv62ntdxw5qwhpp3vmzupi6kwp5dekcisyb6vztrpb7vzad.onion/) 2023 #obscure
     - [.i2p](http://pinach.i2p/)
     - [.b32.i2p](http://pinachiojrocyrpw7l2e2hwrgyiwe6wqks47do4f3p3sldqg6lta.b32.i2p/)
   - [lentachan.ru](https://lentachan.ru/) 2023 #index #news
     - [.one](https://lenta.0chan.one/)
-  - [papachan.rf.gd](https://papachan.rf.gd/) 2023 #cheap
+  - [papachan.rf.gd](https://papachan.rf.gd/) 2023
   - [reee.re](https://reee.re/) 2023
   - [srachan.i2p](http://srachan.i2p/) 2023 #obscure #chat
     - [.b32.i2p](http://tc6zs7ddxl3vlfvug2ynvrklq2z6eslgwxj3gcksxs3tz7saseja.b32.i2p/)
@@ -340,7 +327,7 @@
   - [mint.0chan.ru](https://mint.0chan.ru/) 2023
   - [varyachan.life](https://varyachan.life/) 2023
     - [.onion](http://varya2mudm4b73s2ec2nuurnmk6lju76vnwnjsev6zyhfq4to67kc5yd.onion/)
-  - [j33111470.my…/forestchan](http://j33111470.myjino.ru/forestchan) 2023 #cheap
+  - [j33111470.my…/forestchan](http://j33111470.myjino.ru/forestchan) 2023
   - [metatorrkdag…6gsad.onion](http://metatorrkdagnx2njwvnzqeclsk3qbwabr6hori4vmivj25qy6s6gsad.onion/) 2023
     - [.i2p](http://metator.i2p/)
     - [.b32.i2p](http://meta2ztenfbd4meh6bqvysngyyc343h4rzh3qenwk4po5jzfhy6q.b32.i2p/)
@@ -362,19 +349,21 @@
   - [zenchan.cc](https://zenchan.cc/) 2023 #obscure
   - [gopchan.i2p](http://gopchan.i2p/) 2023 #obscure #chat
     - [.b32.i2p](https://gopchnqtt2thncw263t32kg3wav567kf5lhzpzqcbnp5diofnhqq.b32.i2p/)
-  - [apachan.x10.mx](https://apachan.x10.mx/) 2022 #cheap
+  - [apachan.x10.mx](https://apachan.x10.mx/) 2022
   - [mothchan.ru](https://mothchan.ru/) 2022
   - [cyber2ch.com](https://cyber2ch.com/) 2022
   - [nyamo.org](https://nyamo.org/) 2022
-  - [000000.byethost22.com](http://000000.byethost22.com/) 2022 #cheap
-  - [govnyach.pyt…nywhere.com](https://govnyach.pythonanywhere.com/) 2022 #cheap
+  - [000000.byethost22.com](http://000000.byethost22.com/) 2022
+  - [govnyach.pyt…nywhere.com](https://govnyach.pythonanywhere.com/) 2022
   - [nestchan.i2p](http://nestchan.i2p/) 2022
     - [.b32.i2p](http://wzwlwxju3orzbuld7cjtia2z4fqp2vt7orjdzmsz3ynlqr3ewokq.b32.i2p/)
   - [lenchan.ru](http://lenchan.ru/) 2022
   - [motherfox.ru](https://motherfox.ru/) 2022
   - [1chan.life](https://1chan.life/) 2022 #index #news
-  - [trash.pythonanywhere.com](https://trash.pythonanywhere.com/) 2022 #cheap
+  - [trash.pythonanywhere.com](https://trash.pythonanywhere.com/) 2022
   - [1chan.cf](http://1chan.cf/) 2022 #index #news
+  - [shitshare.xyz](https://shitshare.xyz/) 2022 #obscure #chat
+    - [.onion](http://jn2nxlwe5cxifl7p7dixow2kcyow5wdm6f6h6p4q5u356gyeu3tk5bqd.onion/)
   - [0ch.kz](https://0ch.kz/) 2021
   - [purplechan.i2p](http://purplechan.i2p/) 2021
     - [.b32.i2p](http://tyiwxpgs7syjvz3cha3uckaxgondtiktlsvriebyy4qmzgbaj3gq.b32.i2p/)
@@ -386,15 +375,16 @@
   - [foxhound.cc](https://foxhound.cc/) 2021
   - [menherachan.cf](http://menherachan.cf/) 2021
   - [ru2ch.com](http://ru2ch.com/) 2020
+  - [apachan.ru](http://apachan.ru/) 2020
   - [uberchan.ru](https://uberchan.ru/) 2020
   - [desuka.ch](https://desuka.ch/) 2020
   - [board.animedebil.ru/a](http://board.animedebil.ru/a) 2020
-  - [sedativchan.…thost32.com](http://sedativchan.byethost32.com/) 2020 #cheap
-  - [libertach.byethost33.com](http://libertach.byethost33.com/) 2020 #cheap
+  - [sedativchan.…thost32.com](http://sedativchan.byethost32.com/) 2020
+  - [libertach.byethost33.com](http://libertach.byethost33.com/) 2020
   - [ronery.xyz](http://ronery.xyz/) 2020
   - [chan32f103c8t6.online](https://chan32f103c8t6.online/) 2020
   - [10chan.top](https://10chan.top/) [/z](https://10chan.top/z) 2020 #foreign
-  - [nest.rf.gd](http://nest.rf.gd/) 2020 #cheap #obscure
+  - [nest.rf.gd](http://nest.rf.gd/) 2020 #obscure
   - [lolifox.moe](https://lolifox.moe/) 2019
   - [lolifox.cc](https://lolifox.cc/) 2019
   - [1chan.io](http://1chan.io/) 2019 #index #news
@@ -408,20 +398,22 @@
   - [22ch.ru](https://www.22ch.ru/) 2018
   - [sepulcharium.tk](https://sepulcharium.tk/) 2018
   - [2fan.ru/ch](https://2fan.ru/ch) 2018
+  - [0chan.pl](https://0chan.pl/) 2018
   - [0chan.xyz](http://0chan.xyz/) 2018
-  - [p508505e.beget.tech](http://p508505e.beget.tech/) [/b](http://p508505e.beget.tech/b) [/test](http://p508505e.beget.tech/test) 2018 #cheap
+  - [p508505e.beget.tech](http://p508505e.beget.tech/) [/b](http://p508505e.beget.tech/b) [/test](http://p508505e.beget.tech/test) 2018
   - [zerochannel.cf](http://zerochannel.cf/) 2018
-  - [inch.esy.es](http://inch.esy.es/) 2018 #cheap
+  - [inch.esy.es](http://inch.esy.es/) 2018
   - [discou.rs](https://discou.rs/) 2017
   - [m-ch.ml](https://m-ch.ml/) 2017
-  - [falconboard.net.ru](https://falconboard.net.ru/) 2017 #cheap
+  - [falconboard.net.ru](https://falconboard.net.ru/) 2017
+  - [nasosa.ch](https://nasosa.ch/) 2017 #obscure #index
   - [lolifox.org](https://lolifox.org/) [/rus](https://lolifox.org/rus) [/rus2](https://lolifox.org/rus2) 2017 #foreign
     - [.onion](http://wn3ghyuon5eaqyxi7yauald3d53gsxrkanzpu2qdyc54vobif2qutsid.onion/)
-  - [brochan.esy.es](http://brochan.esy.es/) 2017 #cheap
-  - [outchan.userecho.com](https://outchan.userecho.com/) 2017 #cheap #obscure
+  - [brochan.esy.es](http://brochan.esy.es/) 2017
+  - [outchan.userecho.com](https://outchan.userecho.com/) 2017 #obscure
   - [utochan.ru](https://utochan.ru/) 2017
   - [vaporchan.com](https://vaporchan.com/) 2017
-  - [azuchan.pp.ua](https://azuchan.pp.ua/) 2017 #cheap
+  - [azuchan.pp.ua](https://azuchan.pp.ua/) 2017
   - [1chan.pl](https://1chan.pl/) 2017 #index #news
   - [anonum.org](https://anonum.org/) 2017
   - [linaba.ml](http://linaba.ml/) 2017
@@ -432,7 +424,7 @@
   - [shelter.gq](http://shelter.gq/) 2016
   - [parasha.ovh](http://parasha.ovh/) 2016
   - [hubchan.ru](http://hubchan.ru/) 2016
-  - [imageboard0.blogspot.ru](https://imageboard0.blogspot.ru/) 2016 #cheap #obscure
+  - [imageboard0.blogspot.ru](https://imageboard0.blogspot.ru/) 2016 #obscure
   - [0-chanru.net](http://0-chanru.net/) 2016
   - [gqchan.qg](http://gqchan.qg/) 2016
     - [.gq](http://gq-chan.gq/)
@@ -447,11 +439,11 @@
     - [.space](http://pilvi.space/)
   - [bwchan.tk](http://bwchan.tk/) 2015
   - [ozuchan.ru](http://ozuchan.ru/) 2015
-  - [xachan.ga](http://xachan.ga/) 2015 #cheap
+  - [xachan.ga](http://xachan.ga/) 2015
   - [midorichan.ru](https://midorichan.ru/) 2015
-  - [0chan.ru.net](http://0chan.ru.net/) 2015 #cheap
+  - [0chan.ru.net](http://0chan.ru.net/) 2015
   - [2watch.in](http://2watch.in/) 2015
-  - [archan.pe.hu](http://archan.pe.hu/) 2015 #cheap
+  - [archan.pe.hu](http://archan.pe.hu/) 2015
   - [post0chan.ru](http://post0chan.ru/) 2015
     - [.su](http://0ch.su/)
   - [outchan.cf](https://outchan.cf/) 2015 #index
@@ -464,7 +456,7 @@
   - [zenchan.hk](http://zenchan.hk/) 2015
   - [erlach.co](https://erlach.co/) 2015
   - [chaos.cyberpunk.us](https://chaos.cyberpunk.us/) 2015
-  - [technoboard.fatbb.ru](http://technoboard.fatbb.ru/) 2014 #cheap #obscure
+  - [technoboard.fatbb.ru](http://technoboard.fatbb.ru/) 2014 #obscure
   - [korean-lvl.ru](http://korean-lvl.ru/) 2014
   - [lampach.net](http://lampach.net/) 2014
   - [alikchan.tk](http://alikchan.tk/) 2014
@@ -473,21 +465,21 @@
   - [0chru.net](http://0chru.net/) 2014
   - [sichan.in](http://sichan.in/) 2014
   - [a-chan.org](http://a-chan.org/) 2014
-  - [stephanielove.96.lt](http://stephanielove.96.lt/) 2014 #cheap
+  - [stephanielove.96.lt](http://stephanielove.96.lt/) 2014
   - [nullchan.net](http://nullchan.net/) 2014
   - [zerochan.be](http://www.zerochan.be/) 2014
   - [форчан.рф](http://форчан.рф/) 2014
-  - [spurdo.esy.es](http://spurdo.esy.es/) 2014 #cheap
+  - [spurdo.esy.es](http://spurdo.esy.es/) 2014
   - [cataem.ru](http://cataem.ru/) 2014
   - [bbs.2chan.su](https://bbs.2chan.su/) 2014
-  - [y0chan.e3w.ru](http://y0chan.e3w.ru/) 2014 #cheap
+  - [y0chan.e3w.ru](http://y0chan.e3w.ru/) 2014
   - [cchan.tk](http://cchan.tk/) 2014
-  - [16ch.ws/board](http://16ch.ws/board) 2014 #cheap
-  - [sajtknajvsa.esy.es](http://sajtknajvsa.esy.es/) 2014 #cheap
+  - [16ch.ws/board](http://16ch.ws/board) 2014
+  - [sajtknajvsa.esy.es](http://sajtknajvsa.esy.es/) 2014
   - [rollach.ru](http://rollach.ru/) 2014
-  - [board.d3w.org](https://board.d3w.org/) 2014 #cheap
-  - [shepel.site90.com/forum](http://www.shepel.site90.com/forum) 2014 #cheap
-  - [0chan.esy.es](http://0chan.esy.es/) 2014 #cheap
+  - [board.d3w.org](https://board.d3w.org/) 2014
+  - [shepel.site90.com/forum](http://www.shepel.site90.com/forum) 2014
+  - [0chan.esy.es](http://0chan.esy.es/) 2014
   - [scochan.com](http://scochan.com/) 2014
   - [4-chan.ru](http://4-chan.ru/) 2014
   - [reptila.ch](http://reptila.ch/) 2014
@@ -502,17 +494,17 @@
   - [0ch2ch.org](http://0ch2ch.org/) 2013
   - [2сн.рф](http://2сн.рф/) 2013
   - [poltorach.besaba.com](http://poltorach.besaba.com/) 2013
-  - [dixchan.id1945.com](http://dixchan.id1945.com/) 2013 #cheap
+  - [dixchan.id1945.com](http://dixchan.id1945.com/) 2013
   - [obu4an.com](http://obu4an.com/) 2013
   - [ronery.me](https://ronery.me/) 2013
-  - [ch.96.lt](http://ch.96.lt/) 2013 #cheap
-  - [2ch.yzi.me](http://2ch.yzi.me/) 2013 #cheap
-  - [nowai.p.ht](http://nowai.p.ht/) 2013 #cheap
-  - [bitardengine.p.ht](http://bitardengine.p.ht/) 2013 #cheap
+  - [ch.96.lt](http://ch.96.lt/) 2013
+  - [2ch.yzi.me](http://2ch.yzi.me/) 2013
+  - [nowai.p.ht](http://nowai.p.ht/) 2013
+  - [bitardengine.p.ht](http://bitardengine.p.ht/) 2013
   - [haibane.ru](https://haibane.ru/) 2013
   - [solver.xe0.ru](http://solver.xe0.ru/) 2013
   - [baka-ch.ru](http://baka-ch.ru/) 2013
-  - [alfachan.hol.es](http://alfachan.hol.es/) 2013 #cheap
+  - [alfachan.hol.es](http://alfachan.hol.es/) 2013
   - [tchan.org](http://tchan.org/) 2013
   - [hatechannel.org](http://hatechannel.org/) 2013 #index
   - [imageboard.h…mesduck.com](http://imageboard.holmesduck.com/) 2013
@@ -527,11 +519,11 @@
   - [mlp.su](http://mlp.su/) 2013
   - [neboard.me](https://neboard.me/) 2013 #foreign
   - [krichan.net](http://krichan.net/) 2013
-  - [abuchan.alwaysdata.net](http://abuchan.alwaysdata.net/) 2013 #cheap
+  - [abuchan.alwaysdata.net](http://abuchan.alwaysdata.net/) 2013
   - [kolch.org](http://kolch.org/) 2013 #index #news
   - [parasha-chan.tk](http://parasha-chan.tk/) 2013
   - [35chan.ru](http://35chan.ru/) 2013
-  - [pekach.pusku.com](http://pekach.pusku.com/) 2013 #cheap
+  - [pekach.pusku.com](http://pekach.pusku.com/) 2013
   - [vorovchan.ru](https://vorovchan.ru/) 2013
   - [kraschan.net](http://kraschan.net/) 2013 #index
   - [mediaboard.su](http://mediaboard.su/) 2013
@@ -539,23 +531,23 @@
   - [textach.ru](http://textach.ru/) 2013
   - [2chru.cafe](https://2chru.cafe/) 2013
   - [10ch.ru](http://10ch.ru/) 2013 #index
-  - [13chan.p.ht](http://13chan.p.ht/) 2013 #cheap
+  - [13chan.p.ht](http://13chan.p.ht/) 2013
   - [chan.twomini.com](http://chan.twomini.com/) 2013
   - [maruchan.re](http://maruchan.re/) 2013
   - [bardachan.ru](http://bardachan.ru/) 2013
-  - [the-deep.hol.es](http://the-deep.hol.es/) 2013 #cheap
+  - [the-deep.hol.es](http://the-deep.hol.es/) 2013
   - [vlore.ru](http://vlore.ru/) 2013
   - [crypt0.in](https://crypt0.in/) 2013
   - [suika.ru](http://suika.ru/) 2013
   - [boards.osach.ru](http://boards.osach.ru/) 2012
   - [dijkstra.ru/chan](http://dijkstra.ru/chan) 2012
-  - [tickle.me.ht](http://tickle.me.ht/) 2012 #cheap
+  - [tickle.me.ht](http://tickle.me.ht/) 2012
   - [aib.katab.asia](http://aib.katab.asia/) 2012
   - [jchan.ru](http://jchan.ru/) 2012
-  - [2ch.p.ht](http://2ch.p.ht/) 2012 #cheap
+  - [2ch.p.ht](http://2ch.p.ht/) 2012
   - [pucan.ru](http://www.pucan.ru/) 2012
-  - [anothercity.comuv.com](http://anothercity.comuv.com/) 2012 #cheap
-  - [chan.pp.ua](http://chan.pp.ua/) 2012 #cheap
+  - [anothercity.comuv.com](http://anothercity.comuv.com/) 2012
+  - [chan.pp.ua](http://chan.pp.ua/) 2012
   - [ponychan.ru](http://ponychan.ru/) 2012
   - [friendfeedchan.ru](http://friendfeedchan.ru/) 2012
   - [freeport7.org](https://freeport7.org/) 2012
@@ -567,7 +559,7 @@
     - [.ru](http://tsun-tsun.ru/)
     - [.ru](http://radiogin.ru/)
   - [7n8.ru](http://7n8.ru/) 2012
-  - [sevenchan.tmweb.ru](http://sevenchan.tmweb.ru/) 2012 #cheap
+  - [sevenchan.tmweb.ru](http://sevenchan.tmweb.ru/) 2012
   - [inach.org](http://inach.org/) 2012
   - [помогач.рф](http://помогач.рф/) 2012 #obscure
   - [asylum.kodingen.com](http://asylum.kodingen.com/) 2012
@@ -576,7 +568,7 @@
   - [kokoko.ch](http://kokoko.ch/) 2012
     - [.рф](http://кококо.рф/)
   - [rakach.ru](http://rakach.ru/) 2012
-  - [betachan.16mb.com](http://betachan.16mb.com/) 2012 #cheap
+  - [betachan.16mb.com](http://betachan.16mb.com/) 2012
   - [atochan.org](http://atochan.org/) 2012
   - [ivchan.org](http://www.ivchan.org/) 2012
   - [lichan.ru](http://lichan.ru/) 2012
@@ -587,7 +579,7 @@
     - [.ru](http://reserve.dollship.ru/)
     - [.ru](http://dollchanship.ru/)
     - [.ru](http://reserve.dcship.ru/)
-  - [2ch.hopto.org](http://2ch.hopto.org/) 2012 #cheap
+  - [2ch.hopto.org](http://2ch.hopto.org/) 2012
   - [chan.twitterach.ru/chan](http://chan.twitterach.ru/chan) 2012
   - [2chik.ru](https://2chik.ru/) 2012 #obscure
   - [azuchan.ru/kotoba](http://www.azuchan.ru/kotoba) 2012
@@ -597,13 +589,13 @@
   - [boxxybabee.ru](http://boxxybabee.ru/) 2011
   - [ukrachan.org](http://ukrachan.org/) 2011 #foreign
   - [ii-chan.ru](http://ii-chan.ru/) 2011
-  - [zchan.host56.com](http://zchan.host56.com/) 2011 #cheap
+  - [zchan.host56.com](http://zchan.host56.com/) 2011
   - [ech.su](http://ech.su/) 2011
   - [op-4.ru](http://op-4.ru/) 2011 #stream
   - [desuchan.ru](http://desuchan.ru/) 2011
   - [swingo.so](http://swingo.so/) 2011
   - [21chan.net](http://21chan.net/) 2011
-  - [noch.22web.net](http://noch.22web.net/) 2011 #cheap
+  - [noch.22web.net](http://noch.22web.net/) 2011
   - [5channel.net](http://5channel.net/) 2011 #mods
   - [vkonta.ch](http://vkonta.ch/) 2011 #obscure
   - [devchach.ru](https://devchach.ru/) 2011
@@ -624,13 +616,13 @@
   - [mechachan.com](http://mechachan.com/) [/hie](http://mechachan.com/hie) 2011 #foreign
   - [школочан.рф](http://школочан.рф/) 2011
   - [ktosverhu.ru](http://ktosverhu.ru/) 2011 #obscure
-  - [shkolochan.16mb.com](http://shkolochan.16mb.com/) 2011 #cheap
+  - [shkolochan.16mb.com](http://shkolochan.16mb.com/) 2011
   - [lamp.fm](http://lamp.fm/) 2010 #stream
   - [firstchan.ru](http://firstchan.ru/) 2010
   - [midchan.com](http://midchan.com/) 2010
   - [pichan.pokecenter.ru](http://pichan.pokecenter.ru/) 2010
   - [2--ch.ru](https://2--ch.ru/) 2010
-  - [board.hmarka.net](http://board.hmarka.net/) 2010 #foreign #cheap
+  - [board.hmarka.net](http://board.hmarka.net/) 2010 #foreign
   - [chan.ru](https://chan.ru/) 2010
   - [biri-biri.ru](http://biri-biri.ru/) 2010
   - [freech.ru](http://freech.ru/) 2010 #obscure #chat
@@ -641,25 +633,25 @@
   - [02ch.org](http://02ch.org/) 2010
   - [xchan.in](http://xchan.in/) 2010
     - [.ru](http://xchan.ru/)
-  - [dvach.hut2.ru](http://dvach.hut2.ru/) 2010 #cheap
-  - [funchan.org.ru](http://funchan.org.ru/) 2010 #cheap
+  - [dvach.hut2.ru](http://dvach.hut2.ru/) 2010
+  - [funchan.org.ru](http://funchan.org.ru/) 2010
   - [chaos.fm](http://chaos.fm/) 2010
   - [boards.ongoing.ru](http://boards.ongoing.ru/) 2010
   - [42ch.org](http://www.42ch.org/) 2010
-  - [vjope.aa.am](http://vjope.aa.am/) 2010 #cheap
+  - [vjope.aa.am](http://vjope.aa.am/) 2010
   - [atasi.net](http://atasi.net/) 2010
-  - [vk.com/app1877234](https://vk.com/app1877234) 2010 #cheap #obscure
+  - [vk.com/app1877234](https://vk.com/app1877234) 2010 #obscure
   - [rakochan.ru](http://rakochan.ru/) 2010
   - [touhouchan.org](https://touhouchan.org/) 2010
-  - [devio.us/~anton](http://devio.us/~anton) 2010 #cheap
+  - [devio.us/~anton](http://devio.us/~anton) 2010
   - [trollchan.ru](http://trollchan.ru/) 2010
   - [samechan.org](http://www.samechan.org/) 2010
   - [rchan.ru](http://rchan.ru/) 2010
   - [4chan.kz](http://4chan.kz/) 2010
   - [omichan.com](http://omichan.com/) 2010
   - [animuchan.net](http://animuchan.net/) 2010
-  - [ono.moe.hm](http://ono.moe.hm/) 2010 #cheap
-  - [2chan.net.ru](http://2chan.net.ru/) 2010 #cheap
+  - [ono.moe.hm](http://ono.moe.hm/) 2010
+  - [2chan.net.ru](http://2chan.net.ru/) 2010
   - [board.perfectdark.ru](http://board.perfectdark.ru/) 2010
   - [board.sw-club.ru](http://board.sw-club.ru/) 2010
   - [2x2-ch.ru](http://2x2-ch.ru/) 2010
@@ -667,13 +659,13 @@
   - [realchan.ru](http://realchan.ru/) 2009
   - [nogaems.ru](http://nogaems.ru/) 2009
   - [img-board.com](http://img-board.com/) 2009
-  - [up4k.org.ru](http://up4k.org.ru/) 2009 #cheap
+  - [up4k.org.ru](http://up4k.org.ru/) 2009
   - [tenhou.ru/m](http://tenhou.ru/m) 2009
   - [vip-tusa.ru](https://vip-tusa.ru/) 2009
   - [olanet.ru](http://olanet.ru/) 2009
   - [apachan.net](http://www.apachan.net/) 2009
-  - [ascii.geekly.info](http://ascii.geekly.info/) 2009 #cheap
-  - [bydlo-kun.org.ru](http://bydlo-kun.org.ru/) 2009 #cheap
+  - [ascii.geekly.info](http://ascii.geekly.info/) 2009
+  - [bydlo-kun.org.ru](http://bydlo-kun.org.ru/) 2009
   - [leopard-raws.ru](http://leopard-raws.ru/) 2009
   - [hivemind.me](http://hivemind.me/) 2009
   - [gothchan.ru](http://gothchan.ru/) 2009
@@ -687,15 +679,14 @@
   - [metroblog.ru/gesta3](http://metroblog.ru/gesta3) 2009 #obscure #chat
   - [xynta.ch](https://xynta.ch/) 2009
   - [lumiarena.net/board](http://www.lumiarena.net/board) 2009
-  - [2ch.su](http://www.2ch.su/) 2009
   - [4otaku.ru/board](http://4otaku.ru/board) 2009
   - [02-ch.ru](http://02-ch.ru/) 2009
   - [1chan.ru](http://1chan.ru/) 2009 #news
   - [i-safe.ru](http://i-safe.ru/) 2009
-  - [itchan.ath.cx](https://itchan.ath.cx/) 2009 #cheap
+  - [itchan.ath.cx](https://itchan.ath.cx/) 2009
   - [v2ch.ru](https://v2ch.ru/) 2009
   - [hatsune.ru](http://hatsune.ru/) 2009
-  - [hooyach.no-ip.biz/b](https://hooyach.no-ip.biz/b) 2009 #cheap
+  - [hooyach.no-ip.biz/b](https://hooyach.no-ip.biz/b) 2009
   - [2ch-ng.ru](http://2ch-ng.ru/) 2009
   - [slowpo4.ru](http://slowpo4.ru/) 2009
   - [aoizora.org](https://aoizora.org/) 2009
@@ -708,19 +699,19 @@
   - [gaychan.ru](http://gaychan.ru/) 2009
     - [.ru](http://gchan.ru/)
   - [02ch.su](http://02ch.su/) 2009
-  - [lapti.org.ru](https://lapti.org.ru/) 2009 #cheap
+  - [lapti.org.ru](https://lapti.org.ru/) 2009
   - [7dch.net](http://7dch.net/) 2009
   - [2-ch.su](https://2-ch.su/) 2009
-  - [uchan.org.ua](http://uchan.org.ua/) 2009 #foreign #cheap
+  - [uchan.org.ua](http://uchan.org.ua/) 2009 #foreign
   - [fapchan.ru](http://fapchan.ru/) 2008
-  - [zlofenix.net.ru/zloch](http://zlofenix.net.ru/zloch) 2008 #cheap
+  - [zlofenix.net.ru/zloch](http://zlofenix.net.ru/zloch) 2008
   - [dobrosan.ru](http://dobrosan.ru/) 2008
   - [lenta-chan.ru](http://lenta-chan.ru/) 2008 #news
   - [mireach.ru](http://mireach.ru/) 2008
   - [dobrochan.ru](http://dobrochan.ru/) 2008
     - [.com](http://dobrochan.com/)
     - [.org](http://dobrochan.org/)
-  - [img.otaku.nn.ru](https://www.img.otaku.nn.ru/) 2008 #cheap
+  - [img.otaku.nn.ru](https://www.img.otaku.nn.ru/) 2008
   - [lolks.ru](http://lolks.ru/) 2008 #obscure #chat
   - [apple.su](http://apple.su/) 2008
   - [nowai.ru](http://nowai.ru/) 2008
@@ -740,23 +731,24 @@
     - [.re](https://lurkmo.re/)
     - [.net](https://lurkmore.net/)
     - [.to](https://lurkmore.to/)
-  - [p2.nge.net.ru](http://p2.nge.net.ru/) 2007 #cheap
+  - [p2.nge.net.ru](http://p2.nge.net.ru/) 2007
   - [8chan.ru](https://8chan.ru/) 2007
   - [ptaag.ru](http://ptaag.ru/) 2007
-  - [mithgol.drda…ru/imgboard](http://mithgol.drdaeman.pp.ru/imgboard) 2006 #cheap
+  - [mithgol.drda…ru/imgboard](http://mithgol.drdaeman.pp.ru/imgboard) 2006
   - [polynomial.ru/wakaba](http://www.polynomial.ru/wakaba) 2006
   - [i-bbs.org](http://i-bbs.org/) 2005
   - [wakachan.org](http://wakachan.org/) [/unyl](http://wakachan.org/unyl) 2004 #foreign
-  - [bulbach.500mb.net](http://bulbach.500mb.net/) #cheap
+  - [1chan.moy.su](https://1chan.moy.su/)
+  - [1chan.ucoz.pl](https://1chan.ucoz.pl/)
+  - [kolch.ucoz.org](https://kolch.ucoz.org/)
+  - [bulbach.500mb.net](http://bulbach.500mb.net/)
   - [obr.li](https://obr.li/)
   - [pidorchan.i2p](http://pidorchan.i2p/) #obscure #chat
     - [.b32.i2p](http://pidorgmob3uchxfepm7ywvfbjwo5f232us3lkegvbolwv2qybesa.b32.i2p/)
   - [tdsrvhos656x…r47ad.onion](http://tdsrvhos656xypxsqtkqmiwefuvlyqmnvk5faoo23oh2m4xqg4gr47ad.onion/) [/polru](http://tdsrvhos656xypxsqtkqmiwefuvlyqmnvk5faoo23oh2m4xqg4gr47ad.onion/polru) #foreign
 
-## Исключенные (6)
+## Исключенные (4)
 
-  - [ere.ct.ws](https://ere.ct.ws/) 2025
-  - [wc.foroesp.com](https://wc.foroesp.com/) 2025 #cheap #obscure
   - [claire.lol](https://claire.lol/) 2024 #mods
   - [zchan.app](https://zchan.app/) 2020
   - [ylilauta.org](https://ylilauta.org/) [/russia](https://ylilauta.org/russia) 2011 #foreign
@@ -764,12 +756,6 @@
 
 ## Условные обозначения
 
-  - **#limited** — Ограничено владельцем
-  - **#iich** — iichan.ru и связанные сайты
-  - **#ex0ch** — Пост-0chan.ru и связанные сайты
-  - **#ex1ch** — Пост-1chan.ru и связанные сайты
-  - **#ex2ch** — Пост-2ch.ru и связанные сайты
-  - **#exapach** — Пост-apachan.net и связанные сайты
   - **#foreign** — Зарубежный сайт с русскоязычным содержимым
   - **#cheap** — Бесплатная или базовая инфраструктура для сайта
   - **#obscure** — Нестандартная концепция использования
@@ -785,4 +771,4 @@
 
 ---
 
-[Источник](https://github.com/austrellum/navigator) | [Обсуждение](https://wc.12hp.ch/wc/res/4130.html) | [Обратная связь](https://tally.so/r/mO5NJM) | [Опрос-2024](https://tally.so/r/3jPop4)
+[Источник](https://github.com/austrellum/navigator)

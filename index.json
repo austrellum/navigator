@@ -1,15 +1,28 @@
 {
   "meta": {
-    "version": "1.24.0-n34",
+    "version": "1.25.0-n35",
     "created": "2022-06-06",
-    "updated": "2025-08-01",
-    "source": "https://github.com/austrellum/navigator",
-    "discussion": "https://wc.12hp.ch/wc/res/4130.html",
-    "feedback": "https://tally.so/r/mO5NJM",
-    "survey": "https://tally.so/r/3jPop4"
+    "updated": "2025-09-01",
+    "source": "https://github.com/austrellum/navigator"
   },
   "data": {
     "sites": [
+      {
+        "id": "lilchan-org",
+        "urls": [
+          "https://lilchan.org/",
+          "https://lilchan.ru/",
+          "https://lilchan.cc/"
+        ],
+        "created": "2025-08-01",
+        "tagsIds": [
+          "new",
+          "live",
+          "www",
+          "board",
+          "ru"
+        ]
+      },
       {
         "id": "foxchan-mooo-com",
         "urls": [
@@ -17,10 +30,8 @@
         ],
         "created": "2025-07-19",
         "tagsIds": [
-          "new",
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -32,7 +43,6 @@
         ],
         "created": "2025-07-10",
         "tagsIds": [
-          "new",
           "live",
           "www",
           "board",
@@ -46,10 +56,8 @@
         ],
         "created": "2025-06-18",
         "tagsIds": [
-          "move",
-          "live",
+          "ghost",
           "www",
-          "cheap",
           "obscure",
           "board",
           "ru"
@@ -62,11 +70,9 @@
         ],
         "created": "2025-06-06",
         "tagsIds": [
-          "move",
           "stub",
           "www",
-          "cheap",
-          "blog",
+          "board",
           "ru"
         ]
       },
@@ -90,7 +96,7 @@
         ],
         "created": "2025-05-23",
         "tagsIds": [
-          "unlisted",
+          "dead",
           "www",
           "board",
           "ru"
@@ -118,7 +124,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -132,7 +137,6 @@
         "tagsIds": [
           "live",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -157,9 +161,8 @@
         ],
         "created": "2025-04-01",
         "tagsIds": [
-          "unlisted",
+          "live",
           "www",
-          "cheap",
           "obscure",
           "board",
           "ru"
@@ -193,7 +196,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "obscure",
           "board",
           "ru"
@@ -249,7 +251,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "obscure",
           "board",
           "ru"
@@ -294,7 +295,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "obscure",
           "board",
           "ru"
@@ -328,7 +328,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "obscure",
           "board",
           "ru"
@@ -401,10 +400,8 @@
         ],
         "created": "2025-02-05",
         "tagsIds": [
-          "move",
-          "live",
+          "dead",
           "www",
-          "cheap",
           "index",
           "ru"
         ]
@@ -418,7 +415,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "index",
           "ru"
         ]
@@ -436,7 +432,6 @@
           "dead",
           "www",
           "tor",
-          "cheap",
           "board",
           "ru"
         ]
@@ -468,7 +463,6 @@
           "stub",
           "www",
           "tor",
-          "cheap",
           "board",
           "en",
           "ru"
@@ -481,10 +475,8 @@
         ],
         "created": "2025",
         "tagsIds": [
-          "move",
-          "stub",
+          "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -496,9 +488,9 @@
         ],
         "created": "2024-12-15",
         "tagsIds": [
+          "move",
           "ghost",
           "www",
-          "cheap",
           "obscure",
           "board",
           "ru"
@@ -526,10 +518,8 @@
         ],
         "created": "2024-12-12",
         "tagsIds": [
-          "move",
-          "stub",
+          "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -598,7 +588,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -628,7 +617,6 @@
         "tagsIds": [
           "live",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -642,7 +630,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "obscure",
           "board",
           "ru"
@@ -655,8 +642,7 @@
         ],
         "created": "2024-07-24",
         "tagsIds": [
-          "move",
-          "stub",
+          "dead",
           "www",
           "board",
           "index",
@@ -699,7 +685,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "obscure",
           "board",
           "ru"
@@ -767,20 +752,17 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "obscure",
           "board",
           "ru"
         ]
       },
       {
-        "id": "escapechan-fun",
+        "id": "escapechan-online",
         "urls": [
-          "https://escapechan.fun/",
           "https://escapechan.online/",
           "https://escapechan.ru/",
           "https://escapechan.pro/",
-          "https://escapechan.plus/",
           "http://mk2dodftctwgnux6z7iafm5tcyj7xrv7aytlh25zka45m7svvb6olfyd.onion/"
         ],
         "created": "2024-06-23",
@@ -802,7 +784,6 @@
         "tagsIds": [
           "stub",
           "www",
-          "cheap",
           "obscure",
           "board",
           "ru"
@@ -830,7 +811,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "obscure",
           "board",
           "ru"
@@ -845,7 +825,6 @@
         "tagsIds": [
           "live",
           "www",
-          "cheap",
           "archive",
           "ru"
         ]
@@ -859,7 +838,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "obscure",
           "board",
           "ru"
@@ -874,7 +852,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "obscure",
           "board",
           "ru"
@@ -889,7 +866,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "obscure",
           "board",
           "ru"
@@ -919,7 +895,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "obscure",
           "board",
           "ru"
@@ -960,7 +935,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -972,7 +946,7 @@
         ],
         "created": "2024-02-14",
         "tagsIds": [
-          "dead",
+          "stub",
           "www",
           "board",
           "ru"
@@ -1082,7 +1056,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -1096,7 +1069,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -1110,7 +1082,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -1124,7 +1095,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -1138,7 +1108,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "obscure",
           "chat",
           "ru"
@@ -1153,7 +1122,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -1167,7 +1135,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "obscure",
           "chat",
           "ru"
@@ -1182,7 +1149,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -1229,7 +1195,6 @@
         "tagsIds": [
           "live",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -1243,7 +1208,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -1380,7 +1344,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -1641,7 +1604,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -1653,6 +1615,7 @@
         ],
         "created": "2022-11-20",
         "tagsIds": [
+          "move",
           "ghost",
           "www",
           "blog",
@@ -1720,7 +1683,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -1747,7 +1709,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -1794,7 +1755,6 @@
         "tagsIds": [
           "live",
           "www",
-          "cheap",
           "index",
           "ru"
         ]
@@ -1806,7 +1766,6 @@
         ],
         "created": "2022-06-01",
         "tagsIds": [
-          "move",
           "live",
           "www",
           "wiki",
@@ -1880,7 +1839,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -1908,8 +1866,7 @@
         ],
         "created": "2022-01-30",
         "tagsIds": [
-          "move",
-          "live",
+          "dead",
           "www",
           "tor",
           "obscure",
@@ -2060,7 +2017,6 @@
         "tagsIds": [
           "live",
           "www",
-          "cheap",
           "obscure",
           "board",
           "ru"
@@ -2107,8 +2063,7 @@
         ],
         "created": "2020-10-02",
         "tagsIds": [
-          "move",
-          "live",
+          "dead",
           "www",
           "board",
           "ru"
@@ -2136,7 +2091,6 @@
         "tagsIds": [
           "stub",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -2157,7 +2111,6 @@
           "de",
           "en",
           "es",
-          "ja",
           "pt",
           "ru"
         ]
@@ -2210,7 +2163,6 @@
         "tagsIds": [
           "stub",
           "www",
-          "cheap",
           "obscure",
           "board",
           "ru"
@@ -2240,7 +2192,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -2254,7 +2205,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -2292,11 +2242,8 @@
           "www",
           "tor",
           "board",
-          "ar",
           "en",
           "es",
-          "it",
-          "ja",
           "ru"
         ]
       },
@@ -2338,9 +2285,8 @@
         ],
         "created": "2020-03-25",
         "tagsIds": [
-          "readonly",
+          "ghost",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -2354,7 +2300,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "obscure",
           "board",
           "ru"
@@ -2378,8 +2323,7 @@
           "board",
           "en",
           "es",
-          "ru",
-          "zh-hk"
+          "ru"
         ]
       },
       {
@@ -2637,8 +2581,7 @@
         ],
         "created": "2018-05-26",
         "tagsIds": [
-          "move",
-          "stub",
+          "dead",
           "www",
           "board",
           "ru"
@@ -2712,7 +2655,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -2739,7 +2681,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -2797,7 +2738,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -2809,8 +2749,7 @@
         ],
         "created": "2017-08",
         "tagsIds": [
-          "move",
-          "live",
+          "dead",
           "www",
           "obscure",
           "index",
@@ -2847,7 +2786,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -2874,7 +2812,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "obscure",
           "board",
           "ru"
@@ -2915,7 +2852,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -2944,7 +2880,6 @@
         "tagsIds": [
           "ghost",
           "www",
-          "cheap",
           "blog",
           "ru"
         ]
@@ -3115,7 +3050,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "obscure",
           "board",
           "ru"
@@ -3130,7 +3064,6 @@
         "tagsIds": [
           "ghost",
           "www",
-          "cheap",
           "obscure",
           "board",
           "ru"
@@ -3322,15 +3255,11 @@
           "tor",
           "foreign",
           "board",
-          "ar",
           "en",
           "es",
-          "it",
-          "ja",
           "lt",
           "pt",
-          "ru",
-          "zh-hk"
+          "ru"
         ]
       },
       {
@@ -3355,7 +3284,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -3396,7 +3324,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -3423,7 +3350,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -3612,7 +3538,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "obscure",
           "board",
           "ru"
@@ -3744,7 +3669,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -3797,7 +3721,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -3851,7 +3774,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -3878,7 +3800,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -3892,7 +3813,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -3933,7 +3853,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -3947,7 +3866,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -3961,7 +3879,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -4159,7 +4076,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -4199,7 +4115,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -4213,7 +4128,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -4240,7 +4154,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -4254,7 +4167,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -4307,7 +4219,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -4550,7 +4461,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -4605,7 +4515,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -4712,7 +4621,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -4765,7 +4673,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -4844,7 +4751,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -4884,7 +4790,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -4911,7 +4816,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -4925,7 +4829,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -5112,7 +5015,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -5233,7 +5135,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -5356,7 +5257,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -5504,7 +5404,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -5546,7 +5445,6 @@
         "tagsIds": [
           "ghost",
           "www",
-          "cheap",
           "blog",
           "ru"
         ]
@@ -5644,7 +5542,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -5926,13 +5823,8 @@
         ]
       },
       {
-        "id": "arhivach-hk",
+        "id": "arhivach-vc",
         "urls": [
-          "https://arhivach.hk/",
-          "https://arhivach.top/",
-          "https://arhivach.ng/",
-          "https://arhivach.site/",
-          "https://arhivach.xyz/",
           "https://arhivach.vc/",
           "http://arhivachqqqvwqcotafhk4ks2he56seuwcshpayrm5myeq45vlff44yd.onion/"
         ],
@@ -5954,7 +5846,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -6035,7 +5926,6 @@
           "dead",
           "www",
           "foreign",
-          "cheap",
           "board",
           "ru",
           "uk"
@@ -6172,7 +6062,6 @@
         "tagsIds": [
           "ghost",
           "www",
-          "cheap",
           "blog",
           "ru"
         ]
@@ -6200,7 +6089,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -6214,7 +6102,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -6294,7 +6181,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -6334,7 +6220,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "obscure",
           "board",
           "ru"
@@ -6388,7 +6273,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -6494,7 +6378,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -6508,7 +6391,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -6664,7 +6546,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -6753,7 +6634,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -6767,7 +6647,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -6956,19 +6835,6 @@
         ]
       },
       {
-        "id": "2ch-su",
-        "urls": [
-          "http://www.2ch.su/"
-        ],
-        "created": "2009-05-23",
-        "tagsIds": [
-          "dead",
-          "www",
-          "board",
-          "ru"
-        ]
-      },
-      {
         "id": "4otaku-ru",
         "urls": [
           "http://4otaku.ru/board"
@@ -7046,7 +6912,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -7086,7 +6951,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -7247,7 +7111,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -7307,7 +7170,6 @@
           "dead",
           "www",
           "foreign",
-          "cheap",
           "board",
           "ru",
           "uk"
@@ -7335,7 +7197,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -7404,7 +7265,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -7432,7 +7292,6 @@
         "tagsIds": [
           "ghost",
           "www",
-          "cheap",
           "blog",
           "ru"
         ]
@@ -7707,7 +7566,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -7776,7 +7634,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -7857,10 +7714,8 @@
           "https://1chan.moy.su/"
         ],
         "tagsIds": [
-          "move",
-          "live",
+          "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -7871,10 +7726,8 @@
           "https://1chan.ucoz.pl/"
         ],
         "tagsIds": [
-          "move",
-          "live",
+          "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -7885,10 +7738,8 @@
           "https://kolch.ucoz.org/"
         ],
         "tagsIds": [
-          "move",
-          "live",
+          "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -7901,7 +7752,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "cheap",
           "board",
           "ru"
         ]
@@ -8120,42 +7970,8 @@
         "description": "Доступно в сети I2P"
       },
       {
-        "id": "access",
-        "description": "Виды доступа к сайту"
-      },
-      {
-        "id": "limited",
-        "parentId": "access",
-        "description": "Ограничено владельцем"
-      },
-      {
         "id": "community",
         "description": "Принадлежность к сообществам"
-      },
-      {
-        "id": "iich",
-        "parentId": "community",
-        "description": "iichan.ru и связанные сайты"
-      },
-      {
-        "id": "ex0ch",
-        "parentId": "community",
-        "description": "Пост-0chan.ru и связанные сайты"
-      },
-      {
-        "id": "ex1ch",
-        "parentId": "community",
-        "description": "Пост-1chan.ru и связанные сайты"
-      },
-      {
-        "id": "ex2ch",
-        "parentId": "community",
-        "description": "Пост-2ch.ru и связанные сайты"
-      },
-      {
-        "id": "exapach",
-        "parentId": "community",
-        "description": "Пост-apachan.net и связанные сайты"
       },
       {
         "id": "foreign",
