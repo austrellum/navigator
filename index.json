@@ -1,22 +1,19 @@
 {
   "meta": {
-    "version": "1.25.0-n35",
+    "version": "1.26.0-n36",
     "created": "2022-06-06",
-    "updated": "2025-09-01",
+    "updated": "2025-10-01",
     "source": "https://github.com/austrellum/navigator"
   },
   "data": {
     "sites": [
       {
-        "id": "lilchan-org",
+        "id": "lilchan-ru",
         "urls": [
-          "https://lilchan.org/",
-          "https://lilchan.ru/",
-          "https://lilchan.cc/"
+          "https://lilchan.ru/"
         ],
         "created": "2025-08-01",
         "tagsIds": [
-          "new",
           "live",
           "www",
           "board",
@@ -64,13 +61,28 @@
         ]
       },
       {
+        "id": "ranon-ru",
+        "urls": [
+          "https://ranon.ru/"
+        ],
+        "created": "2025-07-09",
+        "tagsIds": [
+          "new",
+          "live",
+          "www",
+          "obscure",
+          "chat",
+          "ru"
+        ]
+      },
+      {
         "id": "aoba-me",
         "urls": [
           "https://aoba.me/"
         ],
         "created": "2025-06-06",
         "tagsIds": [
-          "stub",
+          "live",
           "www",
           "board",
           "ru"
@@ -343,7 +355,6 @@
         "tagsIds": [
           "stub",
           "www",
-          "mods",
           "board",
           "ru"
         ]
@@ -482,21 +493,6 @@
         ]
       },
       {
-        "id": "o1ch-one-connect-ru",
-        "urls": [
-          "https://o1ch.one-connect.ru/"
-        ],
-        "created": "2024-12-15",
-        "tagsIds": [
-          "move",
-          "ghost",
-          "www",
-          "obscure",
-          "board",
-          "ru"
-        ]
-      },
-      {
         "id": "wkki2ufbs7lbd7li3bpomaiwdqu67dblfg3auoldksaqrgrlcz252lqd-onion",
         "urls": [
           "http://wkki2ufbs7lbd7li3bpomaiwdqu67dblfg3auoldksaqrgrlcz252lqd.onion/",
@@ -507,6 +503,20 @@
           "dead",
           "tor",
           "i2p",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "o1ch-one-connect-ru",
+        "urls": [
+          "https://o1ch.one-connect.ru/"
+        ],
+        "created": "2024-12-15",
+        "tagsIds": [
+          "dead",
+          "www",
+          "obscure",
           "board",
           "ru"
         ]
@@ -738,7 +748,6 @@
         "tagsIds": [
           "live",
           "www",
-          "mods",
           "board",
           "ru"
         ]
@@ -770,7 +779,6 @@
           "live",
           "www",
           "tor",
-          "mods",
           "board",
           "ru"
         ]
@@ -974,7 +982,6 @@
         "tagsIds": [
           "unlisted",
           "www",
-          "mods",
           "board",
           "ru"
         ]
@@ -1485,7 +1492,6 @@
         "tagsIds": [
           "live",
           "www",
-          "mods",
           "archive",
           "board",
           "ru"
@@ -1531,7 +1537,6 @@
           "dead",
           "www",
           "tor",
-          "mods",
           "board",
           "ru"
         ]
@@ -1545,7 +1550,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "mods",
           "board",
           "ru"
         ]
@@ -1615,8 +1619,7 @@
         ],
         "created": "2022-11-20",
         "tagsIds": [
-          "move",
-          "ghost",
+          "dead",
           "www",
           "blog",
           "ru"
@@ -1766,6 +1769,7 @@
         ],
         "created": "2022-06-01",
         "tagsIds": [
+          "move",
           "live",
           "www",
           "wiki",
@@ -2517,7 +2521,6 @@
           "www",
           "tor",
           "i2p",
-          "mods",
           "board",
           "ru"
         ]
@@ -3984,7 +3987,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "mods",
           "board",
           "ru"
         ]
@@ -4354,7 +4356,6 @@
         "tagsIds": [
           "live",
           "www",
-          "mods",
           "board",
           "ru"
         ]
@@ -5094,7 +5095,6 @@
         "tagsIds": [
           "live",
           "www",
-          "mods",
           "board",
           "ru"
         ]
@@ -5162,7 +5162,6 @@
         "tagsIds": [
           "live",
           "www",
-          "mods",
           "board",
           "ru"
         ]
@@ -5418,7 +5417,6 @@
         "tagsIds": [
           "live",
           "www",
-          "mods",
           "board",
           "ru"
         ]
@@ -5555,7 +5553,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "mods",
           "board",
           "ru"
         ]
@@ -5942,7 +5939,6 @@
         "tagsIds": [
           "live",
           "www",
-          "mods",
           "board",
           "ru"
         ]
@@ -6154,7 +6150,6 @@
         "tagsIds": [
           "live",
           "www",
-          "mods",
           "board",
           "ru"
         ]
@@ -7441,7 +7436,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "mods",
           "board",
           "ru"
         ]
@@ -7495,7 +7489,6 @@
         "tagsIds": [
           "dead",
           "www",
-          "mods",
           "board",
           "ru"
         ]
@@ -7606,7 +7599,6 @@
         "tagsIds": [
           "live",
           "www",
-          "mods",
           "board",
           "index",
           "ru"
@@ -7931,11 +7923,6 @@
         "description": "Отмирающие"
       },
       {
-        "id": "readonly",
-        "parentId": "cycle",
-        "description": "Только чтение"
-      },
-      {
         "id": "stub",
         "parentId": "cycle",
         "description": "Заглушки"
@@ -7981,11 +7968,6 @@
       {
         "id": "quality",
         "description": "Качество содержимого"
-      },
-      {
-        "id": "cheap",
-        "parentId": "quality",
-        "description": "Бесплатная или базовая инфраструктура для сайта"
       },
       {
         "id": "obscure",
@@ -8051,11 +8033,6 @@
         "description": "Используемые языки"
       },
       {
-        "id": "ar",
-        "parentId": "locale",
-        "description": "Арабский язык"
-      },
-      {
         "id": "de",
         "parentId": "locale",
         "description": "Немецкий язык"
@@ -8076,16 +8053,6 @@
         "description": "Финский язык"
       },
       {
-        "id": "it",
-        "parentId": "locale",
-        "description": "Итальянский язык"
-      },
-      {
-        "id": "ja",
-        "parentId": "locale",
-        "description": "Японский язык"
-      },
-      {
         "id": "lt",
         "parentId": "locale",
         "description": "Литовский язык"
@@ -8101,19 +8068,9 @@
         "description": "Русский язык"
       },
       {
-        "id": "tr",
-        "parentId": "locale",
-        "description": "Турецкий язык"
-      },
-      {
         "id": "uk",
         "parentId": "locale",
         "description": "Украинский язык"
-      },
-      {
-        "id": "zh-hk",
-        "parentId": "locale",
-        "description": "Китайский язык (Китайский традиционный)"
       }
     ]
   }

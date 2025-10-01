@@ -1,12 +1,7 @@
 [
   {
-    "name": "lilchan.org",
-    "url": "https://lilchan.org/",
-    "mirrors": [
-      "https://lilchan.org/",
-      "https://lilchan.ru/",
-      "https://lilchan.cc/"
-    ],
+    "name": "lilchan.ru",
+    "url": "https://lilchan.ru/",
     "language": [
       "ru"
     ]
@@ -21,6 +16,20 @@
   {
     "name": "dobrochan.forum2x2.ru",
     "url": "https://dobrochan.forum2x2.ru/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "ranon.ru",
+    "url": "https://ranon.ru/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "aoba.me",
+    "url": "https://aoba.me/",
     "language": [
       "ru"
     ]
@@ -131,13 +140,6 @@
       "http://ritsuchan.i2p/",
       "http://ritsuch3huwzg56jdzz7de3fy7c2amxqvgi7v7e4g4cakftwzvyq.b32.i2p/"
     ],
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "o1ch.one-connect.ru",
-    "url": "https://o1ch.one-connect.ru/",
     "language": [
       "ru"
     ]
