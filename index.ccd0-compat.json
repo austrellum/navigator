@@ -1,5 +1,12 @@
 [
   {
+    "name": "zilsy.ru",
+    "url": "https://zilsy.ru/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "lilchan.ru",
     "url": "https://lilchan.ru/",
     "language": [
@@ -14,15 +21,15 @@
     ]
   },
   {
-    "name": "dobrochan.forum2x2.ru",
-    "url": "https://dobrochan.forum2x2.ru/",
+    "name": "ranon.ru",
+    "url": "https://ranon.ru/",
     "language": [
       "ru"
     ]
   },
   {
-    "name": "ranon.ru",
-    "url": "https://ranon.ru/",
+    "name": "dobrochan.forum2x2.ru",
+    "url": "https://dobrochan.forum2x2.ru/",
     "language": [
       "ru"
     ]
@@ -196,12 +203,14 @@
     ]
   },
   {
-    "name": "escapechan.online",
-    "url": "https://escapechan.online/",
+    "name": "escapechan.fun",
+    "url": "https://escapechan.fun/",
     "mirrors": [
+      "https://escapechan.fun/",
       "https://escapechan.online/",
       "https://escapechan.ru/",
       "https://escapechan.pro/",
+      "https://escapechan.plus/",
       "http://mk2dodftctwgnux6z7iafm5tcyj7xrv7aytlh25zka45m7svvb6olfyd.onion/"
     ],
     "language": [
@@ -672,12 +681,11 @@
     ]
   },
   {
-    "name": "2ch.hk",
-    "url": "https://2ch.hk/",
+    "name": "2ch.su",
+    "url": "https://2ch.su/",
     "mirrors": [
-      "https://2ch.hk/",
-      "https://2ch.life/",
-      "https://2ch.su/"
+      "https://2ch.su/",
+      "https://2ch.org/"
     ],
     "language": [
       "ru"

@@ -1,12 +1,40 @@
 {
   "meta": {
-    "version": "1.26.0-n36",
+    "version": "1.27.0-n37",
     "created": "2022-06-06",
-    "updated": "2025-10-01",
+    "updated": "2025-11-01",
     "source": "https://github.com/austrellum/navigator"
   },
   "data": {
     "sites": [
+      {
+        "id": "zilsy-ru",
+        "urls": [
+          "https://zilsy.ru/"
+        ],
+        "created": "2025-10-05",
+        "tagsIds": [
+          "new",
+          "live",
+          "www",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "10ch-ru",
+        "urls": [
+          "https://10ch.ru/"
+        ],
+        "created": "2025-09-20",
+        "tagsIds": [
+          "new",
+          "dead",
+          "www",
+          "board",
+          "ru"
+        ]
+      },
       {
         "id": "lilchan-ru",
         "urls": [
@@ -47,31 +75,30 @@
         ]
       },
       {
-        "id": "dobrochan-forum2x2-ru",
-        "urls": [
-          "https://dobrochan.forum2x2.ru/"
-        ],
-        "created": "2025-06-18",
-        "tagsIds": [
-          "ghost",
-          "www",
-          "obscure",
-          "board",
-          "ru"
-        ]
-      },
-      {
         "id": "ranon-ru",
         "urls": [
           "https://ranon.ru/"
         ],
         "created": "2025-07-09",
         "tagsIds": [
-          "new",
           "live",
           "www",
           "obscure",
           "chat",
+          "ru"
+        ]
+      },
+      {
+        "id": "dobrochan-forum2x2-ru",
+        "urls": [
+          "https://dobrochan.forum2x2.ru/"
+        ],
+        "created": "2025-06-18",
+        "tagsIds": [
+          "live",
+          "www",
+          "obscure",
+          "board",
           "ru"
         ]
       },
@@ -95,6 +122,7 @@
         ],
         "created": "2025-05-15",
         "tagsIds": [
+          "move",
           "live",
           "www",
           "wiki",
@@ -541,6 +569,7 @@
         ],
         "created": "2024-11-01",
         "tagsIds": [
+          "move",
           "live",
           "www",
           "board",
@@ -767,15 +796,18 @@
         ]
       },
       {
-        "id": "escapechan-online",
+        "id": "escapechan-fun",
         "urls": [
+          "https://escapechan.fun/",
           "https://escapechan.online/",
           "https://escapechan.ru/",
           "https://escapechan.pro/",
+          "https://escapechan.plus/",
           "http://mk2dodftctwgnux6z7iafm5tcyj7xrv7aytlh25zka45m7svvb6olfyd.onion/"
         ],
         "created": "2024-06-23",
         "tagsIds": [
+          "move",
           "live",
           "www",
           "tor",
@@ -1393,7 +1425,7 @@
         ],
         "created": "2023-03-06",
         "tagsIds": [
-          "ghost",
+          "live",
           "www",
           "obscure",
           "board",
@@ -1741,7 +1773,7 @@
           "ru"
         ],
         "tagsIds": [
-          "ghost",
+          "live",
           "tor",
           "i2p",
           "foreign",
@@ -1769,8 +1801,7 @@
         ],
         "created": "2022-06-01",
         "tagsIds": [
-          "move",
-          "live",
+          "dead",
           "www",
           "wiki",
           "ru"
@@ -2107,7 +2138,7 @@
         ],
         "created": "2020-08-09",
         "tagsIds": [
-          "ghost",
+          "live",
           "www",
           "foreign",
           "board",
@@ -2289,7 +2320,7 @@
         ],
         "created": "2020-03-25",
         "tagsIds": [
-          "ghost",
+          "live",
           "www",
           "board",
           "ru"
@@ -2391,7 +2422,7 @@
         ],
         "created": "2019-05-12",
         "tagsIds": [
-          "ghost",
+          "live",
           "www",
           "gallery",
           "ru"
@@ -2532,7 +2563,7 @@
         ],
         "created": "2018-08-15",
         "tagsIds": [
-          "ghost",
+          "live",
           "www",
           "board",
           "ru"
@@ -2881,7 +2912,7 @@
         ],
         "created": "2017-04-24",
         "tagsIds": [
-          "ghost",
+          "live",
           "www",
           "blog",
           "ru"
@@ -2894,7 +2925,7 @@
         ],
         "created": "2017-04-18",
         "tagsIds": [
-          "ghost",
+          "live",
           "www",
           "board",
           "ru"
@@ -2920,7 +2951,7 @@
         ],
         "created": "2017-02-02",
         "tagsIds": [
-          "ghost",
+          "live",
           "www",
           "board",
           "ru"
@@ -3065,7 +3096,7 @@
         ],
         "created": "2016-06-13",
         "tagsIds": [
-          "ghost",
+          "live",
           "www",
           "obscure",
           "board",
@@ -3119,7 +3150,7 @@
         ],
         "created": "2016-04-22",
         "tagsIds": [
-          "ghost",
+          "live",
           "www",
           "wiki",
           "ru"
@@ -3446,7 +3477,7 @@
         ],
         "created": "2015-02-27",
         "tagsIds": [
-          "ghost",
+          "live",
           "www",
           "index",
           "ru"
@@ -3735,7 +3766,7 @@
         ],
         "created": "2014-07-15",
         "tagsIds": [
-          "ghost",
+          "live",
           "www",
           "obscure",
           "board",
@@ -4406,7 +4437,7 @@
         ],
         "created": "2013-04-01",
         "tagsIds": [
-          "ghost",
+          "live",
           "www",
           "board",
           "ru"
@@ -4596,20 +4627,6 @@
           "dead",
           "www",
           "board",
-          "ru"
-        ]
-      },
-      {
-        "id": "10ch-ru",
-        "urls": [
-          "http://10ch.ru/"
-        ],
-        "created": "2013-02-05",
-        "tagsIds": [
-          "dead",
-          "www",
-          "board",
-          "index",
           "ru"
         ]
       },
@@ -5441,7 +5458,7 @@
         ],
         "created": "2011-11-01",
         "tagsIds": [
-          "ghost",
+          "live",
           "www",
           "blog",
           "ru"
@@ -5929,11 +5946,10 @@
         ]
       },
       {
-        "id": "2ch-hk",
+        "id": "2ch-su",
         "urls": [
-          "https://2ch.hk/",
-          "https://2ch.life/",
-          "https://2ch.su/"
+          "https://2ch.su/",
+          "https://2ch.org/"
         ],
         "created": "2010-11-30",
         "tagsIds": [
@@ -6056,7 +6072,7 @@
         ],
         "created": "2010-09-13",
         "tagsIds": [
-          "ghost",
+          "live",
           "www",
           "blog",
           "ru"
@@ -6240,7 +6256,7 @@
         ],
         "created": "2010-05-08",
         "tagsIds": [
-          "ghost",
+          "live",
           "www",
           "blog",
           "ru"
@@ -6454,7 +6470,7 @@
         ],
         "created": "2010",
         "tagsIds": [
-          "ghost",
+          "live",
           "www",
           "gallery",
           "ru"
@@ -6598,7 +6614,7 @@
           "ru"
         ],
         "tagsIds": [
-          "ghost",
+          "live",
           "www",
           "foreign",
           "board",
@@ -7271,7 +7287,7 @@
         ],
         "created": "2008-08-04",
         "tagsIds": [
-          "ghost",
+          "live",
           "www",
           "blog",
           "index",
@@ -7285,7 +7301,7 @@
         ],
         "created": "2008-08-03",
         "tagsIds": [
-          "ghost",
+          "live",
           "www",
           "blog",
           "ru"
@@ -7340,7 +7356,7 @@
         ],
         "created": "2008-05-28",
         "tagsIds": [
-          "ghost",
+          "live",
           "www",
           "index",
           "wiki",
@@ -7407,7 +7423,7 @@
         ],
         "created": "2008-03-02",
         "tagsIds": [
-          "ghost",
+          "live",
           "www",
           "board",
           "index",
@@ -7832,7 +7848,7 @@
           "rus"
         ],
         "tagsIds": [
-          "ghost",
+          "live",
           "tor",
           "i2p",
           "foreign",
@@ -7973,11 +7989,6 @@
         "id": "obscure",
         "parentId": "quality",
         "description": "Нестандартная концепция использования"
-      },
-      {
-        "id": "mods",
-        "parentId": "quality",
-        "description": "Злоупотребление модераторскими полномочиями"
       },
       {
         "id": "service",

@@ -21,7 +21,6 @@
   - [Источники](#источники)
     - [Русскоязычные](#русскоязычные)
     - [Международные](#международные)
-  - [Обратная связь](#обратная-связь)
   - [Отказ от ответственности](#отказ-от-ответственности)
   - [См. также](#см-также)
 
@@ -191,36 +190,6 @@
 
 Теги, определяющие принадлежность сайта к широко известным и характерным сообществам.
 
-#### #community:iich
-
-iichan.ru и связанные сайты.
-
-См. [Ычан (Колчевики)](https://wiki.1chan.ca/%D0%AB%D1%87%D0%B0%D0%BD).
-
-#### #community:ex0ch
-
-Пост-0chan.ru и связанные сайты.
-
-См. [Нульчан (Колчевики)](https://wiki.1chan.ca/%D0%9D%D1%83%D0%BB%D1%8C%D1%87%D0%B0%D0%BD).
-
-#### #community:ex1ch
-
-Пост-1chan.ru и связанные сайты.
-
-См. [Одинчан (Колчевики)](https://wiki.1chan.ca/%D0%9E%D0%B4%D0%B8%D0%BD%D1%87%D0%B0%D0%BD).
-
-#### #community:ex2ch
-
-Пост-2ch.ru и связанные сайты.
-
-См. [Двач (Колчевики)](https://wiki.1chan.ca/%D0%94%D0%B2%D0%B0%D1%87).
-
-#### #community:exapach
-
-Пост-apachan.net и связанные сайты.
-
-См. [Апачан (Колчевики)](https://wiki.1chan.ca/%D0%90%D0%BF%D0%B0%D1%87%D0%B0%D0%BD)
-
 #### #community:foreign
 
 Зарубежный сайт с русскоязычным содержимым.
@@ -232,10 +201,6 @@ iichan.ru и связанные сайты.
 #### #quality:obscure
 
 Нестандартная концепция использования. Обычно выражается в не-классическом интерфейсе и способах взаимодействия с ним.
-
-#### #quality:mods
-
-Злоупотребление модераторскими полномочиями.
 
 #### #service
 
@@ -349,12 +314,6 @@ iichan.ru и связанные сайты.
   - [github.com/ccd0/imageboards.json](https://github.com/ccd0/imageboards.json) — 2022-04-13
   - [gitgud.io/iblist/imageboards.json](https://gitgud.io/iblist/imageboards.json) — 2022-01-01
   - [gitgud.io/iblist/textboards.json](https://gitgud.io/iblist/textboards.json) — 2022-01-01
-
-## Обратная связь
-
-  - [Тред на Ноунейм Параше (wc.12hp.ch)](https://wc.12hp.ch/wc/res/4130.html)
-  - [Форма обратной связи (tally.so)](https://tally.so/r/mO5NJM)
-  - [GitHub Issues](https://github.com/austrellum/navigator/issues)
 
 ## Отказ от ответственности
 
