@@ -1,11 +1,12 @@
 НАВИГАТОР БОРДОСФЕРЫ
 
-Редакция от 1 ноября 2025 (v1.27.0-n37)
-Всего 574, доступно 126
+Редакция от 1 декабря 2025 (v1.28.0-n38)
+Всего 575, доступно 126
 
 Живые (113)
 
-— [+++] https://zilsy.ru/ 2025
+— https://zilsy.ru/ 2025
+— [+++] https://brokensouls.wiki/ 2025 #wiki
 — https://lilchan.ru/ 2025
 — https://hikkychan.cc/ 2025
 — https://ranon.ru/ 2025 #obscure #chat
@@ -38,7 +39,6 @@
 — http://ritsuchbxdjeuhcj5mp4e3mfndlzzhiceaq7mcwmokesxde5p22gviyd.onion/ 2025
   — http://ritsuchan.i2p/
   — http://ritsuch3huwzg56jdzz7de3fy7c2amxqvgi7v7e4g4cakftwzvyq.b32.i2p/
-— https://waka.ba/ 2024
 — http://xchan.i2p/ 2024
   — http://ntnvj3lavzql7ko5332fd5r7s4vryhkmka6rprrhh437qsi5sh3a.b32.i2p/
 — http://ckkpss.i2p/ 2024 #obscure #chat
@@ -50,11 +50,13 @@
   — https://ejchan.cc/
   — https://ejchan.co/
   — https://ejchan.info/
-— https://escapechan.fun/ 2024
+— https://escapechain.ru/ 2024
+  — https://escapechain.xyz/
+  — https://escapechan.fun/
   — https://escapechan.online/
-  — https://escapechan.ru/
-  — https://escapechan.pro/
   — https://escapechan.plus/
+  — https://escapechan.pro/
+  — https://escapechan.ru/
   — http://mk2dodftctwgnux6z7iafm5tcyj7xrv7aytlh25zka45m7svvb6olfyd.onion/
 — https://board.clf3.in/ 2024 #archive
 — https://kuklobunt.org/ 2024 #blog
@@ -168,6 +170,8 @@
   — http://arhivachqqqvwqcotafhk4ks2he56seuwcshpayrm5myeq45vlff44yd.onion/
 — https://2ch.su/ 2010
   — https://2ch.org/
+  — https://2ch.life/
+  — https://2ch.hk/
 — https://tinuviall.livejournal.com/ 2010 #blog
 — https://horochan.ru/ 2010
 — http://zadraw.ch/ 2010
@@ -241,9 +245,9 @@
 — https://brchan.org/ #foreign
   — http://brchanansdnhvvnm.onion/
 
-Мертвые (441)
+Мертвые (442)
 
-— [+++] https://10ch.ru/ 2025
+— https://10ch.ru/ 2025
 — https://foxchan.mooo.com/ 2025
 — https://ere.ct.ws/ 2025
 — https://chan.today/ 2025
@@ -268,6 +272,7 @@
   — http://qyj4vv3bg47ip2y5chludl24cba2mooqtaxzh75aweznsiyx64mq.b32.i2p/
 — https://o1ch.one-connect.ru/ 2024 #obscure
 — http://buzzboard.veliona.no/ 2024
+— https://waka.ba/ 2024
 — https://nerealchan1.xyz/ 2024
 — http://ya4f65sgciiylr7yg2bvfc26mwdq2kpxjasczfvzu72d34a44lxtguqd.onion/ 2024
   — http://if4xm4xvudghhsw3b34ac26xsuc3mei4s4eykpl4gzslslujpopq.b32.i2p/

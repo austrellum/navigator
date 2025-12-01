@@ -152,13 +152,6 @@
     ]
   },
   {
-    "name": "waka.ba",
-    "url": "https://waka.ba/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
     "name": "xchan.i2p",
     "url": "http://xchan.i2p/",
     "mirrors": [
@@ -203,14 +196,16 @@
     ]
   },
   {
-    "name": "escapechan.fun",
-    "url": "https://escapechan.fun/",
+    "name": "escapechain.ru",
+    "url": "https://escapechain.ru/",
     "mirrors": [
+      "https://escapechain.ru/",
+      "https://escapechain.xyz/",
       "https://escapechan.fun/",
       "https://escapechan.online/",
-      "https://escapechan.ru/",
-      "https://escapechan.pro/",
       "https://escapechan.plus/",
+      "https://escapechan.pro/",
+      "https://escapechan.ru/",
       "http://mk2dodftctwgnux6z7iafm5tcyj7xrv7aytlh25zka45m7svvb6olfyd.onion/"
     ],
     "language": [
@@ -685,7 +680,9 @@
     "url": "https://2ch.su/",
     "mirrors": [
       "https://2ch.su/",
-      "https://2ch.org/"
+      "https://2ch.org/",
+      "https://2ch.life/",
+      "https://2ch.hk/"
     ],
     "language": [
       "ru"

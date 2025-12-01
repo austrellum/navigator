@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.27.0-n37",
+    "version": "1.28.0-n38",
     "created": "2022-06-06",
-    "updated": "2025-11-01",
+    "updated": "2025-12-01",
     "source": "https://github.com/austrellum/navigator"
   },
   "data": {
@@ -14,7 +14,7 @@
         ],
         "created": "2025-10-05",
         "tagsIds": [
-          "new",
+          "move",
           "live",
           "www",
           "board",
@@ -28,10 +28,23 @@
         ],
         "created": "2025-09-20",
         "tagsIds": [
-          "new",
           "dead",
           "www",
           "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "brokensouls-wiki",
+        "urls": [
+          "https://brokensouls.wiki/"
+        ],
+        "created": "2025-08-16",
+        "tagsIds": [
+          "new",
+          "live",
+          "www",
+          "wiki",
           "ru"
         ]
       },
@@ -122,7 +135,6 @@
         ],
         "created": "2025-05-15",
         "tagsIds": [
-          "move",
           "live",
           "www",
           "wiki",
@@ -351,6 +363,7 @@
         ],
         "created": "2025-03-07",
         "tagsIds": [
+          "move",
           "live",
           "www",
           "tor",
@@ -569,8 +582,7 @@
         ],
         "created": "2024-11-01",
         "tagsIds": [
-          "move",
-          "live",
+          "dead",
           "www",
           "board",
           "ru"
@@ -796,18 +808,19 @@
         ]
       },
       {
-        "id": "escapechan-fun",
+        "id": "escapechain-ru",
         "urls": [
+          "https://escapechain.ru/",
+          "https://escapechain.xyz/",
           "https://escapechan.fun/",
           "https://escapechan.online/",
-          "https://escapechan.ru/",
-          "https://escapechan.pro/",
           "https://escapechan.plus/",
+          "https://escapechan.pro/",
+          "https://escapechan.ru/",
           "http://mk2dodftctwgnux6z7iafm5tcyj7xrv7aytlh25zka45m7svvb6olfyd.onion/"
         ],
         "created": "2024-06-23",
         "tagsIds": [
-          "move",
           "live",
           "www",
           "tor",
@@ -5110,6 +5123,7 @@
         ],
         "created": "2012-04-30",
         "tagsIds": [
+          "move",
           "live",
           "www",
           "board",
@@ -5949,7 +5963,9 @@
         "id": "2ch-su",
         "urls": [
           "https://2ch.su/",
-          "https://2ch.org/"
+          "https://2ch.org/",
+          "https://2ch.life/",
+          "https://2ch.hk/"
         ],
         "created": "2010-11-30",
         "tagsIds": [
@@ -7932,11 +7948,6 @@
         "id": "live",
         "parentId": "cycle",
         "description": "Живые"
-      },
-      {
-        "id": "ghost",
-        "parentId": "cycle",
-        "description": "Отмирающие"
       },
       {
         "id": "stub",

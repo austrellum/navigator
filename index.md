@@ -1,12 +1,13 @@
 # Навигатор бордосферы
 
-> Редакция от **1 ноября 2025** (v1.27.0-n37)
+> Редакция от **1 декабря 2025** (v1.28.0-n38)
 >
-> Всего **574**, доступно **126**
+> Всего **575**, доступно **126**
 
 ## Живые (113)
 
-  - 🆕 [zilsy.ru](https://zilsy.ru/) 2025
+  - [zilsy.ru](https://zilsy.ru/) 2025
+  - 🆕 [brokensouls.wiki](https://brokensouls.wiki/) 2025 #wiki
   - [lilchan.ru](https://lilchan.ru/) 2025
   - [hikkychan.cc](https://hikkychan.cc/) 2025
   - [ranon.ru](https://ranon.ru/) 2025 #obscure #chat
@@ -39,7 +40,6 @@
   - [ritsuchbxdje…gviyd.onion](http://ritsuchbxdjeuhcj5mp4e3mfndlzzhiceaq7mcwmokesxde5p22gviyd.onion/) 2025
     - [.i2p](http://ritsuchan.i2p/)
     - [.b32.i2p](http://ritsuch3huwzg56jdzz7de3fy7c2amxqvgi7v7e4g4cakftwzvyq.b32.i2p/)
-  - [waka.ba](https://waka.ba/) 2024
   - [xchan.i2p](http://xchan.i2p/) 2024
     - [.b32.i2p](http://ntnvj3lavzql7ko5332fd5r7s4vryhkmka6rprrhh437qsi5sh3a.b32.i2p/)
   - [ckkpss.i2p](http://ckkpss.i2p/) 2024 #obscure #chat
@@ -51,11 +51,13 @@
     - [.cc](https://ejchan.cc/)
     - [.co](https://ejchan.co/)
     - [.info](https://ejchan.info/)
-  - [escapechan.fun](https://escapechan.fun/) 2024
+  - [escapechain.ru](https://escapechain.ru/) 2024
+    - [.xyz](https://escapechain.xyz/)
+    - [.fun](https://escapechan.fun/)
     - [.online](https://escapechan.online/)
-    - [.ru](https://escapechan.ru/)
-    - [.pro](https://escapechan.pro/)
     - [.plus](https://escapechan.plus/)
+    - [.pro](https://escapechan.pro/)
+    - [.ru](https://escapechan.ru/)
     - [.onion](http://mk2dodftctwgnux6z7iafm5tcyj7xrv7aytlh25zka45m7svvb6olfyd.onion/)
   - [board.clf3.in](https://board.clf3.in/) 2024 #archive
   - [kuklobunt.org](https://kuklobunt.org/) 2024 #blog
@@ -169,6 +171,8 @@
     - [.onion](http://arhivachqqqvwqcotafhk4ks2he56seuwcshpayrm5myeq45vlff44yd.onion/)
   - [2ch.su](https://2ch.su/) 2010
     - [.org](https://2ch.org/)
+    - [.life](https://2ch.life/)
+    - [.hk](https://2ch.hk/)
   - [tinuviall.li…journal.com](https://tinuviall.livejournal.com/) 2010 #blog
   - [horochan.ru](https://horochan.ru/) 2010
   - [zadraw.ch](http://zadraw.ch/) 2010
@@ -242,9 +246,9 @@
   - [brchan.org](https://brchan.org/) #foreign
     - [.onion (v2)](http://brchanansdnhvvnm.onion/)
 
-## Мертвые (441)
+## Мертвые (442)
 
-  - 🆕 [10ch.ru](https://10ch.ru/) 2025
+  - [10ch.ru](https://10ch.ru/) 2025
   - [foxchan.mooo.com](https://foxchan.mooo.com/) 2025
   - [ere.ct.ws](https://ere.ct.ws/) 2025
   - [chan.today](https://chan.today/) 2025
@@ -269,6 +273,7 @@
     - [.b32.i2p](http://qyj4vv3bg47ip2y5chludl24cba2mooqtaxzh75aweznsiyx64mq.b32.i2p/)
   - [o1ch.one-connect.ru](https://o1ch.one-connect.ru/) 2024 #obscure
   - [buzzboard.veliona.no](http://buzzboard.veliona.no/) 2024
+  - [waka.ba](https://waka.ba/) 2024
   - [nerealchan1.xyz](https://nerealchan1.xyz/) 2024
   - [ya4f65sgciiy…tguqd.onion](http://ya4f65sgciiylr7yg2bvfc26mwdq2kpxjasczfvzu72d34a44lxtguqd.onion/) 2024
     - [.b32.i2p](http://if4xm4xvudghhsw3b34ac26xsuc3mei4s4eykpl4gzslslujpopq.b32.i2p/)
