@@ -1,12 +1,40 @@
 {
   "meta": {
-    "version": "1.28.0-n38",
+    "version": "1.28.0-n39",
     "created": "2022-06-06",
-    "updated": "2025-12-01",
+    "updated": "2026-01-01",
     "source": "https://github.com/austrellum/navigator"
   },
   "data": {
     "sites": [
+      {
+        "id": "tgach-top",
+        "urls": [
+          "https://tgach.top/"
+        ],
+        "created": "2025-12-28",
+        "tagsIds": [
+          "new",
+          "live",
+          "www",
+          "board",
+          "ru"
+        ]
+      },
+      {
+        "id": "rasochan-xyz",
+        "urls": [
+          "https://rasochan.xyz/"
+        ],
+        "created": "2025-12-01",
+        "tagsIds": [
+          "new",
+          "live",
+          "www",
+          "board",
+          "ru"
+        ]
+      },
       {
         "id": "zilsy-ru",
         "urls": [
@@ -14,8 +42,7 @@
         ],
         "created": "2025-10-05",
         "tagsIds": [
-          "move",
-          "live",
+          "dead",
           "www",
           "board",
           "ru"
@@ -41,7 +68,6 @@
         ],
         "created": "2025-08-16",
         "tagsIds": [
-          "new",
           "live",
           "www",
           "wiki",
@@ -326,9 +352,9 @@
         ]
       },
       {
-        "id": "web-decibel-by",
+        "id": "decibel-by",
         "urls": [
-          "https://web.decibel.by/"
+          "https://decibel.by/link"
         ],
         "created": "2025-03-15",
         "tagsIds": [
@@ -363,8 +389,7 @@
         ],
         "created": "2025-03-07",
         "tagsIds": [
-          "move",
-          "live",
+          "dead",
           "www",
           "tor",
           "i2p",
@@ -394,6 +419,7 @@
         ],
         "created": "2025-03-01",
         "tagsIds": [
+          "move",
           "stub",
           "www",
           "board",
@@ -1038,6 +1064,7 @@
         ],
         "created": "2024-02-04",
         "tagsIds": [
+          "move",
           "stub",
           "www",
           "board",
@@ -5123,8 +5150,7 @@
         ],
         "created": "2012-04-30",
         "tagsIds": [
-          "move",
-          "live",
+          "dead",
           "www",
           "board",
           "ru"
@@ -7372,6 +7398,7 @@
         ],
         "created": "2008-05-28",
         "tagsIds": [
+          "move",
           "live",
           "www",
           "index",

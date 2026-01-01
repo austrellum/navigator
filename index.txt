@@ -1,12 +1,13 @@
 НАВИГАТОР БОРДОСФЕРЫ
 
-Редакция от 1 декабря 2025 (v1.28.0-n38)
-Всего 575, доступно 126
+Редакция от 1 января 2026 (v1.28.0-n39)
+Всего 577, доступно 125
 
-Живые (113)
+Живые (112)
 
-— https://zilsy.ru/ 2025
-— [+++] https://brokensouls.wiki/ 2025 #wiki
+— [+++] https://tgach.top/ 2025
+— [+++] https://rasochan.xyz/ 2025
+— https://brokensouls.wiki/ 2025 #wiki
 — https://lilchan.ru/ 2025
 — https://hikkychan.cc/ 2025
 — https://ranon.ru/ 2025 #obscure #chat
@@ -28,12 +29,7 @@
   — http://chiitan5e7ejmvtqs37q6k57bxhncjvdzk2u6hv4mngy2zewhsi46kad.onion/
   — http://chii.i2p/
   — http://chii4f4rwugtroicml72gej4ytkkwum3bh26d2feoed5kunht7aa.b32.i2p/
-— https://web.decibel.by/ 2025
-— https://octoch.prtcl.icu/ 2025
-  — http://7kftpqo7vng3vv77q4civseva5deryibcspp7kgpraqatchtez3a6fyd.onion/
-  — http://0ctochan.i2p/
-  — http://octochan.i2p/
-  — http://k5ykjs4vczzsmiokqps4lvfi2voafjjv6lhqfbqeo5ndvl4fbxta.b32.i2p/
+— https://decibel.by/link 2025
 — http://texchan.i2p/ 2025
   — http://3ltsdikanxrdenpjitjt4hndmq77c2l2pxz2qrwurycprlwuaoiq.b32.i2p/
 — http://ritsuchbxdjeuhcj5mp4e3mfndlzzhiceaq7mcwmokesxde5p22gviyd.onion/ 2025
@@ -154,7 +150,6 @@
 — https://314n.org/ 2012 #obscure
   — https://314n.ru/
 — https://ponyach.com/ 2012
-— https://0-chan.ru/ 2012
 — https://alterchan.net/ 2012
   — https://alterchan.in/
 — https://hackwren.ch/ 2011
@@ -245,8 +240,9 @@
 — https://brchan.org/ #foreign
   — http://brchanansdnhvvnm.onion/
 
-Мертвые (442)
+Мертвые (445)
 
+— https://zilsy.ru/ 2025
 — https://10ch.ru/ 2025
 — https://foxchan.mooo.com/ 2025
 — https://ere.ct.ws/ 2025
@@ -256,6 +252,11 @@
 — https://phimos.fun/ 2025 #obscure
 — https://out.do.am/ 2025 #obscure
 — https://gb.do.am/ 2025 #obscure
+— https://octoch.prtcl.icu/ 2025
+  — http://7kftpqo7vng3vv77q4civseva5deryibcspp7kgpraqatchtez3a6fyd.onion/
+  — http://0ctochan.i2p/
+  — http://octochan.i2p/
+  — http://k5ykjs4vczzsmiokqps4lvfi2voafjjv6lhqfbqeo5ndvl4fbxta.b32.i2p/
 — https://unitas.do.am/ 2025 #obscure
 — https://pohui.net/ 2025
 — https://1chan.cyou/ 2025 #news
@@ -567,6 +568,7 @@
 — http://asylum.kodingen.com/ 2012
 — http://www.zerochan.in/ 2012
 — http://epicfailchan.ru/ 2012
+— https://0-chan.ru/ 2012
 — http://kokoko.ch/ 2012
   — http://кококо.рф/
 — http://rakach.ru/ 2012

@@ -1,5 +1,19 @@
 [
   {
+    "name": "tgach.top",
+    "url": "https://tgach.top/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "rasochan.xyz",
+    "url": "https://rasochan.xyz/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "zilsy.ru",
     "url": "https://zilsy.ru/",
     "language": [
@@ -178,8 +192,8 @@
     ]
   },
   {
-    "name": "web.decibel.by",
-    "url": "https://web.decibel.by/",
+    "name": "decibel.by/link",
+    "url": "https://decibel.by/link",
     "language": [
       "ru"
     ]

@@ -1,7 +1,14 @@
 [
   {
-    "name": "zilsy.ru",
-    "url": "https://zilsy.ru/",
+    "name": "tgach.top",
+    "url": "https://tgach.top/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "rasochan.xyz",
+    "url": "https://rasochan.xyz/",
     "language": [
       "ru"
     ]
@@ -108,22 +115,8 @@
     ]
   },
   {
-    "name": "web.decibel.by",
-    "url": "https://web.decibel.by/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "octoch.prtcl.icu",
-    "url": "https://octoch.prtcl.icu/",
-    "mirrors": [
-      "https://octoch.prtcl.icu/",
-      "http://7kftpqo7vng3vv77q4civseva5deryibcspp7kgpraqatchtez3a6fyd.onion/",
-      "http://0ctochan.i2p/",
-      "http://octochan.i2p/",
-      "http://k5ykjs4vczzsmiokqps4lvfi2voafjjv6lhqfbqeo5ndvl4fbxta.b32.i2p/"
-    ],
+    "name": "decibel.by/link",
+    "url": "https://decibel.by/link",
     "language": [
       "ru"
     ]
@@ -628,13 +621,6 @@
   {
     "name": "ponyach.com",
     "url": "https://ponyach.com/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "0-chan.ru",
-    "url": "https://0-chan.ru/",
     "language": [
       "ru"
     ]
