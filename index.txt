@@ -1,12 +1,14 @@
 НАВИГАТОР БОРДОСФЕРЫ
 
-Редакция от 1 января 2026 (v1.28.0-n39)
-Всего 577, доступно 125
+Редакция от 1 февраля 2026 (v1.28.0-n40)
+Всего 581, доступно 126
 
-Живые (112)
+Живые (115)
 
-— [+++] https://tgach.top/ 2025
-— [+++] https://rasochan.xyz/ 2025
+— [+++] http://b7lst2ri74fzirkq77xr6x2nfznx3kplf4to4ntxjzdg6w4xrshuvayd.onion/ 2026
+— [+++] https://tolkien.port0.org/chat 2026 #chat
+— https://tgach.top/ 2025
+— https://rasochan.xyz/ 2025
 — https://brokensouls.wiki/ 2025 #wiki
 — https://lilchan.ru/ 2025
 — https://hikkychan.cc/ 2025
@@ -29,7 +31,12 @@
   — http://chiitan5e7ejmvtqs37q6k57bxhncjvdzk2u6hv4mngy2zewhsi46kad.onion/
   — http://chii.i2p/
   — http://chii4f4rwugtroicml72gej4ytkkwum3bh26d2feoed5kunht7aa.b32.i2p/
-— https://decibel.by/link 2025
+— https://decibel.by/link 2025 #obscure
+— https://octoch.prtcl.icu/ 2025
+  — http://7kftpqo7vng3vv77q4civseva5deryibcspp7kgpraqatchtez3a6fyd.onion/
+  — http://0ctochan.i2p/
+  — http://octochan.i2p/
+  — http://k5ykjs4vczzsmiokqps4lvfi2voafjjv6lhqfbqeo5ndvl4fbxta.b32.i2p/
 — http://texchan.i2p/ 2025
   — http://3ltsdikanxrdenpjitjt4hndmq77c2l2pxz2qrwurycprlwuaoiq.b32.i2p/
 — http://ritsuchbxdjeuhcj5mp4e3mfndlzzhiceaq7mcwmokesxde5p22gviyd.onion/ 2025
@@ -240,8 +247,10 @@
 — https://brchan.org/ #foreign
   — http://brchanansdnhvvnm.onion/
 
-Мертвые (445)
+Мертвые (446)
 
+— [+++] https://infinitychan.xyz/ /rus 2026 #foreign
+— [+++] https://dosckach.ru/ 2026 #foreign
 — https://zilsy.ru/ 2025
 — https://10ch.ru/ 2025
 — https://foxchan.mooo.com/ 2025
@@ -252,11 +261,6 @@
 — https://phimos.fun/ 2025 #obscure
 — https://out.do.am/ 2025 #obscure
 — https://gb.do.am/ 2025 #obscure
-— https://octoch.prtcl.icu/ 2025
-  — http://7kftpqo7vng3vv77q4civseva5deryibcspp7kgpraqatchtez3a6fyd.onion/
-  — http://0ctochan.i2p/
-  — http://octochan.i2p/
-  — http://k5ykjs4vczzsmiokqps4lvfi2voafjjv6lhqfbqeo5ndvl4fbxta.b32.i2p/
 — https://unitas.do.am/ 2025 #obscure
 — https://pohui.net/ 2025
 — https://1chan.cyou/ 2025 #news

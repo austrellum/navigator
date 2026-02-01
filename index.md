@@ -1,13 +1,15 @@
 # Навигатор бордосферы
 
-> Редакция от **1 января 2026** (v1.28.0-n39)
+> Редакция от **1 февраля 2026** (v1.28.0-n40)
 >
-> Всего **577**, доступно **125**
+> Всего **581**, доступно **126**
 
-## Живые (112)
+## Живые (115)
 
-  - 🆕 [tgach.top](https://tgach.top/) 2025
-  - 🆕 [rasochan.xyz](https://rasochan.xyz/) 2025
+  - 🆕 [b7lst2ri74fz…uvayd.onion](http://b7lst2ri74fzirkq77xr6x2nfznx3kplf4to4ntxjzdg6w4xrshuvayd.onion/) 2026
+  - 🆕 [tolkien.port0.org/chat](https://tolkien.port0.org/chat) 2026 #chat
+  - [tgach.top](https://tgach.top/) 2025
+  - [rasochan.xyz](https://rasochan.xyz/) 2025
   - [brokensouls.wiki](https://brokensouls.wiki/) 2025 #wiki
   - [lilchan.ru](https://lilchan.ru/) 2025
   - [hikkychan.cc](https://hikkychan.cc/) 2025
@@ -30,7 +32,12 @@
     - [.onion](http://chiitan5e7ejmvtqs37q6k57bxhncjvdzk2u6hv4mngy2zewhsi46kad.onion/)
     - [.i2p](http://chii.i2p/)
     - [.b32.i2p](http://chii4f4rwugtroicml72gej4ytkkwum3bh26d2feoed5kunht7aa.b32.i2p/)
-  - [decibel.by/link](https://decibel.by/link) 2025
+  - [decibel.by/link](https://decibel.by/link) 2025 #obscure
+  - [octoch.prtcl.icu](https://octoch.prtcl.icu/) 2025
+    - [.onion](http://7kftpqo7vng3vv77q4civseva5deryibcspp7kgpraqatchtez3a6fyd.onion/)
+    - [.i2p](http://0ctochan.i2p/)
+    - [.i2p](http://octochan.i2p/)
+    - [.b32.i2p](http://k5ykjs4vczzsmiokqps4lvfi2voafjjv6lhqfbqeo5ndvl4fbxta.b32.i2p/)
   - [texchan.i2p](http://texchan.i2p/) 2025
     - [.b32.i2p](http://3ltsdikanxrdenpjitjt4hndmq77c2l2pxz2qrwurycprlwuaoiq.b32.i2p/)
   - [ritsuchbxdje…gviyd.onion](http://ritsuchbxdjeuhcj5mp4e3mfndlzzhiceaq7mcwmokesxde5p22gviyd.onion/) 2025
@@ -241,8 +248,10 @@
   - [brchan.org](https://brchan.org/) #foreign
     - [.onion (v2)](http://brchanansdnhvvnm.onion/)
 
-## Мертвые (445)
+## Мертвые (446)
 
+  - 🆕 [infinitychan.xyz](https://infinitychan.xyz/) [/rus](https://infinitychan.xyz/rus) 2026 #foreign
+  - 🆕 [dosckach.ru](https://dosckach.ru/) 2026 #foreign
   - [zilsy.ru](https://zilsy.ru/) 2025
   - [10ch.ru](https://10ch.ru/) 2025
   - [foxchan.mooo.com](https://foxchan.mooo.com/) 2025
@@ -253,11 +262,6 @@
   - [phimos.fun](https://phimos.fun/) 2025 #obscure
   - [out.do.am](https://out.do.am/) 2025 #obscure
   - [gb.do.am](https://gb.do.am/) 2025 #obscure
-  - [octoch.prtcl.icu](https://octoch.prtcl.icu/) 2025
-    - [.onion](http://7kftpqo7vng3vv77q4civseva5deryibcspp7kgpraqatchtez3a6fyd.onion/)
-    - [.i2p](http://0ctochan.i2p/)
-    - [.i2p](http://octochan.i2p/)
-    - [.b32.i2p](http://k5ykjs4vczzsmiokqps4lvfi2voafjjv6lhqfbqeo5ndvl4fbxta.b32.i2p/)
   - [unitas.do.am](https://unitas.do.am/) 2025 #obscure
   - [pohui.net](https://pohui.net/) 2025
   - [1chan.cyou](https://1chan.cyou/) 2025 #news

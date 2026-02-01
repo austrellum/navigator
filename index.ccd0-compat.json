@@ -1,5 +1,19 @@
 [
   {
+    "name": "b7lst2ri74fzirkq77xr6x2nfznx3kplf4to4ntxjzdg6w4xrshuvayd.onion",
+    "url": "http://b7lst2ri74fzirkq77xr6x2nfznx3kplf4to4ntxjzdg6w4xrshuvayd.onion/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "tolkien.port0.org/chat",
+    "url": "https://tolkien.port0.org/chat",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "tgach.top",
     "url": "https://tgach.top/",
     "language": [
@@ -117,6 +131,20 @@
   {
     "name": "decibel.by/link",
     "url": "https://decibel.by/link",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "octoch.prtcl.icu",
+    "url": "https://octoch.prtcl.icu/",
+    "mirrors": [
+      "https://octoch.prtcl.icu/",
+      "http://7kftpqo7vng3vv77q4civseva5deryibcspp7kgpraqatchtez3a6fyd.onion/",
+      "http://0ctochan.i2p/",
+      "http://octochan.i2p/",
+      "http://k5ykjs4vczzsmiokqps4lvfi2voafjjv6lhqfbqeo5ndvl4fbxta.b32.i2p/"
+    ],
     "language": [
       "ru"
     ]
